@@ -1,0 +1,55 @@
+{
+    "id": "8442",
+    "name": "Trappers and hunters",
+    "lead statement": "Trappers and hunters trap and hunt wild animals for pelts or live sale. They are usually self-employed and work on a seasonal basis.",
+    "example titles": [
+        "beaver trapper",
+        "fur trapper",
+        "game trapper",
+        "hunter",
+        "land-based seal hunter",
+        "land-based sealer",
+        "muskrat trapper",
+        "seal hunter – hunting and trapping",
+        "sealer",
+        "sealer – hunting and trapping",
+        "trapper"
+    ],
+    "main duties": [
+        "Set traps with bait and position traps along trails",
+        "Operate snowmobiles or travel on foot, snowshoes or skis to patrol trapline",
+        "Remove catch and reset traps and snares",
+        "Kill and skin catch for pelts, and treat and pack pelts for marketing",
+        "Trap live animals for sale to buyers or for relocation purposes",
+        "Maintain and repair trapping equipment",
+        "Maintain trails and access to trapping lines",
+        "Trap designated animals for bounty or other control programs",
+        "May monitor animal population in the trapping regions to ensure future sustainability.",
+        "Operate boats or snowmobiles or travel on foot to reach hunting areas",
+        "Pursue animals by observing and recognizing tracks, trails, animal droppings or broken foliage",
+        "Train dogs for hunting",
+        "Kill wild animals using firearms or other weapons",
+        "Skin dead animals for pelts using knives",
+        "Treat, pack and transport pelts to processing plants or to public auctions",
+        "Maintain hunting equipment",
+        "May monitor animal population in the hunting regions to ensure future sustainability.",
+        "Trappers and hunters may specialize in trapping or hunting a particular kind of animal."
+    ],
+    "employment requirements": [
+        "Completion of trapping or hunting courses may be required in some provinces.",
+        "A provincial trapping or hunting licence is required."
+    ],
+    "additional information": [
+        "In some jurisdictions, trappers may be allocated trapping areas based on their experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Animal control trappers or nuisance control trappers (in 7444 Pest controllers and fumigators",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7444&ver=16"
+        },
+        {
+            "name": "Hunting guides (in 6532 Outdoor sport and recreational guides",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6532&ver=16"
+        }
+    ]
+}

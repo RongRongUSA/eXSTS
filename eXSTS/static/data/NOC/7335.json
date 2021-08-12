@@ -1,0 +1,55 @@
+{
+    "id": "7335",
+    "name": "Other small engine and small equipment repairers",
+    "lead statement": "Workers in this unit group test, repair and service small gasoline and diesel-powered engines and equipment, such as garden tractors, lawn mowers and other related equipment. They are employed by dealer service shops and by independent service establishments.",
+    "example titles": [
+        "air-cooled engine mechanic",
+        "apprentice small engine mechanic",
+        "garden tractor repairer",
+        "gasoline-powered lawn mower mechanic",
+        "gasoline-powered lawn mower repairer",
+        "gasoline-powered snow blower repairer",
+        "gas-powered small equipment mechanic",
+        "lawn and garden equipment technician",
+        "outdoor power equipment technician",
+        "small engine and equipment mechanic",
+        "small engine mechanic",
+        "small engine repairer",
+        "small engine technician",
+        "small equipment mechanic apprentice",
+        "small equipment repairer"
+    ],
+    "main duties": [
+        "Review work orders and discuss work to be performed with supervisor",
+        "Inspect and test engines and other mechanical components using test devices to diagnose and isolate faults",
+        "Adjust, repair or replace mechanical or electrical system parts and components using hand tools and equipment",
+        "Test and adjust repaired equipment for proper performance",
+        "Perform scheduled maintenance service on equipment",
+        "Advise customers on work performed and general condition of equipment",
+        "Determine estimates of repair cost."
+    ],
+    "employment requirements": [
+        "Completion of secondary school and training courses or a vocational program is usually required.",
+        "Completion of a three- to four-year apprenticeship program in small engine or equipment repair \r\n or a combination of several years of work experience and high school or college courses in small engine or equipment repair are usually required for trade certification.",
+        "Small engine or equipment mechanic trade certification is available, but voluntary, in Newfoundland and Labrador, Prince Edward Island, New Brunswick, Ontario and Nunavut.",
+        "Inboard/outboard mechanic trade certification is available, but voluntary, in Ontario and British Columbia.",
+        "Outdoor power equipment technician trade certification, for specified types of equipment, is available, but voluntary, in Manitoba, Alberta, British Columbia, the Yukon, the Northwest Territories and Nunavut."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Appliance servicers and repairers (7332)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7332&ver=16"
+        },
+        {
+            "name": "Motorcycle, all-terrain vehicle and other related mechanics (7334)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7334&ver=16"
+        },
+        {
+            "name": "Supervisors of small engine and equipment mechanics (in 7301 Contractors and supervisors, mechanic trades",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7301&ver=16"
+        }
+    ]
+}

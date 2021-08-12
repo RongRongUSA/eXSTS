@@ -1,0 +1,71 @@
+{
+    "id": "0211",
+    "name": "Engineering managers",
+    "lead statement": "Engineering managers plan, organize, direct, control and evaluate the activities of an engineering department, service or firm. They are employed by a wide range of private sector and government establishments and by consulting engineering and scientific research companies.",
+    "example titles": [
+        "aerospace engineering service head",
+        "civil engineering division manager",
+        "electrical engineering service manager",
+        "engineering delivery chief",
+        "engineering department manager",
+        "engineering manager",
+        "engineering research and development director",
+        "engineering service group manager",
+        "engineering service manager",
+        "engineering service project manager",
+        "engineering service quality assurance director",
+        "engineering service quality assurance manager",
+        "engineering service quality control department director",
+        "engineering service quality control manager",
+        "engineering service quality system manager",
+        "engineering service safety service director",
+        "engineering service superintendent",
+        "industrial engineering department manager",
+        "mechanical engineering service manager",
+        "production engineering manager",
+        "telecommunications engineering service manager",
+        "traffic engineering service manager – telecommunications"
+    ],
+    "main duties": [
+        "Plan, organize, direct, control and evaluate the activities and operations of an engineering department, service or firm",
+        "Develop and implement policies, standards and procedures for the engineering and technical work performed in the department, service, laboratory or firm",
+        "Consult and negotiate with clients to prepare specifications, explain proposals and present engineering reports and findings",
+        "Assign, co-ordinate and review the technical work of the department or project teams",
+        "Recruit personnel and oversee development and maintenance of staff competence in required areas",
+        "May participate directly in the design, development and inspection of technical projects or in the engineering work of the department."
+    ],
+    "employment requirements": [
+        "A bachelor's degree in engineering is usually required.",
+        "Extensive experience in an engineering discipline, including supervisory experience, is required.",
+        "Registration as a Professional Engineer (P. Eng.) by a provincial or territorial association of professional engineers is usually required."
+    ],
+    "additional information": [
+        "Mobility to other technical managerial positions, or to research or senior management positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Architecture and science managers (0212)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0212&ver=16"
+        },
+        {
+            "name": "Computer and information systems managers (0213)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0213&ver=16"
+        },
+        {
+            "name": "Construction managers (0711)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0711&ver=16"
+        },
+        {
+            "name": "Managers in transportation (0731)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0731&ver=16"
+        },
+        {
+            "name": "Manufacturing managers (0911)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0911&ver=16"
+        },
+        {
+            "name": "Utilities managers (0912)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0912&ver=16"
+        }
+    ]
+}

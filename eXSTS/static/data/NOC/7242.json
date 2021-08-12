@@ -1,0 +1,69 @@
+{
+    "id": "7242",
+    "name": "Industrial electricians",
+    "lead statement": "Industrial electricians install, maintain, test, troubleshoot and repair industrial electrical equipment and associated electrical and electronic controls. They are employed by electrical contractors and maintenance departments of factories, plants, mines, shipyards and other industrial establishments.",
+    "example titles": [
+        "apprentice industrial electrician",
+        "apprentice marine electrician",
+        "diesel electrician – railway",
+        "electric signal repairer – railway",
+        "electrical repairer – crane maintenance",
+        "electrician – rail transport",
+        "industrial electrical repairer",
+        "industrial electrician",
+        "industrial electrician apprentice",
+        "industrial electrician lead hand",
+        "journeyman/woman industrial electrician",
+        "machine shop electrical repairer",
+        "maintenance electrician – industrial",
+        "marine electrician",
+        "marine equipment electrician",
+        "marine wireman/woman",
+        "mill electrician",
+        "mine electrician",
+        "plant electrician",
+        "plant maintenance electrician",
+        "railway signal installer",
+        "railway signal maintainer",
+        "rig electrician",
+        "ship's electrician",
+        "ship's electrician – shipbuilding and repair",
+        "ship's electrician – water transport",
+        "shipyard electrician"
+    ],
+    "main duties": [
+        "Read and interpret drawings, blueprints, schematics and electrical code specifications to determine layout of industrial electrical equipment installations",
+        "Install, examine, replace or repair electrical wiring, receptacles, switch boxes, conduits, feeders, fibre-optic and coaxial cable assemblies, lighting fixtures and other electrical components",
+        "Test electrical and electronic equipment and components for continuity, current, voltage and resistance",
+        "Maintain, repair, install and test switchgear, transformers, switchboard meters, regulators and reactors",
+        "Maintain, repair, test and install electrical motors, generators, alternators, industrial storage batteries and hydraulic and pneumatic electrical control systems",
+        "Troubleshoot, maintain and repair industrial, electrical and electronic control systems and other related devices",
+        "Conduct preventive maintenance programs and keep maintenance records",
+        "May install, maintain and calibrate industrial instrumentation and related devices."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a four- or five-year industrial electrician apprenticeship program \r\n or a combination of over five years of work experience in the trade and some high school, college or industry courses in industrial electrical equipment is usually required to be eligible for trade certification.",
+        "Trade certification for industrial electricians is compulsory in Prince Edward Island, Quebec and Manitoba and available, but voluntary, in Newfoundland and Labrador, Nova Scotia, New Brunswick, Ontario, British Columbia and the Yukon.",
+        "Additional construction electrician certification may be required for industrial electricians when the employers are not owners of the industrial electrical equipment.",
+        "Red Seal endorsement is also available to qualified industrial electricians upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Construction electricians (in 7241 Electricians (except industrial and power system)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7241&ver=16"
+        },
+        {
+            "name": "Power system electricians (7243)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7243&ver=16"
+        },
+        {
+            "name": "Supervisors of industrial electricians (in 7202 Contractors and supervisors, electrical trades and telecommunications occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7202&ver=16"
+        }
+    ]
+}

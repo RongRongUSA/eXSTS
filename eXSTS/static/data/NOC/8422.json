@@ -1,0 +1,87 @@
+{
+    "id": "8422",
+    "name": "Silviculture and forestry workers",
+    "lead statement": "Silviculture and forestry workers perform a variety of duties related to reforestation and to the management, improvement and conservation of forest lands. They are employed by logging companies, contractors and government services.",
+    "example titles": [
+        "brush cutter – forestry",
+        "clearing saw operator – forestry",
+        "fire crewman/woman – forestry",
+        "fire lookout",
+        "fire suppression crewman/woman – forestry",
+        "forest firefighter",
+        "forestry conservation worker",
+        "forestry crew worker",
+        "forestry crewman/woman",
+        "forestry worker",
+        "forestry worker – logging",
+        "lookout – forestry",
+        "pieceworker – silviculture",
+        "precommercial tree thinner",
+        "scarification equipment operator",
+        "scarification equipment operator – forestry",
+        "scarifier operator – silviculture",
+        "seed cone collector",
+        "seed cone picker",
+        "silviculture worker",
+        "spacing saw operator",
+        "spacing saw operator – forestry",
+        "thinning saw operator",
+        "thinning saw operator – forestry",
+        "tree pruner – forestry",
+        "tree spacer – forestry"
+    ],
+    "main duties": [
+        "Assess site, select seedlings and plant trees using manual planting tools in reforestation areas",
+        "Operate power thinning saw to thin and space trees in reforestation areas",
+        "Operate chain saw to thin young forest stands",
+        "Control weeds and undergrowth in regenerating forest stands using manual tools and chemicals",
+        "Complete firefighting reports and maintain firefighting equipment",
+        "Dig trenches, cut trees, pump water on burning areas to fight forest fires under direction of fire suppression officer or forestry technician",
+        "Operate and maintain a skidder, bulldozer or other prime mover to pull a variety of scarification or site preparation equipment over areas to be regenerated",
+        "Perform other silviculture duties such as collecting seed cones, pruning trees, assisting in planting surveys and marking trees for subsequent operations."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Completion of a college or other specialized program for silviculture workers or forestry crew workers may be required.",
+        "Formal training in power saw operation and maintenance and several months of on-the-job training are usually provided.",
+        "Experience as a logging and forestry labourer may be required.",
+        "A chemicals application licence is required.",
+        "Workplace hazardous materials information system (WHMIS) and transportation of dangerous goods (TDG) certificates may be required.",
+        "A silvicultural worker's licence may be required."
+    ],
+    "additional information": [
+        "There is some mobility among jobs in this unit group.",
+        "Progression to supervisory positions is possible with experience.",
+        "Progression to forestry technician or technologist is possible with additional education and training."
+    ],
+    "exclusions": [
+        {
+            "name": "Arborists (in 2225 Landscape and horticulture technicians and specialists",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2225&ver=16"
+        },
+        {
+            "name": "Chain saw and skidder operators (8421)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8421&ver=16"
+        },
+        {
+            "name": "Forest nursery workers (in 8432 Nursery and greenhouse workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8432&ver=16"
+        },
+        {
+            "name": "Forestry professionals (2122)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2122&ver=16"
+        },
+        {
+            "name": "Forestry technologists and technicians (2223)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2223&ver=16"
+        },
+        {
+            "name": "Logging and forestry labourers (8616)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8616&ver=16"
+        },
+        {
+            "name": "Supervisors, logging and forestry (8211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8211&ver=16"
+        }
+    ]
+}

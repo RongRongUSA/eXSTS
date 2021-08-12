@@ -1,0 +1,97 @@
+{
+    "id": "7522",
+    "name": "Public works maintenance equipment operators and related workers",
+    "lead statement": "This unit group includes workers who operate vehicles and equipment to maintain streets, highways and sewer systems and operate trucks to collect garbage and recyclable materials. This group also includes workers who clear vegetation close to power lines, workers who inspect the condition of utility poles and workers who locate underground utility lines and pipes. They are employed by municipal, provincial and federal public works departments, private contractors under contract with government public works departments and private companies involved in the collection of refuse and recyclable materials.",
+    "example titles": [
+        "collection truck driver – public works",
+        "drain roto servicer – public works",
+        "electrical forester",
+        "equipment operator – municipal public work",
+        "garbage collector – driver",
+        "garbage truck driver",
+        "garbage truck driver – public works",
+        "highway snow removal equipment operator",
+        "highway snowplow operator",
+        "maintenance equipment operator – public works",
+        "mechanical sweeper operator – public works",
+        "municipal maintenance equipment operator",
+        "municipal servicer drain roto",
+        "power pole inspector",
+        "power sweeper operator – public works",
+        "public works maintenance equipment operator",
+        "recycling truck driver",
+        "recycling truck driver – public works",
+        "refuse truck driver – public works",
+        "road snowplow operator – public works",
+        "salt truck operator",
+        "salt truck operator – public works",
+        "sand spreader operator",
+        "sand spreader operator – public works",
+        "sanding truck operator – public works",
+        "sanitation truck driver",
+        "sewer flusher operator-driver – public works",
+        "sewer jet cleaner operator – public works",
+        "sewer jet machine operator – public works",
+        "sewer-flushing truck operator",
+        "sewer-flushing truck operator – public works",
+        "sewer-pipe-cleaning machine operator – public works",
+        "snow removal equipment operator – public works",
+        "sprinkling truck driver – public works",
+        "street flusher operator",
+        "street flusher operator – public works",
+        "street sprinkler operator – public works",
+        "street sweeper operator",
+        "street sweeper operator – public works",
+        "urban snow removal equipment operator – public works",
+        "utility arborist",
+        "utility forester",
+        "utility locator",
+        "utility pole inspector",
+        "utility pole tester",
+        "utility tree trimmer",
+        "utility tree worker"
+    ],
+    "main duties": [
+        "Operate garbage trucks to remove garbage and other refuse and dump loads at designated sites",
+        "Operate street cleaning equipment such as street sweepers or other vehicles equipped with rotating brushes to remove sand, litter and trash",
+        "Operate snowplows or trucks fitted with plow blades to remove snow from streets, highways, parking lots and similar areas",
+        "Operate sewer maintenance equipment such as rodders and sewer jet cleaners to maintain and repair sewer systems",
+        "Operate trucks equipped with apparatuses for spreading sand, salt or abrasives on roadways",
+        "Operate chainsaws and other clearing equipment to fell trees and cut back vegetation close to power lines",
+        "Operate equipment and hand tools to inspect and test utility poles for decay and deterioration",
+        "Operate equipment and instruments to locate underground utility lines and pipes",
+        "Check, lubricate, refuel and clean equipment and report any malfunctions to supervisor."
+    ],
+    "employment requirements": [
+        "Some secondary school may be required.",
+        "Experience as a public works labourer is usually required.",
+        "On-the-job training is provided.",
+        "A driver's licence appropriate to a specific type of equipment may be required.",
+        "Trade certification for utility arborists is available, but voluntary, in Ontario and British Columbia."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Heavy equipment operators (except crane) (7521)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7521&ver=16"
+        },
+        {
+            "name": "Landscaping and grounds maintenance labourers (8612)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8612&ver=16"
+        },
+        {
+            "name": "Public works and maintenance labourers (7621)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7621&ver=16"
+        },
+        {
+            "name": "Supervisors of public works maintenance equipment operators (in 7302 Contractors and supervisors, heavy equipment operator crews",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7302&ver=16"
+        },
+        {
+            "name": "Transport truck drivers (7511)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7511&ver=16"
+        }
+    ]
+}

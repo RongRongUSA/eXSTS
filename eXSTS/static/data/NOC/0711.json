@@ -1,0 +1,66 @@
+{
+    "id": "0711",
+    "name": "Construction managers",
+    "lead statement": "Construction managers plan, organize, direct, control and evaluate the activities of a construction company or a construction department within a company, under the direction of a general manager or other senior manager. They are employed by residential, commercial and industrial construction companies and by construction departments of companies outside the construction industry.",
+    "example titles": [
+        "bridge and building construction manager",
+        "bridge construction superintendent",
+        "building construction general contractor",
+        "building construction superintendent",
+        "building materials branch director",
+        "commercial construction manager",
+        "construction assistant manager",
+        "construction expediter",
+        "construction general contractor",
+        "construction general superintendent",
+        "construction manager",
+        "construction operations manager",
+        "construction project co-ordinator",
+        "construction project manager",
+        "construction project superintendent",
+        "construction senior project manager",
+        "construction site manager",
+        "construction site superintendent",
+        "construction special project manager",
+        "construction superintendent",
+        "general contractor",
+        "highway construction manager",
+        "housing construction manager",
+        "industrial construction manager",
+        "pipeline construction manager",
+        "pipeline construction superintendent",
+        "residential construction manager",
+        "residential construction site manager"
+    ],
+    "main duties": [
+        "Plan, organize, direct, control and evaluate construction projects from start to finish according to schedule, specifications and budget",
+        "Prepare and submit construction project budget estimates",
+        "Plan and prepare construction schedules and milestones and monitor progress against established schedules",
+        "Prepare contracts and negotiate revisions, changes and additions to contractual agreements with architects, consultants, clients, suppliers and subcontractors",
+        "Develop and implement quality control programs",
+        "Represent company on matters such as business services and union contracts negotiation",
+        "Prepare progress reports and issue progress schedules to clients",
+        "Direct the purchase of building materials and land acquisitions",
+        "Hire and supervise the activities of subcontractors and subordinate staff."
+    ],
+    "employment requirements": [
+        "A university degree in civil engineering or a college diploma in construction technology is usually required.",
+        "A master's degree in project management may be required.",
+        "Several years of experience in the construction industry, including experience as a construction supervisor or field superintendent, are usually required.",
+        "Extensive experience in the construction industry may substitute for post-secondary education requirements.",
+        "Professional engineering status or construction trade certification may be required by some employers."
+    ],
+    "additional information": [
+        "Progression to senior management positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Home building and renovation managers (0712)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0712&ver=16"
+        },
+        {
+            "name": "Senior managers - construction, transportation, production and utilities (0016)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0016&ver=16"
+        }
+    ]
+}

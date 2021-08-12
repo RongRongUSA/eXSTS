@@ -1,0 +1,60 @@
+{
+    "id": "4313",
+    "name": "Non-commissioned ranks of the Canadian Armed Forces",
+    "lead statement": "This unit group consists of Canadian Armed Forces personnel who are non-commissioned officers (NCOs) or members of other non-commissioned ranks. They provide collective defence measures to protect Canadian waters, land, airspace and other interests. All ranks of non-commissioned officers and members in the air force, army, and navy are included in this unit group.",
+    "example titles": [
+        "able seaman – armed forces",
+        "armour defence gunner",
+        "armoured soldier",
+        "artillery soldier",
+        "assault pioneer",
+        "chief petty officer first class",
+        "chief petty officer second class",
+        "chief warrant officer",
+        "combat engineer",
+        "corporal",
+        "infanteer",
+        "infantry soldier",
+        "leading seaman",
+        "master corporal",
+        "master seaman",
+        "master warrant officer",
+        "military police officer",
+        "military policeman/woman",
+        "mortarman/woman",
+        "naval acoustics operator",
+        "naval electronics technician – armed forces",
+        "ordinary seaman – armed forces",
+        "petty officer first class",
+        "petty officer second class",
+        "private",
+        "private recruit",
+        "reconnaissance patrolman",
+        "sergeant",
+        "trooper",
+        "warrant officer"
+    ],
+    "main duties": [
+        "Operate armoured vehicles, artillery, hand-held weapons and other military combat equipment and defence systems",
+        "Conduct peacekeeping operations and enforce cease-fire agreements",
+        "Engage in non-combat operations for humanitarian efforts",
+        "Provide assistance in emergency situations, such as civil disorder, natural disasters and major accidents",
+        "Participate in drills and other training in preparation for peacekeeping, combat and natural disaster relief duties",
+        "Perform administrative and guard duties.",
+        "Personnel in this unit group are assigned to specific operations related to reconnaissance, peacekeeping, disaster relief and combat."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Three months of basic military training are provided.",
+        "Specialized training in the operation and maintenance of military equipment and systems is provided."
+    ],
+    "additional information": [
+        "Progression to commissioned officer occupations is possible with additional training and experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Commissioned officers of the Canadian Armed Forces (0433)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0433&ver=16"
+        }
+    ]
+}

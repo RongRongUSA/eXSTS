@@ -1,0 +1,61 @@
+{
+    "id": "4412",
+    "name": "Home support workers, housekeepers and related occupations",
+    "lead statement": "Home support workers provide personal care and companionship for seniors, persons with disabilities and convalescent clients. Care is provided within the client's residence, in which the home support worker may also reside. They are employed by home care and support agencies, private households, or they may be self-employed. Housekeepers perform housekeeping and other home management duties in private households and other non-institutional, residential settings.",
+    "example titles": [
+        "attendant for persons with a visual impairment – home care",
+        "attendant for persons with disabilities – home care",
+        "client care attendant – home care",
+        "companion",
+        "domestic housekeeper",
+        "doula",
+        "family caregiver",
+        "family worker – home care",
+        "home health care worker",
+        "home support attendant",
+        "home support worker",
+        "home visitor – infant care",
+        "home-care worker",
+        "homemaker",
+        "housekeeper",
+        "live-in caregiver – persons with disabilities",
+        "live-in caregiver – seniors",
+        "live-in housekeeper",
+        "personal aide – home support",
+        "personal assistant – home care",
+        "personal care aide – home care",
+        "personal care attendant – home care",
+        "personal care provider – home care",
+        "personal support aide – home aide",
+        "personal support worker – home support",
+        "respite worker – home support",
+        "teaching homemaker",
+        "visiting homemaker"
+    ],
+    "main duties": [
+        "Provide care and companionship for individuals and families during periods of incapacitation, convalescence or family disruption",
+        "Administer bedside and personal care to clients such as aid in ambulation, bathing, personal hygiene, and dressing and undressing",
+        "Plan and prepare meals and special diets, and feed or assist in feeding clients",
+        "May perform routine health-related duties such as changing non-sterile dressings, assisting in the administration of medications and collecting specimens under the general direction of home care agency supervisor or nurse",
+        "May perform routine housekeeping duties such as laundry, washing dishes and making beds.",
+        "Perform housekeeping and other home management duties under general direction of employer",
+        "Plan and prepare meals independently or with employer, and may serve meals",
+        "May care for children."
+    ],
+    "employment requirements": [
+        "Some secondary school education is usually required.",
+        "Home management experience may be required.",
+        "College or other courses in home support may be required.",
+        "First aid certification may be required.",
+        "Completion of a training program in care of the elderly, care of persons with disabilities, convalescent care or in a related field may be required."
+    ],
+    "additional information": [
+        "There is mobility among the occupations in this group."
+    ],
+    "exclusions": [
+        {
+            "name": "Home child care providers (4411)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4411&ver=16"
+        }
+    ]
+}

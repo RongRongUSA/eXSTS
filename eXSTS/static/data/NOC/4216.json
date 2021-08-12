@@ -1,0 +1,55 @@
+{
+    "id": "4216",
+    "name": "Other instructors",
+    "lead statement": "Instructors in this unit group teach courses, such as motor vehicle or motorcycle driving, sailing and navigation, sewing or other courses, which are outside of educational institutions. They are employed by driving schools, fabric retailers and other commercial establishments or they may be self-employed. This unit group also includes modelling and finishing school instructors, driver's licence examiners, who are employed by provincial governments and tutors who provide instruction in elementary or secondary school subjects.",
+    "example titles": [
+        "auto-driving instructor",
+        "beauty culture school instructor",
+        "child safety educator",
+        "driver's licence examiner",
+        "driving examiner",
+        "driving instructor",
+        "driving school instructor",
+        "first aid instructor",
+        "gourmet cooking instructor – non-vocational",
+        "modelling and finishing school instructor",
+        "motorcycle driving instructor",
+        "sailing instructor",
+        "self-improvement course instructor",
+        "sewing instructor – non-vocational",
+        "sewing teacher – non-vocational",
+        "small-boat navigation instructor",
+        "truck driving instructor",
+        "tutor – elementary school subjects",
+        "tutor – secondary school subjects"
+    ],
+    "main duties": [
+        "Instruct individuals on proper motor vehicle driving skills and traffic regulations",
+        "Demonstrate and explain the handling and mechanical operation of motor vehicles",
+        "Supervise individuals during practice driving.",
+        "Conduct road test examinations",
+        "Evaluate the driving ability of applicants for driver's licences.",
+        "Give instruction to students in techniques and skills of sewing, tailoring and dressmaking.",
+        "Give instruction on comportment, personal development, make-up application and modelling techniques for fashion shows and magazine advertising."
+    ],
+    "employment requirements": [
+        "Expertise in the field of instruction must be demonstrated.",
+        "Driving instructors must obtain special licensing as a driving instructor in the province of employment.",
+        "Certification by the Canadian Yachting Association may be required for sailing and navigation instructors."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "College and other vocational instructors (4021)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4021&ver=16"
+        },
+        {
+            "name": "Elementary school and kindergarten teachers (4032)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4032&ver=16"
+        },
+        {
+            "name": "Secondary school teachers (4031)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4031&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "id": "2147",
+    "name": "Computer engineers (except software engineers and designers)",
+    "lead statement": "Computer engineers (except software engineers and designers) research, plan, design, develop, modify, evaluate and integrate computer and telecommunications hardware and related equipment, and information and communication system networks including mainframe systems, local and wide area networks, fibre-optic networks, wireless communication networks, intranets, the Internet and other data communications systems. They are employed by computer and telecommunication hardware manufacturers, by engineering, manufacturing and telecommunications firms, in information technology consulting firms, by governmental, educational and research institutions and in information technology units throughout the private and public sectors.",
+    "example titles": [
+        "application specific integrated circuit (ASIC) design engineer",
+        "capacity planning analyst",
+        "computer engineer",
+        "computer engineer (except software)",
+        "computer hardware engineer",
+        "computer systems engineer",
+        "computer telecommunications specialist",
+        "data communications specialist",
+        "fibre-optic network designer",
+        "hardware circuit board designer",
+        "hardware design engineer",
+        "hardware development engineer",
+        "hardware engineer",
+        "hardware technical architect",
+        "infrastructure architect – information technology (IT)",
+        "microprocessor designer and application engineer",
+        "microwave systems engineer",
+        "microwave transmission systems engineer",
+        "network architect – computer systems",
+        "network designer – computer systems",
+        "network engineer – communication hardware",
+        "network specialist – computer systems",
+        "network systems engineer",
+        "network test engineer",
+        "optical communications engineer",
+        "optical communications hardware engineer",
+        "optical systems engineer – telecommunications",
+        "radio systems engineer",
+        "satellite data transmission engineer",
+        "spacecraft electronics engineer – hardware",
+        "systems designer – hardware",
+        "technical architect – hardware",
+        "telecommunications engineer",
+        "telecommunications hardware engineer",
+        "telecommunications hardware specialist",
+        "telecommunications specialist – computer systems",
+        "telecommunications systems specialist",
+        "wireless communications network engineer"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Computer and telecommunications hardware engineers",
+            "duty_description": [
+                "Analyze user requirements, and design and develop system architecture and specifications",
+                "Research, design, develop and integrate computer and telecommunications hardware such as microprocessors, integrated circuit boards and semiconductor lasers",
+                "Develop and conduct design verification simulations and prototype bench tests of components",
+                "Supervise, inspect and provide design support during the manufacturing, installation and implementation of computer and telecommunications hardware",
+                "Establish and maintain relationships with suppliers and clients",
+                "May lead and co-ordinate teams of engineers, technologists, technicians and drafters in the design and development of computer and telecommunications hardware."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Network system and data communication engineers",
+            "duty_description": [
+                "Research, design and develop information and communication system network architecture",
+                "Research, evaluate and integrate network system and data communication hardware and software",
+                "Assess, document and optimize the capacity and performance of information and communication system networks",
+                "May lead and co-ordinate teams of design professionals in the development and integration of information and communication system architecture, hardware and software."
+            ],
+            "duty_comment": "Computer engineers may specialize in a number of areas including analog and digital signal processing, fibre optics, integrated circuits, lasers, microprocessors, microwaves and radio astronomy."
+        }
+    ],
+    "employment requirements": [
+        "Computer engineers require a bachelor's degree in computer engineering, electrical or electronics engineering, engineering physics or computer science.",
+        "A master's or doctoral degree in a related engineering discipline may be required.",
+        "Licensing by a provincial or territorial association of professional engineers is required to approve engineering drawings and reports and to practise as a Professional Engineer (P.Eng.).",
+        "Engineers are eligible for registration following graduation from an accredited educational program, three or four years of supervised work experience in engineering and passing a professional practice examination."
+    ],
+    "additional information": [
+        "Supervisory and senior positions in this unit group require experience.",
+        "Engineers often work in a multidisciplinary environment and acquire knowledge and skills through work experience that may allow them to practise in associated areas of science, engineering, sales, marketing or management. "
+    ],
+    "exclusions": [
+        {
+            "name": "Computer and information systems managers (0213)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0213&ver=16"
+        },
+        {
+            "name": "Computer programmers and interactive media developers (2174)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2174&ver=16"
+        },
+        {
+            "name": "Electrical and electronics engineering technologists and technicians (2241)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2241&ver=16"
+        },
+        {
+            "name": "Electrical and electronics engineers (2133)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2133&ver=16"
+        },
+        {
+            "name": "Engineering managers (0211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0211&ver=16"
+        },
+        {
+            "name": "Information systems analysts and consultants (2171)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2171&ver=16"
+        },
+        {
+            "name": "Software engineers and designers (2173)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2173&ver=16"
+        },
+        {
+            "name": "Web designers and developers (2175)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2175&ver=16"
+        }
+    ]
+}

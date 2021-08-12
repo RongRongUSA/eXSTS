@@ -1,0 +1,75 @@
+{
+    "id": "3234",
+    "name": "Paramedical occupations",
+    "lead statement": "This unit group includes workers who administer pre-hospital emergency medical care to patients with injuries or medical illnesses and transport them to hospitals or other medical facilities for further medical care. They are employed by private ambulance services, hospitals, fire departments, government departments and agencies, manufacturing firms, mining companies and other private sector establishments. Paramedics who are supervisors are included in this unit group.",
+    "example titles": [
+        "advanced care paramedic",
+        "advanced emergency medical assistant",
+        "advanced life support attendant",
+        "advanced life support co-ordinator",
+        "advanced life support paramedic",
+        "ambulance attendant",
+        "ambulance attendant trainee",
+        "ambulance attendants supervisor",
+        "ambulance driver",
+        "ambulance driver-attendant",
+        "ambulance services field supervisor",
+        "ambulance services supervisor",
+        "ambulance services unit chief",
+        "ambulance technician",
+        "assistant paramedic",
+        "chief ambulance attendant",
+        "critical care paramedic",
+        "drilling rig medic",
+        "drilling rig medical technician",
+        "drilling rig medical warden",
+        "drilling rig medical worker",
+        "emergency medical assistant",
+        "emergency medical attendant (EMA)",
+        "emergency medical technician – paramedic/advanced care paramedic (EMT – P/ACP)",
+        "emergency medical technician – primary care paramedic (EMT – PCP)",
+        "emergency medical technician (EMT)",
+        "emergency medical technologist – paramedic (EMT-P)",
+        "emergency paramedic",
+        "infant transport attendant",
+        "intermediate care paramedic",
+        "medical assistant (paramedic)",
+        "medical technician",
+        "newborn emergency medical care technician",
+        "newborn medical care technician",
+        "paramedic",
+        "paramedic emergency medical technician",
+        "paramedic worker",
+        "primary care paramedic",
+        "registered emergency paramedic",
+        "supervisor ambulance attendants"
+    ],
+    "main duties": [
+        "Assess extent of injuries or medical illnesses of trauma victims, patients with respiratory disease and stress, overdose and poisoning victims, industrial accident victims and other ill or injured individuals to determine emergency medical treatment",
+        "Administer pre-hospital emergency care to patients such as oxygen therapy, cardiopulmonary resuscitation (CPR), spinal immobilization, bandaging and splinting",
+        "Establish and maintain intravenous treatment (IV), apply adjunctive equipment for ventilation and circulation complications, administer medications and provide other advanced emergency treatment to patients",
+        "Transport patients by air, land or water to hospital or other medical facility for further medical care",
+        "Collaborate with ambulance dispatch centres, hospital staff, police, firefighters and family members to ensure relevant information is collected and proper treatment is administered",
+        "Document and record nature of injuries and illnesses and treatment provided",
+        "Assist hospital personnel with provision of medical treatment, if necessary",
+        "Maintain emergency care equipment and supplies",
+        "May train and supervise other workers in this unit group",
+        "May assist with triage of emergency patients."
+    ],
+    "employment requirements": [
+        "Completion of a one- to three-year college, hospital-based or other recognized paramedical or emergency medical technology program is required.",
+        "Licensing by a regulatory body is required in all provinces.",
+        "Those operating emergency vehicles require an appropriate class of licence."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Emergency medical responders (in 3413 Nurse aides, orderlies and patient service associates",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3413&ver=16"
+        },
+        {
+            "name": "Other assisting occupations in support of health services (3414)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3414&ver=16"
+        }
+    ]
+}

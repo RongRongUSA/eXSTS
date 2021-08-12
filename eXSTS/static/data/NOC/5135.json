@@ -1,0 +1,69 @@
+{
+    "id": "5135",
+    "name": "Actors and comedians",
+    "lead statement": "Actors and comedians perform roles in motion picture, television, theatre and radio productions to entertain a variety of audiences. They are employed by motion picture, television, theatre and other production companies. This unit group includes acting teachers employed by private acting schools.",
+    "example titles": [
+        "acting teacher – private or studio",
+        "actor/actress",
+        "comedian",
+        "comic",
+        "diction coach",
+        "drama actor",
+        "drama coach",
+        "drama teacher – private or studio",
+        "dramatic arts teacher – private or studio",
+        "dramatic reader",
+        "film dubber",
+        "humorist – performing arts",
+        "improviser",
+        "mime",
+        "movie actor",
+        "narrator",
+        "performing arts extra",
+        "reader – performing arts",
+        "standardized patient",
+        "stand-up comedian",
+        "story teller",
+        "straight man",
+        "voice coach",
+        "voice-over actor"
+    ],
+    "main duties": [
+        "Study and rehearse lines, gestures and expressions to interpret a role",
+        "Portray roles in video or motion picture productions, television shows, theatre productions, radio dramas, commercials and other productions or perform the narration",
+        "Sing or dance as required by specific roles",
+        "Perform comedy acts in nightclubs alone or as members of comedy troupes",
+        "Improvise a role.",
+        "Train students in interpretation of scripts, speech, movement, and dramatic theory",
+        "Prepare acting students for specific auditions and performances."
+    ],
+    "employment requirements": [
+        "Demonstrated ability, based on an audition or previous acting roles, is an important hiring criteria.",
+        "Acting programs are offered at universities, colleges and private acting schools.",
+        "Acting teachers usually require experience as actors.",
+        "Membership in a guild or union may be required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Announcers and other broadcasters (5231)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5231&ver=16"
+        },
+        {
+            "name": "Dancers (5134)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5134&ver=16"
+        },
+        {
+            "name": "Drama professors (in 4011 University professors and lecturers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4011&ver=16"
+        },
+        {
+            "name": "Musicians and singers (5133)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5133&ver=16"
+        },
+        {
+            "name": "Other performers, n.e.c. (5232)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5232&ver=16"
+        }
+    ]
+}

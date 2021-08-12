@@ -1,0 +1,64 @@
+{
+    "id": "0011",
+    "name": "Legislators",
+    "lead statement": "Legislators participate in the activities of a federal, provincial, territorial or local government legislative body or executive council, band council or school board as elected or appointed members.",
+    "example titles": [
+        "Aboriginal band chief",
+        "Aboriginal band council member",
+        "alderman/woman",
+        "attorney general",
+        "cabinet minister",
+        "city alderman",
+        "city councillor",
+        "city councilman/woman",
+        "councillor",
+        "First Nations band chief",
+        "First Nations band council member",
+        "First Nations government leader",
+        "government leader",
+        "governor general",
+        "leader of the opposition",
+        "legislative body speaker",
+        "legislator",
+        "lieutenant-governor",
+        "mayor",
+        "Member of Legislative Assembly (MLA)",
+        "Member of Parliament (MP)",
+        "Member of the House of Assembly (MHA)",
+        "Member of the National Assembly (MNA)",
+        "Member of the Provincial Parliament (MPP)",
+        "metropolitan council chair",
+        "municipal council chairman/woman",
+        "opposition leader",
+        "orator – government",
+        "premier",
+        "prime minister",
+        "reeve",
+        "regional municipality chair",
+        "school board trustee",
+        "senator",
+        "solicitor general",
+        "Treasury Board president"
+    ],
+    "main duties": [
+        "Enact, amend or repeal laws and regulations",
+        "Participate in developing or amending government policies, programs or procedures",
+        "Represent their government at local, national and international meetings and conferences",
+        "Respond to matters of concern to constituents or the general public",
+        "May serve as minister responsible for a government department or agency and direct senior government managers and officials in the implementation of government policy and the management of that department or agency."
+    ],
+    "employment requirements": [
+        "Election to a legislative body, or appointment to positions such as senator, lieutenant-governor or governor general, is required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Commissioners – government services (in 0012 Senior government managers and officials",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0012&ver=16"
+        },
+        {
+            "name": "Elected or appointed officials of health care institutions, educational institutions, unions and voluntary organizations (in 0014 Senior managers - health, education, social and community services and membership organizations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0014&ver=16"
+        }
+    ]
+}

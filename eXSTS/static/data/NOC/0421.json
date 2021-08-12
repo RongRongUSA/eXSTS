@@ -1,0 +1,121 @@
+{
+    "id": "0421",
+    "name": "Administrators - post-secondary education and vocational training",
+    "lead statement": "This unit group includes faculty administrators and registrars of colleges or universities and administrators of vocational training schools. Faculty administrators manage the academic and related activities of faculties of colleges or universities. Registrars manage registration activities and academic records systems of colleges or universities. Administrators of vocational training schools manage the operations of vocational schools specializing in trades, technology, business or other vocational subjects.",
+    "example titles": [
+        "admissions director – post-secondary education",
+        "adult education dean",
+        "assistant dean – college or university",
+        "associate registrar",
+        "aviation school manager",
+        "business college director",
+        "business school director",
+        "business school manager",
+        "business school principal",
+        "centre assistant manager – hotel school",
+        "college director – post-secondary education",
+        "college registrar",
+        "community college dean",
+        "community college registrar",
+        "computer technology school director",
+        "dean – university or college",
+        "dean of adult education",
+        "dean of graduate studies",
+        "dean of science",
+        "dean of student activities",
+        "dean of technical and technological programs",
+        "director of admissions – post-secondary education",
+        "director of research – university or college",
+        "director of student affairs",
+        "director of studies – college",
+        "education programs administrator",
+        "faculty administrator",
+        "faculty of arts dean",
+        "faculty of science dean",
+        "fashion school general manager",
+        "field teaching co-ordinator",
+        "flying school manager",
+        "graduate studies dean",
+        "language school manager",
+        "pedagogical co-ordinator",
+        "private vocational school director",
+        "program co-ordinator – post-secondary education",
+        "provost – university",
+        "registrar – college or university",
+        "research administrator – university or college",
+        "research director – university or college",
+        "school of nursing dean",
+        "school of nursing director",
+        "school of technology dean",
+        "school of technology director",
+        "school of technology manager",
+        "science dean",
+        "secretarial college director",
+        "student activities dean",
+        "student affairs director",
+        "technical school director",
+        "technical school manager",
+        "tourism and hotel school manager",
+        "trade school director",
+        "trade school manager",
+        "training institute director",
+        "university registrar",
+        "vice-president – college or university",
+        "vocational school administrator",
+        "vocational school director",
+        "vocational school manager"
+    ],
+    "main duties": [
+        "Plan, organize, direct, control and evaluate academic and related activities of a college or university faculty",
+        "Recommend and approve faculty appointments",
+        "Recommend curriculum revisions and additions and approve scheduling of courses",
+        "Direct, through subordinate staff, activities such as research and curriculum development",
+        "Plan, administer and control budgets for projects, programs, support services and equipment",
+        "Advise president or rector of university or college",
+        "Participate in activities of various faculty and college committees.",
+        "Plan, organize, direct, control and evaluate the registration activities and academic records system of a college or university",
+        "Review registration statistics and consult with faculty officials to develop registration policies",
+        "Direct activities of staff and others engaged in compiling information on courses, schedules and requirements for admission and graduation.",
+        "Plan, organize, direct, control and evaluate the activities of a private college or institute specializing in trades, technology or business",
+        "Develop curriculum for training programs",
+        "Consult with government regulatory and licensing agencies to ensure conformance to provincial standards",
+        "Plan, administer and control budgets for projects, programs, support services and equipment",
+        "May recruit and hire teachers and other staff",
+        "May teach."
+    ],
+    "employment requirements": [
+        "Faculty administrators require a graduate degree in a field related to the academic faculty \r\n and several years of experience as a university professor or college teacher.",
+        "Registrars require an undergraduate degree in business administration or a related field \r\n and several years of experience in registration administration.",
+        "Administrators of vocational training schools usually require an undergraduate degree in business administration \r\n or expertise and certification in a subject of instruction."
+    ],
+    "additional information": [
+        "There is no mobility among the various types of administrators in this group.",
+        "Progression to some senior management positions in education is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Administrators of non-vocational training schools, such as driving schools (in 0651 Managers in customer and personal services, n.e.c.",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0651&ver=16"
+        },
+        {
+            "name": "College and other vocational instructors (4021)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4021&ver=16"
+        },
+        {
+            "name": "College rectors (in 0014 Senior managers - health, education, social and community services and membership organizations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0014&ver=16"
+        },
+        {
+            "name": "School principals and administrators of elementary and secondary education (0422)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0422&ver=16"
+        },
+        {
+            "name": "University presidents (in 0014 Senior managers - health, education, social and community services and membership organizations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0014&ver=16"
+        },
+        {
+            "name": "University professors and lecturers (4011)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4011&ver=16"
+        }
+    ]
+}

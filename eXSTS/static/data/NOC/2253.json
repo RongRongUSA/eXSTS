@@ -1,0 +1,140 @@
+{
+    "id": "2253",
+    "name": "Drafting technologists and technicians",
+    "lead statement": "Drafting technologists and technicians prepare engineering designs, drawings and related technical information, in multidisciplinary engineering teams or in support of engineers, architects or industrial designers, or they may work independently. They are employed by consulting and construction companies, utility, resource and manufacturing companies, all levels of government and by a wide range of other establishments.",
+    "example titles": [
+        "aeronautical draftsperson",
+        "air conditioning systems draftsperson",
+        "architectural draftsperson",
+        "chief draftsperson",
+        "civil draftsperson",
+        "commercial draftsperson",
+        "computer-aided design (CAD) specialist – drafting",
+        "computer-aided design (CAD) technologist",
+        "computer-aided drafting (CAD) technician",
+        "computer-assisted design and drafting technologist",
+        "computer-assisted drafting (CAD)",
+        "computer-assisted drafting (CAD) draftsperson – printed circuit boards",
+        "computer-assisted drafting (CAD) operator",
+        "computer-assisted drafting (CAD) technician",
+        "computer-assisted electromechanical design draftsperson",
+        "design and drafting technologist",
+        "design draftsperson",
+        "design technician – drafting",
+        "design technologist – drafting",
+        "detail draftsperson",
+        "detailer",
+        "detailer – structural steel drafter",
+        "drafter",
+        "drafting checker",
+        "drafting clerk",
+        "drafting design checker",
+        "drafting group leader",
+        "drafting office supervisor",
+        "drafting supervisor",
+        "drafting technician",
+        "drafting technologist",
+        "drafting tracer",
+        "draftsman/woman",
+        "draftsperson",
+        "draftsperson – computer-assisted design",
+        "draftspersons supervisor",
+        "electrical drafting supervisor",
+        "electrical draftsperson",
+        "electrical marine draftsperson",
+        "electromechanical draftsperson",
+        "electronic draftsperson",
+        "engineering design and drafting technologist",
+        "engineering draftsperson",
+        "general draftsperson",
+        "geological draftsperson",
+        "geophysical draftsperson",
+        "heating and ventilation systems draftsperson",
+        "heating systems draftsperson",
+        "hull draftsperson – shipbuilding and repair",
+        "hydraulic machinery draftsperson",
+        "marine drafting supervisor",
+        "mechanical building draftsperson",
+        "mechanical design draftsperson",
+        "mechanical draftsperson",
+        "mine draftsperson",
+        "municipal draftsperson",
+        "optical draftsperson",
+        "petroleum exploration draftsperson",
+        "piping draftsperson",
+        "process piping draftsperson",
+        "refrigeration systems draftsperson",
+        "ship detail draftsperson",
+        "shipbuilding draftsperson",
+        "steel detailer – drafting",
+        "steel frame draftsman/woman",
+        "steel frame draftsperson",
+        "structural draftsperson",
+        "structural steel detailer",
+        "structural steel drafter-detailer",
+        "structural steel draftsperson",
+        "survey draftsperson",
+        "technical illustrator – drafting",
+        "tool checker – drafting",
+        "tool design draftsperson"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Drafting technologists",
+            "duty_description": [
+                "Develop and prepare engineering designs and drawings from preliminary concepts, sketches, engineering calculations, specification sheets and other data",
+                "Operate computer-assisted design (CAD) and drafting workstations",
+                "Develop and prepare design sketches",
+                "Complete documentation packages and produce drawing sets",
+                "Check and verify design drawings to conform to specifications and design data",
+                "Write technical reports",
+                "Prepare contracts and tender documents",
+                "Prepare construction specifications, costs and material estimates",
+                "Supervise and train other technologists, technicians and drafters."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Drafting technicians",
+            "duty_description": [
+                "Develop and prepare engineering drawings, plans, diagrams or layouts from sketches",
+                "Operate computer-assisted drafting equipment or a conventional drafting station."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a two- to three-year college program in engineering design and drafting technology or in a related field is usually required for drafting and design technologists.",
+        "Completion of a one- to two-year college program in drafting \r\n or completion of a three- to four-year apprenticeship program \r\n or four to five years of related experience plus completion of college or industry courses in drafting are usually required for drafting technicians.",
+        "Trade certification for draftspersons is available, but voluntary in Ontario.",
+        "Certification in engineering design and drafting technology or in a related field through provincial associations of engineering/applied science technologists and technicians may be required by employers.",
+        "A period of supervised work experience, usually two years, is required before certification."
+    ],
+    "additional information": [
+        "Mobility is possible to civil, mechanical, electrical or other engineering design technologies through educational or work specialization.",
+        "Senior and supervisory drafting and design technology workers require experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Architectural design technologists (in 2251 Architectural technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2251&ver=16"
+        },
+        {
+            "name": "Civil engineering design technologists (in 2231 Civil engineering technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2231&ver=16"
+        },
+        {
+            "name": "Electrical and electronics engineering design technologists (in 2241 Electrical and electronics engineering technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2241&ver=16"
+        },
+        {
+            "name": "Industrial designers (2252)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2252&ver=16"
+        },
+        {
+            "name": "Mechanical engineering design technologists (in 2232 Mechanical engineering technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2232&ver=16"
+        }
+    ]
+}

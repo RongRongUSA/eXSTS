@@ -1,0 +1,67 @@
+{
+    "id": "0631",
+    "name": "Restaurant and food service managers",
+    "lead statement": "Restaurant and food service managers plan, organize, direct, control and evaluate the operations of restaurants, bars, cafeterias and other food and beverage services. They are employed in food and beverage service establishments, or they may be self-employed.",
+    "example titles": [
+        "assistant bar manager",
+        "assistant manager – bar",
+        "banquet manager",
+        "bar manager",
+        "beverage service manager",
+        "café manager",
+        "cafeteria manager",
+        "canteen manager",
+        "canteen service district manager",
+        "canteen services manager",
+        "catering service manager",
+        "cybercafé manager",
+        "dining establishment managing supervisor",
+        "dining room manager",
+        "fast food restaurant manager",
+        "food and beverage service manager",
+        "food services manager",
+        "hotel food and beverage service manager",
+        "Internet café manager",
+        "restaurant assistant manager",
+        "restaurant manager",
+        "restaurant manager trainee",
+        "restaurateur – food services",
+        "tea room manager"
+    ],
+    "main duties": [
+        "Plan, organize, direct, control and evaluate the operations of a restaurant, bar, cafeteria or other food or beverage service",
+        "Determine type of services to be offered and implement operational procedures",
+        "Recruit staff and oversee staff training",
+        "Set staff work schedules and monitor staff performance",
+        "Control inventory, monitor revenues and modify procedures and prices",
+        "Resolve customer complaints and ensure health and safety regulations are followed",
+        "Negotiate arrangements with suppliers for food and other supplies",
+        "Negotiate arrangements with clients for catering or use of facilities for banquets or receptions."
+    ],
+    "employment requirements": [
+        "Completion of a college or other program related to hospitality or food and beverage service management is usually required.",
+        "Several years of experience in the food service sector, including supervisory experience, are required.",
+        "Responsible beverage service certification is usually required for managers of establishments serving alcoholic beverages."
+    ],
+    "additional information": [
+        "Progression to senior management in food service is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Dietitians and nutritionists (3132)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3132&ver=16"
+        },
+        {
+            "name": "Executive chefs (in 6321 Chefs",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6321&ver=16"
+        },
+        {
+            "name": "Food service supervisors (6311)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6311&ver=16"
+        },
+        {
+            "name": "Senior managers in food service (in 0015 Senior managers - trade, broadcasting and other services, n.e.c.",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0015&ver=16"
+        }
+    ]
+}

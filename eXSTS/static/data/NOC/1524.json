@@ -1,0 +1,68 @@
+{
+    "id": "1524",
+    "name": "Purchasing and inventory control workers",
+    "lead statement": "Purchasing and inventory control workers process purchasing transactions and maintain inventories of materials, equipment and stock. They are employed by retail and wholesale establishments, manufacturing companies, government agencies and other establishments.",
+    "example titles": [
+        "equipment inventory clerk",
+        "food and beverage control clerk – inventory",
+        "food controller – inventory",
+        "inventory analyst",
+        "inventory auditor",
+        "inventory clerk",
+        "inventory control clerk",
+        "inventory planner",
+        "invoice and purchase order checker",
+        "invoice control clerk",
+        "liquor controller – inventory",
+        "permanent inventory clerk",
+        "printing plates order clerk",
+        "procurement clerk",
+        "purchase order clerk",
+        "purchasing clerk",
+        "purchasing clerk assistant",
+        "purchasing control clerk",
+        "ship supply clerk",
+        "supply clerk"
+    ],
+    "main duties": [
+        "Review requisition orders for accuracy and verify that materials, equipment and stock are not available from current inventories",
+        "Source and obtain price quotations from catalogues and suppliers and prepare purchase orders",
+        "Calculate cost of orders and charge or forward invoices to appropriate accounts",
+        "Process purchases within purchasing authority",
+        "Contact suppliers to schedule deliveries and to resolve shortages, missed deliveries and other problems",
+        "Prepare and maintain purchasing files, reports and price lists.",
+        "Monitor inventory levels as materials, equipment and stock are issued, transferred within an establishment or sold to the public using manual or computerized inventory systems",
+        "Compile inventory reports, recording the quantity, type and value of materials, equipment and stock on hand, using manual or computerized inventory systems",
+        "Prepare requisition orders to replenish materials, equipment and stock",
+        "Maintain stock rotation and dispose of and account for outdated stock",
+        "Enter data for production scheduling, stock replenishment/relocation and inventory adjustments",
+        "Reconcile physical inventories with computer counts."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Courses in purchasing management may be required for purchasing clerks.",
+        "Courses in production and inventory management and ability to operate a computerized inventory system may be required for inventory clerks."
+    ],
+    "additional information": [
+        "The duties of purchasing and inventory clerks may overlap in some establishments.",
+        "Progression to supervisory positions or more senior occupations such as purchasing agent or retail buyer is possible with additional training or experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Purchasing agents and officers (1225)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1225&ver=16"
+        },
+        {
+            "name": "Retail and wholesale buyers (6222)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6222&ver=16"
+        },
+        {
+            "name": "Storekeepers and partspersons (1522)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1522&ver=16"
+        },
+        {
+            "name": "Supervisors of purchasing and inventory clerks (in 1215 Supervisors, supply chain, tracking and scheduling co-ordination occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1215&ver=16"
+        }
+    ]
+}

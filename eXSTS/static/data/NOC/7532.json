@@ -1,0 +1,79 @@
+{
+    "id": "7532",
+    "name": "Water transport deck and engine room crew",
+    "lead statement": "Workers in this unit group stand watch, operate and maintain deck equipment, perform other deck and bridge duties and assist ship engineer officers to operate, maintain and repair engines, machinery and auxiliary equipment aboard ships or self-propelled vessels. They are employed by marine transportation companies and federal government departments.",
+    "example titles": [
+        "able seaman/woman (except armed forces)",
+        "barge deckhand",
+        "boatswain",
+        "boatswain – water transport",
+        "boiler tender – ships",
+        "deckhand",
+        "deckhand – ships",
+        "dredge deckhand",
+        "engine and boiler room crew member – ships",
+        "engine room crew member – ship",
+        "engine room greaser – marine",
+        "engine room greaser – water transport",
+        "engine room mechanical assistant – ships",
+        "ferryboat deckhand",
+        "helmsman/woman – water transport",
+        "log boom tugboat deckhand",
+        "marine engine oiler",
+        "marine engineering mechanic",
+        "marine engineering technician",
+        "marine oiler",
+        "mechanical assistant – water transport",
+        "ordinary seaman/woman (except armed forces)",
+        "pump seaman/woman",
+        "pumpman/woman – ships",
+        "quartermaster",
+        "seaman/woman",
+        "ship boiler tender",
+        "ship engine room greaser",
+        "ship engine room mechanical assistant",
+        "ship stoker",
+        "ship tunnel operator",
+        "ship tunnelman/woman",
+        "ship watchman/woman",
+        "ship's carpenter",
+        "stoker – ships",
+        "tanker pumper – ship",
+        "tugboat deckhand",
+        "wheelsman/woman"
+    ],
+    "main duties": [
+        "Stand watch and steer ship or self-propelled vessel under the direction of the officer on watch",
+        "Operate, maintain and repair deck equipment such as winches, cranes, derricks and hawsers",
+        "Assist ship engineer officers in performing routine maintenance work and repair to ship's engine, machinery and auxiliary equipment",
+        "Monitor engine, machinery and equipment indicators, record variables and report abnormalities to ship engineer officer on watch",
+        "Lubricate moving parts of engines, machinery and auxiliary equipment",
+        "Operate and maintain off-loading liquid pumps and valves",
+        "Clean engine parts and keep engine room clean",
+        "Clean, chip and paint deck surfaces",
+        "Handle mooring lines, and splice and repair ropes, wire cables and cordage."
+    ],
+    "employment requirements": [
+        "Some secondary school education is required.",
+        "On-the-job training is provided."
+    ],
+    "additional information": [
+        "Training and testing for various endorsements and certification, including the Marine Emergency Duty (MED) certificate, occur following employment as a deck crew member.",
+        "Senior positions in this unit group, such as able seaman/woman, require experience.",
+        "Progression to deck or ship engineer officer positions is possible with experience, additional training and deck officer certification by Transport Canada."
+    ],
+    "exclusions": [
+        {
+            "name": "Deck officers, water transport (2273)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2273&ver=16"
+        },
+        {
+            "name": "Engineer officers, water transport (2274)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2274&ver=16"
+        },
+        {
+            "name": "Fishing vessel deckhands (8441)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8441&ver=16"
+        }
+    ]
+}

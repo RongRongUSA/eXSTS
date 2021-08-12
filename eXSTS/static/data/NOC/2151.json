@@ -1,0 +1,65 @@
+{
+    "id": "2151",
+    "name": "Architects",
+    "lead statement": "Architects conceptualize, plan and develop designs for the construction and renovation of commercial, institutional and residential buildings. They are employed by architectural firms, private corporations and governments, or they may be self-employed.",
+    "example titles": [
+        "architect",
+        "architectural standards specialist",
+        "chief architect",
+        "consulting architect",
+        "industrial and commercial buildings architect",
+        "residential architect",
+        "residential building architect"
+    ],
+    "main duties": [
+        "Consult with clients to determine the type, style and purpose of renovations or new building construction being considered",
+        "Conceptualize and design buildings and develop plans describing design specifications, building materials, costs and construction schedules",
+        "Prepare sketches and models for clients",
+        "Prepare or supervise the preparation of drawings, specifications and other construction documents for use by contractors and tradespersons",
+        "Prepare bidding documents, participate in contract negotiations and award construction contracts",
+        "Monitor activities on construction sites to ensure compliance with specifications",
+        "Conduct feasibility studies and financial analyses of building projects.",
+        "Architects may specialize in a particular type of construction such as residential, commercial, industrial or institutional."
+    ],
+    "employment requirements": [
+        "A bachelor's degree from an accredited school of architecture \r\n or completion of the syllabus of studies from the Royal Architectural Institute of Canada (RAIC) is required.",
+        "A master's degree in architecture may be required.",
+        "Completion of a three-year internship under the supervision of a registered architect is required.",
+        "Completion of the architect registration examination is required.",
+        "Registration with a provincial regulatory body is required in all provinces and the Northwest Territories.",
+        "Leadership in Energy and Environmental Design (LEED) certification is offered by the Canada Green Building Council and may be required by some employers."
+    ],
+    "additional information": [
+        "Progression to senior positions, such as chief architect, is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Architecture and science managers (0212)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0212&ver=16"
+        },
+        {
+            "name": "Database architects (in 2172 Database analysts and data administrators",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2172&ver=16"
+        },
+        {
+            "name": "Landscape architects (2152)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2152&ver=16"
+        },
+        {
+            "name": "Naval architects (in 2148 Other professional engineers, n.e.c.",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2148&ver=16"
+        },
+        {
+            "name": "Software architects (in 2173 Software engineers and designers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2173&ver=16"
+        },
+        {
+            "name": "Structural engineers (in 2131 Civil engineers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2131&ver=16"
+        },
+        {
+            "name": "Technical architects, hardware (in 2147 Computer engineers (except software engineers and designers)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2147&ver=16"
+        }
+    ]
+}

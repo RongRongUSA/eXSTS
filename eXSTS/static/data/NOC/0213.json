@@ -1,0 +1,91 @@
+{
+    "id": "0213",
+    "name": "Computer and information systems managers",
+    "lead statement": "Computer and information systems managers plan, organize, direct, control and evaluate the activities of organizations that analyze, design, develop, implement, operate and administer computer and telecommunications software, networks and information systems. They are employed throughout the public and private sectors.",
+    "example titles": [
+        "communication systems design manager",
+        "computer and related services manager",
+        "computer application development manager",
+        "computer applications manager",
+        "computer department co-ordinator",
+        "computer development division head",
+        "computer facility manager",
+        "computer legacy systems manager",
+        "computer manager",
+        "computer networks manager",
+        "computer programs manager",
+        "computer projects manager",
+        "computer software design manager",
+        "computer system operations manager",
+        "computer systems development manager",
+        "computer systems integration manager",
+        "computer systems manager",
+        "computerized information systems manager",
+        "computerized technical information manager",
+        "data centre manager",
+        "data processing and systems analysis manager",
+        "data processing director",
+        "data processing manager",
+        "data processing planning manager",
+        "director of technology management",
+        "electronic data processing (EDP) manager",
+        "help desk manager – information technology (IT)",
+        "information systems development director",
+        "information systems manager",
+        "information systems operations director",
+        "information technology (IT) development manager",
+        "information technology (IT) implementation manager",
+        "information technology (IT) integration manager",
+        "Internet systems administrator",
+        "management information system (MIS) manager",
+        "network design manager",
+        "software development manager",
+        "software engineering director",
+        "software engineering manager",
+        "systems development manager",
+        "systems implementation manager"
+    ],
+    "main duties": [
+        "Plan, organize, direct, control and evaluate the operations of information systems and electronic data processing (EDP) departments and companies",
+        "Develop and implement policies and procedures for electronic data processing and computer systems development and operations",
+        "Meet with clients to discuss system requirements, specifications, costs and timelines",
+        "Assemble and manage teams of information systems personnel to design, develop, implement, operate and administer computer and telecommunications software, networks and information systems",
+        "Control the budget and expenditures of the department, company or project",
+        "Recruit and supervise computer analysts, engineers, programmers, technicians and other personnel and oversee their professional development and training."
+    ],
+    "employment requirements": [
+        "A bachelor's or master's degree in computer science, business administration, commerce or engineering is usually required.",
+        "Several years of experience in systems analysis, data administration, software engineering, network design or computer programming, including supervisory experience, are required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Computer engineers (except software engineers and designers) (2147)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2147&ver=16"
+        },
+        {
+            "name": "Computer programmers and interactive media developers (2174)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2174&ver=16"
+        },
+        {
+            "name": "Computer services company presidents (in 0013 Senior managers - financial, communications and other business services",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0013&ver=16"
+        },
+        {
+            "name": "Database analysts and data administrators (2172)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2172&ver=16"
+        },
+        {
+            "name": "Information systems analysts and consultants (2171)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2171&ver=16"
+        },
+        {
+            "name": "LAN managers (in 2281 Computer network technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2281&ver=16"
+        },
+        {
+            "name": "Software engineers and designers (2173)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2173&ver=16"
+        }
+    ]
+}

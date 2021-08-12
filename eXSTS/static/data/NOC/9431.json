@@ -1,0 +1,123 @@
+{
+    "id": "9431",
+    "name": "Sawmill machine operators",
+    "lead statement": "Sawmill machine operators operate, monitor and control automated lumbermill equipment to saw timber logs into rough lumber; saw, trim and plane rough lumber into dressed lumber of various sizes; and saw or split shingles and shakes. They are employed in sawmills and planing mills.",
+    "example titles": [
+        "automatic edger operator – sawmill",
+        "block splitter – sawmill",
+        "board sawyer – sawmill",
+        "bolt sawyer – sawmill",
+        "bolterman/woman – sawmill",
+        "canter operator – sawmill",
+        "chip reclaim operator – sawmill",
+        "Chip-N-Saw operator – sawmill",
+        "circular saw operator",
+        "circular saw operator – sawmill",
+        "cut-off saw operator – sawmill",
+        "drag saw operator – sawmill",
+        "edger – sawmill",
+        "edgerman/woman",
+        "edgerman/woman – sawmill",
+        "gang sawyer – sawmill",
+        "head sawyer",
+        "head sawyer – sawmill",
+        "headrig operator – sawmill",
+        "head-saw operator – sawmill",
+        "high-speed stud operator – sawmill",
+        "jumbo operator – sawmill",
+        "log cut-off operator",
+        "log cut-off operator – sawmill",
+        "log cut-off sawyer – sawmill",
+        "log gang saw operator – sawmill",
+        "log gang sawyer – sawmill",
+        "log haul cut-off saw operator – sawmill",
+        "log hoist operator – sawmill",
+        "lumber sizer operator – sawmill",
+        "machine splitter – sawmill",
+        "planer – sawmill",
+        "planer mill machine operator",
+        "planer operator",
+        "planer operator – sawmill",
+        "planerman/woman – sawmill",
+        "resaw operator",
+        "resaw operator – sawmill",
+        "resawyer – sawmill",
+        "ripsaw operator – sawmill",
+        "saw operator – sawmill",
+        "sawdust reclaim operator – sawmill",
+        "sawing machine operator – sawmill",
+        "sawmill machine operator",
+        "sawyer – sawmill",
+        "scrag-saw operator – sawmill",
+        "shake maker",
+        "shake sawyer",
+        "shake sawyer – sawmill",
+        "shake splitter",
+        "shingle cutter",
+        "shingle cutter – sawmill",
+        "shingle maker",
+        "shingle sawyer",
+        "slab saw operator",
+        "slasher operator – sawmill",
+        "slasher saw operator – sawmill",
+        "slasher trim operator – sawmill",
+        "splitter – sawmill",
+        "splitter operator – sawmill",
+        "stave bolt saw operator",
+        "stave bolt sawyer – sawmill",
+        "tilt-hoist operator – sawmill",
+        "timber cut-off sawyer – sawmill",
+        "transfer operator – sawmill",
+        "trim saw operator – sawmill",
+        "trim sawyer – sawmill",
+        "trimmer operator – sawmill",
+        "trimmer tender – sawmill",
+        "trimmerman/woman",
+        "trimmerman/woman – sawmill",
+        "trimming machine operator – sawmill",
+        "trimming machine tender – sawmill"
+    ],
+    "main duties": [
+        "Operate front-end loaders and stationary deck cranes to feed logs into the sawmill",
+        "Examine logs and rough lumber to determine size, condition, quality and other characteristics to decide best lumber cuts to carry out, or use automated equipment to convey logs through laser scanners which determine the most productive and profitable cutting patterns",
+        "Operate automated lumbermill equipment from control rooms or consoles to saw logs into rough lumber; saw, trim and plane rough lumber into dressed lumber of various sizes; and saw or split shingles and shakes",
+        "Start conveyor system to move logs and lumber to and from saws",
+        "Set up and adjust saw equipment and replace blades or bands using wrenches, gauges and other hand tools",
+        "Operate equipment to sort and stack lumber by length and thickness, move stacks to storage areas or drying kilns, and feed lumber through planers",
+        "Monitor movement of lumber and computer screens to ensure cuts are made according to specifications, and print production reports",
+        "Clean and lubricate sawmill equipment."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "College courses in wood processing technology may be required.",
+        "Several weeks of on-the-job training are usually provided.",
+        "Head sawyers and planer operators usually require several years of experience in other sawmill machine operating positions in the same company.",
+        "A certificate in industrial first aid may be required."
+    ],
+    "additional information": [
+        "There is some mobility among jobs in this occupational group.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Labourers in wood, pulp and paper processing (9614)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9614&ver=16"
+        },
+        {
+            "name": "Lumber graders and other wood processing inspectors and graders (9436)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9436&ver=16"
+        },
+        {
+            "name": "Other wood processing machine operators (9434)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9434&ver=16"
+        },
+        {
+            "name": "Supervisors, forest products processing (9215)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9215&ver=16"
+        },
+        {
+            "name": "Woodworking machine operators (9437)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9437&ver=16"
+        }
+    ]
+}

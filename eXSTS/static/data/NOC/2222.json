@@ -1,0 +1,79 @@
+{
+    "id": "2222",
+    "name": "Agricultural and fish products inspectors",
+    "lead statement": "Agricultural and fish products inspectors inspect agricultural and fish products for conformity to prescribed production, storage and transportation standards. They are employed by government departments and agencies and by private sector food processing companies. Supervisors of agricultural and fish products inspectors are also included in this group.",
+    "example titles": [
+        "agricultural products inspection supervisor",
+        "agricultural products inspector",
+        "animal health inspector",
+        "animal primary products inspector",
+        "assistant grain inspector",
+        "bread inspector",
+        "butter inspector",
+        "contagious animal disease prevention inspector",
+        "cream inspector",
+        "crop certification inspector",
+        "dairy products inspector",
+        "fish and fish products inspector",
+        "fish inspector",
+        "fish inspector-grader",
+        "fish products inspection supervisor",
+        "fish products inspector",
+        "flour inspector",
+        "food products inspector",
+        "fruit and vegetable inspection centre supervisor",
+        "fruit and vegetables inspector",
+        "fruit inspector",
+        "grain inspection supervisor",
+        "grain inspector",
+        "inspector of perishable goods",
+        "livestock inspector",
+        "meat hygiene inspector",
+        "meat inspection supervisor",
+        "meat inspector",
+        "milk inspector",
+        "plant primary products inspector",
+        "plant protection inspector",
+        "poultry inspector",
+        "produce inspector",
+        "seed crop inspector",
+        "seed grains inspector",
+        "slaughtering and meat processing plant inspector",
+        "vegetable inspector"
+    ],
+    "main duties": [
+        "Inspect fish, fish products, fish handling and processing methods and prepare reports and ensure that regulations are followed.",
+        "Inspect fresh and frozen fruit and vegetables at inspection centres and prepare reports on crop production and market conditions.",
+        "Inspect and grade all classes of grain at terminal elevators, monitor the fumigation of infested grain, and examine storage, handling and transportation equipment to ensure that sanitary procedures are followed.",
+        "Monitor the operations and sanitary conditions of slaughtering and meat processing plants and inspect carcasses to ensure they are fit for human consumption.",
+        "Certify seed crops, oversee the quarantine, treatment or destruction of plants and plant products, and the fumigation of plants and plant product imports and exports."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Government inspectors usually require a bachelor's degree or college diploma in agriculture, biology, chemistry, food processing technology or a related discipline.",
+        "Inspectors (other than government) may require a bachelor's degree or college diploma in a related discipline.",
+        "Several years of experience in agricultural production or fish processing are usually required.",
+        "Completion of in-house training courses is required."
+    ],
+    "additional information": [
+        "Progression to managerial positions in this field is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Biological technologists and technicians (2221)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2221&ver=16"
+        },
+        {
+            "name": "Fish graders and meat graders who perform routine quality control duties or tally landed fish (in 9465 Testers and graders, food and beverage processing",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9465&ver=16"
+        },
+        {
+            "name": "Forestry technologists and technicians (2223)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2223&ver=16"
+        },
+        {
+            "name": "Inspectors in public and environmental health and occupational health and safety (2263)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2263&ver=16"
+        }
+    ]
+}

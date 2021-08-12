@@ -1,0 +1,55 @@
+{
+    "id": "7247",
+    "name": "Cable television service and maintenance technicians",
+    "lead statement": "Cable television service technicians install, maintain and repair cable and satellite television and Internet signal and associated equipment in homes and commercial buildings. Cable television maintenance technicians maintain and repair cable television transmission and distribution systems and associated hardware. They are employed by cable and satellite television companies.",
+    "example titles": [
+        "apprentice community antenna television (CATV) technician",
+        "cable television installation technician",
+        "cable television installer",
+        "cable television maintenance technician",
+        "cable television service installation technician",
+        "cable television technician",
+        "cablevision servicer",
+        "community antenna television (CATV) installation technician – telecommunications",
+        "community antenna television (CATV) maintenance technician",
+        "community antenna television (CATV) service installation technician – telecommunications",
+        "community antenna television (CATV) technician",
+        "community antenna television (CATV) technician – cable television",
+        "community antenna television (CATV) technician – telecommunications",
+        "direct broadcast satellite (DBS) technician – cable television",
+        "electronics apprentice – community antenna television",
+        "head end technician – cable television",
+        "installation service technician – cable television",
+        "satellite television technician",
+        "television cable servicer",
+        "television receive only (TVRO) technician"
+    ],
+    "main duties": [
+        "Communicate with subscribers and company personnel to determine work assignments",
+        "Connect, disconnect and relocate cable outlets, install splitters, converters, decoders, terminals, digital boxes, satellite and pay TV equipment, and install other cable hardware and systems at subscriber's premises",
+        "Install cable modems, routers and software to enable Internet access at subscriber's premises",
+        "Inspect, test and repair cable and satellite television signals and associated equipment at subscriber's premises.",
+        "Maintain and repair main aerial and underground coaxial and fibre optic cable television transmission lines, trunking and related distribution and interconnecting systems including power supplies and amplifiers",
+        "Inspect, monitor, test and adjust cable transmission and distribution systems",
+        "Repair or replace faulty cables, power supplies, amplifiers and other associated transmission and distribution equipment",
+        "Climb and work aloft on poles, ladders or other support structures",
+        "Communicate with other workers to co-ordinate the preparation and completion of work assignments."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Completion of a college program in electronics \r\n or a combination of college, correspondence or industry courses related to electronics and electrical systems and on-the-job training \r\n or completion of a four-year cable television technician apprenticeship program is required."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Supervisors of cable television service and maintenance technicians (in 7202 Contractors and supervisors, electrical trades and telecommunications occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7202&ver=16"
+        },
+        {
+            "name": "Workers who install aerial or underground cable television lines (in 7245 Telecommunications line and cable workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7245&ver=16"
+        }
+    ]
+}

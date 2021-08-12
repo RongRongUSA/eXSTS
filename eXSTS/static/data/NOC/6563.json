@@ -1,0 +1,77 @@
+{
+    "id": "6563",
+    "name": "Pet groomers and animal care workers",
+    "lead statement": "Animal care workers feed, handle, train and groom animals and assist veterinarians, animal health technologists and technicians and animal breeders. Pet groomers clip coats, bathe and otherwise groom pets. Workers in this group are employed by animal hospitals and clinics, animal shelters, breeding and boarding kennels, zoos, laboratories, retail pet shops, dog training schools, pet grooming establishments, or may be self-employed.",
+    "example titles": [
+        "animal attendant",
+        "animal attendants supervisor",
+        "animal care worker (except farm)",
+        "animal groomer (except horses)",
+        "animal health care assistant",
+        "animal trainer (except horses or marine mammals)",
+        "aquarist",
+        "certified dog master",
+        "dog groomer",
+        "dog handler",
+        "dog master",
+        "dog master trainer",
+        "dog trainer",
+        "groom – horse race track",
+        "horse hot-walker",
+        "kennel attendant",
+        "kennel keeper",
+        "kennelman/woman",
+        "laboratory animal attendant",
+        "laboratory animal care worker",
+        "pet groomer",
+        "pet master groomer",
+        "pet shop attendant",
+        "pet-sitter",
+        "pound animal attendant",
+        "pound attendant",
+        "receiving barn custodian",
+        "veterinary attendant",
+        "veterinary helper",
+        "zoo animal attendant",
+        "zoo attendant"
+    ],
+    "main duties": [
+        "Prepare food and feed animals, fish or birds at scheduled intervals",
+        "Clean and disinfect cages, pens and surrounding areas",
+        "Shampoo, clip and groom animals",
+        "Assist veterinarians and animal health technologists and technicians to inoculate and treat animals",
+        "Assist animal breeders to handle and nurture animals",
+        "Assist scientists and researchers in conducting laboratory tests with animals",
+        "Monitor and document animal behaviour",
+        "Train dogs to obey commands and perform specific duties in response to signals."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Depending on the type of work performed, training courses in animal handling, grooming or dog training are usually required. Animal health or veterinary assistant college courses may be required for animal care workers."
+    ],
+    "additional information": [
+        "Progression to animal health technology occupations is possible with additional training."
+    ],
+    "exclusions": [
+        {
+            "name": "Animal health technologists and veterinary technicians (3213)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3213&ver=16"
+        },
+        {
+            "name": "Animal nutritionists (in 2121 Biologists and related scientists",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2121&ver=16"
+        },
+        {
+            "name": "Horseshoers (in 7384 Other trades and related occupations, n.e.c.",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7384&ver=16"
+        },
+        {
+            "name": "Marine mammal trainers (in 2121 Biologists and related scientists",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2121&ver=16"
+        },
+        {
+            "name": "Sheep shearers (in 8431 General farm workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8431&ver=16"
+        }
+    ]
+}

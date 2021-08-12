@@ -1,0 +1,76 @@
+{
+    "id": "1511",
+    "name": "Mail, postal and related workers",
+    "lead statement": "This unit group includes workers who process and sort mail and parcels in post offices, mail processing plants and internal mail rooms, and clerks who serve customers and record transactions at sales counters and postal wickets. Mail, postal and related workers are employed by Canada Post Corporation, courier and parcel express companies and establishments throughout the public and private sectors.",
+    "example titles": [
+        "addressing machine operator – mail and postal services",
+        "address-labelling machine tender",
+        "address-plate inserter",
+        "bursting machine tender",
+        "bus parcel express clerk",
+        "counter clerk – mail and postal services",
+        "envelope-sealing and envelope-imprinting machine tender",
+        "express mail service clerk",
+        "express service clerk – railway",
+        "inserting machine tender – mail and postal services",
+        "letter sorting clerk",
+        "lost parcel post search clerk",
+        "lost postal package search clerk",
+        "mail clerk",
+        "mail clerk – railway transport",
+        "mail counter clerk",
+        "mail distribution clerk",
+        "mail filing clerk",
+        "mail handler",
+        "mail processing clerk",
+        "mail room assistant",
+        "mail room clerk",
+        "mail sorter",
+        "mail tracing clerk",
+        "mailer",
+        "mailing machine operator",
+        "mail-sorting system operator",
+        "management services clerk – mail and postal services",
+        "messenger service representative",
+        "parcel post clerk",
+        "post office clerk",
+        "postal clerk",
+        "postal counter clerk",
+        "postal services wicket clerk",
+        "postal wicket clerk",
+        "railway mail clerk",
+        "railway station mail clerk",
+        "registered mail clerk",
+        "routing clerk",
+        "shipping clerk – railway transport",
+        "sorting and routing clerk",
+        "stamp-cancelling machine tender – postal services",
+        "sub-post office clerk",
+        "wicket clerk – mail and postal services"
+    ],
+    "main duties": [
+        "Calculate and affix the correct postage on letters, parcels and registered mail and receive payment from customers; sell stamps, prepaid mail and courier envelopes and money orders; route mail to the proper delivery stream; sign or obtain signatures from recipients for registered or special delivery mail and keep records; answer inquiries and complete forms regarding change of address, theft or loss of mail; and record and balance daily transactions.",
+        "Sort mail according to destination; bundle, label, bag and route sorted mail to the proper delivery stream; and search directories to find the correct address for redirected mail.",
+        "Receive, process, sort and distribute incoming and outgoing mail, faxes, messages and courier packages manually or electronically; maintain address databases and produce personalized mailings; print and photocopy material, and address and stuff envelopes; weigh outgoing mail, calculate and affix proper postage, and bundle by postal code; and may operate and maintain print shop and mailing house equipment."
+    ],
+    "employment requirements": [
+        "Completion of secondary school and some college office administration courses may be required."
+    ],
+    "additional information": [
+        "Progression to supervisory or facility management positions is possible with additional training or experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Couriers, messengers and door-to-door distributors (1513)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1513&ver=16"
+        },
+        {
+            "name": "Letter carriers (1512)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1512&ver=16"
+        },
+        {
+            "name": "Supervisors, mail and message distribution occupations (1214)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1214&ver=16"
+        }
+    ]
+}

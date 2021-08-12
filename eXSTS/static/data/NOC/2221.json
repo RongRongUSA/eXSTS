@@ -1,0 +1,160 @@
+{
+    "id": "2221",
+    "name": "Biological technologists and technicians",
+    "lead statement": "Biological technologists and technicians provide technical support and services to scientists, engineers and other professionals working in fields such as agriculture, resource management, environmental protection, plant and animal biology, microbiology, cell and molecular biology and health sciences, or may work independently in these fields. They are employed in both laboratory and field settings by governments, manufacturers of food products, chemicals and pharmaceuticals, biotechnology companies, health, research and educational institutions, environmental consulting companies, and resource and utilities companies.",
+    "example titles": [
+        "agricultural sciences technician",
+        "agricultural technician",
+        "agricultural technologist",
+        "agrology technician",
+        "agrology technologist",
+        "agronomy technician",
+        "agronomy technologist",
+        "aquaculture technician",
+        "aquatic biology technician",
+        "bacteriological technician",
+        "bacteriological technologist",
+        "biological forensic laboratory technologist",
+        "biological laboratory technologist",
+        "biological technician",
+        "biological technologist",
+        "biotechnology technician",
+        "botanical technician",
+        "botanical technologist",
+        "crop production technician",
+        "dairy products technician",
+        "dairy technologist",
+        "ecological technician",
+        "ecological technologist",
+        "eel culture technician",
+        "entomological technician",
+        "entomological technologist",
+        "field crop technician",
+        "field crop technologist",
+        "fish culturist",
+        "fish farm technologist",
+        "fish hatchery technician",
+        "fish roe technician",
+        "fisheries technician",
+        "fisheries technologist",
+        "fishery bacteriological technician",
+        "fishery bacteriological technologist",
+        "food bacteriological technician",
+        "food bacteriological technologist",
+        "habitat management technician",
+        "hair and fibre forensic examiner",
+        "ichthyological technician",
+        "ichthyological technologist",
+        "industrial bacteriological technician",
+        "industrial bacteriological technologist",
+        "life sciences research technician",
+        "lobster culture technician",
+        "malacology technician",
+        "mammalogy technician",
+        "mammalogy technologist",
+        "marine biological technician",
+        "marine biology technician",
+        "marine biology technologist",
+        "marine culture technologist",
+        "marine farming technologist",
+        "microbiological technician",
+        "microbiology quality control technologist",
+        "microbiology technician (except medical)",
+        "microbiology technologist (except medical)",
+        "mycological technician",
+        "mycological technologist",
+        "nanobiotechnology technician",
+        "natural resources technician – biology",
+        "ornithological technician",
+        "ornithological technologist",
+        "oyster culture technician",
+        "pisciculture bacteriological technologist",
+        "plant breeding technician",
+        "plant pathology technician",
+        "plant pathology technologist",
+        "poultry technician",
+        "poultry technologist",
+        "sea-farming technologist",
+        "seed technologist",
+        "soil bacteriological technician",
+        "soil bacteriological technologist",
+        "vaccine technician",
+        "virology technologist",
+        "wildlife biology technician",
+        "wildlife resources technician",
+        "wildlife technician",
+        "wildlife technologist",
+        "zoo foreman/woman",
+        "zoo supervisor",
+        "zoological technician",
+        "zoological technologist"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Biological technologists",
+            "duty_description": [
+                "Set up and conduct biological, microbiological and biochemical tests and laboratory analyses in support of research and quality control in food production, sanitation, pharmaceutical production, biotechnology and other fields",
+                "Apply methods and techniques such as microscopy, histochemistry, chromatography, electrophoresis and spectroscopy",
+                "Perform experimental procedures in agriculture, plant breeding, animal husbandry, biology and biomedical research",
+                "Conduct field research and surveys to collect data and samples of water, soil, and plant and animal populations",
+                "Conduct environmental monitoring and compliance activities for the protection of fisheries stock, wildlife and other natural resources",
+                "Analyze data and prepare reports",
+                "Conduct or supervise operational programs such as fish hatchery, greenhouse and livestock production programs."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Biological technicians",
+            "duty_description": [
+                "Assist in conducting biological, microbiological and biochemical tests and laboratory analyses",
+                "Perform limited range of technical functions in support of agriculture, plant breeding, animal husbandry, biology, biomedical research and environmental protection",
+                "Assist in conducting field research and surveys to collect data and samples of water, soil, and plant and animal populations",
+                "Assist in analysis of data and preparation of reports."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Completion of a two- to three-year college program in a field related to agriculture, biology, microbiology, wildlife or resource management is usually required for employment as a biological technologist.",
+        "Completion of a one- to two-year college program in a related field is required for employment as a biological technician.",
+        "Certification with provincial associations is available, but voluntary."
+    ],
+    "additional information": [
+        "There is limited mobility among occupations in this group.",
+        "Some technologists and technicians working in support of government and academic research in biology are university graduates."
+    ],
+    "exclusions": [
+        {
+            "name": "Agricultural and fish products inspectors (2222)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2222&ver=16"
+        },
+        {
+            "name": "Biochemistry technologists and biochemistry laboratory technicians (in 2211 Chemical technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2211&ver=16"
+        },
+        {
+            "name": "Biologists and related scientists (2121)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2121&ver=16"
+        },
+        {
+            "name": "Biomedical engineering technologists (in 2241 Electrical and electronics engineering technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2241&ver=16"
+        },
+        {
+            "name": "Conservation and fishery officers (2224)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2224&ver=16"
+        },
+        {
+            "name": "Forestry technologists and technicians (2223)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2223&ver=16"
+        },
+        {
+            "name": "Medical laboratory technicians and pathologists' assistants (3212)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3212&ver=16"
+        },
+        {
+            "name": "Medical laboratory technologists (3211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3211&ver=16"
+        }
+    ]
+}

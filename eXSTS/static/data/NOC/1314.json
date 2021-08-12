@@ -1,0 +1,75 @@
+{
+    "id": "1314",
+    "name": "Assessors, valuators and appraisers",
+    "lead statement": "Assessors, valuators and appraisers determine the value of land, businesses, estates and other real property, for purposes of sale, purchase, taxation or disposal of assets. Appraisers also determine the value of personal and household items. Assessors, valuators and appraisers are employed by government agencies, real estate firms and other private companies, or they may be self-employed.",
+    "example titles": [
+        "Accredited appraiser",
+        "Appraisal technician",
+        "Appraiser (except customs)",
+        "Assessor (except tax)",
+        "Assistant appraiser",
+        "Automobile appraiser",
+        "Building appraiser",
+        "Business appraiser",
+        "Business valuation officer",
+        "Business valuator",
+        "Canadian residential appraiser (CRA)",
+        "Chartered appraiser",
+        "Chartered business valuator (CBV)",
+        "CRA (Canadian residential appraiser)",
+        "Fishing vessels appraiser",
+        "Furniture appraiser",
+        "Insurance appraiser",
+        "Municipal assessor",
+        "Property appraiser",
+        "Property assessor",
+        "Property valuator",
+        "Real estate analyst",
+        "Real estate appraisal technician",
+        "Real estate appraiser",
+        "Real estate assessor",
+        "Valuation consultant",
+        "Valuator-appraiser"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Assessors",
+            "duty_description": [
+                "Assess value of land, building, structures, machinery, equipment and property improvements for purposes of taxation, grants and regional planning and prior to sale or purchase",
+                "Review and analyze data such as past sales, title searches, engineering and alignment maps, soil maps, subdivision plans, water and sewer plans, leasing cost data and easements",
+                "Explain assessment process to ratepayers."
+            ],
+            "duty_comment": "Assessors may specialize in advising and consulting in a specific field of assessment such as residential, commercial, industrial, institutional or farm lands."
+        },
+        {
+            "duty_name": "Valuators",
+            "duty_description": [
+                "Collect and analyze financial records of a business, such as financial statements, budgets, projections and sales data, to assess its competitiveness or to estimate its market value",
+                "Prepare reports for estate planning, matrimonial litigation, insurance and business losses",
+                "Appear as an expert witness before courts, security regulators and other regulatory boards and commissions."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Appraisers",
+            "duty_description": [
+                "Appraise value of property, building, industrial and commercial machinery and equipment and personal and household items",
+                "Prepare appraisal reports for lending agencies, insurance companies, government departments, courts, attorneys, creditors, buyers or auctioneers."
+            ],
+            "duty_comment": "Appraisers may specialize in a specific type of appraisal such as real estate appraisal."
+        }
+    ],
+    "employment requirements": [
+        "Assessors require a college diploma in municipal assessment and accreditation with the municipal assessment association of the province.",
+        "Valuators usually require a bachelor's degree or college diploma in accounting, business or commerce and accreditation with the Canadian Institute of Chartered Business Valuators based on successful completion of its business and security valuation program.",
+        "Appraisers require a college diploma or vocational training in the field of appraisal or several years of experience in a position related to the field of appraisal.",
+        "In Quebec, membership with l'Ordre des évaluateurs agréés du Québec (OEAQ) is required to use the title chartered appraiser.",
+        "Real estate appraisers usually require several years of experience as a real estate agent, right-of-way agent or property administrator and may require Canadian residential appraiser certification.",
+        "Appraisers of residential, commercial or industrial property require accreditation with the Appraisal Institute of Canada."
+    ],
+    "additional information": [
+        "Progression to management positions in each field is possible with experience."
+    ],
+    "exclusions": null
+}
+

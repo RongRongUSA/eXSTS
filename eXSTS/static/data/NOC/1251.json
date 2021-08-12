@@ -1,0 +1,54 @@
+{
+    "id": "1251",
+    "name": "Court reporters, medical transcriptionists and related occupations",
+    "lead statement": "Court reporters record and transcribe verbatim the proceedings of courts, legislative assemblies and committees, and prepare transcripts for use by judges, tribunals and quasi-judicial panels. They are employed by courts of law, provincial and federal legislative assemblies and committees, or they may be self-employed. Medical transcriptionists record, transcribe and edit dictation by physicians and other health care providers, surgical proceedings, health-related reports and other medical documentation. They are employed by hospitals, medical clinics and doctors' offices, or they may be self-employed. Closed captioners and other transcriptionists are included in this unit group.",
+    "example titles": [
+        "braille transcriber",
+        "braille volumes transcriber",
+        "closed captioner",
+        "court monitor",
+        "court recorder",
+        "court reporter",
+        "court stenographer",
+        "dictatypist",
+        "Hansard reporter",
+        "media transcriber",
+        "media transcriptionist",
+        "medical dictatypist",
+        "medical transcriptionist",
+        "stenotype operator",
+        "transcriber",
+        "transcriptionist"
+    ],
+    "main duties": [
+        "Record verbatim proceedings of courtroom using electronic stenograph machine or stenomask",
+        "Respond to requests during court sessions to read back verbatim evidence",
+        "Transcribe recorded proceedings in accordance with established formats",
+        "Verify accuracy of transcripts by checking copy against original record of proceedings and accuracy of rulings by checking with judge",
+        "Research and locate quotes to ensure accuracy",
+        "Respond to requests for transcripts ordered by judges, lawyers or the public",
+        "File and store shorthand notes of court session.",
+        "Transcribe recorded dictation in accordance with established formats or written documentation from medical reports, correspondence, health records and patient information",
+        "Proofread work for typographical and grammatical errors",
+        "Edit transcripts for missing or incorrect content and formatting."
+    ],
+    "employment requirements": [
+        "Court reporters require completion of secondary school.",
+        "Completion of a college or other program in court reporting is usually required\r\n and the Chartered Shorthand Reporter (CSR) certificate may be required for court reporters.",
+        "Medical transcriptionists require completion of secondary school.",
+        "Completion of a recognized medical transcription program is usually required\r\n and the Certified Medical Transcriptionist (CMT) certificate may be required for medical transcriptors."
+    ],
+    "additional information": [
+        "There is some mobility between occupations in this unit group and other occupations requiring similar knowledge of legal or medical terminology, such as legal or medical administrative positions."
+    ],
+    "exclusions": [
+        {
+            "name": "Legal administrative assistants (1242)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1242&ver=16"
+        },
+        {
+            "name": "Medical administrative assistants (1243)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1243&ver=16"
+        }
+    ]
+}

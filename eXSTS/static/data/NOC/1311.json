@@ -1,0 +1,49 @@
+{
+    "id": "1311",
+    "name": "Accounting technicians and bookkeepers",
+    "lead statement": "Accounting technicians and bookkeepers maintain complete sets of books, keep records of accounts, verify the procedures used for recording financial transactions, and provide personal bookkeeping services. They are employed throughout the private and public sectors, or they may be self-employed.",
+    "example titles": [
+        "accounting bookkeeper",
+        "accounting technician",
+        "bookkeeper",
+        "bookkeeping clerk",
+        "budget officer",
+        "finance officer",
+        "finance technician",
+        "financial officer",
+        "senior bookkeeper"
+    ],
+    "main duties": [
+        "Keep financial records and establish, maintain and balance various accounts using manual and computerized bookkeeping systems",
+        "Post journal entries and reconcile accounts, prepare trial balance of books, maintain general ledgers and prepare financial statements",
+        "Calculate and prepare cheques for payrolls and for utility, tax and other bills",
+        "Complete and submit tax remittance forms, workers' compensation forms, pension contribution forms and other government documents",
+        "Prepare tax returns and perform other personal bookkeeping services",
+        "Prepare other statistical, financial and accounting reports."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Completion of a college program in accounting, bookkeeping or a related field \r\n or completion of two years (first level) of a recognized professional accounting program (e.g., Chartered Accounting, Certified General Accounting) \r\n or courses in accounting or bookkeeping combined with several years of experience as a financial or accounting clerk are required."
+    ],
+    "additional information": [
+        "Progression to professional accounting occupations is possible with additional training."
+    ],
+    "exclusions": [
+        {
+            "name": "Accounting and related clerks (1431)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1431&ver=16"
+        },
+        {
+            "name": "Banking, insurance and other financial clerks (1434)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1434&ver=16"
+        },
+        {
+            "name": "Financial auditors and accountants (1111)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1111&ver=16"
+        },
+        {
+            "name": "Payroll administrators (1432)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1432&ver=16"
+        }
+    ]
+}

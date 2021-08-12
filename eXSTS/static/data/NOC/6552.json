@@ -1,0 +1,116 @@
+{
+    "id": "6552",
+    "name": "Other customer and information services representatives",
+    "lead statement": "Other customer and information services representatives answer enquiries and provide information regarding an establishment's goods, services and policies and who provide customer services such as receiving payments and processing requests for services. They are employed by retail establishments, contact centres, insurance, telecommunications and utility companies and other establishments throughout the private and public sectors.",
+    "example titles": [
+        "Accounts information clerk",
+        "Adjustment clerk",
+        "Automobile dealerships service representative",
+        "Bill complaints investigator",
+        "Bus information clerk",
+        "Bus schedule information clerk",
+        "Bus service information clerk",
+        "Business office service representative - telecommunications",
+        "Call centre agent - customer service",
+        "Client service clerk",
+        "Compensation agent",
+        "Complaints adjuster",
+        "Complaints clerk - customer service",
+        "Complaints clerk - telephone system",
+        "Complaints specialist - customer service",
+        "Contact centre agent - customer service",
+        "Counter enquiries clerk",
+        "Courtesy desk clerk",
+        "Customer information service clerk - insurance",
+        "Customer information service representative - retail",
+        "Customer relations clerk",
+        "Customer satisfaction representative",
+        "Customer service adviser",
+        "Customer service agent",
+        "Customer service assistant",
+        "Customer service clerk",
+        "Customer service monitor - telephone system",
+        "Customer service operator - telephone system",
+        "Customer service representative - call centre",
+        "Customer service representative - insurance",
+        "Department store information clerk",
+        "Enquiries clerk",
+        "Express and freight information clerk",
+        "Hospital information clerk",
+        "Hotel information clerk - contact centre",
+        "Inbound customer service representative - contact centre",
+        "Information clerk - customer service",
+        "Kiosk information clerk",
+        "Lost claims clerk",
+        "Lost or damaged goods claim clerk",
+        "Lost-and-found clerk",
+        "Lost-and-found desk clerk",
+        "Maintenance service clerk",
+        "Merchandise exchange clerk",
+        "Order clerk - customer services",
+        "Order desk agent",
+        "Outbound customer service representative - contact centre",
+        "Price information clerk",
+        "Public relations clerk",
+        "Road transport terminal attendant",
+        "Route supply and return clerk",
+        "Service adviser",
+        "Service advisor - auto repair",
+        "Service consultant - auto repair",
+        "Service writer - auto repair",
+        "Supply and return clerk",
+        "Telephone enquiries clerk",
+        "Tourist booth attendant",
+        "Tourist information clerk",
+        "Tourist information office attendant",
+        "Tourist information officer"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Customer service representatives in retail establishments",
+            "duty_description": [
+                "Answer, in person or on the phone, enquiries from customers",
+                "Investigate complaints regarding the establishment's goods, services and policies",
+                "Arrange for refunds, exchange and credit for returned merchandise",
+                "Receive account payments",
+                "Receive credit and employment applications."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Contact centre agents",
+            "duty_description": [
+                "Take customer orders for goods or services",
+                "Promote goods or services",
+                "Respond to enquiries and emergencies",
+                "Investigate complaints and update accounts."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Customer service representatives in insurance, telecommunication, utility and similar companies",
+            "duty_description": [
+                "Explain the type and cost of services offered",
+                "Order services",
+                "Provide information about claims or accounts",
+                "Update accounts, initiate billing and process claim payments, and receive payment for services."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Information services representatives",
+            "duty_description": [
+                "Provide information to customers and the public concerning goods, services, schedules, rates, regulations and policies in response to telephone and in-person enquiries."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of some college or other post-secondary programs may be required.",
+        "Clerical or sales experience may be required."
+    ],
+    "additional information": ["Progression to supervisory positions is possible with experience."],
+    "exclusions": null
+}
+

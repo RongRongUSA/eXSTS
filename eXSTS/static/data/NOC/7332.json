@@ -1,0 +1,117 @@
+{
+    "id": "7332",
+    "name": "Appliance servicers and repairers",
+    "lead statement": "Appliance servicers and repairers service and repair domestic and commercial appliances. They are employed by repair shops, appliance service companies and repair departments of retail and wholesale establishments, or they may be self-employed.",
+    "example titles": [
+        "after-sales service technician – electrical appliances",
+        "air conditioner repairer – window unit",
+        "appliance repairer apprentice",
+        "appliance service technician",
+        "appliance service technician apprentice",
+        "appliance servicer",
+        "apprentice appliance service technician",
+        "commercial bakery appliance technician",
+        "commercial foodservice appliance technician",
+        "commercial laundry appliance technician",
+        "dishwasher repairer",
+        "domestic refrigerator repairer",
+        "domestic refrigerator servicer",
+        "domestic window air conditioner mechanic",
+        "domestic window air conditioner repairer",
+        "electric appliance service technician",
+        "electric dryer repairer",
+        "electric fireplace servicer",
+        "electric household appliance servicer",
+        "electric lawn mower repairer",
+        "electric refrigerator servicer",
+        "electric stove repairman/woman",
+        "electric stove serviceman/woman",
+        "electric tool repairer",
+        "electrical appliance repairer",
+        "electrical appliance serviceman/woman",
+        "electrical appliance servicer",
+        "electrical appliance technician",
+        "gas appliance repairer",
+        "gas appliance repairer – customer service",
+        "gas appliance servicer",
+        "gas appliance servicer – customer service",
+        "gas fireplace servicer",
+        "gas stove repairer",
+        "household electrical appliance repairman/woman",
+        "household electrical appliance service technician",
+        "major electric appliance repairer",
+        "major electrical appliance repairer",
+        "major electrical appliance servicer",
+        "portable appliance repairman/woman",
+        "portable electric household appliance repairer",
+        "power tool repairer",
+        "refrigerator repairer",
+        "refrigerator servicer",
+        "service technician – electrical appliances",
+        "service technician – gas appliances",
+        "stove repairer",
+        "stove repairman/woman electric",
+        "stove serviceman/woman electric",
+        "vacuum cleaner repairer",
+        "vacuum cleaner repairman/woman",
+        "vacuum cleaner servicer",
+        "washing machine repairman/woman",
+        "washing machine servicer",
+        "window air conditioner mechanic",
+        "window air conditioner repairer",
+        "wood fireplace servicer"
+    ],
+    "main duties": [
+        "Repair small electrical appliances, such as lawn and garden equipment and power tools",
+        "Consult customer or refer to work order to establish nature of the appliance malfunction",
+        "Observe operation of appliance and conduct voltage, resistance and other tests using electrical test equipment",
+        "Refer to schematic drawings or product manuals and replace or repair parts or components using hand tools and soldering equipment",
+        "Prepare estimates and written accounts of work performed.",
+        "Repair major electrical or gas appliances, such as domestic and commercial dishwashing equipment, stoves, laundry equipment and refrigerators in customer's home, in customer's place of business or in repair shop",
+        "Consult customer or refer to work order to establish nature of the appliance malfunction",
+        "Diagnose faults by checking controls, condensers, timer sequences, fans and other components using test equipment such as meters and gauges to measure resistance, current, voltage, pressure, temperature, flue gases and flow rates",
+        "Refer to schematic diagrams or product manuals and disassemble appliance using hand tools",
+        "Use shop equipment and specialized diagnostic and programming apparatus to repair, adjust and reprogram appliances",
+        "Replace components and subcomponents and reassemble appliance using hand tools and soldering and brazing equipment",
+        "Prepare estimates and written accounts of work performed",
+        "May plan service routes."
+    ],
+    "employment requirements": [
+        "Completion of secondary school and training courses or a vocational program is usually required.",
+        "Small appliance repairers usually require some specialized college or high school courses or several months of on-the-job training.",
+        "Major appliance repairers/technicians require some secondary school education and completion of a college program in appliance repair \r\n or completion of a three- or four-year apprenticeship program in appliance repair.",
+        "Appliance service technician, or appliance serviceperson, trade certification is compulsory in Alberta and available, but voluntary, in Newfoundland and Labrador, Nova Scotia, Prince Edward Island, New Brunswick, Quebec, Ontario, British Columbia, the Northwest Territories and Nunavut.",
+        "A provincial gas fitter licence, or gas appliance technician certificate, may be required for gas appliance service technicians.",
+        "Red Seal endorsement is also available to qualified appliance service technicians upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Electronic service technicians (household and business equipment) (2242)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2242&ver=16"
+        },
+        {
+            "name": "Gas fitters (7253)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7253&ver=16"
+        },
+        {
+            "name": "Other small engine and small equipment repairers (7335)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7335&ver=16"
+        },
+        {
+            "name": "Heating, refrigeration and air conditioning mechanics (7313)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7313&ver=16"
+        },
+        {
+            "name": "Residential and commercial installers and servicers (7441)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7441&ver=16"
+        },
+        {
+            "name": "Supervisors of appliance servicers and repairers (in 7301 Contractors and supervisors, mechanic trades",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7301&ver=16"
+        }
+    ]
+}

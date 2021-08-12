@@ -1,0 +1,109 @@
+{
+    "id": "5252",
+    "name": "Coaches",
+    "lead statement": "Coaches prepare and train individual athletes or teams for competitive events. They are employed by national and provincial sports organizations, professional and amateur sports teams, sports clubs and universities or they may be self-employed. This unit group also includes sports scouts who identify and recruit athletes for professional sports teams. They are employed by professional sports organizations.",
+    "example titles": [
+        "amateur athletics team coach",
+        "amateur sports team coach",
+        "amateur track and field team coach",
+        "athletic boxing trainer",
+        "athletics coach",
+        "athletics team coach",
+        "baseball coach",
+        "baseball manager-coach",
+        "baseball scout",
+        "baseball team coach",
+        "basketball scout",
+        "basketball team coach",
+        "bobsled coach",
+        "bobsleigh coach",
+        "boxing trainer",
+        "coach",
+        "cycling coach",
+        "figure skating coach",
+        "football coach",
+        "football scout",
+        "football team coach",
+        "gymnastics coach",
+        "head coach",
+        "hockey coach",
+        "hockey scout",
+        "hockey team coach",
+        "junior hockey coach",
+        "kickboxing trainer",
+        "lacrosse coach",
+        "lacrosse scout",
+        "lacrosse team coach",
+        "luge coach",
+        "luge instructor",
+        "national team coach",
+        "professional athletes team coach",
+        "professional sports scout",
+        "professional sports team coach",
+        "professional team coach",
+        "provincial team coach",
+        "ski coach",
+        "soccer coach",
+        "sports coach",
+        "sports scout",
+        "swim coach",
+        "swimming coach",
+        "tennis coach",
+        "track and field athletes coach",
+        "track and field coach",
+        "track and field team coach",
+        "volleyball coach",
+        "water-polo coach"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Coaches",
+            "duty_description": [
+                "Identify strengths and weaknesses of athletes or teams",
+                "Plan, develop and implement training and practice sessions",
+                "Nurture and develop athletes' potential skills and abilities",
+                "Develop, plan and co-ordinate competitive schedules and programs",
+                "Motivate and prepare athletes or teams for competitive events or games",
+                "Formulate competitive strategies, develop game plans and direct athletes and players during games or athletic events",
+                "Analyse and evaluate athletes' or teams' performances and modify training programs."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Sports scouts",
+            "duty_description": [
+                "Identify and recruit developing athletes for professional sports teams",
+                "Observe and evaluate prospective athletes' skills and performance, and review their past records",
+                "File reports on scouting assessments and recommendations with professional team employers."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Completion of the National Coaching Certificate program is usually required for individual and team sports coaches in all sports.",
+        "National Coaching Certificate Level 3 is usually required for provincial coaches.",
+        "National Coaching Certificate Level 4 is usually required for coaches of national team athletes.",
+        "A degree in physical education may be required.",
+        "Experience in, and technical knowledge of, the sport is required.",
+        "Experience in, and technical knowledge of, the sport is required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Athletes (5251)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5251&ver=16"
+        },
+        {
+            "name": "Athletic therapists (in 3144 Other professional occupations in therapy and assessment",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3144&ver=16"
+        },
+        {
+            "name": "Program leaders and instructors in recreation, sport and fitness (5254)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5254&ver=16"
+        },
+        {
+            "name": "Sports officials and referees (5253)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5253&ver=16"
+        }
+    ]
+}

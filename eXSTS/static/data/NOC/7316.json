@@ -1,0 +1,85 @@
+{
+    "id": "7316",
+    "name": "Machine fitters",
+    "lead statement": "Machine fitters fit, assemble and otherwise build heavy industrial machinery and transportation equipment, including aircraft engines. They are employed in industrial machinery and transportation equipment manufacturing industries.",
+    "example titles": [
+        "agricultural machinery builder",
+        "agricultural machinery fitter",
+        "aircraft engine assembly fitter",
+        "aircraft engine fitter",
+        "assembly fitter",
+        "assembly mechanic-fitter lead hand",
+        "chemical-processing machine builder",
+        "compressor fitter",
+        "crane fitter",
+        "farm machinery builder",
+        "farm machinery fitter",
+        "food-processing machine fitter",
+        "grader fitter",
+        "heavy equipment fitter",
+        "heavy machinery fitter",
+        "locomotive builder",
+        "locomotive fitter",
+        "logging machinery fitter",
+        "machine builder",
+        "machine builder-fitter",
+        "machine fitter",
+        "machine fitter charge hand",
+        "machine tool builder",
+        "machine tool builder-integrator",
+        "machine tool integrator",
+        "machinery manufacturing fitter",
+        "manufacturing machinery fitter",
+        "mechanical fitter",
+        "mining machinery fitter",
+        "production equipment fitter",
+        "pulp and paper machinery builder",
+        "railway coach fitter",
+        "ship engine fitter",
+        "ship machinery fitter",
+        "textile machinery fitter",
+        "turbine fitter"
+    ],
+    "main duties": [
+        "Read and interpret blueprints, sketches and diagrams to determine assembly operations",
+        "Fit and assemble prefabricated metal parts to build heavy industrial machinery and equipment such as construction, farming, and processing machinery, railway vehicles and aircraft engines",
+        "Move and align subassemblies and components using lifting and transporting devices such as overhead cranes",
+        "Install major components such as gears, pumps, motors or hydraulic assemblies",
+        "Inspect parts, subassemblies and finished products to ensure quality."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a mechanical apprenticeship program, such as millwrighting, machining, pipefitting, automotive service or heavy equipment repair \r\n or completion of a four-year machine fitter apprenticeship program \r\n or completion of five years of on-the-job training is usually required.",
+        "Completion of a two- to three-year college program in aircraft manufacturing or general fabrication is required for aircraft engine fitters.",
+        "Certification in a related trade may be required."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Aircraft assemblers (in 9521 Aircraft assemblers and aircraft assembly inspectors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9521&ver=16"
+        },
+        {
+            "name": "Assemblers of electrical industrial equipment (in 9525 Assemblers, fabricators and inspectors, industrial electrical motors and transformers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9525&ver=16"
+        },
+        {
+            "name": "Mechanical assemblers and inspectors (9526)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9526&ver=16"
+        },
+        {
+            "name": "Millwrights (in 7311 Construction millwrights and industrial mechanics",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7311&ver=16"
+        },
+        {
+            "name": "Supervisors of machine fitters (in 7301 Contractors and supervisors, mechanic trades",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7301&ver=16"
+        },
+        {
+            "name": "Welders and related machine operators (7237)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7237&ver=16"
+        }
+    ]
+}

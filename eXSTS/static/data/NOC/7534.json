@@ -1,0 +1,49 @@
+{
+    "id": "7534",
+    "name": "Air transport ramp attendants",
+    "lead statement": "Air transport ramp attendants operate ramp-servicing vehicles and equipment, handle cargo and baggage and perform other ground support duties at airports. They are employed by airline and air services companies and the federal government.",
+    "example titles": [
+        "aircraft cleaner",
+        "aircraft groomer",
+        "aircraft refueler",
+        "aircraft towing equipment operator",
+        "airport ramp attendant",
+        "baggage loader – air transport",
+        "cargo attendant – air transport",
+        "cargo handler – air transport",
+        "cargo loader – air transport",
+        "freight attendant – air transport",
+        "ramp agent – air transport",
+        "ramp attendant – air transport",
+        "ramp lead hand – air transport",
+        "ramp station attendant – air transport",
+        "station attendant – air transport"
+    ],
+    "main duties": [
+        "Drive and operate ramp-servicing vehicles and equipment such as towing tractors, food service trucks, de-icer sprayers and lavatory servicing trucks",
+        "Position passenger loading stairs and operate aircraft cargo doors",
+        "Marshal or tow aircrafts to gate positions for passenger boarding and deplaning and for loading and unloading of cargo",
+        "Sort and load cargo and passenger baggage according to instructions forwarded by load planner to achieve proper balance",
+        "Unload, sort and route cargo and baggage",
+        "Transport freight between aircraft and airport warehouse",
+        "Clean and prepare aircraft interior for passengers and wash aircraft exterior."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Experience operating baggage transporting equipment or warehouse experience may be required.",
+        "A driver's licence and a good driving record are usually required."
+    ],
+    "additional information": [
+        "There is mobility among jobs in this unit group."
+    ],
+    "exclusions": [
+        {
+            "name": "Airline load planners (in 6523 Airline ticket and service agents",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6523&ver=16"
+        },
+        {
+            "name": "Material handlers (7452)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7452&ver=16"
+        }
+    ]
+}

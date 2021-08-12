@@ -1,0 +1,93 @@
+{
+    "id": "1414",
+    "name": "Receptionists",
+    "lead statement": "Receptionists greet people arriving at offices, hospitals and other establishments, direct visitors to appropriate person or service, answer and forward telephone calls, take messages, schedule appointments and perform other clerical duties. They are employed by hospitals, medical and dental offices and throughout the public and private sectors. Telephone operators are included in this group.",
+    "example titles": [
+        "admitting clerk",
+        "answering service operator",
+        "appointment clerk",
+        "beauty salon receptionist",
+        "booking clerk – hospital",
+        "booking clerk – medical office",
+        "business receptionist",
+        "charge operator – telephone system",
+        "chief telephone operator",
+        "clerk switchboard operator",
+        "collect call operator – telephone system",
+        "dental office receptionist",
+        "dental receptionist",
+        "doctor's office receptionist",
+        "emergency admitting clerk",
+        "front desk clerk (except hotel)",
+        "guest service representative – spa",
+        "hospital admissions clerk",
+        "hospital admitting clerk",
+        "hospital receptionist",
+        "information desk clerk",
+        "information officer – Elections Canada",
+        "international exchange operator – telephone system",
+        "long distance telephone operator",
+        "mail and message distribution clerk",
+        "medical clinic receptionist",
+        "medical office assistant",
+        "medical office secretary-receptionist",
+        "medical receptionist",
+        "office reception clerk",
+        "office receptionist",
+        "operator – telephone system",
+        "reception clerk",
+        "reception desk clerk (except hotel)",
+        "receptionist",
+        "receptionist-clerk",
+        "receptionist-secretary",
+        "receptionist-switchboard operator",
+        "receptionist-telephone operator",
+        "receptionist-typist",
+        "service assistant – telephone system",
+        "spa receptionist",
+        "switchboard operator",
+        "telephone answering service operator",
+        "telephone clerk",
+        "telephone operator",
+        "telephone service analyst",
+        "telephone service assistant",
+        "telereceptionist",
+        "toll operator",
+        "voice communication system operator"
+    ],
+    "main duties": [
+        "Greet people coming into offices and other establishments, direct them to the appropriate contacts or services, provide general information in person and by phone, and may perform clerical duties and maintain front desk security and security access lists.",
+        "Interview patients to obtain and process information required to provide hospital and medical services.",
+        "Greet patients, schedule appointments, using manual or computerized systems, receive and record payment for services, and direct patients to appropriate areas.",
+        "Operate a telephone system or switchboard to answer, screen and forward telephone calls, take messages and provide information as required, and may perform clerical duties.",
+        "Answer telephones and record and relay messages.",
+        "Direct customers to appropriate areas, record bookings, handle credit card checks, receive payment, issue receipts, arrange tour reservations and deal with emergency situations.",
+        "Operate telephone systems to advance and complete customers' telephone calls such as long distance, pay telephone, mobile radio/telephone and person to person calls, arrange teleconferences, provide relay phone service to persons with disabilities, and may calculate and record billing information."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "On-the-job training may be provided."
+    ],
+    "additional information": [
+        "Some receptionists are required to be bilingual or multilingual to perform their duties.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "911 dispatchers (in 1525 Dispatchers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1525&ver=16"
+        },
+        {
+            "name": "Hotel front desk clerks (6525)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6525&ver=16"
+        },
+        {
+            "name": "Other customer and information services representatives (6552)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6552&ver=16"
+        },
+        {
+            "name": "Supervisors, general office and administrative support workers (1211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1211&ver=16"
+        }
+    ]
+}

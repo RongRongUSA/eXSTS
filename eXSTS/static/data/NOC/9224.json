@@ -1,0 +1,79 @@
+{
+    "id": "9224",
+    "name": "Supervisors, furniture and fixtures manufacturing",
+    "lead statement": "Supervisors in this unit group supervise and co-ordinate the activities of workers who manufacture furniture and fixtures made of wood or other materials. They are employed in furniture and fixtures manufacturing establishments.",
+    "example titles": [
+        "buffing and lacquering foreman/woman – furniture and fixtures manufacturing",
+        "cabinet assembler and wood furniture maker foreman/woman",
+        "chair assembly foreman/woman – furniture and fixtures manufacturing",
+        "decorating foreman/woman – furniture and fixtures manufacturing",
+        "desk assembly foreman/woman",
+        "desk assembly foreman/woman – furniture and fixtures manufacturing",
+        "finishing room foreman/woman – furniture and fixtures manufacturing",
+        "furniture and fixtures manufacturing supervisor",
+        "furniture assembly foreman/woman – furniture and fixtures manufacturing",
+        "furniture components sanding department foreman/woman",
+        "furniture finishers foreman/woman – furniture and fixtures manufacturing",
+        "furniture finishers supervisor",
+        "furniture finishing foreman/woman – furniture and fixtures manufacturing",
+        "furniture gluers foreman/woman – furniture and fixtures manufacturing",
+        "furniture inspectors foreman/woman",
+        "gluing foreman/woman – furniture and fixtures manufacturing",
+        "laminating foreman/woman",
+        "laminating foreman/woman – furniture and fixtures manufacturing",
+        "machining foreman/woman – furniture and fixtures manufacturing",
+        "mattress manufacturing foreman/woman",
+        "metal furniture assembly foreman/woman",
+        "paint department foreman/woman – furniture and fixtures manufacturing",
+        "planers, turners, shapers and related wood-machining workers foreman/woman – furniture and fixtures manufacturing",
+        "veneering foreman/woman – furniture and fixtures manufacturing",
+        "veneering shop foreman/woman – furniture and fixtures manufacturing",
+        "wood machining workers foreman/woman – furniture and fixtures manufacturing",
+        "wood sanders foreman/woman – furniture and fixtures manufacturing",
+        "wood sawing foreman/woman (except sawmill)",
+        "wood-machining quality-control inspectors foreman/woman – furniture and fixtures manufacturing",
+        "woodworking machine department foreman/woman – furniture and fixtures manufacturing",
+        "woodworking machine operators foreman/woman – furniture and fixtures manufacturing",
+        "woodworking machine operators supervisor – furniture and fixtures manufacturing"
+    ],
+    "main duties": [
+        "Supervise, co-ordinate and schedule the activities of workers who assemble furniture and fixtures of any materials, operate woodworking machines and finish furniture to specified colour or finish",
+        "Establish methods to meet work schedules and co-ordinate work activities with other departments",
+        "Resolve work problems and recommend work measures to improve productivity and product quality",
+        "Requisition materials and supplies",
+        "Train staff in job duties, safety procedures and company policy",
+        "Recommend personnel actions such as hirings and promotions",
+        "Prepare production and other reports."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Experience as a furniture and fixture assembler, woodworking machine operator, cabinetmaker or furniture finisher, is usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Cabinetmakers (7272)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7272&ver=16"
+        },
+        {
+            "name": "Contractors and supervisors, carpentry trades (7204)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7204&ver=16"
+        },
+        {
+            "name": "Furniture and fixture assemblers and inspectors (9532)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9532&ver=16"
+        },
+        {
+            "name": "Furniture finishers and refinishers (9534)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9534&ver=16"
+        },
+        {
+            "name": "Supervisors of millwork and wood product manufacturing other than furniture and fixture, and wood machining (in 9227 Supervisors, other products manufacturing and assembly",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9227&ver=16"
+        },
+        {
+            "name": "Woodworking machine operators (9437)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9437&ver=16"
+        }
+    ]
+}

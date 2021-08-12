@@ -1,0 +1,80 @@
+{
+    "id": "6562",
+    "name": "Estheticians, electrologists and related occupations",
+    "lead statement": "Estheticians, electrologists and related workers in this unit group provide facial and body treatments designed to enhance an individual's physical appearance. They are employed in beauty salons, electrolysis studios, scalp treatment and hair replacement clinics and other similar establishments and in cosmetic departments of retail establishments such as pharmacies and department stores, or they may be self-employed.",
+    "example titles": [
+        "beautician",
+        "beauty care specialist",
+        "beauty culture operator",
+        "beauty culturist",
+        "beauty treatment operator",
+        "body piercer",
+        "cosmetician",
+        "cosmetologist",
+        "depilator",
+        "dermal therapist",
+        "electrologist",
+        "electrolysis operator",
+        "electrolysis technician",
+        "esthetician",
+        "facial treatment operator",
+        "hair removal specialist",
+        "hair replacement consultant",
+        "hair replacement technician",
+        "hair weaver",
+        "henna tattoo artist",
+        "manicurist",
+        "mehdi tattoo artist",
+        "nail care technician",
+        "nails and lashes applicator",
+        "pedicurist",
+        "registered dermal therapist",
+        "scalp treatment specialist",
+        "skin care consultant",
+        "skin care specialist",
+        "skin care technician",
+        "tattoo artist",
+        "tattooer",
+        "tattooist",
+        "thermology and electrolysis technician",
+        "trichologist",
+        "wax depilation specialist",
+        "wax depilator"
+    ],
+    "main duties": [
+        "Give facial and other body treatments using specialized products and techniques.",
+        "Advise customers on the use of make-up and other beauty products and apply make-up to customers; may specialize in applying make-up to models or other individuals for special occasions.",
+        "Remove unwanted hair permanently from client's face or body using needle only specialized electrical hair removal equipment, laser or other equipment.",
+        "Clean, shape and polish fingernails and toenails and provide related treatments.",
+        "Apply medicated lotions to treat scalp conditions and hair loss.",
+        "Apply permanent designs to customer's skin, using electric needles and chemical dyes; may also apply temporary designs to customer's skin.",
+        "Prepare and apply custom-made hair pieces to customer's scalp, weave customer's hair to hair pieces and provide scalp treatments."
+    ],
+    "employment requirements": [
+        "Completion of high school, college or beauty school programs for cosmeticians, estheticians, electrologists, manicurists and pedicurists is required \r\n or on-the-job training is provided.",
+        "Electrologists usually require certification from an electrologist's educational or training institution.",
+        "Membership in a provincial or national electrolysis association may be required.",
+        "Completion of a registered dermal therapy program may be required to provide electrology laser and vascular treatments.",
+        "Estheticians usually require certification from an esthetician's educational or training institution.",
+        "Apprenticeship for electrologists, estheticians and nail technicians is available in Manitoba. Trade certification for these occupations is compulsory in that province.",
+        "A business licence is required for workers in this group who are owners/operators of businesses offering these services.",
+        "Practitioners offering these personal services are required to adhere to infection control procedures."
+    ],
+    "additional information": [
+        "There is little or no mobility among the different occupations in this unit group without additional specialized training."
+    ],
+    "exclusions": [
+        {
+            "name": "Hairstylists and barbers (6341)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6341&ver=16"
+        },
+        {
+            "name": "Image, social and other personal consultants (6561)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6561&ver=16"
+        },
+        {
+            "name": "Make-up artists (in 5226 Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5226&ver=16"
+        }
+    ]
+}

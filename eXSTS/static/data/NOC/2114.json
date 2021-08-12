@@ -1,0 +1,44 @@
+{
+    "id": "2114",
+    "name": "Meteorologists and climatologists",
+    "lead statement": "Meteorologists and climatologists analyze and forecast weather, provide consultation on atmospheric phenomena and conduct research into the processes and phenomena of weather, climate and atmosphere. They are employed by all levels of government, natural resources and utility companies, the media and private consulting firms, or they may be self-employed.",
+    "example titles": [
+        "agricultural meteorologist",
+        "air quality meteorologist",
+        "applied meteorologist",
+        "climatologist",
+        "hydrometeorologist",
+        "industrial meteorologist",
+        "meteorologist",
+        "operational meteorologist",
+        "paleometeorologist",
+        "physical meteorologist",
+        "synoptic meteorologist",
+        "weather forecaster"
+    ],
+    "main duties": [
+        "Analyze and interpret data obtained from meteorological stations, radar and satellite imagery and computer model output",
+        "Produce weather forecasts and provide weather consulting services for industries such as aviation, marine, agriculture and tourism, and to the general public",
+        "Disseminate weather forecasts and reports to the general public through a variety of media including radio, television, print and the Internet",
+        "Conduct research and provide consultation on the processes and determinants of atmospheric phenomena, weather and climate, atmospheric dispersion, and physical and chemical transformation of pollutants",
+        "Develop and test mathematical computer models of weather and climate for experimental or operational use",
+        "Analyze the impact of industrial projects and human activity on the climate and quality of the air and work with the social science, engineering and economic communities to develop appropriate mitigation strategies",
+        "Participate in studies of the effect of weather on the environment",
+        "Provide consultation and advice to outside agencies, professionals, or researchers regarding the use and interpretation of climatological information",
+        "Make scientific presentations, publish reports, articles or popular texts for specialists, users or the general public",
+        "May engage in the design and development of new equipment and procedures for meteorological data collection, remote sensing, or for related applications."
+    ],
+    "employment requirements": [
+        "A bachelor's or master's degree in meteorology, atmospheric sciences or in a related field is required.",
+        "A doctoral degree is usually required for employment as a research scientist in meteorology.",
+        "Formal training is provided by Environment Canada for operational meteorologists employed by the federal government.",
+        "Membership in the Canadian Meteorological and Oceanographic Society is available, but voluntary, for qualified meteorologists."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Announcers who broadcast weather forecasts (in 5231 Announcers and other broadcasters",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5231&ver=16"
+        }
+    ]
+}

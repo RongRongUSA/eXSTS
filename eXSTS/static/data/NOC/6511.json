@@ -1,0 +1,43 @@
+{
+    "id": "6511",
+    "name": "Maîtres d'hôtel and hosts/hostesses",
+    "lead statement": "Maîtres d'hôtel and hosts/hostesses greet patrons and escort them to tables, and supervise and co-ordinate the activities of food and beverage servers. They are employed in restaurants, hotel dining rooms, private clubs, cocktail lounges and similar establishments.",
+    "example titles": [
+        "chief host/hostess – food services",
+        "dining room host/hostess",
+        "host/hostess – food service",
+        "host/hostess – restaurant or cocktail lounge",
+        "maître d'",
+        "maître d'hôtel",
+        "restaurant host/hostess"
+    ],
+    "main duties": [
+        "Receive and record patrons' reservations and assign tables",
+        "Greet patrons and escort them to tables or other seating areas",
+        "Speak with patrons to ensure satisfaction with food and service, and attend to complaints",
+        "Order dining room supplies and equipment",
+        "Inspect dining and serving areas and equipment",
+        "Supervise and co-ordinate activities of food and beverage servers and other serving staff",
+        "Accept payment from patrons for food and beverages",
+        "Maintain financial statements and records",
+        "Prepare work schedules and payrolls",
+        "Interview candidates for food and beverage server positions and train new employees",
+        "May be responsible for marketing and advertising the dining establishment."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Several weeks of on-the-job training are usually required.",
+        "Maîtres d'hôtel require experience as a formal or captain waiter/waitress or other food service experience."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Food and beverage servers (6513)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6513&ver=16"
+        },
+        {
+            "name": "Food service supervisors (6311)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6311&ver=16"
+        }
+    ]
+}

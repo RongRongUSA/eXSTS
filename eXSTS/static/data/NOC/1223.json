@@ -1,0 +1,75 @@
+{
+    "id": "1223",
+    "name": "Human resources and recruitment officers",
+    "lead statement": "Human resources and recruitment officers identify and advertise job vacancies, recruit candidates, and assist in the selection and reassignment of employees. They are employed throughout the private and public sectors.",
+    "example titles": [
+        "assistant personnel officer",
+        "employment interviewer",
+        "employment supervisor",
+        "executive recruiter",
+        "head-hunter",
+        "human resources officer",
+        "interviewer – human resources",
+        "labour force consultant",
+        "personnel administrator",
+        "personnel adviser",
+        "personnel interviewer",
+        "personnel management adviser",
+        "personnel officer",
+        "personnel recruitment officer",
+        "personnel selection officer",
+        "personnel supervisor",
+        "placement officer – human resources",
+        "recruiter – employment",
+        "recruiting officer",
+        "recruitment assistant",
+        "recruitment consultant",
+        "recruitment officer",
+        "recruitment specialist",
+        "senior staffing officer",
+        "staffing adviser",
+        "staffing analyst",
+        "staffing co-ordinator",
+        "staffing officer",
+        "student placement officer"
+    ],
+    "main duties": [
+        "Identify current and prospective staffing requirements, prepare and post notices and advertisements, and collect and screen applications",
+        "Advise job applicants on employment requirements and on terms and conditions of employment",
+        "Review candidate inventories and contact potential applicants to arrange interviews and transfers, redeployment and placement of personnel",
+        "Recruit graduates of colleges, universities and other educational institutions",
+        "Co-ordinate and participate in selection and examination boards to evaluate candidates",
+        "Notify applicants of results of selection process and prepare job offers",
+        "Advise managers and employees on staffing policies and procedures",
+        "Organize and administer staff consultation and grievance procedures",
+        "Negotiate settlements of appeals and disputes and co-ordinate termination of employment process",
+        "Determine eligibility to entitlements, arrange staff training and provide information or services such as employee assistance, counselling and recognition programs",
+        "May supervise personnel clerks performing filing and record-keeping duties."
+    ],
+    "employment requirements": [
+        "A university degree or college diploma in a field related to personnel management such as business administration, industrial relations, commerce or psychology \r\n or completion of a professional development program in personnel administration is usually required.",
+        "Certification as a Certified Human Resources Professional (CHRP) may be required.",
+        "Some experience in a clerical or administrative position related to personnel administration may be required."
+    ],
+    "additional information": [
+        "Progression to specialist and management positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Human resources managers (0112)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0112&ver=16"
+        },
+        {
+            "name": "Human resources professionals (1121)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1121&ver=16"
+        },
+        {
+            "name": "Personnel clerks (1415)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1415&ver=16"
+        },
+        {
+            "name": "Training officers and instructors (in 4021 College and other vocational instructors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4021&ver=16"
+        }
+    ]
+}

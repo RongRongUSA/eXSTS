@@ -1,0 +1,106 @@
+{
+    "id": "9613",
+    "name": "Labourers in chemical products processing and utilities",
+    "lead statement": "Labourers in this unit group carry out a variety of material handling, cleaning and routine general labouring activities. They are employed by petroleum and natural gas processing, pipeline and petrochemical, chemical and pharmaceutical companies, and by electrical, water and waste treatment utilities and services.",
+    "example titles": [
+        "acetylene cylinder preparer",
+        "batch dryer tender helper",
+        "bath mix solvent recoverer",
+        "boiler operator helper",
+        "boiler water tester",
+        "boilerhouse helper",
+        "bullet lubricant compounder",
+        "chemical plant labourer",
+        "coating machine feeder – chemical processing",
+        "compressed gas plant worker",
+        "crutcher operator helper",
+        "distillation equipment helper",
+        "distillation equipment helper – chemical processing",
+        "distiller helper – chemical processing",
+        "dryer tender helper – chemical processing",
+        "electrode cleaner",
+        "electrolytic cell cleaner",
+        "equipment cleaner – chemical processing",
+        "film spooler",
+        "filter cleaner – chemical processing",
+        "filtration helper – chemical processing",
+        "flue cleaner – utilities",
+        "gas fitter helper – utilities",
+        "gas utility labourer",
+        "gasket coater",
+        "gasoline catalyst operator helper",
+        "helper – chemical processing",
+        "integrator operator",
+        "labourer – chemical processing",
+        "labourer – gas utility",
+        "landfill scale operator",
+        "landfill weigh scale attendant",
+        "loader – chemical processing",
+        "mill charger – chemical processing",
+        "oven loader – chemical processing",
+        "paint plant labourer",
+        "paint pourer",
+        "petroleum process operator helper",
+        "petroleum refinery labourer",
+        "pigment presser",
+        "powerhouse helper",
+        "rack loader",
+        "refrigeration plant operator helper",
+        "retort unloader",
+        "sample preparer – chemical processing",
+        "sampler – chemical processing",
+        "saturating machine feeder – chemical processing",
+        "shutdown labourer – chemical processing",
+        "slug-press feeder",
+        "stationary engineer helper",
+        "still cleaner – chemical processing",
+        "stove-bottom worker",
+        "stove-carriage worker",
+        "substation operator helper",
+        "sulphuric acid plant operator helper",
+        "temperature regulator",
+        "transformer stockroom attendant",
+        "treater helper – chemical processing",
+        "varnish maker helper",
+        "water intake tender",
+        "water intake tender – utilities",
+        "waterworks labourer",
+        "wax moulder"
+    ],
+    "main duties": [
+        "Feed and unload production machinery and equipment",
+        "Clean chemical processing machines and equipment and production areas",
+        "Move, sort and pile materials and products manually and using powered equipment",
+        "Assist other workers to operate, repair and maintain process equipment, gas distribution, water filtration and waste plant equipment",
+        "Perform general duties such as basic construction, painting and other manual tasks."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required."
+    ],
+    "additional information": [
+        "Considerable mobility is possible among jobs in this unit group.",
+        "Progression to operator positions in the chemical or utility industry is possible with experience and appropriate qualifications."
+    ],
+    "exclusions": [
+        {
+            "name": "Chemical plant machine operators (9421)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9421&ver=16"
+        },
+        {
+            "name": "Central control and process operators, petroleum, gas and chemical processing (9232)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9232&ver=16"
+        },
+        {
+            "name": "Supervisors, petroleum, gas and chemical processing and utilities (9212)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9212&ver=16"
+        },
+        {
+            "name": "Water and waste treatment plant operators (9243)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9243&ver=16"
+        },
+        {
+            "name": "Waterworks and gas maintenance workers (7442)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7442&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "id": "0912",
+    "name": "Utilities managers",
+    "lead statement": "This unit group includes managers who plan, organize, direct, control and evaluate the operations of utility companies or services of heating fuel distribution companies. The services provided include treatment of water and waste, distribution of water, electricity, natural gas and heating oil to residential, commercial and industrial consumers, waste disposal and waste recycling. Utilities managers are employed in public and private sector utilities and in heating fuel distribution companies.",
+    "example titles": [
+        "compost facility manager",
+        "compressor station manager",
+        "director of waste management",
+        "director of water pollution control",
+        "distribution network director – utilities",
+        "distribution operations manager – utilities",
+        "distribution systems director – utilities",
+        "division manager – petroleum distribution",
+        "electric generating plant manager",
+        "electric generating station manager",
+        "electric power plant manager",
+        "electric power services manager",
+        "electrical power transmission operations director",
+        "gas distribution manager",
+        "gas supply manager",
+        "gas supply operations manager",
+        "hydro-electric power production plant director",
+        "hydro-electric power station director",
+        "irrigation district manager",
+        "landfill manager",
+        "liquid waste facility manager",
+        "nuclear waste manager",
+        "petroleum distribution manager",
+        "pipelines operations manager",
+        "public utilities manager",
+        "refined petroleum products distribution manager",
+        "sanitary sewer service manager",
+        "sewage disposal manager",
+        "sewage plant manager",
+        "sewage treatment plant manager",
+        "sewage treatment system director",
+        "solid waste processing district manager",
+        "solid waste processing manager",
+        "solid waste processing operations planning manager",
+        "transmission lines manager",
+        "transmission operations director – utilities",
+        "waste management director",
+        "waste water treatment system director",
+        "water department director",
+        "water distribution manager",
+        "water filtration plant manager",
+        "water pollution control director",
+        "water supply director",
+        "waterworks director",
+        "waterworks manager",
+        "waterworks superintendent"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Water supply managers",
+            "duty_description": [
+                "manage water filtration, purification processes and pumping operations, schedule and oversee the maintenance of plant equipment and prepare reports on water supply and water quality."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Electrical power distribution managers",
+            "duty_description": [
+                "manage the operations of electrical power distribution systems including generating stations, transmission stations and distribution networks. They may also plan and direct the distribution activities of a municipal electrical power establishment."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Natural gas supply managers",
+            "duty_description": [
+                "manage the delivery of gas to consumers, monitor supply inventories and control the recording of injections and withdrawals."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Petroleum product distribution managers",
+            "duty_description": [
+                "plan and direct the distribution of heating oil products to retail distributors and regional storage sites."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Water pollution control managers",
+            "duty_description": [
+                "manage the operations of a sewage treatment plant, schedule and direct maintenance of plant equipment, and prepare reports on water quality."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Waste systems managers",
+            "duty_description": [
+                "manage solid or liquid waste collection and disposal systems, train drivers in how to handle waste and ensure safe operation of disposal facilities."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "A bachelor's degree or college diploma in an appropriate discipline is required. For example, electrical engineering is required for managers of transmission lines, and water resource technology for water supply managers.",
+        "Several years of experience as a supervisor in a related utilities operations department are required.",
+        "A professional engineer certification is usually required for managers of utility operations involved in the transmission and distribution of electrical power, and natural gas and heating oil."
+    ],
+    "additional information": [
+        "Progression to senior management positions in the utility industry is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Facility operation and maintenance managers (0714)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0714&ver=16"
+        },
+        {
+            "name": "Senior managers - construction, transportation, production and utilities (0016)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0016&ver=16"
+        }
+    ]
+}

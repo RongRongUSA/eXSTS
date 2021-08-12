@@ -1,0 +1,100 @@
+{
+    "id": "7371",
+    "name": "Crane operators",
+    "lead statement": "Crane operators operate cranes or draglines to lift, move, position or place machinery, equipment and other large objects at construction or industrial sites, ports, railway yards, surface mines and other similar locations. They are employed by construction, industrial, mining, cargo handling and railway companies.",
+    "example titles": [
+        "apprentice mobile crane operator",
+        "boat crane operator",
+        "boom crane operator",
+        "boom truck crane operator",
+        "boom truck hoist operator",
+        "bridge crane operator",
+        "cantilever crane operator",
+        "cinder crane operator",
+        "climbing crane operator",
+        "climbing tower crane operator",
+        "construction crane operator",
+        "crane and hoisting equipment operator",
+        "crane hoist operator",
+        "crane operator",
+        "crane operator apprentice",
+        "crawler crane operator",
+        "demolition crane operator",
+        "dragline crane operator",
+        "dragline operator – crane",
+        "drilling rig crane operator",
+        "electric crane operator",
+        "electric dragline operator",
+        "electric gantry crane operator",
+        "electric monorail crane operator",
+        "electrical equipment operator – derrick",
+        "floating crane operator",
+        "gantry crane operator",
+        "hoist operator – foundry",
+        "hoist operator (except underground mining)",
+        "hot metal crane operator",
+        "jib crane operator",
+        "ladle crane operator",
+        "locomotive crane operator",
+        "locomotive craneman/woman",
+        "mechanical hoist operator",
+        "mobile crane apprentice operator",
+        "mobile crane operator",
+        "monorail crane operator",
+        "overhead crane operator",
+        "pile driving crane operator",
+        "power crane operator",
+        "rail crane operator",
+        "railway car puller – crane",
+        "rigger (except shipbuilding and aircraft assembly)",
+        "ship crane operator",
+        "skip operator",
+        "tower crane operator",
+        "tractor crane operator",
+        "truck crane operator",
+        "walking bridge crane operator",
+        "wrecking crane operator"
+    ],
+    "main duties": [
+        "Operate mobile and tower cranes to lift, move, position or place equipment and materials",
+        "Perform pre-operational inspection, and calculate crane capacities and weight to prepare for rigging and hoisting",
+        "Operate pile driving cranes to drive pilings into earth to provide support for buildings and other structures",
+        "Operate cranes equipped with dredging attachments to dredge waterways and other areas",
+        "Operate gantry cranes to load and unload ship cargo at port side",
+        "Operate locomotive cranes to move objects and materials at railway yards",
+        "Operate bridge or overhead cranes to lift, move and place plant machinery and materials",
+        "Operate offshore oil rig cranes to unload and reload supply vessels",
+        "Operate cranes mounted on boats or barges to lift, move and place equipment and materials",
+        "Operate dragline cranes to expose coal seams and ore deposits at open pit mines",
+        "May assemble tower cranes on site",
+        "Perform routine maintenance work such as cleaning and lubricating cranes."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a one- to three-year apprenticeship program \r\n or industry courses in crane operating are usually required.",
+        "Mobile crane operator trade certification, for specified types of cranes, is compulsory in Nova Scotia, New Brunswick, Quebec, Ontario, Manitoba, Alberta and British Columbia and available, but voluntary, in all other provinces and the Northwest Territories.",
+        "Tower crane operator trade certification is compulsory in Newfoundland and Labrador, Nova Scotia, Quebec, Ontario, Manitoba, Alberta and British Columbia and available, but voluntary, in Prince Edward Island.",
+        "Hoist operator trade certification, for specified types of cranes, is compulsory in Quebec, Ontario, Manitoba, Alberta and British Columbia and is available, but voluntary, in New Brunswick, Saskatchewan, the Northwest Territories and Nunavut.",
+        "Mobile crane operators may require a provincial licence to drive mobile cranes on public roads.",
+        "Internal company certification as a crane operator may be required by some employers.",
+        "Red Seal endorsement is also available to qualified mobile crane and tower crane operators upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Heavy equipment operators (except crane) (7521)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7521&ver=16"
+        },
+        {
+            "name": "Hoist operators – underground mining (in 8231 Underground production and development miners",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8231&ver=16"
+        },
+        {
+            "name": "Supervisors of crane operators (in 7302 Contractors and supervisors, heavy equipment operator crews",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7302&ver=16"
+        }
+    ]
+}

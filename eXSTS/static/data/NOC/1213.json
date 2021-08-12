@@ -1,0 +1,59 @@
+{
+    "id": "1213",
+    "name": "Supervisors, library, correspondence and related information workers",
+    "lead statement": "Supervisors in this unit group supervise and co-ordinate the activities of workers in the following unit groups:  (1451),  (1452) and  (1454). They are employed throughout the public and private sectors.",
+    "example titles": [
+        "advertising clerks supervisor",
+        "census area manager",
+        "census area manager assistant",
+        "census commissioner",
+        "census commissioner assistant",
+        "census district manager",
+        "communication clerks supervisor",
+        "copyright clearance supervisor",
+        "correspondence clerks supervisor",
+        "court reporters supervisor",
+        "customs clerks supervisor",
+        "fingerprint classifier supervisor",
+        "law archivists supervisor",
+        "legal services record writers supervisor",
+        "library clerks supervisor",
+        "library loans supervisor",
+        "licence clerks supervisor",
+        "passport office supervisor",
+        "public opinion interviewers supervisor",
+        "publication clerks supervisor",
+        "regional census manager",
+        "statistical clerks supervisor",
+        "survey interviewers supervisor"
+    ],
+    "main duties": [
+        "Co-ordinate, assign and review the work of clerks engaged in the following duties: conducting surveys and interviews; collecting and compiling statistics; preparing and issuing licenses, passports and other regulatory documents; reshelving books and performing other tasks in libraries; writing correspondence including e-mails and preparing material for translation and publication",
+        "Establish work schedules and procedures and co-ordinate activities with other work units or departments",
+        "Resolve work-related problems, monitor services provided by clerks and agents, and prepare and submit progress and other reports",
+        "Train workers in job duties and company policies",
+        "Requisition supplies and materials",
+        "Ensure smooth operation of computer systems and equipment and arrange for maintenance and repair work",
+        "May perform the same duties as workers supervised."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Completion of college courses related to area supervised may be required.",
+        "Experience in the clerical occupation supervised is usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Librarians (5111)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5111&ver=16"
+        },
+        {
+            "name": "Library and public archive technicians (5211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5211&ver=16"
+        },
+        {
+            "name": "Supervisors, mail and message distribution occupations (1214)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1214&ver=16"
+        }
+    ]
+}

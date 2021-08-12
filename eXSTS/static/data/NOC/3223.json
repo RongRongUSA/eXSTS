@@ -1,0 +1,80 @@
+{
+    "id": "3223",
+    "name": "Dental technologists, technicians and laboratory assistants",
+    "lead statement": "Dental technologists and technicians design, prepare and fabricate dentures and dental devices as prescribed by dentists and other specialists. Dental laboratory assistants assist dental technologists and technicians in preparing and fabricating dentures and other dental devices. They are employed in dental laboratories. Dental technologists and technicians who are supervisors are included in this unit group.",
+    "example titles": [
+        "apprentice dental prosthesis maker",
+        "apprentice dental technician",
+        "ceramic denture caster",
+        "ceramic denture mechanic",
+        "ceramic denture mechanic-moulder",
+        "ceramic denture moulder",
+        "certified dental technician (CDT)",
+        "crown and bridge dental technician",
+        "dental ceramic caster",
+        "dental ceramic moulder",
+        "dental ceramist",
+        "dental laboratory assistant",
+        "dental laboratory bench worker",
+        "dental laboratory technician",
+        "dental laboratory technician assistant",
+        "dental prosthesis maker",
+        "dental technician",
+        "dental technician apprentice",
+        "dental technician supervisor",
+        "dental technologist",
+        "denture bench moulder",
+        "denture finisher",
+        "denture framework finisher",
+        "denture packer",
+        "denture setter",
+        "denture set-up man/woman",
+        "denture trimmer-polisher",
+        "denture wax pattern former",
+        "denture wax pattern former – metal framework",
+        "metal dental technician",
+        "occlusion rim former – dentures",
+        "orthodontic band maker",
+        "orthodontic dental technician",
+        "orthodontic prosthesis maker",
+        "orthodontic technician",
+        "plaster moulder – dentures",
+        "registered dental technician (RDT)",
+        "registered dental technologist (RDT)"
+    ],
+    "main duties": [
+        "Design, fabricate or repair dental devices including full or partial dentures, orthodontic appliances, crowns, bridges, inlays, onlays, clasps and bands, and implants",
+        "Prepare plaster models and moulds from dental impressions",
+        "Prepare wax bite-blocks and impression trays",
+        "Cast gold or metal alloys for bridges and denture bases",
+        "Pack plastic material in moulds to form full or partial dentures",
+        "Mould wax over denture set-up to form full contours of artificial gums",
+        "Make orthodontic bands from gold, silver, stainless steel or other metals",
+        "Finish metal framework of dentures and polish and buff dentures to obtain natural finish",
+        "May consult with dentists or other specialists on problematic dental cases",
+        "May train and supervise other dental technicians and dental laboratory assistants in fabricating dentures and other dental devices",
+        "May perform administrative functions for the dental laboratory."
+    ],
+    "employment requirements": [
+        "Dental technologists and technicians are required to complete a college program in dental technology \r\n or four or more years of on-the-job training under the supervision of a registered dental technologist or technician.",
+        "Registration with a regulatory body is required for dental technologists and technicians in all provinces except in Manitoba and the territories.",
+        "Dental laboratory assistants usually require secondary school and up to two years of on-the-job training."
+    ],
+    "additional information": [
+        "Dental laboratory assistants may progress to dental technologist and technician positions with training, experience and registration."
+    ],
+    "exclusions": [
+        {
+            "name": "Dental assistants (3411)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3411&ver=16"
+        },
+        {
+            "name": "Dental hygienists and dental therapists (3222)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3222&ver=16"
+        },
+        {
+            "name": "Denturists (3221)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3221&ver=16"
+        }
+    ]
+}

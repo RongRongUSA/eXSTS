@@ -1,0 +1,55 @@
+{
+    "id": "1435",
+    "name": "Collectors",
+    "lead statement": "Collectors collect payments on overdue accounts and bad cheques and locate debtors to make collection arrangements. They are employed by collection agencies, utility companies, department stores, loan companies, banks and credit unions, and by financial and licensing departments within governments.",
+    "example titles": [
+        "advertising collector",
+        "bill collector",
+        "claims collector",
+        "collection agent (except taxation)",
+        "collection clerk",
+        "collection officer (except taxation)",
+        "collections investigation officer",
+        "collector",
+        "credit and collection clerk",
+        "financial collector",
+        "inspector and bill collector – electric power company",
+        "inspector and bill collector – gas company",
+        "instalment collector",
+        "insurance premium collector",
+        "loan collector",
+        "locator – collection",
+        "skip tracer – collection"
+    ],
+    "main duties": [
+        "Notify debtors of overdue payments and accounts by telephone, mail, and registered mail, and continue the notification process if reply is not received",
+        "Resolve collection issues by making payment arrangements by telephone or visit to debtor",
+        "Recommend further action or discontinuation of service in cases where payment is not forthcoming",
+        "Trace and locate debtors, and may contact debtors' friends, neighbours, relatives and employers to obtain information",
+        "Answer correspondence, prepare reports and maintain records and files related to collection work",
+        "May work with on-line accounts and systems."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "A business college diploma may be required.",
+        "A period of on-the-job training is often provided for collection clerks and collection officers.",
+        "A collections licence issued by the province or territory of employment is usually required."
+    ],
+    "additional information": [
+        "Progression to senior or supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Accounts receivable clerks (in 1431 Accounting and related clerks",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1431&ver=16"
+        },
+        {
+            "name": "Collections supervisors (in 1212 Supervisors, finance and insurance office workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1212&ver=16"
+        },
+        {
+            "name": "Tax collection officers (in 1228 Employment insurance, immigration, border services and revenue officers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1228&ver=16"
+        }
+    ]
+}

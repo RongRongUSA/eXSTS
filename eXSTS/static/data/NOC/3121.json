@@ -1,0 +1,45 @@
+{
+    "id": "3121",
+    "name": "Optometrists",
+    "lead statement": "Optometrists examine eyes to assess and diagnose ocular diseases and disorders. They prescribe and fit eyeglasses and contact lenses and recommend treatments such as exercises to correct vision problems or ocular disorders. They work in private practice, clinics and community health centres.",
+    "example titles": [
+        "doctor of optometry (OD)",
+        "optometrist"
+    ],
+    "main duties": [
+        "Examine patients' eyes, conduct tests and use ophthalmoscopes, biomicroscopes and other specialized instruments to determine ocular health and visual efficiency",
+        "Prescribe and provide treatment (excluding surgery) to maintain, improve and correct vision and manage other ocular diseases and disorders",
+        "Prescribe, dispense and fit eyeglasses, contact lenses and other visual aids",
+        "Educate, counsel and advise patients on contact lens use and care, ocular hygiene, surgical and non-surgical options, and preventive care and maintenance related to occupation and lifestyle",
+        "Refer patients to ophthalmologists or other physicians and surgeons for treatment of ocular diseases or conditions such as cataracts, glaucoma and macular degeneration and systemic conditions such as diabetes and high blood pressure",
+        "May prescribe from a limited list of medications.",
+        "Optometrists may specialize in fitting visual aids for people who are partially blind, fitting contact lenses or correcting special vision problems."
+    ],
+    "employment requirements": [
+        "Three years of university undergraduate studies in sciences \r\n and a four- to five-year university program in optometry are required.",
+        "Licensing by the provincial or territorial regulatory governing body is required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Ocularists (in 3219 Other medical technologists and technicians (except dental health)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3219&ver=16"
+        },
+        {
+            "name": "Ophthalmologists (in 3111 Specialist physicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3111&ver=16"
+        },
+        {
+            "name": "Opticians (3231)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3231&ver=16"
+        },
+        {
+            "name": "Orthoptists (in 3125 Other professional occupations in health diagnosing and treating",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3125&ver=16"
+        },
+        {
+            "name": "Optometric technicians or optometrist assistants (in 3414 Other assisting occupations in support of health services",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3414&ver=16"
+        }
+    ]
+}

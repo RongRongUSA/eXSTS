@@ -1,0 +1,63 @@
+{
+    "id": "1432",
+    "name": "Payroll administrators",
+    "lead statement": "Payroll administrators collect, verify and process payroll information, determine pay and benefit entitlements for employees, maintain accurate payroll records, and provide payroll information within a department, company or other establishment. They are employed by payroll administration companies and by establishments throughout the public and private sectors.",
+    "example titles": [
+        "account records clerk – payroll",
+        "assistant paymaster",
+        "benefits and pension plan officer",
+        "benefits officer – payroll administration",
+        "pay accounts clerk",
+        "pay advisor",
+        "pay and benefits administrator",
+        "pay and benefits clerk",
+        "pay clerk",
+        "pay verifier",
+        "payroll administrator",
+        "payroll clerk",
+        "payroll machine operator",
+        "payroll officer",
+        "salary administration officer",
+        "superannuation clerk – government",
+        "timekeeper – payroll"
+    ],
+    "main duties": [
+        "Maintain and update employee information, such as records of employee attendance, leave and overtime to calculate pay and benefit entitlements, in Canadian and other currencies, using manual or computerized systems",
+        "Prepare and verify statements of earnings for employees, indicating gross and net salaries and deductions such as taxes, union dues, garnishments and insurance and pension plans",
+        "Prepare, verify and process all employee payroll related payments, including regular pay, benefit payments, and special payments such as bonuses and vacation pay",
+        "Complete, verify and process forms and documentation for administration of benefits such as pension plans, leaves, share savings, employment and medical insurance",
+        "Prepare payroll related filings and supporting documentation, such as year-end tax statements, pension, Records of Employment and other statements",
+        "Provide information on payroll matters, benefit plans and collective agreement provisions",
+        "Compile, review, and monitor statistical reports, statements, and summaries related to pay and benefits accounts",
+        "Prepare and balance period-end reports and reconcile issued payrolls to bank statements",
+        "Identify and resolve payroll discrepancies",
+        "May be responsible for the development or implementation of payroll policies, procedures or processes."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of college or other courses in accounting, bookkeeping or payroll administration \r\n or experience in payroll administration is usually required.",
+        "Payroll association certification may be required.",
+        "Experience using a payroll system or software may be required."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Human resources and recruitment officers (1223)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1223&ver=16"
+        },
+        {
+            "name": "Personnel clerks (1415)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1415&ver=16"
+        },
+        {
+            "name": "Supervisors of payroll administrators (in 1212 Supervisors, finance and insurance office workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1212&ver=16"
+        },
+        {
+            "name": "Benefits officer – government services (in 1228 Employment insurance, immigration, border services and revenue officers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1228&ver=16"
+        }
+    ]
+}

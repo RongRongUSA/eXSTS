@@ -1,0 +1,71 @@
+{
+    "id": "1513",
+    "name": "Couriers, messengers and door-to-door distributors",
+    "lead statement": "Couriers, messengers and door-to-door distributors pick up and deliver letters, parcels, packages, newspapers, flyers and other items within and between establishments. They are employed by courier service companies and other establishments throughout the private and public sectors.",
+    "example titles": [
+        "advertisement delivery person – courier service",
+        "advertising item delivery person – courier service",
+        "announcement deliverer – courier service",
+        "announcement delivery person – courier service",
+        "bank messenger",
+        "bank runner",
+        "bill distributor",
+        "circular distributor – courier service",
+        "copy runner – courier service",
+        "courier",
+        "courier service delivery person",
+        "courier service parcels deliverer",
+        "delivery person – courier service",
+        "door-to-door distributor",
+        "flyer distributor – courier service",
+        "handbill passer – courier service",
+        "mail courier – courier service",
+        "message carrier",
+        "message deliverer",
+        "messenger",
+        "messenger-clerk",
+        "news item delivery person – courier service",
+        "newspaper carrier",
+        "newspaper carrier – courier service",
+        "newspaper carrier and vendor",
+        "newspaper deliverer",
+        "newspaper distributor – courier service",
+        "office messenger",
+        "paper boy/girl – courier service",
+        "paper boy/paper girl",
+        "public notice delivery person – courier service",
+        "runner – courier service",
+        "sample distributor – courier service"
+    ],
+    "main duties": [
+        "Pick up messages, letters, envelopes, parcels, airline tickets, legal documents, packages, bonds, cheques, securities and other items from customers, and hand-deliver them to addresses within an establishment or in other establishments by walking or cycling within prescribed time periods",
+        "Collect payment for items delivered",
+        "Keep record of items received and delivered using delivery information acquisition devices",
+        "Deliver newspapers, flyers, handbills, telephone directories and similar items to residences and businesses."
+    ],
+    "employment requirements": [
+        "Secondary school education may be required.",
+        "Eligibility for bonding may be required.",
+        "Ability to navigate streets and follow directions is usually required.",
+        "Physical fitness is required for some occupations in this unit group."
+    ],
+    "additional information": [
+        "There is some mobility into other delivery occupations such as delivery drivers.",
+        "There may be mobility to clerical occupations within the company.",
+        "Progression to supervisory positions may be possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Delivery and courier service drivers (7514)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7514&ver=16"
+        },
+        {
+            "name": "Letter carriers (1512)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1512&ver=16"
+        },
+        {
+            "name": "Supervisors, mail and message distribution occupations (1214)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1214&ver=16"
+        }
+    ]
+}

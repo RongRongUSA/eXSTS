@@ -1,0 +1,55 @@
+{
+    "id": "8441",
+    "name": "Fishing vessel deckhands",
+    "lead statement": "Fishing vessel deckhands perform a variety of manual tasks on commercial fishing voyages, and maintain fishing vessels. They are employed by establishments that operate commercial fishing vessels and by self-employed fishermen/women.",
+    "example titles": [
+        "fishboat deckhand",
+        "fishing vessel checkerman/woman",
+        "fishing vessel crewman/woman",
+        "fishing vessel deckhand",
+        "fishing vessel icer",
+        "fishing vessel netmender",
+        "fishing vessel rollerman/woman",
+        "fishing vessel skiffman/woman",
+        "gillnetter deckhand",
+        "offshore trawler deckhand",
+        "seiner deckhand",
+        "shellfish harvester deckhand",
+        "trawlerman/woman"
+    ],
+    "main duties": [
+        "Prepare nets, lines and other fishing tackle, and operate fishing gear to catch fish and other marine life",
+        "Sort, return protected species to the water, clean and pack fish in ice and stow catch in hold",
+        "Repair nets, splice ropes and maintain fishing gear and other deck equipment",
+        "Clean deck surfaces and fish hold",
+        "Handle anchors and mooring lines during docking and undocking procedures",
+        "May steer vessels to and from fishing areas",
+        "May prepare and cook meals for crew members."
+    ],
+    "employment requirements": [
+        "There are no specific educational requirements.",
+        "On-the-job training is provided.",
+        "Marine Emergency Duties certificate is required by Transport Canada.",
+        "A deckhand training program may be required.",
+        "Trawlermen/women require at least one year of experience.",
+        "Fishing vessel deckhands require a commercial fishing licence."
+    ],
+    "additional information": [
+        "Fishing vessel deckhands may become skippers upon acquiring an entry licence and a boat.",
+        "Fishing vessel deckhands may progress to watchkeeper or mate positions with additional training."
+    ],
+    "exclusions": [
+        {
+            "name": "Deck officers, water transport (2273)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2273&ver=16"
+        },
+        {
+            "name": "Fishermen/women (8262)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8262&ver=16"
+        },
+        {
+            "name": "Fishing masters and officers (8261)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8261&ver=16"
+        }
+    ]
+}

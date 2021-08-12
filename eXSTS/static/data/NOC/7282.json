@@ -1,0 +1,61 @@
+{
+    "id": "7282",
+    "name": "Concrete finishers",
+    "lead statement": "Concrete finishers smooth and finish freshly poured concrete, apply curing or surface treatments and install, maintain and restore various masonry structures such as foundations, floors, ceilings, sidewalks, roads, patios and highrise buildings. They are employed by construction companies, cement and concrete contractors and manufacturers of precast concrete products, or they may be self-employed.",
+    "example titles": [
+        "apprentice cement finisher",
+        "cement finisher",
+        "cement finisher apprentice",
+        "cement mason",
+        "cement mason apprentice",
+        "concrete finisher",
+        "concrete finisher apprentice",
+        "concrete floor finisher",
+        "concrete mason",
+        "concrete patcher-finisher",
+        "concrete polisher",
+        "concrete product finisher",
+        "concrete smoother-finisher",
+        "highway and street cement mason",
+        "journeyman/woman cement finisher",
+        "maintenance cement mason",
+        "precast concrete finisher",
+        "sidewalk concrete finisher"
+    ],
+    "main duties": [
+        "Check formwork, granular base and steel reinforcement materials and direct placement of concrete into forms or onto surfaces according to grade",
+        "Fill hollows and remove high spots to smooth freshly poured concrete",
+        "Operate power vibrator to compact concrete",
+        "Level top surface of concrete according to grade and depth specifications using straightedge or float",
+        "Impart desired finish to concrete surfaces using hand and power tools",
+        "Install anchor bolts, steel plates, door sills and other fixtures in freshly poured concrete",
+        "Apply hardening and sealing compounds to cure surface of concrete",
+        "Waterproof, damp-proof and restore concrete surfaces",
+        "Repair, resurface and replace worn or damaged sections of floors, walls, roads and other concrete structures."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a two- to four-year apprenticeship program \r\n or over three years of work experience in the trade and some high school, college or industry courses in cement finishing are usually required to be eligible for trade certification.",
+        "Trade certification for concrete finishers is compulsory in Quebec and available, but voluntary, in Newfoundland and Labrador, Nova Scotia, Prince Edward Island, New Brunswick, Manitoba, Alberta and British Columbia.",
+        "Trade certification for cement masons is available, but voluntary, in Ontario.",
+        "Red Seal endorsement is also available to qualified concrete finishers upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Bricklayers (7281)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7281&ver=16"
+        },
+        {
+            "name": "Concrete products machine operators (in 9414 Concrete, clay and stone forming operators",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9414&ver=16"
+        },
+        {
+            "name": "Supervisors of concrete finishers (in 7205 Contractors and supervisors, other construction trades, installers, repairers and servicers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7205&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "id": "6551",
+    "name": "Customer services representatives - financial institutions",
+    "lead statement": "Customer service representatives in this unit group process customers' financial transactions and provide information on related banking products and services. They are employed by banks, trust companies, credit unions and similar financial institutions.",
+    "example titles": [
+        "accounts information service clerk – financial institution",
+        "bank customer service officer",
+        "bank teller",
+        "credit union teller",
+        "current account representative – financial services",
+        "customer service agent – financial institution",
+        "customer service representative – financial services",
+        "financial customer service representative",
+        "foreign exchange teller – financial services",
+        "head teller – financial services",
+        "proof teller – bank",
+        "savings account teller – financial services",
+        "senior teller – financial services",
+        "teller – financial services",
+        "teller trainee",
+        "trust company teller"
+    ],
+    "main duties": [
+        "Process customer cash deposits and withdrawals, cheques, transfers, bills and credit card payments, money orders, certified cheques and other related banking transactions",
+        "Obtain and process information required for the provision of services, such as opening accounts and savings plans and purchasing bonds",
+        "Sell travellers' cheques, foreign currency and money orders",
+        "Answer enquiries and resolve problems or discrepancies concerning customers' accounts",
+        "Inform customers of available banking products and services to address their needs."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "A college diploma in business administration may be required.",
+        "On-the-job training is provided."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Banking, insurance and other financial clerks (1434)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1434&ver=16"
+        },
+        {
+            "name": "Other customer and information services representatives (6552)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6552&ver=16"
+        },
+        {
+            "name": "Supervisors, finance and insurance office workers (1212)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1212&ver=16"
+        },
+        {
+            "name": "Supervisors of financial customer service representatives (in 6314 Customer and information services supervisors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6314&ver=16"
+        },
+        {
+            "name": "Financial sales representatives (6235)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6235&ver=16"
+        }
+    ]
+}

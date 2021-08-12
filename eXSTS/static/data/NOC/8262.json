@@ -1,0 +1,73 @@
+{
+    "id": "8262",
+    "name": "Fishermen/women",
+    "lead statement": "Fishermen/women operate fishing vessels less than 100 gross tonnes to pursue and land fish and other marine life. They are usually self-employed owner-operators of fishing vessels.",
+    "example titles": [
+        "beam trawl fisherman/woman",
+        "clam dredge operator",
+        "clam fisherman/woman",
+        "crab fisherman/woman",
+        "Danish seine fisherman/woman",
+        "fisherman/woman",
+        "fishing vessel skipper",
+        "gill net fisherman/woman",
+        "gillnetter skipper",
+        "handliner fisherman/woman",
+        "harpoon fisherman/woman",
+        "hoop net fisherman/woman",
+        "inshore fisherman/woman",
+        "line fisherman/woman",
+        "lobster fisherman/woman",
+        "longline fisherman/woman",
+        "longliner fisherman/woman",
+        "otter trawl fisherman/woman",
+        "pot fisherman/woman",
+        "pound net fisherman/woman",
+        "prawn fisherman/woman",
+        "purse seine fisherman/woman",
+        "scallop dredger",
+        "seaweed dragger",
+        "seaweed harvesting machine operator",
+        "seiner fisherman/woman",
+        "shellfish fisherman/woman",
+        "shellfish harvester operator",
+        "shore fisherman/woman",
+        "swordfish fisherman/woman",
+        "trap boss – fishing",
+        "trap fisherman/woman",
+        "troller fisherman/woman",
+        "weir fisherman/woman"
+    ],
+    "main duties": [
+        "Operate fishing vessel to pursue and catch fish and other marine life",
+        "Select area for fishing, plot courses and compute navigational positions using compasses and charts or electronic fishing aids",
+        "Steer vessel and operate navigational instruments",
+        "Operate fishing gear, direct fishing operation and supervise fishing crew members",
+        "Maintain engine, fishing gear and other on-board equipment",
+        "Record fishing activities, weather and sea conditions",
+        "Estimate costs of operations and plan budget for each fishing season",
+        "Establish fish marketing plan and keep records of all financial transactions",
+        "May transport fish to processing plants or fish buyers."
+    ],
+    "employment requirements": [
+        "Several years of experience as fishing vessel crew member or helper are usually required.",
+        "Marine Emergency Duties Certificate is required by Transport Canada.",
+        "A valid Fishing Vessel Operator Certificate is required.",
+        "A commercial fishing licence is required.",
+        "Licences are required for each species of fish pursued.",
+        "Trade certification for fish harvesters is available, but voluntary, in Newfoundland and Labrador."
+    ],
+    "additional information": [
+        "Progression to master or mate on fishing vessels over 100 gross tonnes is possible with additional training, licensing and experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Fishing masters and officers (8261)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8261&ver=16"
+        },
+        {
+            "name": "Fishing vessel deckhands (8441)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8441&ver=16"
+        }
+    ]
+}

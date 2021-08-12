@@ -1,0 +1,49 @@
+{
+    "id": "6521",
+    "name": "Travel counsellors",
+    "lead statement": "Travel counsellors advise clients on travel options and tour packages, make bookings and reservations, prepare tickets and receive payment. They are employed in travel agencies, transportation and tourism firms and hotel chains.",
+    "example titles": [
+        "booking agent – travel agency",
+        "reservation agent – travel agency",
+        "reservation sales agent – travel agency",
+        "tourist information counsellor",
+        "travel agent",
+        "travel centre counsellor",
+        "travel consultant",
+        "travel counsellor",
+        "travel information agent",
+        "travel specialist",
+        "visitor information counsellor"
+    ],
+    "main duties": [
+        "Provide travel information to clients regarding destinations, transportation and accommodation options and travel costs, and recommend suitable products",
+        "Plan and organize vacation travel for individuals or groups",
+        "Make transportation and accommodation reservations using computerized reservation and ticketing system",
+        "Sell single fare tickets and package tours to clients",
+        "Promote particular destinations, tour packages and other travel services",
+        "Investigate new travel destinations, hotels and other facilities and attractions",
+        "Provide travel tips regarding tourist attractions, foreign currency, customs, languages and travel safety."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "A college diploma or vocational training in travel or tourism is usually required.",
+        "Certification with the Association of Canadian Travel Agencies (ACTA ) may be required."
+    ],
+    "additional information": [
+        "Progression to managerial positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Airline ticket agents (in 6523 Airline ticket and service agents",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6523&ver=16"
+        },
+        {
+            "name": "Convention co-ordinators (in 1226 Conference and event planners",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1226&ver=16"
+        },
+        {
+            "name": "Travel agency managers (in 0621 Retail and wholesale trade managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0621&ver=16"
+        }
+    ]
+}

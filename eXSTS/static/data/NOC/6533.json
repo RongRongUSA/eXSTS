@@ -1,0 +1,60 @@
+{
+    "id": "6533",
+    "name": "Casino workers",
+    "lead statement": "Casino workers operate gaming tables, assist patrons using slot machines, accept keno wagers, pay out winning bets and jackpots and collect losing bets. They are employed by casinos.",
+    "example titles": [
+        "baccarat croupier",
+        "blackjack croupier",
+        "casino dealer",
+        "casino runner",
+        "casino slot machine attendant",
+        "count room attendant – casino",
+        "counting attendant – casino",
+        "croupier",
+        "croupier – casino",
+        "gambling table operator",
+        "gaming table dealer",
+        "gaming table operator – casino",
+        "guest service representative – casino",
+        "keno dealer",
+        "keno runner – casino",
+        "keno writer",
+        "pai gow croupier",
+        "pai gow domino croupier",
+        "pai gow poker croupier",
+        "poker croupier",
+        "roulette croupier",
+        "sic bo croupier",
+        "super pan 9 croupier",
+        "twenty-one croupier"
+    ],
+    "main duties": [
+        "Operate gaming tables and games such as roulette, blackjack, keno, baccarat and poker",
+        "Monitor and assist patrons using slot machines",
+        "Explain rules of games to patrons and ensure that rules are followed",
+        "Accept keno wagers and issue computerized tickets for selection",
+        "Determine winners or announce winning numbers",
+        "Calculate and pay out winning bets and jackpots, collect losing bets and maintain related reports",
+        "Replenish and reset slot machines",
+        "may perform minor adjustments or repairs to slot machines."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "On-the-job training is provided for gaming table dealers.",
+        "Security clearance is required for all casino workers.",
+        "Casino gaming licences are usually required for all casino employees."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience in all activities related to gaming."
+    ],
+    "exclusions": [
+        {
+            "name": "Amusement ride, sports facility and bingo hall workers (in 6722 Operators and attendants in amusement, recreation and sport",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6722&ver=16"
+        },
+        {
+            "name": "Supervisors of casino workers (in 6313 Accommodation, travel, tourism and related services supervisors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6313&ver=16"
+        }
+    ]
+}

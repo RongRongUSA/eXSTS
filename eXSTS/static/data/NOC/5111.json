@@ -1,0 +1,83 @@
+{
+    "id": "5111",
+    "name": "Librarians",
+    "lead statement": "Librarians select, develop, organize and maintain library collections and provide advisory services for users. They are employed in libraries or other establishments with library services throughout the public and private sectors.",
+    "example titles": [
+        "art librarian",
+        "associate librarian",
+        "automation librarian",
+        "bibliographer",
+        "bookmobile librarian",
+        "cataloguer – library",
+        "children's services librarian",
+        "classifier – library",
+        "computer search librarian",
+        "cybrarian",
+        "database librarian",
+        "documentation librarian",
+        "health librarian",
+        "iconographer",
+        "information and reference librarian",
+        "information services librarian",
+        "law librarian",
+        "liaison librarian",
+        "librarian",
+        "library consultant",
+        "library co-ordinator",
+        "library supervisor",
+        "medical librarian",
+        "multimedia librarian",
+        "music librarian",
+        "music librarian – broadcasting",
+        "periodicals librarian",
+        "reference librarian",
+        "resource sharing and processing librarian",
+        "scientific librarian",
+        "technical services librarian",
+        "unit head librarian"
+    ],
+    "main duties": [
+        "Recommend acquisition of books, periodicals and audio-visual, interactive media and other materials for inclusion in library collection",
+        "Provide reference services",
+        "Select, classify, catalogue and weed library materials",
+        "Prepare bibliographies, indexes, reading lists, guides and other finding aids",
+        "Develop systems to access library collections",
+        "Perform manual, on-line and interactive media reference searches to assist users in accessing library materials and arrange for interlibrary loans",
+        "Develop taxonomies using various information and data sources",
+        "Provide specialized programs for children, seniors and other groups",
+        "Conduct library information and orientation training programs and tours",
+        "Perform related administrative duties and supervise library technicians, assistants and clerks."
+    ],
+    "employment requirements": [
+        "A master's degree in library science or a master's degree in library and information studies \r\n or a master's degree from a program accredited by the American Library Association is required."
+    ],
+    "additional information": [
+        "Progression to library management positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Library and public archive technicians (5211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5211&ver=16"
+        },
+        {
+            "name": "Library curators (in 5112 Conservators and curators",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5112&ver=16"
+        },
+        {
+            "name": "Library directors and managers (in 0511 Library, archive, museum and art gallery managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0511&ver=16"
+        },
+        {
+            "name": "School librarians (in 5211 Library and public archive technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5211&ver=16"
+        },
+        {
+            "name": "Teacher-librarian, elementary school (in 4032 Elementary school and kindergarten teachers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4032&ver=16"
+        },
+        {
+            "name": "Teacher-librarian, high school (in 4031 Secondary school teachers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4031&ver=16"
+        }
+    ]
+}

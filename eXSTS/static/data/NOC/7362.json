@@ -1,0 +1,60 @@
+{
+    "id": "7362",
+    "name": "Railway conductors and brakemen/women",
+    "lead statement": "Railway conductors co-ordinate and supervise the activities of passenger and freight train crew members. Brakemen check train brakes and other systems and equipment prior to train run, and assist railway conductors in activities en route. They are employed by railway transport companies.",
+    "example titles": [
+        "brake worker – switching yard",
+        "brakeman/woman",
+        "brakeman/woman – railway",
+        "brakeman/woman – railway yard",
+        "brakeman/woman – switching yard",
+        "conductor – railway yard",
+        "conductor – road freight",
+        "conductor – switching yard",
+        "freight train brakeman/woman",
+        "freight train conductor",
+        "front-end brakeman/woman",
+        "head brakeman/woman",
+        "passenger train brakeman/woman",
+        "passenger train conductor",
+        "pullman conductor",
+        "railway conductor",
+        "road freight brakeman/woman",
+        "sleeping car conductor",
+        "tail-end brakeman/woman",
+        "train conductor"
+    ],
+    "main duties": [
+        "Supervise and co-ordinate the activities of passenger and freight train crew members (except locomotive engineers) to ensure train operations are in accordance with schedule, train orders and code of operating rules",
+        "Receive train orders and explain orders to brakemen/women, locomotive engineer and other crew members",
+        "Communicate with train crew members by radio, signals or by other means to give and receive train operation information",
+        "Collect fares on board passenger trains, announce approaching train stops and answer passenger enquiries",
+        "Prepare train run reports.",
+        "Check train systems and equipment such as air conditioning and heating systems, brakes and brake hoses prior to train run",
+        "Communicate with train crew members by radio, signals or by other means to aid in the movement and operation of train",
+        "Receive orders from traffic controllers, observe signals and track conditions and open and close track switches",
+        "Set and release hand brakes and connect air brake hoses to couple and switch passenger or freight cars, making minor repairs to couplings, air hoses and wheel-bearing boxes as required",
+        "Assist in collecting fares and helping passengers on and off train."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Experience as a brakeman is required for conductors.",
+        "Experience as a railway worker is usually required for brakemen/women.",
+        "Railway conductors require a Canadian Rail Operating Rules certificate.",
+        "Brakemen require a Canadian Rail Operating Rules certificate."
+    ],
+    "additional information": [
+        "With experience, brakemen/women may progress to railway conductors.",
+        "With experience, railway conductors may progress to locomotive engineers."
+    ],
+    "exclusions": [
+        {
+            "name": "Railway and yard locomotive engineers (7361)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7361&ver=16"
+        },
+        {
+            "name": "Supervisors, railway transport operations (7304)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7304&ver=16"
+        }
+    ]
+}

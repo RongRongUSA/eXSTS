@@ -1,0 +1,62 @@
+{
+    "id": "2282",
+    "name": "User support technicians",
+    "lead statement": "Technicians in this unit group provide first-line technical support to computer users experiencing difficulties with computer hardware and with computer applications and communications software. They are employed by computer hardware manufacturers and retailers, software developers, in call centres and in information technology units throughout the public and private sectors. Technicians in this unit group are also employed by independent technical support companies or they may be self-employed.",
+    "example titles": [
+        "call centre agent – technical support",
+        "client support representative – systems",
+        "computer help desk representative – systems",
+        "computer help desk supervisor",
+        "deskside support technician",
+        "hardware installation technician",
+        "hardware technical support analyst",
+        "help desk analyst – systems",
+        "help desk technical agent",
+        "help desk technician",
+        "personal computer (PC) support analyst",
+        "software installation technician",
+        "software technical support analyst",
+        "systems support representative",
+        "systems technical support analyst",
+        "technical help desk agent",
+        "technical support analyst – systems",
+        "technical support supervisor",
+        "user support technician"
+    ],
+    "main duties": [
+        "Communicate electronically and in person with computer users experiencing difficulties to determine and document problems experienced",
+        "Consult user guides, technical manuals and other documents to research and implement solutions",
+        "Reproduce, diagnose and resolve technical problems encountered by users",
+        "Provide advice and training to users in response to identified difficulties",
+        "Provide business systems, network and Internet support to users in response to identified difficulties",
+        "Collect, organize and maintain a problems and solutions log for use by other technical support analysts",
+        "Participate in the redesign of applications and other software",
+        "May supervise other technical support workers in this group."
+    ],
+    "employment requirements": [
+        "Completion of a college program in computer science, computer programming or network administration is usually required.",
+        "College or other courses in computer programming or network administration are usually required.",
+        "Certification or training provided by software vendors may be required by some employers."
+    ],
+    "additional information": [
+        "Progression to computer programming, interactive media development, Web development or systems analysis is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Computer network technicians (2281)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2281&ver=16"
+        },
+        {
+            "name": "Computer programmers and interactive media developers (2174)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2174&ver=16"
+        },
+        {
+            "name": "Information systems analysts and consultants (2171)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2171&ver=16"
+        },
+        {
+            "name": "Information systems testing technicians (2283)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2283&ver=16"
+        }
+    ]
+}

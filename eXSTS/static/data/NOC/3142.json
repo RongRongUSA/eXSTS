@@ -1,0 +1,56 @@
+{
+    "id": "3142",
+    "name": "Physiotherapists",
+    "lead statement": "Physiotherapists assess patients and plan and carry out individually designed treatment programs to maintain, improve or restore physical functioning and mobility, alleviate pain and prevent physical dysfunction in patients. Physiotherapists are employed in hospitals, clinics, industry, sports organizations, rehabilitation centres and extended care facilities, or they may work in private practice.",
+    "example titles": [
+        "clinical physical therapist",
+        "clinical physiotherapist",
+        "consultant physical therapist",
+        "consultant physiotherapist",
+        "physical rehabilitation therapist",
+        "physical therapist",
+        "physical therapy clinical co-ordinator",
+        "physical therapy clinical specialist",
+        "physical therapy supervisor",
+        "physiotherapist",
+        "physiotherapy clinical co-ordinator",
+        "physiotherapy supervisor",
+        "registered physical therapist",
+        "registered physiotherapist",
+        "research physical therapist",
+        "research physiotherapist"
+    ],
+    "main duties": [
+        "Assess patients' physical abilities through evaluative procedures such as functional ability tests",
+        "Establish treatment goals with patients based on physical diagnoses",
+        "Plan and implement programs of physiotherapy including therapeutic exercise, manipulations, massage, education, the use of electro-therapeutic and other mechanical equipment and hydrotherapy",
+        "Evaluate effectiveness of treatment plans and modify accordingly",
+        "Provide advice on exercise and strategies to implement at home to enhance and or maintain treatment",
+        "Communicate with referring physician and other health care professionals regarding patients' problems, needs and progress",
+        "Maintain clinical and statistical records and confer with other health care professionals",
+        "Develop and implement health promotion programs for patients, staff and the community",
+        "May conduct research in physiotherapy",
+        "May provide consulting or education services.",
+        "Physiotherapists may focus their practice in particular clinical areas such as neurology, oncology, rheumatology, orthopedics, obstetrics, pediatrics, geriatrics, in the treatment of patients with cardiovascular and cardiopulmonary disorders, burns or sports injuries or in the field of ergonomics."
+    ],
+    "employment requirements": [
+        "A university degree in physiotherapy and a period of supervised practical training are required.",
+        "Physical rehabilitation therapists, who are only found in Quebec, require completion of a 3 year college program.",
+        "A licence or registration with a regulatory body is required in all provinces and territories.",
+        "Completion of a physiotherapist competency examination is required in all provinces and territories."
+    ],
+    "additional information": [
+        "Progression to management positions, such as director of physiotherapy, is possible through experience and additional training.",
+        "In Quebec, physical rehabilitation therapists cannot provide a diagnosis."
+    ],
+    "exclusions": [
+        {
+            "name": "Directors of physiotherapy (in 0311 Managers in health care",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0311&ver=16"
+        },
+        {
+            "name": "Physical rehabilitation technicians (in 3237 Other technical occupations in therapy and assessment",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3237&ver=16"
+        }
+    ]
+}

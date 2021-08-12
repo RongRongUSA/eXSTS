@@ -1,0 +1,60 @@
+{
+    "id": "9618",
+    "name": "Labourers in fish and seafood processing",
+    "lead statement": "Labourers in this unit group perform clean-up, packaging, material handling and other elemental activities related to fish and seafood processing. They are employed in fish and seafood processing and packaging plants.",
+    "example titles": [
+        "cannery labourer",
+        "cannery labourer – fish processing",
+        "cooler operator – fish processing",
+        "fish bin worker – fish processing",
+        "fish briner – fish processing",
+        "fish culler",
+        "fish curing worker",
+        "fish dipper – fish processing",
+        "fish flaker – fish processing",
+        "fish freezing worker – fish processing",
+        "fish hopper filling worker",
+        "fish icer – fish processing",
+        "fish packer – fish processing",
+        "fish pickler – fish processing",
+        "fish plant labourer",
+        "fish processing labourer",
+        "fish salter – fish processing",
+        "fish sorter",
+        "fish washer – fish processing",
+        "fish weigher",
+        "fish-processing plant handler",
+        "fish-processing plant labourer",
+        "labourer – shellfish processing",
+        "plant labourer – fish processing",
+        "shellfish checker – fish processing",
+        "shellfish labourer",
+        "shellfish packer – fish processing",
+        "shellfish processing labourer"
+    ],
+    "main duties": [
+        "Unload fish and shellfish from fishing vessels and transport them by hand or forklift truck to work area in fish processing plant",
+        "Immerse fresh fish fillets in brine solution to condition them for wrapping or freezing",
+        "Weigh fish or shellfish, record weight and pack fish in ice",
+        "Sort fish according to species, weight and destination",
+        "Clean work areas and equipment",
+        "Transport supplies and packaging materials throughout plant and storage area manually or with powered equipment",
+        "Measure and dump ingredients into hoppers of mixing and grinding machines."
+    ],
+    "employment requirements": [
+        "Some secondary school education may be required."
+    ],
+    "additional information": [
+        "Progression to other occupations in the fish processing industry is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Fish and seafood plant workers (9463)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9463&ver=16"
+        },
+        {
+            "name": "Foremen/women of workers in fish processing (in 9213 Supervisors, food and beverage processing",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9213&ver=16"
+        }
+    ]
+}

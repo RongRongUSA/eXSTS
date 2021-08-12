@@ -1,0 +1,64 @@
+{
+    "id": "8611",
+    "name": "Harvesting labourers",
+    "lead statement": "Harvesting labourers assist other farm workers to harvest, sort and pack crops.",
+    "example titles": [
+        "apple picker",
+        "berry picker",
+        "crop farm labourer – harvesting",
+        "cucumber picker",
+        "field-grown crop farm labourer – harvesting",
+        "fruit harvest worker",
+        "fruit harvester",
+        "fruit harvesting labourer",
+        "fruit or vegetable picker",
+        "fruit packer – farm",
+        "fruit picker",
+        "fruit sorter – farm",
+        "harvest hand",
+        "harvest worker",
+        "harvesting labourer",
+        "mushroom picker",
+        "small fruit picker",
+        "tobacco cutter – tobacco harvesting",
+        "tobacco picker",
+        "tobacco stripper – tobacco harvesting",
+        "tomato picker",
+        "vegetable packer – farm",
+        "vegetable picker",
+        "vegetable sorter – farm",
+        "worm harvester",
+        "worm packer",
+        "worm picker",
+        "worm picker-packer"
+    ],
+    "main duties": [
+        "Pick row and orchard crops",
+        "Sort, weigh and pack fruit and vegetables at the farm",
+        "Load, unload and transfer crates, supplies, farm produce and products for transport",
+        "Clean up racks, trays, and harvest bins and general clean up of growing, producing and packing areas",
+        "Assist with general farm maintenance and maintenance of equipment and tools",
+        "May assist in preparing garden beds for planting",
+        "May write daily progress reports of inventory harvested."
+    ],
+    "employment requirements": [
+        "There are no specific education or training requirements."
+    ],
+    "additional information": [
+        "Progression to other farm worker positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "General farm workers (8431)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8431&ver=16"
+        },
+        {
+            "name": "Managers in agriculture (0821)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0821&ver=16"
+        },
+        {
+            "name": "Agricultural service contractors, farm supervisors and specialized livestock workers (8252)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8252&ver=16"
+        }
+    ]
+}

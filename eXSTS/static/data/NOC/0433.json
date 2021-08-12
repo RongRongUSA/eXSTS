@@ -1,0 +1,63 @@
+{
+    "id": "0433",
+    "name": "Commissioned officers of the Canadian Armed Forces",
+    "lead statement": "This unit group consists of commissioned officers of the Canadian Armed Forces who plan, organize, command and evaluate the activities of personnel in the Canadian Armed Forces. All ranks of commissioned officers in the Royal Canadian Air Force, Canadian Army, and Royal Canadian Navy are included in this unit group.",
+    "example titles": [
+        "acting sub-lieutenant",
+        "admiral",
+        "air combat systems officer",
+        "armour officer",
+        "artillery officer",
+        "brigadier general",
+        "captain",
+        "captain – air force",
+        "captain – army",
+        "captain – navy",
+        "colonel",
+        "commander",
+        "commodore",
+        "court martial judge",
+        "general",
+        "infantry officer",
+        "lieutenant",
+        "lieutenant – air force",
+        "lieutenant – army",
+        "lieutenant – navy",
+        "lieutenant colonel",
+        "lieutenant commander",
+        "lieutenant general",
+        "logistics officer",
+        "major",
+        "major general",
+        "naval cadet",
+        "officer cadet",
+        "rear admiral",
+        "search and rescue captain",
+        "second lieutenant",
+        "sub-lieutenant",
+        "vice admiral"
+    ],
+    "main duties": [
+        "Plan, organize and command the activities of Canadian Armed Forces combat units such as armour, artillery and infantry battalions",
+        "Develop and implement military procedures and policies based on detailed knowledge of units' capabilities and performance",
+        "Direct subordinates in training and co-ordinate and direct activities of units in accordance with military practices",
+        "Assume responsibility for welfare, morale and discipline of units",
+        "Review and evaluate unit performance, prepare reports and provide briefings for superiors",
+        "May command and lead units engaged in non-combat operations for disaster relief and humanitarian and peacekeeping efforts domestically and internationally."
+    ],
+    "employment requirements": [
+        "A university degree is usually required.",
+        "Completion of military training is required.",
+        "Experience as a non-commissioned member of the armed forces and demonstrated leadership ability may substitute for a university degree.",
+        "Senior ranks, such as colonel, require several years of experience."
+    ],
+    "additional information": [
+        "Military personnel are classified according to their military rank."
+    ],
+    "exclusions": [
+        {
+            "name": "Non-commissioned ranks of the Canadian Armed Forces (4313)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4313&ver=16"
+        }
+    ]
+}

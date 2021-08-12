@@ -1,0 +1,92 @@
+{
+    "id": "9471",
+    "name": "Plateless printing equipment operators",
+    "lead statement": "This unit group includes workers who operate laser printers, computerized high speed colour copiers and other printing machines to print text, illustrations and designs on a wide variety of materials such as paper, plastic, glass, leather, and metal. They are employed in rapid printing services, newspaper and magazine publishing companies, commercial printing companies and in manufacturing and other establishments that have in-house printing facilities.",
+    "example titles": [
+        "balloon printer",
+        "blueprint blocker",
+        "blueprint developer",
+        "blueprinting machine operator",
+        "box printer – printing",
+        "box, case and lining printer",
+        "box-printing machine operator",
+        "braille duplicator",
+        "braille printer",
+        "braille-impressing machine operator",
+        "colour and large copier operator",
+        "colour copier operator",
+        "colour photocopier operator",
+        "colour photocopy operator",
+        "copy, staple and glue machine operator",
+        "die stamper – printing",
+        "electronic printing machine operator",
+        "electronic sign maker operator",
+        "embossing printer",
+        "embossing-imprinting machine operator",
+        "engraving machine operator – printing",
+        "floorcovering printer",
+        "glove printer",
+        "high speed printer operator",
+        "label printer",
+        "laser printer operator",
+        "machine advertising signs printer",
+        "machine marker",
+        "machine shotgun-shell printer",
+        "machine sign printer",
+        "machine sign writer",
+        "offline-printing machine operator",
+        "photocopying machine tender",
+        "plastic printer",
+        "pochoir silk-screen printing machine operator",
+        "printer operator – printing",
+        "printer-slotter operator",
+        "printer-slotter tender",
+        "printing machine operator – printing",
+        "proofsheet approver – printing",
+        "quick print machine operator",
+        "ruling machine operator – printing",
+        "screen print operator",
+        "screen printing machine operator – printing",
+        "shotgun-shell-printing machine tender",
+        "silk-screen printing machine operator",
+        "silk-screen tender – printing",
+        "silk-screening machine operator",
+        "steel die printer",
+        "stencil silk-screen printing machine operator",
+        "tabulating cards printer",
+        "tag-printing machine tender",
+        "tape rule printer",
+        "transfer machine tender – printing",
+        "transfer press operator",
+        "wallpaper printer",
+        "wallpaper sample sheet cutter-marker",
+        "wallpaper sample sheet marker"
+    ],
+    "main duties": [
+        "Review work order to determine job specifications, such as ink colour and quantity required",
+        "Set up and make adjustments to printing machine, such as filling ink or paint reservoirs and loading stock",
+        "Input codes and key in programming data on console keyboard of computerized machines",
+        "Operate and monitor printing machines during print run and make adjustments as required",
+        "Clean machines and replace worn parts."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Completion of college or other specialized courses in printing may be required.",
+        "On-the-job training is provided."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Printing press operators (7381)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7381&ver=16"
+        },
+        {
+            "name": "Supervisors, printing and related occupations (7303)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7303&ver=16"
+        },
+        {
+            "name": "Textile printing machine operators (in 9441 Textile fibre and yarn, hide and pelt processing machine operators and workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9441&ver=16"
+        }
+    ]
+}

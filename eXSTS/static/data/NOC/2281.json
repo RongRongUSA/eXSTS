@@ -1,0 +1,78 @@
+{
+    "id": "2281",
+    "name": "Computer network technicians",
+    "lead statement": "Computer network technicians establish, operate, maintain and co-ordinate the use of local and wide area networks (LANs and WANs), mainframe networks, hardware, software and related computer equipment. They set up and maintain Internet and intranet Web sites and Web-server hardware and software, and monitor and optimize network connectivity and performance. They are employed in information technology units throughout the private and public sectors. Supervisors of computer network technicians are included in this unit group.",
+    "example titles": [
+        "computer master console operator",
+        "computer network technician",
+        "computer network technicians' supervisor",
+        "computer operations supervisor",
+        "computer tape librarian",
+        "data centre operator",
+        "digital computer operator",
+        "Internet Web site technician",
+        "local area network (LAN) administrator",
+        "local area network (LAN) manager",
+        "local area network (LAN) operator",
+        "local area network (LAN) technician",
+        "network administrator",
+        "network controller",
+        "network operator",
+        "network support analyst",
+        "network support technician",
+        "server administrator",
+        "system administrator",
+        "Web site administrator",
+        "Web technician",
+        "Wide area network (WAN) administrator",
+        "wide area network (WAN) technician"
+    ],
+    "main duties": [
+        "Maintain, troubleshoot, repair and administer local area networks (LANs), wide area networks (WANs), mainframe networks, computer workstations, connections to the Internet and peripheral equipment",
+        "Evaluate and install computer hardware, networking software, operating system software and software applications",
+        "Operate master consoles to monitor the performance of computer systems and networks and to co-ordinate access and use of computer networks",
+        "Provide problem-solving services to network users",
+        "Install, maintain, troubleshoot and upgrade Web-server hardware and software",
+        "Implement network traffic and security monitoring software, and optimize server performance",
+        "Perform routine network start up and close down and maintain control records",
+        "Perform data backups and disaster recovery operations",
+        "Conduct tests and perform security and quality controls",
+        "Control and monitor e-mail use, Web navigation, and installed software",
+        "Perform shell scripting or other basic scripting tasks",
+        "May supervise other workers in this group."
+    ],
+    "employment requirements": [
+        "Completion of a college or other program in computer science, network administration, Web technology or a related field is usually required.",
+        "Certification or training provided by software vendors may be required by some employers.",
+        "Registration with a regulatory body is required in Saskatchewan."
+    ],
+    "additional information": [
+        "Progression to computer programming, interactive media development, Web development or systems analysis is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Advertising, marketing and public relations managers (0124)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0124&ver=16"
+        },
+        {
+            "name": "Computer engineers (except software engineers and designers) (2147)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2147&ver=16"
+        },
+        {
+            "name": "Computer programmers and interactive media developers (2174)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2174&ver=16"
+        },
+        {
+            "name": "Information systems testing technicians (2283)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2283&ver=16"
+        },
+        {
+            "name": "User support technicians (2282)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2282&ver=16"
+        },
+        {
+            "name": "Web designers and developers (2175)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2175&ver=16"
+        }
+    ]
+}

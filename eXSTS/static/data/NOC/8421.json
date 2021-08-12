@@ -1,0 +1,79 @@
+{
+    "id": "8421",
+    "name": "Chain saw and skidder operators",
+    "lead statement": "Chain saw and skidder operators operate chain saws to fell, delimb and buck trees, and operate skidders to move or yard the felled trees from the logging site to the landing area for processing and transportation. They are employed by logging companies and contractors.",
+    "example titles": [
+        "bucker",
+        "bucker – logging",
+        "cable skidder operator",
+        "chain saw operator – logging",
+        "chaser – logging",
+        "cordwood cutter",
+        "cutter – logging",
+        "faller",
+        "faller – logging",
+        "faller and bucker – logging",
+        "feller",
+        "feller – logging",
+        "forest worker – logging",
+        "grapple skidder operator",
+        "hardwood faller and bucker",
+        "horse logger",
+        "landing bucker – logging",
+        "landingman/woman",
+        "landingman/woman – logging",
+        "log cutter",
+        "logger",
+        "logging tractor operator",
+        "lumberjack",
+        "pieceworker – logging",
+        "pole cutter",
+        "post cutter",
+        "pulpwood cutter",
+        "skidder operator",
+        "skidder operator – logging",
+        "wood cutter – logging"
+    ],
+    "main duties": [
+        "Operate chain saw to fell, delimb and buck trees at the logging site and loading area",
+        "Operate cable, or grapple skidder to move or yard the felled trees from the logging site to the landing area for processing and transportation",
+        "Assess site, terrain and weather conditions before felling and yarding trees",
+        "May work as member of a team rotating between chain saw operation and skidder operation",
+        "May maintain and perform minor repairs on skidders, chain saws and other equipment."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Completion of a college program for forest workers may be required.",
+        "Formal training in chain saw operation and maintenance and several months of on-the-job training are usually provided.",
+        "Previous experience as a logging and forestry labourer or logging machine operator may be required. Experience requirements vary depending on the type and location of woodlands operations.",
+        "Provincial certification or a forest worker program certificate is required in some provinces.",
+        "Trade certification for fallers is available, but voluntary in Quebec.",
+        "Workplace hazardous materials information system (WHMIS) and first aid certificates may be required."
+    ],
+    "additional information": [
+        "There is a trend toward company certification of chain saw operators in larger companies.",
+        "Chain saw operators often must own and maintain their own chain saw.",
+        "There is some mobility among jobs within this unit group as chain saw and skidder operators often work in teams and rotate jobs.",
+        "Mobility may be limited from eastern and central forest zones to western forest zones where tree size or steep terrain may require different cutting and yarding methods.",
+        "Progression to logging machinery operator positions is possible with experience.",
+        "Progression to supervisory positions or self-employment as a logging contractor is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Logging and forestry labourers (8616)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8616&ver=16"
+        },
+        {
+            "name": "Logging contractors and supervisors (in 8211 Supervisors, logging and forestry",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8211&ver=16"
+        },
+        {
+            "name": "Logging machinery operators (8241)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8241&ver=16"
+        },
+        {
+            "name": "Silviculture and forestry workers (8422)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8422&ver=16"
+        }
+    ]
+}

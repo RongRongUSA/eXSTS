@@ -1,0 +1,56 @@
+{
+    "id": "9235",
+    "name": "Pulping, papermaking and coating control operators",
+    "lead statement": "Pulping, papermaking and coating control operators operate and monitor multi-function process control machinery and equipment to control the processing of wood, scrap pulp, recyclable paper, cellulose materials, paper pulp and paperboard. They are employed by pulp and paper companies.",
+    "example titles": [
+        "batch operator – pulp and paper",
+        "beater engineer – pulp and paper",
+        "beater room lead hand – pulp and paper",
+        "bleach plant operator – pulp and paper",
+        "control room operator – pulp and paper",
+        "cooking systems operator – pulp and paper",
+        "cylinder machine operator – pulp and paper",
+        "panel operator – pulp and paper",
+        "panelboard operator – pulp and paper",
+        "paper machine control operator",
+        "paper maker – control operation",
+        "peroxide bleach plant operator – pulp and paper",
+        "pulping control operator",
+        "pulping group operator – pulp and paper",
+        "pulping technician",
+        "recovery plant operator – pulp and paper"
+    ],
+    "main duties": [
+        "Operate, co-ordinate and monitor pulping, papermaking and papercoating process equipment from central control room or machine consoles and control panels in equipment cabins to control process operations and machinery in the production of pulp and paper",
+        "Control the processing of wood, scrap pulp, recyclable paper, cellulose materials, pulp paper and paperboard and monitor the chemical and physical process operations using a distributed control system and process computers",
+        "Observe panel indicators, gauges, video monitors and other instruments to detect equipment malfunctions and ensure pulping, papermaking and coating processes are operating according to process specifications",
+        "Analyze instrument readings and production test samples and make adjustments or direct other pulp mill, papermaking and finishing machine operators to make adjustments to pulp production, papermaking and coating process and equipment as required",
+        "Complete and maintain production reports."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "A college or other program in forest products processing or a related subject may be required for pulping control operators.",
+        "Completion of several weeks of formal company training and several months of on-the-job training is required.",
+        "Several years of experience as a pulp mill, papermaking or finishing machine operator within the same company is usually required.",
+        "A certificate in industrial first aid may be required.",
+        "A competency certificate in natural gas may be required."
+    ],
+    "additional information": [
+        "There is limited mobility among jobs within this unit group.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Papermaking and finishing machine operators (9433)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9433&ver=16"
+        },
+        {
+            "name": "Pulp mill machine operators (9432)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9432&ver=16"
+        },
+        {
+            "name": "Supervisors, forest products processing (9215)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9215&ver=16"
+        }
+    ]
+}

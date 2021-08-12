@@ -1,0 +1,58 @@
+{
+    "id": "6315",
+    "name": "Cleaning supervisors",
+    "lead statement": "Cleaning supervisors supervise and co-ordinate the activities of workers in the following unit groups:  (6731),  (6732), and  (6733). Cleaning supervisors are employed by hospitals and other health care institutions, hotels, motels, schools and other educational institutions, commercial and industrial establishments, home and office cleaning establishments and by various specialized cleaning companies.",
+    "example titles": [
+        "building cleaning and maintenance supervisor",
+        "building cleaning supervisor",
+        "carpet cleaning supervisor",
+        "carwash supervisor",
+        "chambermaid supervisor",
+        "cleaner supervisor",
+        "cleaning and maintenance supervisor",
+        "cleaning supervisor",
+        "custodian supervisor – cleaning services",
+        "head caretaker",
+        "head cleaner",
+        "head cleaning man/woman",
+        "head custodian",
+        "head custodian – cleaning services",
+        "head janitor",
+        "housekeeping room attendant supervisor",
+        "housekeeping supervisor",
+        "industrial plant cleaning supervisor",
+        "janitor supervisor",
+        "window washer supervisor",
+        "window washing supervisor"
+    ],
+    "main duties": [
+        "Supervise and co-ordinate the work of light duty, industrial or specialized cleaners and janitors",
+        "Inspect sites or facilities to ensure established safety and cleanliness standards are met",
+        "Recommend or arrange for additional services required such as painting, repair work, renovations or replacement of furnishings and equipment",
+        "Hire and train cleaning staff",
+        "Prepare work schedule and co-ordinate activities with those of other departments",
+        "Prepare budget, estimate costs and keep financial records",
+        "Receive payment for specialized cleaning jobs",
+        "May perform certain cleaning duties."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Previous experience in a particular area of cleaning is usually required.",
+        "Previous supervisory experience may be required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Building maintenance supervisors (in 7205 Contractors and supervisors, other construction trades, installers, repairers and servicers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7205&ver=16"
+        },
+        {
+            "name": "Executive housekeepers (6312)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6312&ver=16"
+        },
+        {
+            "name": "Specialized cleaners (6732)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6732&ver=16"
+        }
+    ]
+}

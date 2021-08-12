@@ -1,0 +1,64 @@
+{
+    "id": "7234",
+    "name": "Boilermakers",
+    "lead statement": "Boilermakers fabricate, assemble, erect, test, maintain and repair boilers, vessels, tanks, towers, heat exchangers and other heavy-metal structures. They are employed in boiler fabrication, manufacturing, shipbuilding, construction, electric power generation and similar industrial establishments.",
+    "example titles": [
+        "boiler fitter",
+        "boiler installer",
+        "boiler repairer",
+        "boiler repairman/woman",
+        "boiler shop mechanic",
+        "boilermaker",
+        "boilermaker apprentice",
+        "boilermaker-welder",
+        "construction boilermaker",
+        "erection and repair boilermaker",
+        "industrial boilermaker",
+        "industrial construction boilermaker",
+        "industrial heat exchanger boilermaker",
+        "journeyman/woman boilermaker",
+        "maintenance boilermaker",
+        "marine boilermaker",
+        "pressure vessel boilermaker",
+        "pressure vessel fabricator"
+    ],
+    "main duties": [
+        "Read blueprints or specifications to plan sequence of operation",
+        "Lay out plate, sheet steel or other heavy metal and mark bending and cutting lines on work piece using protractors, compasses and drawing instruments or templates",
+        "Set up and operate heavy-metal working machines such as brakes, rolls, shears, flame cutters and drill presses to cut, shape and form metal into parts or sections",
+        "Fit and weld metal parts or sections together to fabricate boilers, vessels, tanks, heat exchangers, piping and other heavy-metal products",
+        "Erect and install boilers and other heavy-metal products according to specifications using hand and power tools",
+        "Repair and perform maintenance work on boilers and other heavy-metal products",
+        "Direct activities of hoist or crane operators and other workers during fabrication, assembly, installation or repair of structures",
+        "Test finished structures using a variety of methods.",
+        "Boilermakers may specialize in rigging and hoisting, preparation and layout, or welding aspects of the trade."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a three- to four-year apprenticeship program \r\n or a combination of over four years of work experience in the trade and some high school, college or industry courses in boilermaking is usually required to be eligible for trade certification.",
+        "Trade certification is compulsory in Nova Scotia, Quebec and Alberta and available, but voluntary, in all other provinces.",
+        "Red Seal endorsement is also available, in all provinces, to qualified boilermakers upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Ironworkers (7236)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7236&ver=16"
+        },
+        {
+            "name": "Structural metal and platework fabricators and fitters (7235)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7235&ver=16"
+        },
+        {
+            "name": "Supervisors of boilermakers (in 7201 Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7201&ver=16"
+        },
+        {
+            "name": "Welders and related machine operators (7237)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7237&ver=16"
+        }
+    ]
+}

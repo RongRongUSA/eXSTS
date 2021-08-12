@@ -1,0 +1,63 @@
+{
+    "id": "3113",
+    "name": "Dentists",
+    "lead statement": "Dentists diagnose, treat, prevent and control disorders of the teeth and mouth. They work in private practice or may be employed in hospitals, clinics, public health facilities or universities.",
+    "example titles": [
+        "dental surgeon",
+        "dentist",
+        "doctor of dental surgery",
+        "endodontist",
+        "general practice dentist",
+        "implantologist – dentistry",
+        "oral and dental surgeon",
+        "oral and maxillofacial surgeon",
+        "oral medicine specialist",
+        "oral pathologist",
+        "oral pathology and maxillofacial surgery specialist",
+        "oral radiologist",
+        "oral surgeon",
+        "orthodontist",
+        "pediatric dentist",
+        "pedodontist",
+        "periodontist",
+        "prosthodontist",
+        "public health dentist",
+        "stomatologist"
+    ],
+    "main duties": [
+        "Examine patients' teeth, gums and surrounding tissue to diagnose disease, injury and decay and plan appropriate treatment",
+        "Restore, extract and replace diseased and decayed teeth",
+        "Perform oral surgery, periodontal surgery and other treatments",
+        "Clean teeth and instruct patients on oral hygiene",
+        "Design bridgework, fit dentures and provide appliances to correct abnormal positioning of the teeth and jaws, or write fabrication instructions or prescriptions for use by denturists and dental technicians",
+        "Supervise dental hygienists, dental assistants and other staff.",
+        "Dentists may specialize in such areas as oral and maxillofacial surgery, orthodontics, pediatric dentistry, periodontics, endodontics, prosthodontics, oral pathology, oral radiology or public health dentistry."
+    ],
+    "employment requirements": [
+        "One to four years of pre-dentistry university studies or, in Quebec, completion of a college program in sciences \r\n and A university degree from a recognized dental program are required.",
+        "Licensing by a provincial or territorial regulatory body is required.",
+        "Dentists in general practice can move into a specialized practice through advanced training.",
+        "Licensing for specializations is required."
+    ],
+    "additional information": [
+        "Certification by the National Dental Examining Board of Canada entitles dentists or graduates of approved dental programs to practise dentistry in any province in Canada provided requirements set out by the provincial and territorial licensing authorities are met."
+    ],
+    "exclusions": [
+        {
+            "name": "Dental assistants (3411)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3411&ver=16"
+        },
+        {
+            "name": "Dental hygienists and dental therapists (3222)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3222&ver=16"
+        },
+        {
+            "name": "Dental technologists, technicians and laboratory assistants (3223)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3223&ver=16"
+        },
+        {
+            "name": "Denturists (3221)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3221&ver=16"
+        }
+    ]
+}

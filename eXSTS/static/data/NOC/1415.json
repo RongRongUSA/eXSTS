@@ -1,0 +1,53 @@
+{
+    "id": "1415",
+    "name": "Personnel clerks",
+    "lead statement": "Personnel clerks assist personnel officers and human resources specialists and compile, maintain and process information relating to staffing, recruitment, training, labour relations, performance evaluations and classifications. They are employed in personnel departments throughout the private and public sectors.",
+    "example titles": [
+        "classification clerk – human resources",
+        "employment clerk",
+        "human resources assistant",
+        "human resources clerk",
+        "identification clerk",
+        "labour relations clerk",
+        "personnel clerk",
+        "personnel services clerk",
+        "staffing assistant",
+        "staffing clerk",
+        "training clerk"
+    ],
+    "main duties": [
+        "Process, verify and register documentation relating to personnel activities such as staffing, recruitment, training, grievances, performance evaluations and classifications",
+        "Maintain and update manual and computerized filing and registration systems, and compile and prepare reports and documents relating to personnel activities",
+        "Respond to telephone and written enquiries from staff and the general public regarding personnel matters",
+        "Arrange for advertising or posting of job vacancies, assist in screening and rating of job applicants, and conduct reference checks",
+        "Administer and score employment tests, such as keyboarding and proofreading tests",
+        "Arrange for in-house and external training activities."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of college or other courses in personnel administration may be required.",
+        "Some clerical experience may be required."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience.",
+        "Progression to officer level positions is possible with additional training and experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Human resources and recruitment officers (1223)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1223&ver=16"
+        },
+        {
+            "name": "Human resources professionals (1121)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1121&ver=16"
+        },
+        {
+            "name": "Payroll administrators (1432)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1432&ver=16"
+        },
+        {
+            "name": "Supervisors, general office and administrative support workers (1211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1211&ver=16"
+        }
+    ]
+}

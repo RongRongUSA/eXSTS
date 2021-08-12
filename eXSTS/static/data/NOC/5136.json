@@ -1,0 +1,87 @@
+{
+    "id": "5136",
+    "name": "Painters, sculptors and other visual artists",
+    "lead statement": "Painters, sculptors and other visual artists create original paintings, drawings, sculptures, engravings and other artistic works. They are usually self-employed. This group also includes art instructors and teachers, who are usually employed by art schools.",
+    "example titles": [
+        "animal art painter",
+        "animal art sculptor",
+        "art instructor",
+        "art instructor (except primary, secondary, post-secondary education)",
+        "art teacher (except primary, secondary and post-secondary education)",
+        "artist",
+        "artistic painter",
+        "artistic printmaker",
+        "charcoal artist",
+        "clay modeller",
+        "decorations painter – visual arts",
+        "etcher – visual arts",
+        "ice sculptor",
+        "ink sketcher",
+        "Inuit art sculptor",
+        "landscape painter",
+        "lithographic artist",
+        "maritime art painter",
+        "metal sculptor",
+        "monument sculptor",
+        "mural landscape artist",
+        "mural painter",
+        "oil painter",
+        "painter – visual arts",
+        "painting teacher",
+        "plastic arts artist",
+        "portrait painter",
+        "printmaker – visual arts",
+        "printmaking teacher",
+        "scenery painter",
+        "scenic painter – visual arts",
+        "sculptor",
+        "sculptor-modeller",
+        "sculpture teacher (except primary, secondary, post-secondary education)",
+        "sculpturing teacher (except primary, secondary, post-secondary education)",
+        "silhouette artist",
+        "silkscreen artist",
+        "video artist",
+        "visual arts artist",
+        "visual arts teacher (except primary, secondary, post-secondary education)",
+        "watercolourist",
+        "wood block artist",
+        "wood sculptor"
+    ],
+    "main duties": [
+        "Create drawings, paintings and other artwork using oils, pastels, watercolours, charcoal, ink and other media.",
+        "Create sculptures, statues and other three-dimensional artwork by shaping, carving and working with materials such as clay, ice, paper, stone, wood or metal.",
+        "Teach students the techniques and methods of drawing, painting, sculpting and other forms of artistic expression."
+    ],
+    "employment requirements": [
+        "Creative ability and talent, as demonstrated by a portfolio of work, and knowledge of the safe use of materials, tools and equipment are required. Art programs are offered at universities, colleges and private art schools.",
+        "A college diploma in fine arts techniques may be required.",
+        "Art instructors and teachers may be required to have a university degree or college diploma in a field related to art."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Artisans and craftspersons (5244)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5244&ver=16"
+        },
+        {
+            "name": "Graphic designers and illustrators (5241)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5241&ver=16"
+        },
+        {
+            "name": "Fine arts professor – university (in 4011 University professors and lecturers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4011&ver=16"
+        },
+        {
+            "name": "Fine arts teacher – college level (in 4021 College and other vocational instructors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4021&ver=16"
+        },
+        {
+            "name": "Art teachers – secondary school (in 4031 Secondary school teachers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4031&ver=16"
+        },
+        {
+            "name": "Art teachers – elementary school (in 4032 Elementary school and kindergarten teachers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4032&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "2254",
+    "name": "Land survey technologists and technicians",
+    "lead statement": "Land survey technologists and technicians conduct or participate in surveys to determine the exact locations and relative positions of natural features and other structures on the earth's surface, underground and underwater. They are employed by all levels of government, architectural and engineering firms, and by private sector surveying establishments.",
+    "example titles": [
+        "engineering survey technician",
+        "engineering survey technologist",
+        "geodetic survey technician",
+        "geodetic survey technologist",
+        "geomatics technician – land surveying",
+        "geomatics technologist – land surveying",
+        "instrument man/woman – surveying",
+        "land survey technician",
+        "land survey technologist",
+        "legal survey assistant",
+        "legal survey technician",
+        "legal survey technologist",
+        "plane table operator – surveying",
+        "topographic survey technician",
+        "topographic survey technologist",
+        "transit man/woman – surveying",
+        "transit operator – surveying"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Land survey technologists",
+            "duty_description": [
+                "Assist survey engineers or professional surveyors to develop methods and procedures for conducting field surveys",
+                "Conduct field surveys and operate survey instruments and computer equipment to measure distance, angles, elevations and contours",
+                "Record measurements and other information obtained during field survey activities",
+                "Determine precise geographic locations using global positioning systems (GPS) equipment",
+                "Analyze latitude, longitude and angles and compute trigonometric and other calculations to plot features, contours and areas to a specific scale",
+                "Prepare detailed drawings, charts and plans and survey notes and reports",
+                "Supervise and co-ordinate field survey activities."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Land survey technicians",
+            "duty_description": [
+                "Participate in field surveys and operate survey instruments and devices",
+                "Keep records, measurements and other survey information in systematic order",
+                "Assist in the calculation, analysis and computation of measurements obtained during field surveys",
+                "Assist in the preparation of detailed drawings, charts and plans."
+            ],
+            "duty_comment": "Land survey technologists and technicians may specialize in one of the following types of surveys: geodetic survey, topographic survey, legal (cadastral) survey or engineering survey."
+        }
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a two- to three-year college program in geomatics or land survey technology is usually required for land survey technologists.",
+        "Completion of a one- to two-year college program in geomatics or land survey technology is usually required for land survey technicians.",
+        "Certification by provincial associations of technicians and technologists may be required by some employers.",
+        "In Quebec, membership in the regulatory body for professional technologists is required to use the title \"Professional Technologist.\""
+    ],
+    "additional information": [
+        "Mobility is possible between the various occupations in this unit group.",
+        "Progression to supervisory positions is possible with experience.",
+        "Progression to land surveyor position is possible with completion of professional surveyor examinations and certification.",
+        "Geomatics is an interdisciplinary field encompassing the collection, analysis and presentation of geographically referenced data."
+    ],
+    "exclusions": [
+        {
+            "name": "Drafting technologists and technicians (2253)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2253&ver=16"
+        },
+        {
+            "name": "Engineering technologists and technicians who apply geotechnical and topographical information to land use and urban planning (in 2231 Civil engineering technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2231&ver=16"
+        },
+        {
+            "name": "Geological, geophysical, hydrographic and mine survey technologists (in 2212 Geological and mineral technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2212&ver=16"
+        },
+        {
+            "name": "Land surveyors (2154)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2154&ver=16"
+        },
+        {
+            "name": "Technical occupations in geomatics and meteorology (2255)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2255&ver=16"
+        }
+    ]
+}

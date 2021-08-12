@@ -1,0 +1,72 @@
+{
+    "id": "6623",
+    "name": "Other sales related occupations",
+    "lead statement": "This unit group includes workers who sell goods or services during home demonstrations or by telephone soliciting, retail exhibitions or street vending. They are employed by a wide range of retail and wholesale establishments, manufacturers, telemarketing companies and call centres, or they may be self-employed.",
+    "example titles": [
+        "beauty products consultant – door-to-door sales",
+        "beauty products representative – home sales",
+        "canvasser – retail",
+        "canvassing agent",
+        "catalogue agent – retail",
+        "catalogue sales agent – retail",
+        "cigarette vendor",
+        "cleaning products salesperson – door-to-door sales",
+        "comparison shopper",
+        "cosmetics demonstrator – retail",
+        "cosmetics salesperson – home sales",
+        "demonstrator – retail",
+        "direct distributor – retail",
+        "direct seller",
+        "door-to-door salesperson",
+        "food demonstrator – retail",
+        "home demonstrator – retail",
+        "home salesperson",
+        "magazine distribution agent – retail",
+        "magazine subscription solicitor",
+        "newspaper vendor",
+        "newspaper vendor – street sales",
+        "personal shopper",
+        "promotions demonstator",
+        "street vendor",
+        "subscription agent – retail",
+        "subscription solicitor",
+        "telemarketer",
+        "telephone sales agent",
+        "telephone sales clerk",
+        "telephone salesperson",
+        "telephone solicitor",
+        "vendor"
+    ],
+    "main duties": [
+        "Contact potential customers by phone or through personal contacts, demonstrate and sell products directly to individual customers or at sales parties and deliver purchased goods to customers.",
+        "Solicit sales and sell merchandise to residents of private homes.",
+        "Set up and display merchandise on sidewalks or at public events to sell to the public.",
+        "Contact businesses or private individuals, by telephone, to solicit sales for goods or services.",
+        "Arrange sales demonstration appointments, and show, describe and sell goods or services at wholesale, retail and industrial establishments, and at exhibitions, trade shows and private homes."
+    ],
+    "employment requirements": [
+        "Some secondary school education is usually required. A high school diploma may be required by some employers.",
+        "Self-employed street vendors and door-to-door salespersons may require a municipal merchant's permit."
+    ],
+    "additional information": [
+        "Progression to related supervisory positions is possible with additional training or experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Cashiers (6611)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6611&ver=16"
+        },
+        {
+            "name": "Kiosk sales clerks (in 6421 Retail salespersons",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6421&ver=16"
+        },
+        {
+            "name": "Retail and wholesale trade managers (0621)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0621&ver=16"
+        },
+        {
+            "name": "Retail sales supervisors (6211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6211&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "5133",
+    "name": "Musicians and singers",
+    "lead statement": "This unit group includes musicians, singers and teachers of vocal and instrumental music. Musicians and singers perform with orchestras, choirs, opera companies and popular bands in establishments such as concert halls, lounges and theatres and in film, television and recording studios. Music teachers teach in conservatories, academies and private homes.",
+    "example titles": [
+        "accompanist",
+        "accordion teacher – private, conservatory or studio lessons",
+        "alto",
+        "back-up musician",
+        "baritone",
+        "bass",
+        "bass drum teacher – private, conservatory or studio lessons",
+        "bass player",
+        "bassoon teacher – private, conservatory or studio lessons",
+        "blues singer",
+        "bugler",
+        "carillonneur",
+        "cellist",
+        "cello teacher – private, conservatory or studio lessons",
+        "chorister",
+        "church organist",
+        "concert singer",
+        "cornetist",
+        "drummer",
+        "flutist",
+        "folk singer",
+        "gospel singer",
+        "guitar player",
+        "harpist",
+        "horn player",
+        "horn teacher – private, conservatory or studio lessons",
+        "instrumental music teacher – private, conservatory or studio lessons",
+        "instrumental musician",
+        "instrumentalist",
+        "keyboardist",
+        "lied singer",
+        "mezzo-soprano",
+        "music teacher – musicians",
+        "music teacher – private, conservatory or studio lessons",
+        "musical interpreter",
+        "musician",
+        "opera singer",
+        "organ teacher – private, conservatory or studio lessons",
+        "organist",
+        "percussionist",
+        "pianist",
+        "piano teacher – private, conservatory or studio lessons",
+        "pop singer",
+        "recital singer",
+        "recording artist",
+        "rehearsal musician",
+        "rock singer",
+        "session musician",
+        "singer",
+        "soloist",
+        "soprano",
+        "street musician",
+        "tenor",
+        "trombonist",
+        "trumpeter",
+        "tuba player",
+        "viola teacher – private, conservatory or studio lessons",
+        "violin teacher – private, conservatory or studio lessons",
+        "violinist",
+        "vocal music teacher – private, conservatory or studio lessons",
+        "vocal soloist",
+        "vocalist",
+        "voice teacher – music",
+        "voice teacher – private, conservatory or studio lessons"
+    ],
+    "main duties": [
+        "Play one or more instruments as soloists or as members of a musical group before audiences or for recording purposes.",
+        "Sing musical arrangements as soloists or as members of vocal groups before audiences or for recording purposes.",
+        "Teach technique, interpretation and music theory to students through private or group lessons.",
+        "Musicians and singers usually specialize in specific genres of music such as classical, country, ethnic, jazz, opera or popular music."
+    ],
+    "employment requirements": [
+        "Musical training from a university or college or through private instruction is usually required.",
+        "Members of orchestras and other professional classical musicians and singers usually require a university degree in music.",
+        "Musical talent and ability, as demonstrated during an audition, are important hiring criteria.",
+        "Membership in a guild or union related to the occupation or type of performance may be required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Conductors, composers and arrangers (5132)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5132&ver=16"
+        },
+        {
+            "name": "Elementary school music teachers (in 4032 Elementary school and kindergarten teachers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4032&ver=16"
+        },
+        {
+            "name": "Professors of music (in 4011 University professors and lecturers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4011&ver=16"
+        },
+        {
+            "name": "Secondary school music teachers (in 4031 Secondary school teachers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4031&ver=16"
+        }
+    ]
+}

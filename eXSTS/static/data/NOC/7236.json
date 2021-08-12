@@ -1,0 +1,81 @@
+{
+    "id": "7236",
+    "name": "Ironworkers",
+    "lead statement": "Ironworkers fabricate, erect, hoist, install, repair and service structural ironwork, precast concrete, concrete reinforcing materials, curtain walls, ornamental iron and other metals used in the construction of buildings, bridges, highways, dams and other structures and equipment. They are employed by construction ironwork contractors.",
+    "example titles": [
+        "apprentice ironworker",
+        "apprentice metal structure erector",
+        "bridge construction ironworker",
+        "building systems erector",
+        "curtain wall installation ironworker",
+        "generalist steel structure erector",
+        "iron structure erector",
+        "ironworker",
+        "ironworker – metal building systems erector",
+        "ironworker – ornamental",
+        "ironworker – reinforcing rebar",
+        "ironworker apprentice",
+        "ironworker generalist",
+        "journeyman/woman ironworker",
+        "journeyman/woman reinforcing ironworker",
+        "metal scaffold erector",
+        "metal structure erector",
+        "metal tank erecting ironworker",
+        "metal wall framing installer",
+        "metal wall framing ironworker",
+        "metal wall installation ironworker",
+        "ornamental ironworker",
+        "ornamental-metal worker",
+        "precast concrete erector",
+        "reinforcing ironworker",
+        "reinforcing rodworker",
+        "reinforcing steel ironworker",
+        "rodworker apprentice",
+        "steel door setting ironworker",
+        "structural iron erector",
+        "structural ironworker",
+        "structural metal erector",
+        "structural steel erector",
+        "tower crane erector"
+    ],
+    "main duties": [
+        "Read blueprints and specifications to lay out work",
+        "Unload and position steel units so each piece can be hoisted as needed",
+        "Erect and install scaffolding, hoisting equipment and rigging",
+        "Signal crane operator to position steel units according to blueprints",
+        "Align and weld or bolt steel units in place",
+        "Erect structural and architectural precast concrete components for buildings, bridges, towers and other structures",
+        "Assemble and erect prefabricated metal structures",
+        "Position and secure steel bars or metal mesh in concrete forms to reinforce concrete structures",
+        "Install ornamental and other structural metalwork such as curtain walls, metal stairways, railings and power doors",
+        "Examine structures and equipment for deterioration, defects or non-compliance with specifications",
+        "May dismantle structures and equipment."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a two- to three-year apprenticeship program \r\n or over three years of work experience in the trade and some high school, college or industry courses in ironworking are usually required to be eligible for trade certification.",
+        "Trade certification for ironworker (generalist) is compulsory in Alberta and available, but voluntary, in Newfoundland and Labrador, Nova Scotia, Prince Edward Island, New Brunswick, Ontario, Manitoba and British Columbia.",
+        "Trade certification for ironworker (reinforcing) is compulsory in Quebec and Alberta and available, but voluntary, in Newfoundland and Labrador, Nova Scotia, Prince Edward Island, New Brunswick, Ontario, Saskatchewan and British Columbia.",
+        "Trade certification for ironworker (structural/ornamental) is compulsory in Alberta and available, but voluntary, in Newfoundland and Labrador, Nova Scotia, Prince Edward Island, New Brunswick, Ontario, Saskatchewan and British Columbia.",
+        "Trade certification for ironworker (metal building systems erector) is compulsory in Alberta.",
+        "Red Seal endorsement is also available to qualified ironworkers upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Boilermakers (7234)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7234&ver=16"
+        },
+        {
+            "name": "Structural metal and platework fabricators and fitters (7235)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7235&ver=16"
+        },
+        {
+            "name": "Supervisors of ironworkers (in 7201 Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7201&ver=16"
+        }
+    ]
+}

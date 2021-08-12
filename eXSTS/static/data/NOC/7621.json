@@ -1,0 +1,86 @@
+{
+    "id": "7621",
+    "name": "Public works and maintenance labourers",
+    "lead statement": "Public works and maintenance labourers perform a variety of labouring activities to maintain sidewalks, streets, roads and similar areas. They are employed by public works departments in all levels of government or by private contractors under contract to governments.",
+    "example titles": [
+        "casual worker – public works",
+        "dumpman/woman",
+        "garbage collector",
+        "garbage receptacle maintainer",
+        "garbage truck loader",
+        "general labourer – public works",
+        "helper – garbage collection",
+        "highway line painter",
+        "labourer – sanitary service",
+        "labourer crew leader – public works",
+        "line-painting machine operator – highways and roads",
+        "maintenance labourer – public works",
+        "manual sewer pipe cleaner",
+        "manual sidewalk cleaner",
+        "manual street cleaner",
+        "manual street sweeper",
+        "municipal elemental worker",
+        "municipal general labourer",
+        "municipal labourer",
+        "parking meter collector",
+        "playground maintenance man/woman",
+        "public works labourer",
+        "road maintenance worker",
+        "road maintenance worker – public works",
+        "sanitation man/woman",
+        "sanitation worker",
+        "seasonal worker – public works",
+        "sewer maintenance worker",
+        "sewer system maintenance worker",
+        "sidewalk cleaner",
+        "sidewalk snowplow operator",
+        "sidewalk-cleaning equipment operator"
+    ],
+    "main duties": [
+        "Clean and maintain sidewalks, streets, roads and public grounds of municipality and other areas, working as member of crew",
+        "Sweep debris and remove snow from streets, sidewalks, building grounds and other areas, and load snow and debris into carts or trucks",
+        "Shovel cement and other materials into cement mixers, spread concrete and asphalt on road surfaces using shovels, rakes and hand tampers, and perform other activities to assist in maintenance and repair of roads",
+        "Spread sand or salt on sidewalks for snow and ice control",
+        "Dig ditches and trenches using shovels and other hand tools",
+        "Operate jackhammers and drills to break up pavement",
+        "Load and unload trucks with supplies and equipment",
+        "Collect money from coin boxes of parking meters along established route",
+        "Collect and load refuse on garbage trucks",
+        "Assist equipment operators to secure attachments to equipment or trucks",
+        "Assist in routine maintenance and repair of equipment",
+        "Assist skilled tradespersons such as carpenters, plumbers and mechanics",
+        "May operate mobile sidewalk-cleaning equipment."
+    ],
+    "employment requirements": [
+        "Several weeks of on-the-job training are provided."
+    ],
+    "additional information": [
+        "Progression to supervisory positions or to public works maintenance equipment operator positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Construction labourers (in 7611 Construction trades helpers and labourers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7611&ver=16"
+        },
+        {
+            "name": "Landscaping and grounds maintenance labourers (8612)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8612&ver=16"
+        },
+        {
+            "name": "Park maintenance labourers (in 8612 Landscaping and grounds maintenance labourers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8612&ver=16"
+        },
+        {
+            "name": "Public works maintenance equipment operators and related workers (7522)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7522&ver=16"
+        },
+        {
+            "name": "Railway and motor transport labourers (7622)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7622&ver=16"
+        },
+        {
+            "name": "Supervisors of public works maintenance labourers and workers (in 7302 Contractors and supervisors, heavy equipment operator crews",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7302&ver=16"
+        }
+    ]
+}

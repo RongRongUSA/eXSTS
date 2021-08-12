@@ -1,0 +1,70 @@
+{
+    "id": "3212",
+    "name": "Medical laboratory technicians and pathologists' assistants",
+    "lead statement": "Medical laboratory technicians conduct routine medical laboratory tests and set up, clean and maintain medical laboratory equipment. They are employed in medical laboratories in hospitals, clinics, research facilities, post-secondary educational institutions and government research laboratories. Pathologists' assistants assist at autopsies and examinations of surgical specimens or perform autopsies under a pathologist's supervision. They are usually employed in hospitals and universities.",
+    "example titles": [
+        "biochemical technician – medical laboratory",
+        "biological technician – medical laboratory",
+        "blood bank technician",
+        "cancer research technician",
+        "clinical laboratory technician",
+        "combined laboratory and x-ray technician",
+        "community health technician – medical laboratory",
+        "cytology technician",
+        "epidemiology worker – medical laboratory",
+        "hematology technician – medical laboratory",
+        "histology technician",
+        "laboratory assistant – medical",
+        "laboratory technician – medical",
+        "medical laboratory aide",
+        "medical laboratory assistant",
+        "medical laboratory helper",
+        "medical laboratory technical assistant",
+        "medical laboratory technician",
+        "morgue attendant supervisor",
+        "pathology assistant",
+        "phlebotomist",
+        "phlebotomy aide",
+        "renal technician",
+        "technical assistant – medical laboratory",
+        "technical assistant – pathology"
+    ],
+    "main duties": [
+        "Collect, sort and prepare blood, tissue and other samples from patients",
+        "Log and validate patient samples and prepare them for testing",
+        "Set up medical laboratory equipment",
+        "Conduct routine laboratory tests and sample analyses",
+        "Perform quality assurance of testing techniques",
+        "Clean and maintain medical laboratory and medical laboratory equipment.",
+        "Prepare for autopsies by obtaining patients' medical records and arranging for radiographic examinations",
+        "Prepare, assist with or perform autopsies and surgical specimen examinations under pathologists' supervision",
+        "Dissect, examine, weigh, photograph and X-ray organs and specimens, collect tissue samples for chemical analysis and record findings",
+        "Discard specimens according to established safety procedures",
+        "Clean and maintain instruments, equipment and supplies",
+        "Develop and maintain processes for laboratory quality control",
+        "May prepare bodies for release to funeral homes following completion of autopsies",
+        "May supervise and train junior resident pathologists and morgue attendants."
+    ],
+    "employment requirements": [
+        "Medical laboratory technicians/assistants require completion of a college certificate program in medical laboratory science.",
+        "Certification by the Canadian Society for Medical Laboratory Science is usually required by employers for medical laboratory technicians/assistants.",
+        "Combined laboratory and X-ray technicians require completion of a combined laboratory X-ray technology program.",
+        "Pathologists' assistants require some post-secondary courses or a university degree in life sciences\r\n and specialized on-the-job training.",
+        "Certification by the American Society for Clinical Pathology – Board of Certification or Pathologists’ Assistant Certification Examination is usually required by employers."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Biological technicians in non-medical laboratories (in 2221 Biological technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2221&ver=16"
+        },
+        {
+            "name": "Chemical technicians in non-medical laboratories (in 2211 Chemical technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2211&ver=16"
+        },
+        {
+            "name": "Medical laboratory technologists (3211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3211&ver=16"
+        }
+    ]
+}

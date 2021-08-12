@@ -1,0 +1,75 @@
+{
+    "id": "7283",
+    "name": "Tilesetters",
+    "lead statement": "Tilesetters cover interior and exterior walls, floors and ceilings with ceramic, marble and quarry tile, mosaics or terrazzo. They are employed by construction companies and masonry contractors, or they may be self-employed.",
+    "example titles": [
+        "apprentice tilesetter",
+        "artificial marble setter",
+        "ceramic tile installer",
+        "ceramic tilesetter",
+        "granite setter",
+        "journeyman/woman tilesetter",
+        "marble layer",
+        "marble mason",
+        "marble mechanic",
+        "marble setter",
+        "marble tilesetter",
+        "mosaic tilesetter",
+        "terrazzo finisher",
+        "terrazzo floor layer",
+        "terrazzo layer",
+        "terrazzo mason",
+        "terrazzo mechanic",
+        "terrazzo polisher",
+        "terrazzo setter",
+        "terrazzo worker",
+        "terrazzo, tile and marble setter",
+        "tile fitter",
+        "tile floor layer",
+        "tile installer",
+        "tile layer",
+        "tile mason",
+        "tile mechanic",
+        "tilesetter",
+        "tilesetters lead hand"
+    ],
+    "main duties": [
+        "Prepare, measure and mark surface to be covered",
+        "Build underbeds and install anchor bolts, wires and brackets",
+        "Mix, apply and spread mortar, cement, mastic, glue or other adhesives using hand trowel",
+        "Set tiles in position and apply pressure to affix tiles to base",
+        "Align and straighten tile using levels, squares and straightedges",
+        "Cut and fit tiles around obstacles and openings using hand and power cutting tools",
+        "Pack grout into joints between tiles and remove excess grout",
+        "Install tile strips",
+        "Lay and set mosaic tiles to create decorative wall, mural and floor designs",
+        "Mix, lay and polish terra surfaces",
+        "Cut, polish and install marble and granite",
+        "Remove and replace cracked or damaged tiles",
+        "May prepare cost estimates and orders."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a three- or four-year apprenticeship program \r\n or a combination of over three years of work experience in the trade and some high school, college or industry courses in tilesetting is usually required to be eligible for trade certification.",
+        "Trade certification for tilesetters is compulsory in Quebec and available, but voluntary, in Newfoundland and Labrador, Nova Scotia, Prince Edward Island, New Brunswick, Ontario, Saskatchewan, Alberta and British Columbia.",
+        "Red Seal endorsement is also available to qualified tilesetters upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Bricklayers (7281)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7281&ver=16"
+        },
+        {
+            "name": "Plasterers, drywall installers and finishers and lathers (7284)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7284&ver=16"
+        },
+        {
+            "name": "Supervisors of tilesetters (in 7205 Contractors and supervisors, other construction trades, installers, repairers and servicers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7205&ver=16"
+        }
+    ]
+}

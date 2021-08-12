@@ -1,0 +1,115 @@
+{
+    "id": "7511",
+    "name": "Transport truck drivers",
+    "lead statement": "Transport truck drivers operate heavy trucks to transport goods and materials over urban, interurban, provincial and international routes. They are employed by transportation, manufacturing, distribution and moving companies, and trucking employment service agencies, or they may be self-employed. This unit group also includes drivers of special purpose trucks and shunters who move trailers to and from loading docks within trucking yards or lots.",
+    "example titles": [
+        "automobile carrier driver",
+        "automobile transport driver",
+        "bulk goods truck driver",
+        "bulk milk truck driver",
+        "cement truck driver – construction",
+        "coal hauler (except underground mining)",
+        "dangerous goods truck driver",
+        "dump truck driver",
+        "dumpster truck driver",
+        "escort – transportation",
+        "explosives truck driver",
+        "flatbed truck driver",
+        "freight truck driver",
+        "fuel oil truck driver",
+        "gasoline truck operator",
+        "gravel hauler",
+        "gravel truck driver",
+        "groceries long haul driver",
+        "heavy truck driver",
+        "hydrovac truck operator",
+        "line-haul driver",
+        "liquid fertilizer truck driver",
+        "log hauler",
+        "log truck driver",
+        "logging truck driver",
+        "long combination vehicle (LCV) driver",
+        "long distance truck driver",
+        "long haul driver",
+        "long haul tractor-trailer driver",
+        "long haul truck driver",
+        "low-bed semi-trailer driver",
+        "mobile cement mixer driver",
+        "mobile concrete mixer driver",
+        "moving truck driver",
+        "moving van driver",
+        "muskeg tractor operator",
+        "oil transport driver",
+        "ready-mix driver – construction",
+        "ready-mix truck driver",
+        "short haul truck driver",
+        "shunt truck driver",
+        "shunter – trucking",
+        "shunter truck driver",
+        "tank truck driver",
+        "tow truck driver",
+        "tractor-trailer truck driver",
+        "transport driver",
+        "truck driver",
+        "truck mixer driver – construction",
+        "truck operator",
+        "truck owner operator",
+        "trucker",
+        "truck-trailer driver"
+    ],
+    "main duties": [
+        "Operate and drive primarily tractor-trailor, long-combination vehicle and straight-body trucks weighing over 4500 kg to transport goods and materials over long distances",
+        "Plan trip logistics and obtain required documentation to transport goods",
+        "Perform pre-trip, en route and post-trip inspection of vehicle systems, equipment and accessories such as tires, lights and turning signals, brakes and cold storage",
+        "Ensure cargo is secured properly in accordance with safety requirements and follow safety procedures for transporting dangerous goods",
+        "Obtain special permits and other documents required to transport cargo on international routes",
+        "Record cargo information, hours of service, distance travelled and fuel consumption",
+        "Administer bills of lading and manually or electronically maintain log books",
+        "Communicate with dispatcher, other drivers and customers using communication devices and on-board computers",
+        "May perform emergency roadside repairs",
+        "May drive as part of a two-person team or convoy",
+        "May transport hazardous products or dangerous goods.",
+        "Operate and drive primarily straight trucks to transport goods and materials mainly on local routes and short interurban routes",
+        "Perform pre-trip, en route and post-trip inspection and oversee all aspects of vehicle such as condition of equipment, and loading and unloading of cargo",
+        "May drive special purpose trucks such as tow trucks, dump trucks, hydrovac trucks or cement mixing trucks."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "On-the-job-training is provided.",
+        "Completion of an accredited driver training course of up to three months duration, through a vocational school or community college, may be required.",
+        "A Class 3 or D licence is required to drive straight-body trucks.",
+        "A Class 1 or A licence is required to drive long combination vehicles.",
+        "Air brake endorsement (Z) is required for drivers who operate vehicles equipped with air brakes.",
+        "Transportation of dangerous goods (TDG) certification is required for drivers who transport hazardous products or dangerous goods.",
+        "Additional licensing endorsement or certification may be required to drive articulated trucks."
+    ],
+    "additional information": [
+        "Progression to supervisory positions or to non-driving occupations, such as driver trainer, safety officer or truck dispatcher is possible with additional training or experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Drivers of light trucks (in 7514 Delivery and courier service drivers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7514&ver=16"
+        },
+        {
+            "name": "Snowplow and garbage truck drivers (in 7522 Public works maintenance equipment operators and related workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7522&ver=16"
+        },
+        {
+            "name": "Supervisors, motor transport and other ground transit operators (7305)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7305&ver=16"
+        },
+        {
+            "name": "Truck dispatchers (in 1525 Dispatchers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1525&ver=16"
+        },
+        {
+            "name": "Truck driver helpers (in 7622 Railway and motor transport labourers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7622&ver=16"
+        },
+        {
+            "name": "Truck driver trainers (in 4021 College and other vocational instructors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4021&ver=16"
+        }
+    ]
+}

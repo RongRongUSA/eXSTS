@@ -1,0 +1,65 @@
+{
+    "id": "2251",
+    "name": "Architectural technologists and technicians",
+    "lead statement": "Architectural technologists and technicians may work independently or provide technical assistance to professional architects and civil design engineers in conducting research, preparing drawings, architectural models, specifications and contracts and in supervising construction projects. Architectural technologists and technicians are employed by architectural and construction firms, and governments.",
+    "example titles": [
+        "architectural assistant",
+        "architectural design technician",
+        "architectural design technologist",
+        "architectural technician",
+        "architectural technologist",
+        "registered building technician",
+        "registered building technologist",
+        "residential buildings technologist"
+    ],
+    "main duties": [
+        "Assist in the development of architectural designs",
+        "Analyze building codes, by-laws, space requirements, site requirements and other technical documents and reports",
+        "Prepare manual and CAD (computer-assisted design) drawings, specifications, cost estimates and listings of quantities of material from conceptual drawings and instructions",
+        "Construct architectural and display models, and 3-D virtual models of architectural designs",
+        "Prepare contract and bidding documents",
+        "May supervise drafters, technicians and technologists on the architectural team",
+        "May supervise construction projects and co-ordinate, monitor and inspect work done by others."
+    ],
+    "employment requirements": [
+        "Completion of a two- to three-year college program in architectural technology or a related subject is usually required.",
+        "Certification in architectural technology or in a related field through provincial associations of architectural or engineering/applied science technologists and technicians may be required by employers.",
+        "A period of supervised work experience, usually two years, is required before certification.",
+        "Membership in the provincial regulatory body is mandatory in British Columbia.",
+        "In Quebec, membership in the regulatory body for professional technologists is required to use the title \"Professional Technologist.\""
+    ],
+    "additional information": [
+        "There is mobility to other related occupations such as drafters, civil engineering technologists and technicians, construction estimators and construction inspectors.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Architects (2151)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2151&ver=16"
+        },
+        {
+            "name": "Civil engineering technologists and technicians (2231)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2231&ver=16"
+        },
+        {
+            "name": "Construction estimators (2234)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2234&ver=16"
+        },
+        {
+            "name": "Construction inspectors (2264)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2264&ver=16"
+        },
+        {
+            "name": "Construction managers (0711)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0711&ver=16"
+        },
+        {
+            "name": "Drafting technologists and technicians (2253)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2253&ver=16"
+        },
+        {
+            "name": "Land survey technologists and technicians (2254)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2254&ver=16"
+        }
+    ]
+}

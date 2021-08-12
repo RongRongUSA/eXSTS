@@ -1,0 +1,73 @@
+[
+    {
+        "title": "Junior Software Integration and Test Engineer"
+    },
+    {
+        "subtitle": "Our Company Benefits",
+        "body": [
+            "Our contribution to our employees represents much more than just a pay check.",
+            " We invest in our employees\u2019 health and wellness, paid time off, retirement, income protection, work/life balance, talent development and more.",
+            " As a General Dynamics employee, you can enjoy many of our benefits including:.",
+            "Health and optional dental plan.",
+            "Life insurance and retirement benefits.",
+            "Vacation and flexible work environment.",
+            "On-site fitness facilities.",
+            "Free parking.",
+            "Hockey and soccer leagues.",
+            "Tickets and giveaways offered through our Recreation Association."
+        ]
+    },
+    {
+        "subtitle": "About General Dynamics Mission Systems-Canada",
+        "body": [
+            "General Dynamics Mission Systems-Canada is one of the country\u2019s most innovative defence and security technology companies, providing advanced thinking, design expertise, and implementation know-how to equip military and first responders with leading-edge hardware, software and systems.",
+            "Our employees innovate on a daily basis.",
+            " Part of General Dynamics Mission Systems, a global company with more than 13,000 employees across 100 facilities worldwide, our success stems from strong system engineering experience, ongoing investment in research and development, collaboration with commercial and military systems industry leaders, and a singular focus on customer service.",
+            "In Canada, we employ more than 1,300 people across three locations.",
+            " Our business groups include: Land Communications, Airborne Mission Systems, Underwater Warfare and Cyber Solutions.",
+            "We believe in maintaining a diverse workplace - inclusive of beliefs, cultural background, job experiences, thoughts and ideas.",
+            " If who we are and what we do resonates with you, we invite you to join our high performance team! (Workplace accommodations are available)."
+        ]
+    },
+    {
+        "subtitle": "The problems you will solve:",
+        "body": [
+            "Review of system and subsystem requirements specifications, interface control documents, design documents and use cases.",
+            "Development of system integration and verification test procedures, including configuration descriptions and expected outcomes, in accordance with the design documents and company processes.",
+            "Develop test scripts for manual and automated tests.",
+            "Execute test procedures to verify functional specifications and gather data on technical performance measures.",
+            "Perform investigations to stress test the system components and functionalities and raise system problem reports for further analysis.",
+            "Develop test plans and test reports for internal and external distribution.",
+            "Participate in integrated project team activities involving representatives from system engineering, FW development, and customer teams."
+        ]
+    },
+    {
+        "subtitle": "Essential Skills",
+        "body": [
+            "Strong communications abilities, both written and verbal.",
+            "Demonstrated initiative and willingness to learn.",
+            "Some understanding and exposure to the product development life cycle and associated processes.",
+            "Some understanding and exposure to the engineering development, system integration, testing, and qualification processes.",
+            "Experience in investigating and resolving technical problems.",
+            "Ability to work effectively both independently and in a team environment, with minimal supervision.",
+            "Co-op or internship experience is desirable.",
+            "Bachelor's degree in Electrical/Electronics Engineering, System Engineering, Software Engineering, Computer Science or related technical/scientific degree."
+        ]
+    },
+    {
+        "subtitle": "Experience with any of the following is an asset:",
+        "body": [
+            "Familiarity with radios, voice/data networks, and networking protocols.",
+            "Awareness of test automation principles and applicable skills for implementation.",
+            "Experience with: scripting languages such as Python, Git, CVS, and bash, development using C and C++.",
+            "Linux user space development and debugging.",
+            "ARM, DSP and FPGA development and debugging.",
+            "Real-time embedded firmware.",
+            "Familiarity with any of the following tools/applications:LabView application development.",
+            "WireShark network monitoring toolset.",
+            "Code Collaborator.",
+            "Enterprise Architect.",
+            "Rational Team Concert (total suite)."
+        ]
+    }
+]

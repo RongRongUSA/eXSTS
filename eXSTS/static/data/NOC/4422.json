@@ -1,0 +1,68 @@
+{
+    "id": "4422",
+    "name": "Correctional service officers",
+    "lead statement": "Correctional service officers guard offenders and detainees and maintain order in correctional institutions and other places of detention. They are employed by federal, provincial and municipal governments. Correctional service officers who are supervisors are included in this unit group.",
+    "example titles": [
+        "convict guard",
+        "correctional facility guard",
+        "correctional institution guard",
+        "correctional institution head matron",
+        "correctional officer",
+        "correctional officers supervisor",
+        "correctional service officer",
+        "correctional services unit supervisor",
+        "corrections officer",
+        "detention attendant",
+        "detention guard",
+        "escort – correctional services",
+        "head correctional officer",
+        "head matron – correctional service",
+        "institution guard – correctional service",
+        "jail guard",
+        "jailer",
+        "matron – correctional service",
+        "penal institution guard",
+        "penitentiary guard",
+        "prison guard",
+        "prison officer",
+        "reformatory guard"
+    ],
+    "main duties": [
+        "Observe conduct and behaviour of offenders and detainees to prevent disturbances and escapes",
+        "Supervise offenders during work assignments, meals and recreation periods",
+        "Patrol assigned area and report any problems to supervisor",
+        "Conduct security checks and scanning of visitors, inmates and their cells, working areas and recreational activity areas",
+        "Observe behaviour of offenders and prepare reports",
+        "Escort detainees in transit and during temporary leaves",
+        "Prepare admission, program, release, transfer and other reports",
+        "May supervise and co-ordinate work of other correctional service officers."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Post-secondary education in correctional services, police studies or criminology may be required.",
+        "Correctional officer recruits must successfully complete the Correctional Service of Canada training course to be employed by federal institutions.",
+        "Correctional officer recruits are usually required to complete a basic training course to be employed by provincial/territorial institutions.",
+        "Physical agility, strength and fitness requirements must be met.",
+        "Correctional service supervisors require experience as a correctional service officer.",
+        "First aid certification and cardiopulmonary resuscitation (CPR) training are usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Detention home workers (in 4212 Social and community service workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4212&ver=16"
+        },
+        {
+            "name": "Managers in social, community and correctional services (0423)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0423&ver=16"
+        },
+        {
+            "name": "Social workers (4152)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4152&ver=16"
+        },
+        {
+            "name": "Probation and parole officers and related occupations (4155)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4155&ver=16"
+        }
+    ]
+}

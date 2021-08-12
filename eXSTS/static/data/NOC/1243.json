@@ -1,0 +1,46 @@
+{
+    "id": "1243",
+    "name": "Medical administrative assistants",
+    "lead statement": "Medical administrative assistants perform a variety of secretarial and administrative duties in doctor's offices, hospitals, medical clinics and other medical settings.",
+    "example titles": [
+        "administrative assistant – medical",
+        "case load planner – home health care services",
+        "medical administrative assistant",
+        "medical secretary",
+        "medical stenographer",
+        "ward secretary",
+        "ward secretary – hospital"
+    ],
+    "main duties": [
+        "Schedule and confirm medical appointments and receive and communicate messages for medical staff and patients",
+        "Enter and format electronically based medical reports and correspondence and prepare spreadsheets and documents for review",
+        "Interview patients in order to complete forms, documents and case histories",
+        "Complete insurance and other claim forms",
+        "Initiate and maintain confidential medical files and records",
+        "Prepare draft agendas for meetings and take, transcribe and distribute minutes",
+        "Prepare financial statements and billing",
+        "Establish and maintain various internal office administrative support procedures such as document tracking and filing and monthly reporting",
+        "Order supplies and maintain inventory",
+        "Determine and establish office procedures and routines",
+        "May supervise and train other staff in procedures and in use of current software."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a one- or two-year college program or other specialized courses for secretaries or medical secretaries is usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Health information management occupations (1252)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1252&ver=16"
+        },
+        {
+            "name": "Medical records clerks (in 1411 General office support workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1411&ver=16"
+        },
+        {
+            "name": "Medical transcriptionists (in 1251 Court reporters, medical transcriptionists and related occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1251&ver=16"
+        }
+    ]
+}

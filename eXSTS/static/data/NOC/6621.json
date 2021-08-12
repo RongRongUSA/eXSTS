@@ -1,0 +1,59 @@
+{
+    "id": "6621",
+    "name": "Service station attendants",
+    "lead statement": "Service station attendants employed in automotive service stations sell fuel and other automotive products and perform such services as fuelling, cleaning, lubricating and performing minor repairs to motor vehicles. Those employed in marinas sell fuel, rent boats and related equipment, and maintain marina facilities.",
+    "example titles": [
+        "apprentice service station attendant",
+        "bus refueler",
+        "filling station attendant",
+        "gas bar attendant (except self-service)",
+        "gas jockey",
+        "gas station attendant (except self-serve)",
+        "marina attendant",
+        "marina worker",
+        "propane gas attendant",
+        "propane gas pump attendant",
+        "propane refueler",
+        "propane tank attendant",
+        "pump attendant – service station",
+        "pump operator – service station",
+        "service attendant – gas station",
+        "service station attendant",
+        "service station attendant apprentice"
+    ],
+    "main duties": [
+        "Refuel vehicles",
+        "Perform minor service and maintenance such as washing the windshield, checking fluid levels and air pressure, and replacing parts such as tires, light bulbs and windshield-wiper blades",
+        "Receive payment from customers",
+        "Perform minor property maintenance duties such as sweeping service station lot, trimming shrubs, scrubbing service bays and painting curbs",
+        "May pick up and deliver customers' cars for service station automotive repair department.",
+        "Refuel boats",
+        "Pump boat's marine septic system",
+        "Rent boats, life jackets and other equipment and record rental data",
+        "Receive payment from customers",
+        "Maintain dock area and marina facilities and assist in seasonal moving of ramps and docks."
+    ],
+    "employment requirements": [
+        "Some secondary school education is usually required.",
+        "Propane and natural gas pump attendants may require an operator's licence."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Auto technicians (in 7321 Automotive service technicians, truck and bus mechanics and mechanical repairers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7321&ver=16"
+        },
+        {
+            "name": "Self-serve gas bar cashiers (in 6611 Cashiers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6611&ver=16"
+        },
+        {
+            "name": "Service station managers (in 0621 Retail and wholesale trade managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0621&ver=16"
+        },
+        {
+            "name": "Service station supervisors (in 6211 Retail sales supervisors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6211&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "id": "2132",
+    "name": "Mechanical engineers",
+    "lead statement": "Mechanical engineers research, design and develop machinery and systems for heating, ventilating and air conditioning, power generation, transportation, processing and manufacturing. They also perform duties related to the evaluation, installation, operation and maintenance of mechanical systems. Mechanical engineers are employed by consulting firms, by power-generating utilities and in a wide range of manufacturing, processing and transportation industries, or they may be self-employed.",
+    "example titles": [
+        "acoustical engineer",
+        "acoustics and vibration engineer",
+        "acoustics engineer",
+        "automotive engineer",
+        "building systems engineer",
+        "chief mechanical engineer",
+        "consulting mechanical engineer",
+        "cryogenics engineer",
+        "design engineer – mechanical",
+        "diesel engineer – design and research",
+        "energy conservation engineer",
+        "fluid mechanics engineer",
+        "gas utilization mechanical engineer",
+        "heating specialist engineer",
+        "heating, ventilation and air conditioning (HVAC) engineer",
+        "internal combustion engineer",
+        "lubrication engineer",
+        "marine mechanical engineer",
+        "mechanical design engineer",
+        "mechanical engineer",
+        "mechanical hydraulic engineer",
+        "mechanical maintenance engineer",
+        "mechanical power engineer",
+        "mechatronic engineer",
+        "microelectromechanical systems (MEMS) research engineer",
+        "mould design engineer",
+        "nuclear design engineer",
+        "nuclear engineer",
+        "nuclear operations engineer",
+        "oil well equipment design engineer",
+        "pattern engineer",
+        "piping engineer",
+        "power generation engineer",
+        "power plant engineer",
+        "project mechanical engineer",
+        "refrigeration engineer",
+        "robotics engineer",
+        "thermal design engineer",
+        "thermal power engineer",
+        "tool engineer",
+        "tribologist"
+    ],
+    "main duties": [
+        "Conduct research into the feasibility, design, operation and performance of mechanisms, components and systems",
+        "Plan and manage projects, and prepare material, cost and timing estimates, reports and design specifications for machinery and systems",
+        "Design power plants, machines, components, tools, fixtures and equipment",
+        "Analyze dynamics and vibrations of mechanical systems and structures",
+        "Supervise and inspect the installation, modification and commissioning of mechanical systems at construction sites or in industrial facilities",
+        "Develop maintenance standards, schedules and programs and provide guidance to industrial maintenance crews",
+        "Investigate mechanical failures or unexpected maintenance problems",
+        "Prepare contract documents and evaluate tenders for industrial construction or maintenance",
+        "Supervise technicians, technologists and other engineers and review and approve designs, calculations and cost estimates."
+    ],
+    "employment requirements": [
+        "A bachelor's degree in mechanical engineering or in a related engineering discipline is required.",
+        "A master's degree or doctorate in a related engineering discipline may be required.",
+        "Licensing by a provincial or territorial association of professional engineers is required to approve engineering drawings and reports and to practise as a Professional Engineer (P.Eng.).",
+        "Engineers are eligible for registration following graduation from an accredited educational program, and after three or four years of supervised work experience in engineering and passing a professional practice examination."
+    ],
+    "additional information": [
+        "There is considerable mobility between mechanical engineering specializations at the less senior levels.",
+        "Supervisory and senior positions in this unit group require experience.",
+        "Mechanical engineers work closely with civil, electrical, aerospace, chemical, industrial and other engineers, and mobility is possible between some fields of specialization in these disciplines.",
+        "Engineers often work in a multidisciplinary environment and acquire knowledge and skills through work experience that may allow them to practise in associated areas of science, engineering, sales, marketing or management."
+    ],
+    "exclusions": [
+        {
+            "name": "Engineering managers (0211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0211&ver=16"
+        },
+        {
+            "name": "Industrial and manufacturing engineers (2141)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2141&ver=16"
+        },
+        {
+            "name": "Metallurgical and materials engineers (2142)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2142&ver=16"
+        },
+        {
+            "name": "Power engineers or stationary engineers (in 9241 Power engineers and power systems operators",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9241&ver=16"
+        }
+    ]
+}

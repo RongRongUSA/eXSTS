@@ -1,0 +1,79 @@
+{
+    "id": "7535",
+    "name": "Other automotive mechanical installers and servicers",
+    "lead statement": "Workers in this group install replacement automotive mechanical parts such as mufflers, exhaust pipes, shock absorbers, springs and radiators and perform routine maintenance service such as oil changes, lubrication and tire repairs on automobiles, trucks and heavy equipment. They are employed by automobile and truck service and repair shops, service departments of industrial establishments and construction, mining and logging companies.",
+    "example titles": [
+        "automobile lubricator",
+        "automotive muffler installer",
+        "automotive radiator installer",
+        "automotive radiator installer – automotive repair",
+        "automotive shock absorber installer",
+        "automotive spring installer",
+        "caterpillar servicer (except mechanic)",
+        "crane and dragline oiler and greaser",
+        "crane greaser",
+        "crane oiler",
+        "crawler track servicer",
+        "dragline oiler",
+        "electric golf cart servicer (except mechanic)",
+        "electric truck servicer (except mechanic)",
+        "emergency road servicer – motor vehicle",
+        "excavator oiler",
+        "greaser",
+        "heavy equipment greaser",
+        "heavy equipment service truck driver",
+        "heavy equipment servicer",
+        "heavy truck greaser",
+        "heavy truck oiler",
+        "heavy-duty equipment servicer",
+        "hostler – transit system",
+        "loading shovel oiler",
+        "lubrication technician – automotive service and repair",
+        "muffler installer",
+        "oil changer – motor vehicle service",
+        "oiler – automotive service",
+        "pipeline equipment servicer",
+        "pipeline service truck driver",
+        "radiator installer – auto repair service",
+        "radiator installer – automotive service",
+        "shock absorber installer",
+        "shovel oiler",
+        "spring installer",
+        "stripping shovel oiler",
+        "tire changer – automotive service",
+        "tire repairer",
+        "tire repairer – automotive service"
+    ],
+    "main duties": [
+        "Change engine oil and lubricate running gears or moving parts of automobiles, trucks and heavy equipment",
+        "Grease booms, pulleys, buckets and other components of heavy equipment",
+        "Replace oil, air and fuel filters on motor vehicles, trucks and heavy equipment",
+        "Install replacement mufflers, exhaust pipes, shock absorbers or radiators on motor vehicles, trucks and heavy equipment",
+        "Repair and balance tires",
+        "Add or replace hydraulic and transmission fluids in motor vehicles, trucks and heavy equipment",
+        "Assist mechanics and perform other duties as directed",
+        "Drive automobile or service truck to location of construction, logging or other industrial sites to provide services."
+    ],
+    "employment requirements": [
+        "Some secondary school may be required.",
+        "Several months of on-the-job training are usually required."
+    ],
+    "additional information": [
+        "There is some mobility among installers and servicers in this unit group.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Automotive service technicians, truck and bus mechanics and mechanical repairers (7321)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7321&ver=16"
+        },
+        {
+            "name": "Heavy-duty equipment mechanics (7312)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7312&ver=16"
+        },
+        {
+            "name": "Supervisors of workers in this unit group (in 7301 Contractors and supervisors, mechanic trades",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7301&ver=16"
+        }
+    ]
+}

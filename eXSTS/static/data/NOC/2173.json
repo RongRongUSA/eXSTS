@@ -1,0 +1,82 @@
+{
+    "id": "2173",
+    "name": "Software engineers and designers",
+    "lead statement": "Software engineers and designers research, design, evaluate, integrate and maintain software applications, technical environments, operating systems, embedded software, information warehouses and telecommunications software. They are employed in information technology consulting firms, information technology research and development firms, and information technology units throughout the private and public sectors, or they may be self-employed.",
+    "example titles": [
+        "application architect",
+        "artificial intelligence (AI) designer",
+        "cloud administrator",
+        "cloud architect",
+        "cloud engineer",
+        "computer applications engineer",
+        "computer software engineer",
+        "computer telecommunications software specialist",
+        "embedded software engineer",
+        "simulation software design engineer",
+        "software architect",
+        "software design engineer",
+        "software design supervisor",
+        "software design verification engineer",
+        "software designer",
+        "software engineer",
+        "software systems designer",
+        "software systems integration engineer",
+        "software technical architect",
+        "software testing engineer",
+        "systems applications engineer",
+        "systems architect",
+        "systems engineer – software",
+        "telecommunications software engineer",
+        "telecommunications software specialist"
+    ],
+    "main duties": [
+        "Collect and document users' requirements and develop logical and physical specifications",
+        "Research, evaluate and synthesize technical information to design, develop and test computer-based systems including mobile applications",
+        "Develop data, process and network models to optimize architecture and to evaluate the performance and reliability of designs",
+        "Plan, design and co-ordinate the development, installation, integration and operation of computer-based systems including mobile applications",
+        "Assess, test, troubleshoot, document, upgrade and develop maintenance procedures for operating systems, communications environments and applications software",
+        "May lead and co-ordinate teams of information systems professionals in the development of software and integrated information systems, process control software and other embedded software control systems."
+    ],
+    "employment requirements": [
+        "A bachelor's degree, usually in computer science, computer systems engineering, software engineering or mathematics \r\n or completion of a college program in computer science is usually required.",
+        "A master's or doctoral degree in a related discipline may be required.",
+        "Licensing by a provincial or territorial association of professional engineers is required to approve engineering drawings and reports and to practise as a Professional Engineer (P.Eng.).",
+        "Engineers are eligible for registration following graduation from an accredited educational program, three or four years of supervised work experience in engineering, and passing a professional practice examination.",
+        "Experience as a computer programmer is usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Computer and information systems managers (0213)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0213&ver=16"
+        },
+        {
+            "name": "Computer engineers (except software engineers and designers) (2147)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2147&ver=16"
+        },
+        {
+            "name": "Computer programmers and interactive media developers (2174)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2174&ver=16"
+        },
+        {
+            "name": "Database analysts and data administrators (2172)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2172&ver=16"
+        },
+        {
+            "name": "Electrical and electronics engineers (2133)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2133&ver=16"
+        },
+        {
+            "name": "Information systems analysts and consultants (2171)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2171&ver=16"
+        },
+        {
+            "name": "Information systems testing technicians (2283)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2283&ver=16"
+        },
+        {
+            "name": "Web designers and developers (2175)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2175&ver=16"
+        }
+    ]
+}

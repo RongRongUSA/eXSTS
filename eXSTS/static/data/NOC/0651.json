@@ -1,0 +1,101 @@
+{
+    "id": "0651",
+    "name": "Managers in customer and personal services, n.e.c.",
+    "lead statement": "This unit group includes managers of establishments that provide services not elsewhere classified, such as dry cleaning, hairdressing or residential cleaning. This group also includes managers of schools that provide non-vocational instruction in driving, languages, music, dance, art, cooking or fashion.",
+    "example titles": [
+        "academy of music manager",
+        "art school manager",
+        "automobile driver training school manager",
+        "automobile driving school manager",
+        "barber shop manager",
+        "beauty shop manager",
+        "boarding kennel manager",
+        "car wash manager",
+        "carpet cleaning service manager",
+        "cold-storage manager",
+        "cooking school manager",
+        "craft school manager",
+        "crematorium manager",
+        "dance school manager",
+        "dog grooming establishment manager",
+        "dog kennel manager",
+        "driving school manager",
+        "dry cleaning plant manager",
+        "dry cleaning service manager",
+        "escort agency manager",
+        "esthetic services manager",
+        "fur cleaning plant manager",
+        "hairdressing salon manager",
+        "hairstyling salon manager",
+        "holidays service manager",
+        "home care service manager",
+        "janitorial services manager",
+        "kennel manager",
+        "laundry and dry cleaning manager",
+        "laundry manager",
+        "laundry service manager",
+        "massage parlour manager",
+        "modelling school manager",
+        "movie theatre manager",
+        "music academy manager",
+        "music school manager",
+        "pest control service manager",
+        "pet care services manager",
+        "pet grooming establishment manager",
+        "pet grooming salon manager",
+        "pet-sitting service manager",
+        "residential cleaning service manager",
+        "sauna manager",
+        "school of art manager",
+        "septic tank service manager",
+        "shoe repair service manager",
+        "spa director",
+        "spa manager",
+        "swimming pool maintenance service manager",
+        "tanning salon manager",
+        "tour operator",
+        "truck wash manager",
+        "weight-loss clinic manager",
+        "window washing service manager"
+    ],
+    "main duties": [
+        "Plan, organize, direct, control and evaluate the operations of an establishment providing services such as dry cleaning, hairdressing or residential cleaning, or a school providing non-vocational instruction in driving, languages, music, dance, art, cooking or fashion",
+        "Establish or implement policies and procedures for staff",
+        "Plan and control budget and inventory",
+        "Respond to inquiries or complaints and resolve problems",
+        "Manage contracts for advertising or marketing strategies",
+        "Hire, train and supervise staff."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "A college diploma or vocational certificate in the subject of instruction may be required.",
+        "One to three years of experience in the service being offered are usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Accommodation service managers (0632)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0632&ver=16"
+        },
+        {
+            "name": "Cleaning supervisors (6315)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6315&ver=16"
+        },
+        {
+            "name": "Executive housekeepers (6312)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6312&ver=16"
+        },
+        {
+            "name": "Other business services managers (0125)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0125&ver=16"
+        },
+        {
+            "name": "Retail and wholesale trade managers (0621)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0621&ver=16"
+        },
+        {
+            "name": "Retail sales supervisors (6211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6211&ver=16"
+        }
+    ]
+}

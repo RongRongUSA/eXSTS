@@ -1,0 +1,90 @@
+{
+    "id": "2225",
+    "name": "Landscape and horticulture technicians and specialists",
+    "lead statement": "This unit group includes those who survey and assess landscapes; draw sketches and build models of landscape designs; construct and maintain gardens, parks, golf courses and other landscaped environments; advise clients on issues related to horticulture such as irrigation; breed, cultivate and study plants; and treat injured and diseased trees and plants. They are employed by landscape designers and contractors, lawn service and tree care establishments, golf courses, nurseries and greenhouses, and municipal, provincial and national parks, or they may be self-employed.",
+    "example titles": [
+        "arboriculturist",
+        "arborist",
+        "cloning technician – cannabis",
+        "cultivation technician",
+        "floriculturist",
+        "gardener",
+        "golf course superintendent",
+        "greens superintendent",
+        "greenskeeper",
+        "horticultural technician",
+        "horticultural technologist",
+        "horticulture specialist",
+        "horticulture technician",
+        "horticulture technologist",
+        "horticulturist",
+        "hydroponics technician",
+        "interior plantscape specialist",
+        "irrigation technician (except agriculture)",
+        "landscape architectural technician",
+        "landscape architectural technologist",
+        "landscape designer",
+        "landscape gardener",
+        "landscape horticulturist",
+        "landscape technician",
+        "landscaper",
+        "lawn care specialist",
+        "lawn care superintendent",
+        "plant doctor",
+        "plantscape technician",
+        "tree and shrub specialist",
+        "tree service technician",
+        "turfgrass management specialist"
+    ],
+    "main duties": [
+        "Examine trees and shrubs to diagnose problems and disease, and apply various treatments such as pruning, spraying, repairing damaged areas and injecting with treatment solutions.",
+        "Direct crews who maintain the health and appearance of golf courses and their surrounding landscapes, plant and move trees, and apply fertilizers, fungicides, herbicides and pesticides.",
+        "Plan and co-ordinate the growth and use of plants for landscaping, ornamental uses and other purposes.",
+        "Survey and assess sites, prepare drawings, sketches and reports and perform other duties to assist landscape architects in designing landscaped environments.",
+        "Plant and maintain private and public lawns and gardens.",
+        "Plan and construct landscaped environments which may include trees, shrubberies, lawns, fences, decks, patios and other landscape structures.",
+        "Visit clients, assess the health of lawns, and apply fertilizer, pesticides and other lawn care products."
+    ],
+    "employment requirements": [
+        "Completion of a university or college program in agronomy, arboriculture, horticulture, landscaping, landscape design or landscape technology is usually required.",
+        "Experience as a landscape and grounds maintenance labourer may be required for golf course superintendents, landscape gardeners and landscapers.",
+        "An apprenticeship program is available for horticulturists, arboriculturists and landscape gardeners.",
+        "Trade certification for landscape horticulturists is available, but voluntary, in all provinces.",
+        "A provincial licence to apply chemical fertilizers, fungicides, herbicides and pesticides may be required.",
+        "In Quebec, membership in the regulatory body is required to use the title of Professional Technologist.",
+        "Red Seal endorsement is also available to qualified landscape horticulturists upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility."
+    ],
+    "exclusions": [
+        {
+            "name": "Biological technologists and technicians (2221)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2221&ver=16"
+        },
+        {
+            "name": "Botanists (in 2121 Biologists and related scientists",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2121&ver=16"
+        },
+        {
+            "name": "Contractors and supervisors, landscaping, grounds maintenance and horticulture services (8255)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8255&ver=16"
+        },
+        {
+            "name": "Forestry technologists and technicians (2223)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2223&ver=16"
+        },
+        {
+            "name": "Landscape architects (2152)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2152&ver=16"
+        },
+        {
+            "name": "Managers in horticulture (0822)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0822&ver=16"
+        },
+        {
+            "name": "Nursery and greenhouse workers (8432)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8432&ver=16"
+        }
+    ]
+}

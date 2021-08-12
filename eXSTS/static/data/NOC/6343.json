@@ -1,0 +1,52 @@
+{
+    "id": "6343",
+    "name": "Shoe repairers and shoemakers",
+    "lead statement": "Shoe repairers repair footwear and shoemakers make specialized and custom shoes and boots. They are employed in shoe repair shops or custom shoemaking establishments, or they may be self-employed.",
+    "example titles": [
+        "boot repairer",
+        "bootmaker",
+        "cobbler",
+        "custom shoemaker",
+        "orthopedic shoe repairman/woman",
+        "orthopedic shoemaker",
+        "shoe dyer",
+        "shoe mender – retail",
+        "shoe repairer",
+        "shoe repairer – retail",
+        "shoemaker"
+    ],
+    "main duties": [
+        "Discuss type of footwear to be made and obtain measurements from customer",
+        "Select patterns and leather or other material and outline and cut patterns",
+        "Select or assemble lasts, fasten insoles to lasts and sew or glue other parts into place",
+        "Trim, dress and otherwise finish boots or shoes",
+        "Estimate custom footwear costs and receive payment from customers",
+        "May supervise other shoemakers and shoe repairers.",
+        "Repair soles, heels and other parts of footwear using sewing, buffing and other shoe repair machines, materials and equipment",
+        "Repair belts, luggage, purses and similar products",
+        "Estimate footwear repair costs and take payment."
+    ],
+    "employment requirements": [
+        "Some secondary school may be required.",
+        "Several months of on-the-job training is provided for shoe repairers.",
+        "Extensive on-the-job training is provided for shoemakers.",
+        "Shoemakers may require experience as shoe repairers."
+    ],
+    "additional information": [
+        "Shoe repairers may progress to shoemakers with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Labourers in shoe manufacturing (in 9619 Other labourers in processing, manufacturing and utilities",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9619&ver=16"
+        },
+        {
+            "name": "Workers who cut fabric or leather to form shoe parts on a production basis (in 9445 Fabric, fur and leather cutters",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9445&ver=16"
+        },
+        {
+            "name": "Workers who operate sewing machines to make shoes on a production basis (in 9446 Industrial sewing machine operators",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9446&ver=16"
+        }
+    ]
+}

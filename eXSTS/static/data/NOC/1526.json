@@ -1,0 +1,71 @@
+{
+    "id": "1526",
+    "name": "Transportation route and crew schedulers",
+    "lead statement": "Transportation route and crew schedulers prepare operational and crew schedules for transportation equipment and operating personnel. They are employed by municipal transit commissions, truck, delivery and courier companies, railways, airlines and by other transportation establishments in both the private and public sectors.",
+    "example titles": [
+        "air transport schedule analyst",
+        "bus scheduler",
+        "bus transportation service co-ordinator",
+        "crew dispatcher",
+        "crew scheduler – aeronautics",
+        "crew scheduler – railway transport",
+        "crew scheduler – transportation",
+        "depot clerk – transit system",
+        "flight crew scheduler",
+        "flight scheduler",
+        "logistics clerk – transportation",
+        "rapid transit scheduler",
+        "schedule analyst",
+        "schedule control clerk",
+        "schedule maker",
+        "schedule writer",
+        "scheduler – transit system",
+        "senior schedule writer",
+        "subway scheduler",
+        "train scheduler",
+        "transit planner",
+        "transit scheduler",
+        "transportation clerk",
+        "transportation route scheduler",
+        "transportation routes scheduler",
+        "transportation schedule clerk",
+        "transportation schedule maker",
+        "transportation schedules writer",
+        "truck scheduler"
+    ],
+    "main duties": [
+        "Review schedule requisitions, passenger counts and cargo, running times, distances, personnel availability and other pertinent information to establish schedule parameters",
+        "Design new or modify existing schedules using computer software or other methods",
+        "Incorporate into route plan factors such as peak travel periods, holidays, special events and construction with emphasis on time and cost efficiency",
+        "Assign personnel to equipment and routes and schedule work shifts",
+        "Compile equipment and personnel records, including hours in service, distances, maintenance, repairs required and other data, to produce operating reports",
+        "May prepare user guides and other public service information."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Several years of experience in an appropriate transportation sector are usually required.",
+        "On-the-job training may be provided."
+    ],
+    "additional information": [
+        "Mobility between occupations in this group is limited due to the requirement of specific transportation sector experience.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Flight schedulers managers (in 0731 Managers in transportation",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0731&ver=16"
+        },
+        {
+            "name": "Production schedulers in manufacturing establishments (in 1523 Production logistics co-ordinators",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1523&ver=16"
+        },
+        {
+            "name": "Scheduling technicians in manufacturing (in 2233 Industrial engineering and manufacturing technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2233&ver=16"
+        },
+        {
+            "name": "Supervisors of transportation route and crew schedulers (in 1215 Supervisors, supply chain, tracking and scheduling co-ordination occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1215&ver=16"
+        }
+    ]
+}

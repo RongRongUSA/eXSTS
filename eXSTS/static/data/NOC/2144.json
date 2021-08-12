@@ -1,0 +1,62 @@
+{
+    "id": "2144",
+    "name": "Geological engineers",
+    "lead statement": "Geological engineers conduct geological and geotechnical studies to assess suitability of locations for civil engineering, mining and oil and gas projects; and plan, design, develop and supervise programs of geological data acquisition and analysis and the preparation of geological engineering reports and recommendations. Geological engineers are employed in consulting engineering companies, electrical utilities, mining and petroleum companies and in government and research and educational institutions.",
+    "example titles": [
+        "geological engineer",
+        "geophysical engineer",
+        "geotechnical engineer",
+        "hydrogeological engineer – engineering",
+        "hydrogeology engineer – engineering",
+        "supervising engineer – petrography",
+        "supervising engineer – rock sciences"
+    ],
+    "main duties": [
+        "Plan, develop and co-ordinate programs of geotechnical, geological, geophysical or geohydrological data acquisition, analysis and mapping to assist in the development of civil engineering, mining, petroleum and waste management projects or for regional development",
+        "Analyze and prepare recommendations and reports for construction or improvements to foundations of civil engineering projects such as rock excavation, pressure grouting and hydraulic channel erosion control",
+        "Analyze and prepare recommendations and reports on settlement of buildings, stability of slopes and fills, and probable effects of landslides and earthquakes to support construction and civil engineering projects",
+        "Conduct theoretical and applied study of groundwater flow and contamination and develop prescriptions for site selection, treatment and construction",
+        "Plan, develop, co-ordinate and conduct theoretical and experimental studies in mining exploration, mine evaluation and feasibility studies relative to the mining industry",
+        "Conduct surveys and studies of ore deposits, ore reserve calculations and mine design",
+        "Design, develop and implement computer applications for geophysics, geochemistry, geology, mapping and related fields",
+        "Supervise technologists, technicians and other engineers and scientists."
+    ],
+    "employment requirements": [
+        "A bachelor's degree in geological engineering or in a related discipline is required.",
+        "A master's degree or doctorate in a related engineering discipline may be required.",
+        "Licensing by a provincial or territorial association of professional engineers is required to approve engineering drawings and reports and to practise as a Professional Engineer (P.Eng.).",
+        "Engineers are eligible for registration following graduation from an accredited educational program, three or four years of supervised work experience in engineering and passing a professional practice examination."
+    ],
+    "additional information": [
+        "There is considerable mobility between engineering specializations at the less senior levels.",
+        "Supervisory and senior positions in this unit group require experience.",
+        "Geological engineers work closely with geologists and other scientists and engineers, and mobility is possible between some fields of specialization.",
+        "Engineers often work in a multidisciplinary environment and acquire knowledge and skills through work experience that may allow them to practise in associated areas of science, engineering, sales, marketing or management."
+    ],
+    "exclusions": [
+        {
+            "name": "Civil engineers (2131)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2131&ver=16"
+        },
+        {
+            "name": "Engineering managers (0211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0211&ver=16"
+        },
+        {
+            "name": "Geoscientists and oceanographers (2113)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2113&ver=16"
+        },
+        {
+            "name": "Land surveyors (2154)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2154&ver=16"
+        },
+        {
+            "name": "Mining engineers (2143)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2143&ver=16"
+        },
+        {
+            "name": "Petroleum engineers (2145)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2145&ver=16"
+        }
+    ]
+}

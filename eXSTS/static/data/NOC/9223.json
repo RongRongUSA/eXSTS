@@ -1,0 +1,56 @@
+{
+    "id": "9223",
+    "name": "Supervisors, electrical products manufacturing",
+    "lead statement": "Supervisors in this unit group supervise and co-ordinate the activities of workers who assemble, fabricate and inspect electrical components, appliances, motors and industrial equipment. They are employed by companies that manufacture electrical products.",
+    "example titles": [
+        "dry cell assemblers supervisors",
+        "electric cable manufacturing foreman/woman",
+        "electric motor and generator assembly foreman/woman",
+        "electric motor testing foreman/woman",
+        "electrical appliance assemblers supervisor",
+        "electrical appliance assembly foreman/woman",
+        "electrical appliance assembly supervisor",
+        "electrical appliance manufacturing supervisor",
+        "electrical dry cell assembly foreman/woman",
+        "electrical equipment manufacturing foreman/woman",
+        "electrical equipment manufacturing supervisor",
+        "electrical motor assembly foreman/woman",
+        "electrical switchgear assembly foreman/woman",
+        "electrical transformer assembly foreman/woman",
+        "switchgear assembly foreman/woman"
+    ],
+    "main duties": [
+        "Supervise, co-ordinate and schedule the activities of workers who assemble, fabricate and inspect various types of electrical apparatus and equipment such as electrical appliances, batteries, electric motors, transformers and generators and electrical switchgear and control equipment",
+        "Establish methods to meet work schedules and co-ordinate work activities with other departments",
+        "Resolve work problems and recommend work measures to improve productivity",
+        "Requisition materials and supplies",
+        "Train staff in job duties, safety procedures and company policies",
+        "Recommend personnel actions such as hirings and promotions",
+        "Prepare production and other reports",
+        "May set up machines and equipment."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Post-secondary education in electrical or manufacturing technology or other related discipline may be required for some positions in this group.",
+        "Several years of experience as an assembler, inspector or lead hand are required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing (9524)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9524&ver=16"
+        },
+        {
+            "name": "Assemblers, fabricators and inspectors, industrial electrical motors and transformers (9525)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9525&ver=16"
+        },
+        {
+            "name": "Contractors and supervisors, electrical trades and telecommunications occupations (7202)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7202&ver=16"
+        },
+        {
+            "name": "Supervisors, electronics manufacturing (9222)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9222&ver=16"
+        }
+    ]
+}

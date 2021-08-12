@@ -1,0 +1,67 @@
+{
+    "id": "2175",
+    "name": "Web designers and developers",
+    "lead statement": "Web designers and developers research, design, develop and produce Internet and Intranet sites. They are employed in computer software development firms, information technology consulting firms, information technology units throughout the private and public sectors, advertising agencies or they may be self-employed.",
+    "example titles": [
+        "corporate Webmaster",
+        "electronic business (e-business) Web site developer",
+        "electronic commerce (e-commerce) Web site developer",
+        "Internet site designer",
+        "Internet site developer",
+        "Intranet site designer",
+        "Intranet site developer",
+        "Web designer",
+        "Web developer",
+        "Web integrator",
+        "Web manager",
+        "Web site designer",
+        "Web site developer",
+        "Webmaster"
+    ],
+    "main duties": [
+        "Consult with clients to develop and document Web site  requirements",
+        "Prepare mock-ups and storyboards",
+        "Develop Web site architecture and determine hardware and software requirements",
+        "Source, select and organize information for inclusion and design the appearance, layout and flow of the Web site",
+        "Create and optimize content for the Web site using a variety of graphics, database, animation and other software",
+        "Plan, design, write, modify, integrate and test Web site related code",
+        "Conduct tests and perform security and quality controls",
+        "May lead and co-ordinate multidisciplinary teams to develop Web site graphics, content, capacity and interactivity",
+        "May research and evaluate a variety of interactive media software products."
+    ],
+    "employment requirements": [
+        "A bachelor's degree, usually in computer science, communications or business \r\n or completion of a college program in computer science, graphic arts, Web design or business is required.",
+        "Experience as a computer programmer or graphic designer is usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Computer network technicians (2281)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2281&ver=16"
+        },
+        {
+            "name": "Computer programmers and interactive media developers (2174)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2174&ver=16"
+        },
+        {
+            "name": "E-business managers (in 0124 Advertising, marketing and public relations managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0124&ver=16"
+        },
+        {
+            "name": "Graphic designers and illustrators (5241)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5241&ver=16"
+        },
+        {
+            "name": "Information systems analysts and consultants (2171)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2171&ver=16"
+        },
+        {
+            "name": "Information systems testing technicians (2283)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2283&ver=16"
+        },
+        {
+            "name": "Network systems engineers (in 2147 Computer engineers (except software engineers and designers)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2147&ver=16"
+        }
+    ]
+}

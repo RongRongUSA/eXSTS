@@ -1,0 +1,62 @@
+{
+    "id": "1451",
+    "name": "Library assistants and clerks",
+    "lead statement": "Library assistants and clerks issue and receive library materials, sort and shelve books and provide general library information to users. They also perform clerical functions. Library clerks are employed by libraries or other establishments with library services.",
+    "example titles": [
+        "art department library clerk",
+        "book returns clerk – library",
+        "bookmobile clerk",
+        "braille and talking books library clerk",
+        "branch library clerk",
+        "circulation assistant",
+        "circulation clerk – library",
+        "films and recordings library clerk",
+        "interlibrary loan clerk",
+        "library aide",
+        "library assistant",
+        "library clerk",
+        "library filer",
+        "library page",
+        "music library assistant",
+        "on call library assistant",
+        "periodicals clerk",
+        "periodicals clerk – library",
+        "photograph filer – library",
+        "record library assistant",
+        "recordings library clerk",
+        "reference aide – library",
+        "reference assistant – library",
+        "reference clerk",
+        "reference clerk – library",
+        "shelving clerk – library",
+        "technical services clerk – library",
+        "vault clerk – film library"
+    ],
+    "main duties": [
+        "Issue and receive library books and other materials",
+        "Sort and reshelve books and other library materials",
+        "Perform clerical activities such as manual and electronic filing and record payments received",
+        "Maintain journal subscriptions",
+        "Assist library users in accessing library materials and online resources, and in making interlibrary loans."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required."
+    ],
+    "additional information": [
+        "Progression to more senior positions is possible with experience and post-secondary education related to library science."
+    ],
+    "exclusions": [
+        {
+            "name": "Librarians (5111)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5111&ver=16"
+        },
+        {
+            "name": "Library technicians (in 5211 Library and public archive technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5211&ver=16"
+        },
+        {
+            "name": "Supervisors, library, correspondence and related information workers (1213)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1213&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "1211",
+    "name": "Supervisors, general office and administrative support workers",
+    "lead statement": "Supervisors in this unit group supervise and co-ordinate the activities of workers in minor groups:  (141) and  (142). They are employed throughout the public and private sectors.",
+    "example titles": [
+        "administrative clerks supervisor",
+        "attendance records supervisor",
+        "clerical supervisor",
+        "contract clerks supervisor",
+        "data control supervisor",
+        "data entry clerks supervisor",
+        "data entry supervisor",
+        "desktop publishing operators supervisor",
+        "desktop publishing supervisor",
+        "desktop publishing system supervisor",
+        "electronic data-processing (EDP) unit – supervisor",
+        "filing clerks supervisor",
+        "filing service supervisor",
+        "general office clerks supervisor",
+        "hospital admitting clerks supervisor",
+        "nursing registry supervisor",
+        "office clerks supervisor",
+        "office machine operators supervisor",
+        "office services supervisor",
+        "office supervisor",
+        "operations supervisor",
+        "personnel clerks supervisor",
+        "photocopy unit supervisor",
+        "price information clerks supervisor",
+        "receptionists and hostesses supervisor",
+        "receptionists supervisor",
+        "records clerks supervisor",
+        "records management services supervisor",
+        "records management supervisor",
+        "records office supervisor",
+        "registration unit supervisor",
+        "registry supervisor",
+        "switchboard operators supervisor",
+        "telephone operators supervisor",
+        "telephone service supervisor",
+        "telephone system night supervisor",
+        "telephone system supervisor",
+        "unit clerks supervisor",
+        "word processing service co-ordinator",
+        "word processing unit supervisor"
+    ],
+    "main duties": [
+        "Co-ordinate, assign and review the work of clerks engaged in the following duties: word processing; record keeping and filing; operating telephones and switchboards; data entry; desktop publishing; and other activities involving general office and administrative skills",
+        "Establish work schedules and procedures and co-ordinate activities with other work units or departments",
+        "Resolve work-related problems and prepare and submit progress and other reports",
+        "Train workers in job duties, safety procedures and company policies",
+        "Requisition supplies and materials",
+        "Ensure smooth operation of office equipment and machinery, and arrange for maintenance and repair work",
+        "May perform the same duties as workers supervised."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Completion of college courses related to area supervised is usually required.",
+        "Experience in the occupation supervised is usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Office managers (in 1221 Administrative officers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1221&ver=16"
+        },
+        {
+            "name": "Supervisors, finance and insurance office workers (1212)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1212&ver=16"
+        },
+        {
+            "name": "Supervisors, library, correspondence and related information workers (1213)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1213&ver=16"
+        },
+        {
+            "name": "Supervisors, mail and message distribution occupations (1214)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1214&ver=16"
+        },
+        {
+            "name": "Supervisors, supply chain, tracking and scheduling co-ordination occupations (1215)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1215&ver=16"
+        }
+    ]
+}

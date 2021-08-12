@@ -1,0 +1,78 @@
+{
+    "id": "2123",
+    "name": "Agricultural representatives, consultants and specialists",
+    "lead statement": "Agricultural representatives, consultants and specialists provide assistance and advice to farmers on all aspects of farm management, cultivation, fertilization, harvesting, soil erosion and composition, disease prevention, nutrition, crop rotation and marketing. They are employed by businesses, institutions and governments that assist the farming community, or they may be self-employed.",
+    "example titles": [
+        "acreage-quota assignment officer",
+        "agricultural advisor",
+        "agricultural consultant",
+        "agricultural extension supervisor",
+        "agricultural livestock specialist",
+        "agricultural representative",
+        "agricultural soil and crop specialist",
+        "agricultural specialist",
+        "agriculturist",
+        "agrologist",
+        "agronomist",
+        "consulting agrologist",
+        "crop specialist",
+        "demonstrator – Department of Agriculture",
+        "district agricultural specialist",
+        "district agronomist",
+        "extension service agronomist",
+        "farm management consultant",
+        "farming consultant",
+        "field service adviser – agriculture",
+        "field service agent – agriculture",
+        "government agricultural service district representative",
+        "government agricultural service representative",
+        "growers' advisor",
+        "irrigation consultant – agriculture",
+        "livestock specialist",
+        "professional agrologist (P.Ag.)",
+        "soil conservationist",
+        "soil fertility expert"
+    ],
+    "main duties": [
+        "Provide counselling and advisory services to farmers on crop cultivation and fertilization, harvesting, animal and poultry care, disease prevention, farm management, farm financing, marketing and other agricultural subjects",
+        "Prepare and conduct advisory information sessions and lectures for farmers and other groups",
+        "Conduct research, analyze agricultural data and prepare research reports",
+        "Liaise with researchers, educators and government or business managers on matters pertaining to farming and agriculture",
+        "Maintain records of services provided and the effects of advice given.",
+        "Agricultural representatives, consultants and specialists may specialize in specific aspects of agriculture such as animal science, field crops, horticulture, soil science, irrigation or drainage, farm management, marketing, agricultural economics, land use, and environmental management, appraisal or extension and education."
+    ],
+    "employment requirements": [
+        "A bachelor's or master's degree in agriculture or in a related science is required.",
+        "Membership or eligibility for membership in a provincial institute of agrology is usually required.",
+        "In Quebec, membership in the Ordre professionnel des agronomes is mandatory."
+    ],
+    "additional information": [
+        "Progression to management positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Agricultural engineers (in 2148 Other professional engineers, n.e.c.",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2148&ver=16"
+        },
+        {
+            "name": "Agrology technologists and technicians (in 2221 Biological technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2221&ver=16"
+        },
+        {
+            "name": "Biologists and related scientists (2121)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2121&ver=16"
+        },
+        {
+            "name": "Landscape and horticulture technicians and specialists (2225)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2225&ver=16"
+        },
+        {
+            "name": "Managers of agricultural extension and consulting services (in 0212 Architecture and science managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0212&ver=16"
+        },
+        {
+            "name": "Managers responsible for agricultural economic policy (in 0412 Government managers - economic analysis, policy development and program administration",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0412&ver=16"
+        }
+    ]
+}

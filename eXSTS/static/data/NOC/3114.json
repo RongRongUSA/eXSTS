@@ -1,0 +1,66 @@
+{
+    "id": "3114",
+    "name": "Veterinarians",
+    "lead statement": "Veterinarians prevent, diagnose and treat diseases and disorders in animals and advise clients on the feeding, hygiene, housing and general care of animals. Veterinarians work in private practice or may be employed by animal clinics, farms, laboratories, government or industry.",
+    "example titles": [
+        "animal pathologist",
+        "avian veterinarian",
+        "companion animal veterinarian",
+        "equine veterinarian",
+        "farm veterinarian",
+        "food animal veterinarian",
+        "laboratory animal veterinarian",
+        "poultry veterinarian",
+        "preventive medicine veterinarian",
+        "small animal veterinarian",
+        "small animal veterinary specialist",
+        "veterinarian",
+        "veterinarian practitioner",
+        "veterinary anatomist",
+        "veterinary bacteriologist",
+        "veterinary dentist",
+        "veterinary epidemiologist",
+        "veterinary inspector",
+        "veterinary internist",
+        "veterinary laboratory diagnostician",
+        "veterinary microbiologist",
+        "veterinary parasitologist",
+        "veterinary pathologist",
+        "veterinary pharmacologist",
+        "veterinary physiologist",
+        "veterinary radiologist",
+        "veterinary surgeon",
+        "veterinary virologist",
+        "zoo veterinarian"
+    ],
+    "main duties": [
+        "Diagnose diseases or abnormal conditions in individual animals, herds and flocks through physical examinations or laboratory tests",
+        "Treat sick or injured animals by prescribing medication, setting bones, dressing wounds or performing surgery",
+        "Vaccinate animals to prevent and treat diseases",
+        "Perform routine, emergency and post-mortem examinations",
+        "Advise clients on feeding, housing, behaviour, breeding, hygiene and general care of animals",
+        "Provide a range of veterinary services including obstetrics, dentistry and euthanasia",
+        "May supervise animal health technologists and animal care workers",
+        "May be responsible for overall operation of animal hospital, clinic or mobile service to farms",
+        "May conduct veterinary research related to areas such as animal nutrition, health care products development and disease prevention and control",
+        "May enforce government regulations in disease control and food production including animal or animal-based food inspection."
+    ],
+    "employment requirements": [
+        "Two years of pre-veterinary university studies or completion of a college program in health science \r\n and a four to five year university degree in veterinary medicine\r\n and completion of national certification examinations are required.",
+        "A provincial licence to practice is required.",
+        "Entry into research positions may require postgraduate study."
+    ],
+    "additional information": [
+        "The duties of veterinarians performing research may be similar to those of some biologists."
+    ],
+    "exclusions": [
+        {
+            "name": "Animal health technologists and veterinary technicians (3213)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3213&ver=16"
+        },
+        {
+            "name": "Biologists and related scientists (2121)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2121&ver=16"
+        }
+    ]
+}

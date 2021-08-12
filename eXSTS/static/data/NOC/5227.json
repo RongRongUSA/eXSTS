@@ -1,0 +1,103 @@
+{
+    "id": "5227",
+    "name": "Support occupations in motion pictures, broadcasting, photography and the performing arts",
+    "lead statement": "This unit group includes workers who perform support duties related to broadcasting and to the production of motion pictures and the performing arts. They are employed by television and radio stations and networks, recording studios, motion picture and video production companies and by theatre and stage companies.",
+    "example titles": [
+        "artistic rigger",
+        "audiovisual (AV) assistant",
+        "audiovisual (AV) assistant – motion pictures and broadcasting",
+        "best boy",
+        "boom grip",
+        "boom microphone operator",
+        "boom operator",
+        "camera crane operator",
+        "circus rigger",
+        "continuity person – motion pictures and broadcasting",
+        "dolly operator – motion pictures and broadcasting",
+        "dolly pusher – motion pictures and broadcasting",
+        "dresser – motion pictures, broadcasting and performing arts",
+        "duplicate-film examiner – motion pictures and broadcasting",
+        "entertainment stage rigger",
+        "film projectionist",
+        "film quality inspector",
+        "fireworks handler",
+        "flyman/woman",
+        "focus puller",
+        "grip",
+        "lighting assistant",
+        "motion picture examiner",
+        "motion picture projectionist",
+        "movie theatre projectionist",
+        "production assistant",
+        "production assistant – motion pictures and broadcasting",
+        "projectionist",
+        "prompter",
+        "property person",
+        "props handler",
+        "props person",
+        "recording assistant – recording studio",
+        "rigger – motion pictures, broadcasting and performing arts",
+        "scene shifter",
+        "scenic artist – motion pictures, broadcasting and performing arts",
+        "scenic constructor",
+        "scenic constructor – motion pictures, broadcasting and performing arts",
+        "scenic painter – motion pictures, broadcasting and performing arts",
+        "script assistant",
+        "script person – motion pictures and broadcasting",
+        "searchlight operator",
+        "second costumes assistant",
+        "set builder",
+        "set dresser",
+        "special effects assistant",
+        "spotlight operator",
+        "stage best boy",
+        "stage production worker",
+        "stage property person",
+        "stagehand",
+        "staging assistant",
+        "technical assistant – audiovisual",
+        "telecine operator",
+        "teleprompt operator",
+        "theatre high rigger",
+        "wardrobe assistant",
+        "wardrobe attendant",
+        "wig assistant – motion pictures, broadcasting and performing arts"
+    ],
+    "main duties": [
+        "Set up, assemble, adjust, maintain and replace reels and projector equipment; detect and repair mechanical and electrical problems; and change and install an electronic control panel using automated equipment.",
+        "Check the condition of the copy; set up and load film reels on movie theatre projection systems, adjust focus, sound levels and other projector and theatre settings; and maintain projection equipment.",
+        "Assemble, repair, place, build and oversee props.",
+        "Distribute scripts to actors; keep detailed notes of all actions, positions and camera angles; and photograph and date scenes.",
+        "Rig, place, move and dismantle sets, backdrops, scenery and other stage equipment.",
+        "Clean, maintain, transport and store costumes, and assist performers to dress in costumes.",
+        "Provide support to the director and producer, and are responsible for various aspects of production such as preparing schedules, setting up equipment, and making travel arrangements to various shooting locations."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Most occupations in this unit group require completion of college courses in broadcasting, theatre arts or a related field \r\n or a period of on-the-job training.",
+        "Certification for projectionists is available, but voluntary, in New Brunswick. In Quebec, projectionists are regulated under operators of electrical machines, cinema equipment.",
+        "Projectionists are required to be licensed by their province of employment."
+    ],
+    "additional information": [
+        "There may be an overlap in duties among occupations in this unit group, depending on the size of the production or broadcasting studio.",
+        "Progression to related technical occupations in motion pictures, broadcasting or the performing arts is possible with additional training or experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Audio and video recording technicians (5225)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5225&ver=16"
+        },
+        {
+            "name": "Broadcast technicians (5224)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5224&ver=16"
+        },
+        {
+            "name": "Film and video camera operators (5222)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5222&ver=16"
+        },
+        {
+            "name": "Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts (5226)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5226&ver=16"
+        }
+    ]
+}

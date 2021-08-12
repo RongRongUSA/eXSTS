@@ -1,0 +1,46 @@
+{
+    "id": "1254",
+    "name": "Statistical officers and related research support occupations",
+    "lead statement": "Statistical officers and related research support occupations in this unit group provide statistical and research support services to a wide range of businesses and organizations. These workers conduct statistical routines, monitor trends, compile data and prepare charts, graphs, summaries and reports in support of organizational information needs and research activities. They are employed throughout the private and public sectors. Statistical officers who are also supervisors are included in this unit group.",
+    "example titles": [
+        "psychology research assistant (except university)",
+        "research assistant – generalist (except university)",
+        "research assistant (except post-secondary)",
+        "research support officer",
+        "social research assistant (except university)",
+        "social science research assistant (except university)",
+        "statistical officer",
+        "statistical technician",
+        "technical research assistant (except post-secondary)",
+        "technical services officer – statistics"
+    ],
+    "main duties": [
+        "Compile tables, charts, graphs and summarized statistics for integration in research papers and reports",
+        "Process data using statistical software to conduct basic analyses of trends in support of research activities",
+        "Collect, consolidate, cross-tabulate and format data from various sources to prepare draft reports for review by supervisors or researchers",
+        "Assist in collection and tracking of data from monitored use of services and provide information to management and client groups",
+        "May prepare technical documents and monitoring reports on volumetrics and other trend analyses",
+        "May supervise statistical and research support workers."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "A college diploma or undergraduate degree in a social science, commerce, statistics or a related field is usually required."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience. Progression to professional occupations in statistics and research usually requires completion of a postgraduate degree."
+    ],
+    "exclusions": [
+        {
+            "name": "Data entry clerks (1422)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1422&ver=16"
+        },
+        {
+            "name": "Mathematicians, statisticians and actuaries (2161)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2161&ver=16"
+        },
+        {
+            "name": "Survey interviewers and statistical clerks (1454)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1454&ver=16"
+        }
+    ]
+}

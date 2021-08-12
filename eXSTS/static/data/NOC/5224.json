@@ -1,0 +1,64 @@
+{
+    "id": "5224",
+    "name": "Broadcast technicians",
+    "lead statement": "Broadcast technicians install, set up, test, operate and repair electronic equipment used to record and transmit live and taped radio and television programs and to produce audio and video streaming broadcasts for the Internet. They are employed by radio and television broadcasting networks and stations, by broadcast equipment companies and by Internet-based communication providers.",
+    "example titles": [
+        "broadcast engineer",
+        "broadcast field technician",
+        "broadcast maintenance technician",
+        "broadcast technician",
+        "broadcast transmitter operator",
+        "broadcasting control operator",
+        "broadcasting engineer",
+        "broadcasting switcher",
+        "broadcasting technician",
+        "broadcasting transmitter operator",
+        "control room technician – broadcasting",
+        "master control room (MCR) equipment operator – broadcasting",
+        "master control room (MCR) technician – broadcasting",
+        "mobile broadcasting equipment installer",
+        "mobile broadcasting equipment operator",
+        "mobile radio broadcasting supervisor",
+        "production switcher",
+        "radio broadcasting equipment operator supervisor",
+        "regional transmitter technician",
+        "short-wave receiving station technician",
+        "television broadcasting equipment operator supervisor",
+        "television switcher",
+        "transmission operator",
+        "transmission studio control operator",
+        "transmitter operator",
+        "transmitting operator",
+        "video control operator",
+        "video transmission operator",
+        "video transmission studio control operator"
+    ],
+    "main duties": [
+        "Monitor broadcast quality of live and taped radio and television programs",
+        "Operate and monitor radio and television broadcasting systems to broadcast, receive signals and to regulate clarity and range of sounds and colours of recordings or broadcasts",
+        "Operate broadcast equipment to produce audio and video streaming broadcasts for the Internet",
+        "Make emergency repairs to equipment and substitute programs in case of signal failure",
+        "Maintain, install and troubleshoot a wide variety of broadcast hardware and software",
+        "Set up and operate consoles to pick up and select feed sources from different locations and to air radio or television programs and commercials",
+        "May supervise other broadcast technicians."
+    ],
+    "employment requirements": [
+        "Completion of a college program in broadcast technology or electronics is usually required.",
+        "Senior and supervisory positions in this unit group require experience."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Audio and video recording technicians (5225)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5225&ver=16"
+        },
+        {
+            "name": "Film and video camera operators (5222)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5222&ver=16"
+        },
+        {
+            "name": "Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts (5226)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5226&ver=16"
+        }
+    ]
+}

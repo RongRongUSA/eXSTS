@@ -1,0 +1,58 @@
+{
+    "id": "2224",
+    "name": "Conservation and fishery officers",
+    "lead statement": "This unit group includes conservation and fishery officers, inspectors and observers who enforce federal and provincial regulations established for the protection of fish, wildlife and other natural resources and collect and relay information on resource management. They are employed by federal and provincial government departments.",
+    "example titles": [
+        "conservation officer",
+        "district inspector – fisheries",
+        "district supervisor – fisheries",
+        "dockside monitor – fisheries",
+        "dockside observer – fisheries",
+        "fish and game warden",
+        "fish and wildlife officer",
+        "fisheries inspector",
+        "fisheries inspector supervisor",
+        "fisheries observer",
+        "fisheries officer",
+        "fisheries officer supervisor",
+        "fishery officer",
+        "fishing area supervisor",
+        "forest ranger – wildlife management",
+        "game officer",
+        "game warden",
+        "natural resources officer",
+        "park ranger"
+    ],
+    "main duties": [
+        "Generate public awareness of fish and wildlife conservation and regulations",
+        "Conduct patrols by truck, aircraft, boat, or on foot, to ensure compliance with the provincial and federal statutes relating to fish, wildlife and the environment",
+        "Investigate complaints, arrest violators, prepare briefs and present evidence in court",
+        "Issue licences, export documents and special permits and collect royalties assessed on fish, wildlife and timber resources",
+        "Implement and supervise approved techniques in preventing or overcoming damage caused by wildlife",
+        "Perform resource protection duties, such as inspecting fishing gear and equipment and monitoring fishing activities for compliance with regulations",
+        "Gather resource data by making inventories of fish, collecting water samples and assisting biologists in scientific research",
+        "Supervise or provide firearms safety training courses and trapper education courses."
+    ],
+    "employment requirements": [
+        "Completion of a college program in renewable resources management, environmental conservation or a related discipline is usually required.",
+        "On-the-job training and courses related to law enforcement and resource management are provided.",
+        "A class-5 driver's licence, pesticide applicator's licence and explosives licence may be required."
+    ],
+    "additional information": [
+        "Progression to senior and supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Biological technologists and technicians (2221)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2221&ver=16"
+        },
+        {
+            "name": "Fish inspectors (in 2222 Agricultural and fish products inspectors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2222&ver=16"
+        },
+        {
+            "name": "Forestry technologists and technicians (2223)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2223&ver=16"
+        }
+    ]
+}

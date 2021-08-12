@@ -1,0 +1,87 @@
+{
+    "id": "4215",
+    "name": "Instructors of persons with disabilities",
+    "lead statement": "Instructors of persons with disabilities teach children and adults using a variety of techniques to facilitate communication, rehabilitation, social skills and increased independence. They are employed in rehabilitation centres, specialized educational institutes and throughout the school system.",
+    "example titles": [
+        "braille instructor",
+        "braille teacher",
+        "finger-spelling teacher",
+        "instructor of persons \r\nwith a mobility impairment",
+        "instructor of persons who are blind",
+        "instructor of persons who are deaf",
+        "instructor of persons who are hard of hearing",
+        "instructor of persons with a learning disability",
+        "instructor of persons with a visual impairment",
+        "instructor of persons with developmental disabilities",
+        "instructor of persons with disabilities",
+        "instructor of persons with intellectual disabilities",
+        "instructor of persons with special needs",
+        "job coach for persons with disabilities",
+        "lip-reading instructor",
+        "lip-reading teacher",
+        "orientation and mobility instructor",
+        "orientation and mobility instructor for persons with a visual impairment",
+        "orientation and mobility teacher for persons who are blind",
+        "orientation and mobility teacher of persons with\r\na visual impairment",
+        "rehabilitation instructor for persons who are blind",
+        "rehabilitation instructor of persons with a visual impairment",
+        "rehabilitation teacher",
+        "rehabilitation teacher for persons who are blind",
+        "rehabilitation teacher of persons with a visual impairment",
+        "sign language instructor",
+        "sign language teacher",
+        "special education technician – persons with disabilities",
+        "special programs instructor for persons with disabilities",
+        "teacher for persons with autism",
+        "teacher for persons with intellectual disabilities",
+        "teacher of braille",
+        "teacher of persons who are blind",
+        "teacher of persons who are deaf",
+        "teacher of persons who are hard of hearing",
+        "teacher of persons who are hearing impaired",
+        "teacher of persons with a mobility impairment",
+        "teacher of persons with a visual impairment",
+        "teacher of persons with developmental disabilities"
+    ],
+    "main duties": [
+        "Develop individualized education and intervention plans based on special needs of client to facilitate their readaptation and independence objectives",
+        "Assess individuals in areas such as physical limitations, orientation and mobility skills, and cognitive, social and emotional barriers to establish client rehabilitation or adaptation goals",
+        "Assist individuals with physical, intellectual, visual and hearing disabilities or multiple disorders to develop life skills and provide job training",
+        "Instruct individuals with disabilities and their families in the use of rehabilitative techniques, prosthetic devices, wheelchairs and other equipment designed to maximize clients' independence and potential",
+        "Instruct persons with a visual impairment in reading and writing braille and in the use of special equipment or supports such as human or animal guides, long canes and other adaptive mobility devices",
+        "Instruct persons who are hard of hearing or deaf in lip-reading, finger spelling and sign language according to individual communication needs",
+        "Instruct persons who are hard of hearing or deaf in the formation and development of sounds for speech using hearing aids, and other devices and techniques",
+        "Collaborate with specialists, such as rehabilitation counsellors, speech-language pathologists and occupational therapists, to develop programs for clients' special needs"
+    ],
+    "employment requirements": [
+        "Completion of a college program in special education, rehabilitation, orientation and mobility, visual impairment, hearing impairment or intellectual disability is required.",
+        "A bachelor's degree in special education or a related field such as social work or psychology may be required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Occupational therapy rehabilitation consultants (in 3143 Occupational therapists",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3143&ver=16"
+        },
+        {
+            "name": "Special education technicians – social and community services (in 4212 Social and community service workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4212&ver=16"
+        },
+        {
+            "name": "Special needs educational assistants (in 4413 Elementary and secondary school teacher assistants",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4413&ver=16"
+        },
+        {
+            "name": "Special needs teachers – elementary school (in 4032 Elementary school and kindergarten teachers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4032&ver=16"
+        },
+        {
+            "name": "Special needs teachers – secondary school (in 4031 Secondary school teachers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4031&ver=16"
+        },
+        {
+            "name": "Speech and hearing therapists (in 3141 Audiologists and speech-language pathologists",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3141&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "4312",
+    "name": "Firefighters",
+    "lead statement": "Firefighters carry out firefighting and fire prevention activities, and assist in other emergencies. They are employed by municipal, provincial and federal governments and by large industrial establishments that have internal firefighting services.",
+    "example titles": [
+        "airport firefighter",
+        "communication service firefighter",
+        "crash firefighter",
+        "fire captain",
+        "fire department platoon chief",
+        "fire inspector",
+        "fire lieutenant",
+        "fire prevention officer",
+        "fire safety inspection firefighter",
+        "firefighter",
+        "firefighter apprentice",
+        "firefighter lieutenant",
+        "firefighter-inspector",
+        "industrial complex firefighter",
+        "industrial firefighter",
+        "shipboard firefighter",
+        "structural firefighter",
+        "training firefighter"
+    ],
+    "main duties": [
+        "Respond to fire alarms and other calls for assistance, such as automobile and industrial accidents, bomb threats and other emergencies",
+        "Rescue victims from burning buildings and accident sites",
+        "Control and extinguish fires using manual and power equipment, such as axes, water hoses, aerial ladders and hydraulic equipment and various firefighting chemicals",
+        "Administer first aid and other assistance",
+        "Ensure proper operation and maintenance of firefighting equipment",
+        "Prepare written reports on fire incidents",
+        "Inform and educate the public on fire prevention",
+        "Train to maintain high level of physical fitness",
+        "Assist the public, the police and emergency organizations during times of major disasters",
+        "May participate as members of a trauma or emergency response team and provide paramedical aid to accident victims or ill persons",
+        "May supervise and co-ordinate the work of other firefighters",
+        "May conduct building inspections to ensure compliance with fire code."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a college program in fire protection technology, fire science or a related field\r\n and a period of supervised practical training is usually required.",
+        "Firefighting and emergency medical care training courses are provided and vary in length depending on the requirements of different fire departments or services.",
+        "Certification for firefighters is compulsory in Nova Scotia, Quebec, Ontario, Manitoba and Alberta, but voluntary, in Newfoundland and Labrador, Prince Edward Island, New Brunswick, Saskatchewan, British Columbia, the Yukon, the Northwest Territories and Nunavut.",
+        "Experience as a volunteer firefighter may be an advantage.",
+        "Physical agility, strength, fitness and vision requirements must be met.",
+        "Several years of experience are required for senior firefighters, such as lieutenants and captains."
+    ],
+    "additional information": [
+        "Progression to senior positions such as fire chief is possible with additional training and several years of experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Fire chiefs and senior firefighting officers (0432)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0432&ver=16"
+        },
+        {
+            "name": "Forest firefighters (in 8422 Silviculture and forestry workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8422&ver=16"
+        },
+        {
+            "name": "Paramedics (in 3234 Paramedical occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3234&ver=16"
+        }
+    ]
+}

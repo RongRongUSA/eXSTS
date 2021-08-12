@@ -1,0 +1,108 @@
+{
+    "id": "7322",
+    "name": "Motor vehicle body repairers",
+    "lead statement": "Motor vehicle body repairers repair and restore damaged motor vehicle body parts and interior finishing; repaint body surfaces; and repair and/or replace automotive glass. They are employed by automobile dealerships, automobile body repair shops and automobile appraisal centres. This unit group also includes metal repairers who repair defective automobile body parts and damage to the bodies of newly assembled cars. They are employed by motor vehicle manufacturers.",
+    "example titles": [
+        "antique car body restorer",
+        "antique vehicle body restorer",
+        "apprentice painter – motor vehicle repair",
+        "auto glass installer",
+        "autobody mechanic",
+        "autobody repairer",
+        "autobody technician",
+        "autobody technician – collision",
+        "autobody technician – refinishing",
+        "autobody worker",
+        "automobile body repairman/woman",
+        "automobile damage repair estimator",
+        "automobile polisher-sander – motor vehicle repair",
+        "automotive body mechanic",
+        "automotive body painter",
+        "automotive body repairer",
+        "automotive body repairer-painter",
+        "automotive body technician",
+        "automotive glass technician",
+        "automotive painter – motor vehicle repair",
+        "automotive painter apprentice",
+        "automotive painting and refinishing technician",
+        "automotive repair shop estimator",
+        "body and fender repairer – automobile",
+        "body and fender repairman/woman – automobile",
+        "collision repair technician",
+        "dent remover and repairer – automobile",
+        "dingman/woman – autobody",
+        "journeyman/woman motor vehicle body repairer",
+        "metal finish and touch-up repairer – motor vehicle manufacturing",
+        "metal finisher – motor vehicle manufacturing",
+        "metal repairer – motor vehicle manufacturing",
+        "metal upgrader – motor vehicle manufacturing",
+        "motor repair vehicle painter apprentice",
+        "motor vehicle apprentice painter",
+        "motor vehicle body finisher",
+        "motor vehicle body repairer",
+        "motor vehicle body repairer – collision",
+        "motor vehicle body repairer – metal and paint",
+        "motor vehicle body repairer – refinishing",
+        "motor vehicle body repairer apprentice",
+        "motor vehicle body repair-painter",
+        "motor vehicle body technician",
+        "motor vehicle body technician – truck",
+        "motor vehicle painter – motor vehicle repair",
+        "painter – motor vehicle repair",
+        "used car renovator"
+    ],
+    "main duties": [
+        "Review damage report and estimates of repair cost and plan work to be performed",
+        "Repair and replace front end components, body components, doors and frame and underbody components",
+        "Hammer out dents, buckles and other defects using blocks and hammers",
+        "Operate soldering equipment or use plastic filler to fill holes, dents and seams",
+        "Remove damaged fenders, panels and grills using wrenches and cutting torch and bolt or weld replacement parts into place",
+        "Straighten bent frames using frame and underbody pulling and anchoring equipment",
+        "File, grind and sand repaired body surfaces using hand and power tools",
+        "Mask and tape auto body surfaces in preparation for painting",
+        "Mix paint, blend and match colours",
+        "Apply primers and repaint surfaces using brush or spray guns",
+        "Repair and replace glass components such as windshields, windows and sunroofs",
+        "Repair or replace interior components, such as seat frame assembly, carpets and floorboard insulation",
+        "Inspect repaired vehicles and test drive vehicles for proper handling."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a three- to four-year motor vehicle body repair apprenticeship program \r\n or a combination of over three years of work experience in the motor vehicle body repair trade and completion of a high school or college automotive body repair program is usually required to be eligible for trade certification.",
+        "Trade certification for motor vehicle body repairer (metal and paint) is compulsory in Nova Scotia, Ontario and Alberta and available, but voluntary, in Newfoundland and Labrador, Prince Edward Island, New Brunswick, Manitoba, Saskatchewan, British Columbia, the Yukon, the Northwest Territories and Nunavut.",
+        "Auto body repairer certification is compulsory in Ontario and Alberta and available, but voluntary, in the Yukon and the Northwest Territories.",
+        "Red Seal endorsement is also available to qualified motor vehicle body repairers (metal and paint) upon successful completion of the interprovincial Red Seal examination.",
+        "Completion of secondary school is usually required.",
+        "Completion of a two- to three-year automotive painter apprenticeship program \r\n or a combination of one year of work experience in the automotive painter trade and completion of a high school or college automotive painting program is usually required for automotive painter trade certification.",
+        "Automotive painter certification is compulsory in Alberta and available, but voluntary, in Newfoundland and Labrador, Nova Scotia, Prince Edward Island, New Brunswick, Ontario, Manitoba, Saskatchewan, British Columbia, the Yukon and the Northwest Territories.",
+        "Red Seal endorsement is also available to qualified automotive painters upon successful completion of the interprovincial Red Seal examination.",
+        "Completion of secondary school is usually required.",
+        "Auto glass industry certification is usually required.",
+        "Apprenticeship training and trade certification for automotive glass technicians is available, but voluntary, in Nova Scotia, Ontario, Alberta and British Columbia.",
+        "Completion of secondary school is usually required.",
+        "One to two years of on-the-job training are provided."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "With experience, motor vehicle body repair and automotive painter tradespersons may progress to supervisory positions.",
+        "Metal repairers employed in motor vehicle manufacturing may progress to motor vehicle repairer positions through an apprenticeship program, or, with experience, they may progress to supervisory positions in motor vehicle manufacturing."
+    ],
+    "exclusions": [
+        {
+            "name": "Automotive service technicians, truck and bus mechanics and mechanical repairers (7321)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7321&ver=16"
+        },
+        {
+            "name": "Painters – motor vehicle manufacturing (in 9536 Industrial painters, coaters and metal finishing process operators",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9536&ver=16"
+        },
+        {
+            "name": "Supervisors, motor vehicle assembling (9221)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9221&ver=16"
+        },
+        {
+            "name": "Supervisors of motor vehicle body repairers and automotive painters (in 7301 Contractors and supervisors, mechanic trades",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7301&ver=16"
+        }
+    ]
+}

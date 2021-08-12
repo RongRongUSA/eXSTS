@@ -1,0 +1,77 @@
+{
+    "id": "8615",
+    "name": "Oil and gas drilling, servicing and related labourers",
+    "lead statement": "Labourers in this unit group carry out a variety of general labouring duties and operate equipment to assist in the drilling and servicing of oil and gas wells. This unit group also includes labourers who assist in geophysical prospecting for oil and gas. They are employed by drilling and well servicing contractors and by petroleum producing companies.",
+    "example titles": [
+        "floorhand – offshore drilling rig",
+        "floorhand – oil and gas drilling",
+        "floorhand – service rig",
+        "floorman/woman – offshore drilling rig",
+        "floorman/woman – oil and gas drilling",
+        "gravity prospecting observer helper",
+        "leasehand",
+        "leasehand – oil and gas drilling",
+        "observer helper – gravity prospecting",
+        "observer helper – seismic prospecting",
+        "oil field labourer",
+        "oil well cementer helper",
+        "perforator helper – oil field services",
+        "perforator loader helper – oil field services",
+        "reeled tubing helper – oil field services",
+        "roughneck",
+        "roughneck – offshore drilling rig",
+        "roughneck – oil and gas drilling",
+        "roustabout",
+        "roustabout – offshore drilling rig",
+        "roustabout – oil and gas drilling",
+        "seismic GPS rover",
+        "seismic line cutter",
+        "seismic prospecting observer helper",
+        "seismic survey helper",
+        "service rig helper",
+        "service rig helper – oil field services",
+        "service rig operator helper",
+        "service rig roughneck – oil field services",
+        "shakerhand",
+        "shakerhand – oil and gas drilling",
+        "shooter – seismograph",
+        "shooter helper – seismic prospecting",
+        "slasher – oil and gas",
+        "slasher – oil field services",
+        "swamper – oil and gas",
+        "swamper – oil field services",
+        "tubing helper – oil field services",
+        "vibrator operator – seismic prospecting",
+        "well puller helper – oil field services",
+        "well treatment helper",
+        "well treatment helper – oil field services",
+        "wireline helper",
+        "wireline helper – oil field services"
+    ],
+    "main duties": [
+        "Manipulate sections of pipe or drill stem at the rig floor during drilling and during the removal and replacement of strings of pipe or drill stem and drill bit",
+        "Maintain drilling equipment on the drill floor",
+        "Handle, sort and move drill tools, pipe, cement and other materials",
+        "Clean up rig areas",
+        "Assist in setting up, taking down and transporting drilling and service rigs and service equipment",
+        "May drive trucks to transport materials and well service equipment."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Completion of introductory college or petroleum industry-approved training courses may be required.",
+        "Certificates in hydrogen sulphide awareness, workplace hazardous materials information system (WHMIS) or transportation of dangerous goods (TDG) may be required."
+    ],
+    "additional information": [
+        "Progression to more senior operating positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Oil and gas well drillers, servicers, testers and related workers (8232)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8232&ver=16"
+        },
+        {
+            "name": "Oil and gas well drilling and related workers and services operators (8412)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8412&ver=16"
+        }
+    ]
+}

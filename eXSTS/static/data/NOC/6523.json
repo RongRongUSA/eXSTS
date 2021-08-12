@@ -1,0 +1,120 @@
+{
+    "id": "6523",
+    "name": "Airline ticket and service agents",
+    "lead statement": "Airline ticket and service agents issue tickets, provide fare quotations, make reservations, conduct passenger check-in, trace missing baggage, arrange for cargo shipments and perform other related customer service duties to assist airline passengers. Airline ticket and service agents are employed by airline companies.",
+    "example titles": [
+        "agent ticket and information – airline",
+        "airline baggage agent",
+        "airline cargo agent",
+        "airline customer service representative",
+        "airline load planner",
+        "airline passenger agent",
+        "airline reservation agent",
+        "airline sales and service agent",
+        "airline ticket agent",
+        "baggage agent – airline",
+        "baggage tracer – airline",
+        "baggage tracing agent – airline",
+        "cargo agent – airline",
+        "cargo customer service representative – airline",
+        "certified load control agent – airline",
+        "certified load planner – airline",
+        "check-in agent – airline",
+        "client service representative – airline",
+        "commissary agent – airline",
+        "counter services agent – airline",
+        "customer sales agent – airline",
+        "customer service agent – airline",
+        "customer service representative – airline",
+        "flight agent",
+        "load agent – airline",
+        "load control agent – airline",
+        "passenger sales agent – airline",
+        "passenger sales representative – airline",
+        "passenger service representative – airline",
+        "reservation agent – airline",
+        "reservation clerk – airline",
+        "reservation sales agent – airline",
+        "station agent – airline",
+        "station services agent – airline",
+        "ticket and information agent – airline"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Airline passenger and ticket agents",
+            "duty_description": [
+                "Help customers plan travel time and routes, prepare and issue tickets, assign seats, prepare boarding passes, check baggage, attend boarding gates",
+                "Assist pre-boarding passengers and provide information on fares and flight schedules and routes."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Airline baggage agents",
+            "duty_description": [
+                "Trace lost, delayed or misdirected baggage for customers."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Airline cargo agents",
+            "duty_description": [
+                "Weigh cargo and compute freight costs, calculate charges for services and insurance, process bills of lading, cargo manifests and other documents",
+                "Trace lost or misdirected cargo and maintain shipping and other records."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Airline reservation agents",
+            "duty_description": [
+                "Reserve seats for tour companies, travel agencies, wholesalers and the general public using computerized systems",
+                "Provide information on airline passengers and process mileage points."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Airline station agents",
+            "duty_description": [
+                "Complete pre-flight documents regarding passenger and cargo load, catering count, special requests and other flight information",
+                "Relay operational messages to operations control and downline stations",
+                "Perform duties of ticket, baggage and cargo agents."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Airline load planners",
+            "duty_description": [
+                "Calculate load weights for compartments of aircraft using charts and computers",
+                "Plan load to distribute and balance cargo."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Several weeks of on-the-job and classroom training are provided for all occupations in this unit group.",
+        "Airline station agents usually require experience as a ticket, baggage or cargo agent.",
+        "Load planners require a restricted radio operator's licence and usually require airline operations experience."
+    ],
+    "additional information": [
+        "Depending on the size of the airline or airport, the duties of workers in this unit group may overlap.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Ground and water transport ticket agents, cargo service representatives and related clerks (6524)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6524&ver=16"
+        },
+        {
+            "name": "Supervisors of airline sales and service agents (in 6313 Accommodation, travel, tourism and related services supervisors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6313&ver=16"
+        },
+        {
+            "name": "Travel counsellors (6521)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6521&ver=16"
+        },
+        {
+            "name": "Airline cargo and baggage loaders (in 6721 Support occupations in accommodation, travel and facilities set-up services",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6721&ver=16"
+        }
+    ]
+}

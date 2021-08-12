@@ -1,0 +1,52 @@
+{
+    "id": "7513",
+    "name": "Taxi and limousine drivers and chauffeurs",
+    "lead statement": "Taxi and limousine drivers drive automobiles and limousines to transport passengers. Chauffeurs drive automobiles and limousines to transport personnel and visitors of businesses, government or other organizations or members of private households. Taxi and limousine drivers are employed by taxi and other transportation service companies, or they may be self-employed. Chauffeurs are employed by businesses, government and other organizations, or private individuals or families.",
+    "example titles": [
+        "airport limousine driver",
+        "company chauffeur",
+        "funeral chauffeur",
+        "funeral driver",
+        "hearse driver",
+        "limousine driver",
+        "private chauffeur",
+        "private household chauffeur",
+        "taxi driver",
+        "taxi owner-operator",
+        "taxicab driver"
+    ],
+    "main duties": [
+        "Pick up passengers and drive them to destinations in taxicabs or limousines",
+        "Help passengers with luggage and with boarding and exiting vehicles and assist passengers with special needs",
+        "Collect flat-rate or taximeter fares",
+        "Maintain travel logs and record cash and credit transactions",
+        "Maintain contact with taxi dispatch unit",
+        "Clean and make minor repairs to vehicle or take vehicle for servicing",
+        "May provide pick up and delivery services on request.",
+        "Pick up or meet employer according to request, appointment or schedule",
+        "Drive employer to destinations in automobile or limousine",
+        "Perform business and personal errands for employer such as delivering and picking up mail, business documents and parcels",
+        "Clean and make minor repairs to vehicle or take vehicle for servicing."
+    ],
+    "employment requirements": [
+        "Some secondary school education is usually required.",
+        "A minimum of one year of safe driving experience is usually required.",
+        "A Class G driver's licence is required in Ontario, and a Class 4 driver's licence is required in all other provinces and the territories.",
+        "Taxi and limousine drivers require good knowledge of the geographical area to be covered and may have to pass written street/building location and safety examinations.",
+        "Taxi drivers usually require a municipal permit.",
+        "First aid certification may be required."
+    ],
+    "additional information": [
+        "Mobility from taxi or limousine driver to chauffeur is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Supervisors, motor transport and other ground transit operators (7305)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7305&ver=16"
+        },
+        {
+            "name": "Taxi dispatchers (in 1525 Dispatchers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1525&ver=16"
+        }
+    ]
+}

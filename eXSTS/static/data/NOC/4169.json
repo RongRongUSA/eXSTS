@@ -1,0 +1,117 @@
+{
+    "id": "4169",
+    "name": "Other professional occupations in social science, n.e.c.",
+    "lead statement": "This unit group includes anthropologists, archaeologists, geographers, historians, linguists, political scientists, sociologists and other professional occupations in social science not elsewhere classified. They are employed in universities and throughout the public and private sectors.",
+    "example titles": [
+        "anthropologist",
+        "applied anthropologist",
+        "applied geographer",
+        "applied linguist",
+        "archaeological consultant",
+        "archaeological field worker",
+        "archaeologist",
+        "biogeographer",
+        "biological anthropologist",
+        "criminologist",
+        "cultural anthropologist",
+        "cultural geographer",
+        "diplomatic historian",
+        "dramatic arts historian",
+        "economic geographer",
+        "economic historian",
+        "educational sociologist",
+        "ethnographer",
+        "ethnologist",
+        "etymologist",
+        "genealogist",
+        "geographer",
+        "gerontologist",
+        "graphoanalyst",
+        "graphologist",
+        "handwriting analyst",
+        "handwriting expert",
+        "historian",
+        "historical geographer",
+        "industrial geographer",
+        "industrial sociologist",
+        "linguist",
+        "linguistic anthropologist",
+        "medical sociologist",
+        "military historian",
+        "penologist",
+        "philologist",
+        "philosopher",
+        "physical anthropologist",
+        "physical geographer",
+        "political geographer",
+        "political historian",
+        "political scientist",
+        "politicist",
+        "psycholinguist",
+        "psychometrician",
+        "psychometrist",
+        "quantitative historian",
+        "research anthropologist",
+        "research archaeologist",
+        "rural sociologist",
+        "scientific handwriting expert",
+        "social and cultural anthropologist",
+        "social anthropologist",
+        "social ecologist",
+        "social historian",
+        "social scientist",
+        "sociolinguist",
+        "sociologist",
+        "theatre historian",
+        "urban geographer",
+        "urban sociologist"
+    ],
+    "main duties": [
+        "Conduct studies of the origin, development and functioning of human societies and cultures and of human evolution, changing physical characteristics and geographical distribution.",
+        "Study artifacts (objects and structures) to reconstruct past economic, social, political and intellectual life.",
+        "Study and analyse the spatial distribution and interrelationship of physical, biological, cultural and social patterns.",
+        "Conduct research into one or more phases or aspects of past human activity and interpret and document findings.",
+        "Study the origin, structure and development of languages and apply linguistic theory to problems in teaching, translation and communications.",
+        "Conduct research into the theory, origin, development, interrelationships and functioning of political institutions, political movements and individual political behaviour.",
+        "Develop psychological tests, scales and measures, and may administer or apply and interpret such tests, scales and measures. Psychometrists administer and score psychological tests, usually under the supervision of a registered psychologist.",
+        "Study the development, structure, social patterns and interrelationships of human society.",
+        "Specialize in particular areas of social sciences and humanities disciplines. These include criminologists (specialists in the study of crime and criminals), gerontologists (specialists in the phenomena and problems of aging), graphoanalysts (specialists in handwriting analysis) and others.",
+        "Specialization usually exists within each of these occupations."
+    ],
+    "employment requirements": [
+        "A master's or doctoral degree in the discipline is usually required."
+    ],
+    "additional information": [
+        "Specialization within each occupation occurs through specialized university study or through experience."
+    ],
+    "exclusions": [
+        {
+            "name": "College and other vocational instructors (4021)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4021&ver=16"
+        },
+        {
+            "name": "Economists and economic policy researchers and analysts (4162)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4162&ver=16"
+        },
+        {
+            "name": "Mathematicians, statisticians and actuaries (2161)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2161&ver=16"
+        },
+        {
+            "name": "Psychologists (4151)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4151&ver=16"
+        },
+        {
+            "name": "Secondary school teachers (4031)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4031&ver=16"
+        },
+        {
+            "name": "Social policy researchers, consultants and program officers (4164)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4164&ver=16"
+        },
+        {
+            "name": "University professors and lecturers (4011)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4011&ver=16"
+        }
+    ]
+}

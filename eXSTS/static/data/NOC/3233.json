@@ -1,0 +1,57 @@
+{
+    "id": "3233",
+    "name": "Licensed practical nurses",
+    "lead statement": "Licensed practical nurses provide nursing care usually under the direction of medical practitioners, registered nurses or other health team members. Operating room technicians prepare patients and provide assistance to medical practitioners prior to and during surgery. Licensed practical nurses are employed in hospitals, nursing homes, extended care facilities, rehabilitation centres, doctors' offices, clinics, companies, private homes and community health centres. Operating room technicians are employed in hospitals.",
+    "example titles": [
+        "certified nursing assistant (CNA)",
+        "graduate nursing assistant",
+        "licensed nursing assistant",
+        "licensed practical nurse (L.P.N.)",
+        "nurse educator – cannabis",
+        "nursing assistant (registered – Québec)",
+        "operating room technician",
+        "operating room technician – nursing",
+        "registered nursing assistant (R.N.A.)",
+        "registered practical nurse (R.P.N.)",
+        "surgical nursing assistant",
+        "surgical technician – nursing"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Licensed practical nurses",
+            "duty_description": [
+                "Provide nursing services, within defined scope of practice, to patients based on patient assessment and care planning procedures",
+                "Perform nursing interventions such as taking vital signs, applying aseptic techniques including sterile dressing, ensuring infection control, monitoring nutritional intake and conducting specimen collection",
+                "Administer medication and observe and document therapeutic effects",
+                "Provide pre-operative and post-operative personal and comfort care",
+                "Monitor established respiratory therapy and  intravenous therapy",
+                "Monitor patients' progress, evaluate and document effectiveness of nursing interventions and collaborate with appropriate members of health care team",
+                "Provide safety and health education to individuals and their families.",
+                "Prepare patients for surgery by washing, shaving and sterilizing the patients' operative areas",
+                "Assist in surgery by laying out instruments, setting up equipment, assisting surgical teams with gowns and gloves and passing instruments to surgeons",
+                "Monitor patients' status during surgery, such as intake, output and loss of blood, and communicate and document any changes",
+                "Clean and sterilize the operating room and instruments."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Completion of a vocational, college or other approved program for licensed practical nurses is required.",
+        "Registration with a regulatory body is required in all provinces and territories.",
+        "Completion of a registration examination is required in all provinces and territories.",
+        "Operating room technicians require additional academic training in operating room techniques."
+    ],
+    "additional information": [
+        "Working under the direction of a medical practitioner or registered nurse is not required for licensed practical nurses in all jurisdictions."
+    ],
+    "exclusions": [
+        {
+            "name": "Nurse aides, orderlies and patient service associates (3413)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3413&ver=16"
+        },
+        {
+            "name": "Home health care workers (in 4412 Home support workers, housekeepers and related occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4412&ver=16"
+        }
+    ]
+}

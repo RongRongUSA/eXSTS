@@ -1,0 +1,53 @@
+{
+    "id": "3221",
+    "name": "Denturists",
+    "lead statement": "Denturists examine patients and design, construct and repair removable dentures. Most denturists work in private practice.",
+    "example titles": [
+        "apprentice dental mechanic",
+        "dental mechanic",
+        "dental mechanic apprentice",
+        "denture mechanic",
+        "denture technician",
+        "denture therapist",
+        "denturist",
+        "denturologist",
+        "student dental mechanic",
+        "student denturist"
+    ],
+    "main duties": [
+        "Measure patients' jaws to determine size and shape of dentures required",
+        "Make impressions of patients' teeth, gums and jaws",
+        "Design and construct dentures or direct other workers to construct dentures",
+        "Insert, fit and modify new dentures",
+        "Repair dentures",
+        "Reline, rebase and adjust dentures",
+        "Fabricate mouth protectors, anti-snoring prostheses and removable prostheses on implants",
+        "May order radiographs",
+        "May prepare partial dentures",
+        "May perform denture whitening and cleaning."
+    ],
+    "employment requirements": [
+        "Completion of a two- or three-year college program in denturism/denturology is required.",
+        "An internship in a registered denture clinic may be required.",
+        "Licensing by a provincial or territorial regulatory body is required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Dental assistants (3411)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3411&ver=16"
+        },
+        {
+            "name": "Dental hygienists and dental therapists (3222)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3222&ver=16"
+        },
+        {
+            "name": "Dental technologists, technicians and laboratory assistants (3223)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3223&ver=16"
+        },
+        {
+            "name": "Dentists (3113)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3113&ver=16"
+        }
+    ]
+}

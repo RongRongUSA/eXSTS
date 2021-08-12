@@ -1,0 +1,77 @@
+{
+    "id": "6513",
+    "name": "Food and beverage servers",
+    "lead statement": "Food and beverage servers take patrons' food and beverage orders and serve orders to patrons. They are employed in restaurants, hotels, bars, taverns, private clubs, banquet halls and similar establishments.",
+    "example titles": [
+        "assistant waiter/waitress – food and beverage services",
+        "banquet headwaiter/headwaitress",
+        "banquet server",
+        "banquet waiter/waitress",
+        "bar service waiter/waitress",
+        "beer server",
+        "buffet waiter/waitress",
+        "camp waiter/waitress",
+        "captain waiter/waitress",
+        "captain waiter/waitress – food and beverage services",
+        "captain waiter/waitress – formal service",
+        "caterer waiter/waitress",
+        "chief wine steward",
+        "club car attendant",
+        "cocktail waiter/waitress",
+        "commissary waiter/waitress",
+        "dining car steward",
+        "dining car waiter/waitress",
+        "dining room captain",
+        "dining room steward",
+        "food and beverage server",
+        "formal service waiter/waitress",
+        "headwaiter/headwaitress – food and beverage services",
+        "hotel waiter/waitress – formal service",
+        "lounge waiter/waitress",
+        "mess waiter/waitress",
+        "restaurant waiter/waitress – formal service",
+        "room service waiter/waitress",
+        "server – food and beverage services",
+        "sommelier",
+        "steward – food and beverage services",
+        "waiter/waitress",
+        "waiter/waitress – drive-in restaurant",
+        "waiter/waitress – food and beverage services",
+        "wine server",
+        "wine steward",
+        "wine waiter/waitress"
+    ],
+    "main duties": [
+        "Greet patrons, present menus, make recommendations and answer questions regarding food and beverages",
+        "Take orders and relay to kitchen and bar staff",
+        "Recommend wines that complement patrons' meals",
+        "Serve food and beverages",
+        "Prepare and serve specialty foods at patrons' tables",
+        "Present bill to patrons and accept payment",
+        "May order and maintain inventory of wines and wine glassware",
+        "May perform sensory evaluation of wines."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Formal waiters/waitresses may require completion of a one- or two-year apprenticeship program \r\n or college or vocational school courses.",
+        "An apprenticeship program for food and beverage servers is available, but voluntary, in Quebec and Saskatchewan.",
+        "On-the-job training is usually provided.",
+        "Sommeliers may require courses in wine selection and service \r\n or experience as a formal waiter/waitress.",
+        "Responsible beverage service certification is usually required for employees serving alcoholic beverages."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Food service supervisors (6311)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6311&ver=16"
+        },
+        {
+            "name": "Maîtres d'hôtel and hosts/hostesses (6511)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6511&ver=16"
+        },
+        {
+            "name": "Restaurant and food service managers (0631)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0631&ver=16"
+        }
+    ]
+}

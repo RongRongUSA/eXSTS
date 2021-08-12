@@ -1,0 +1,80 @@
+{
+    "id": "9222",
+    "name": "Supervisors, electronics manufacturing",
+    "lead statement": "Supervisors in this unit group supervise and co-ordinate the activities of workers who assemble, fabricate, test, repair and inspect electronic parts, components and systems. They are employed in electronics manufacturing plants.",
+    "example titles": [
+        "assembly and test electronic equipment manufacturing supervisor",
+        "assembly and test foreman/woman – electronics manufacturing",
+        "assembly and test supervisor – electronics manufacturing",
+        "assembly and testing supervisor – electronic equipment manufacturing",
+        "assembly supervisor – electronic equipment manufacturing",
+        "business and commercial machine assembly supervisor",
+        "business and commercial machines assembly foreman/woman",
+        "coil winding foreman/woman – electronics manufacturing",
+        "communications equipment assembly foreman/woman – electronics manufacturing",
+        "communications equipment assembly supervisor – electronic equipment manufacturing",
+        "communications equipment testing supervisor – electronic equipment manufacturing",
+        "communications equipment testing supervisor – electronics manufacturing",
+        "crystal processing foreman/woman – electronics manufacturing",
+        "electronic assembly foreman/woman",
+        "electronic assembly supervisor",
+        "electronic equipment fabricating and assembling foreman/woman",
+        "electronic equipment fabricating and assembling supervisor",
+        "electronic equipment fabricating and assembling workers foreman/woman",
+        "electronic inspection foreman/woman – electronics manufacturing",
+        "electronics manufacturing foreman/woman",
+        "electronics manufacturing supervisor",
+        "final assembly and testing foreman/woman – electronic equipment manufacturing",
+        "final assembly and testing supervisor – electronic equipment manufacturing",
+        "foreman/woman – electronic equipment manufacturing",
+        "inspectors and testers foreman/woman – electronic equipment fabrication, assembly, installation and repair",
+        "integrated circuit (IC) fabrication supervisor – electronic equipment manufacturing",
+        "integrated-circuit-board fabrication supervisor – electronic equipment manufacturing",
+        "printed circuit board (PCB) fabrication foreman/woman – electronic equipment manufacturing",
+        "printed circuit board (PCB) fabrication supervisor – electronic equipment manufacturing",
+        "production foreman/woman – electronics manufacturing",
+        "production supervisor – electronics manufacturing",
+        "semiconductor assembly foreman/woman",
+        "supervisor – electronic equipment manufacturing",
+        "systems test foreman/woman – electronic equipment manufacturing",
+        "systems testing supervisor – electronic equipment manufacturing",
+        "test supervisor – electronic equipment manufacturing",
+        "test supervisor – electronics manufacturing",
+        "testing foreman/woman – electronic equipment manufacturing"
+    ],
+    "main duties": [
+        "Supervise, co-ordinate and schedule the activities of workers who assemble, fabricate, inspect and test electronic and electromechanical assemblies, subassemblies, parts and components",
+        "Establish methods to meet work schedules and co-ordinate work activities with other departments",
+        "Resolve work problems and recommend work measures to improve productivity",
+        "Requisition materials and supplies",
+        "Train workers in job duties, safety procedures and company policies and recommend personnel actions such as hirings and promotions",
+        "Ensure safety rules and regulations are followed",
+        "Prepare production and other reports",
+        "May set up machines and equipment",
+        "Supervise, co-ordinate and schedule the activities of related helpers and labourers."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Several years of experience as an electronics assembler, fabricator, inspector or tester are usually required.",
+        "Post-secondary education in electronics or a related discipline is required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Electrical and electronics engineering technologists and technicians (2241)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2241&ver=16"
+        },
+        {
+            "name": "Electronics assemblers, fabricators, inspectors and testers (9523)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9523&ver=16"
+        },
+        {
+            "name": "Electronic service technicians (household and business equipment) (2242)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2242&ver=16"
+        },
+        {
+            "name": "Supervisors, electrical products manufacturing (9223)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9223&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "3144",
+    "name": "Other professional occupations in therapy and assessment",
+    "lead statement": "This unit group includes specialized therapists not elsewhere classified who use techniques such as athletic, movement, art or recreational therapy to aid in the treatment of mental and physical disabilities or injuries. They are employed by establishments such as hospitals, rehabilitation centres, extended health care facilities, clinics, recreational centres, nursing homes, industry, educational institutions and sports organizations, or they may work in private practice.",
+    "example titles": [
+        "art therapist",
+        "art therapists' supervisor",
+        "art therapy consultant",
+        "art therapy teacher (except education)",
+        "athletic therapist",
+        "athletic trainer – therapy",
+        "biokineticist",
+        "certified athletic therapist (CAT)",
+        "certified kinesiologist",
+        "dance therapist",
+        "dance therapists' supervisor",
+        "dance therapy researcher",
+        "dance-movement therapist",
+        "dance-movement therapy researcher",
+        "drama therapist",
+        "drama therapists' supervisor",
+        "exercise physiologist",
+        "exercise therapist",
+        "human kineticist",
+        "kinanthropologist",
+        "kinesiologist",
+        "movement analyst – medical",
+        "movement therapist",
+        "music therapist",
+        "music therapists' supervisor",
+        "music therapy researcher",
+        "recreational therapist",
+        "registered dance therapist (DTR)",
+        "registered kinesiologist",
+        "remedial gymnast",
+        "remedial gymnastics teacher (except education)",
+        "remedial gymnasts' supervisor",
+        "remedial therapist",
+        "spontaneous art teacher – therapy",
+        "therapeutic recreationist"
+    ],
+    "main duties": [
+        "Assess patients and review reports from physicians, physiotherapists, psychiatrists, counsellors, teachers and other professionals to determine patients' current and potential functioning level",
+        "Prepare individualized and group treatment plans either independently or through a multidisciplinary team approach, based on health concerns and on recommendations from physicians or other health professionals",
+        "Design specialized therapy programs to maintain, rehabilitate or enhance movement, musculoskeletal functioning and performance in sports, work and recreation",
+        "Implement treatment plans by carrying out specialized therapy sessions employing approaches and techniques such as art, drama and music therapy or dance, recreational, sports or other movement therapy",
+        "Observe, record observations and analyze patients during treatment sessions, write progress reports on patient outcomes and consult with other health professionals to evaluate treatment plans",
+        "May provide education to clients regarding health promotion and injury prevention, management and treatment",
+        "May conduct research in respective field of specialization."
+    ],
+    "employment requirements": [
+        "Kinesiologists usually require a master's degree in kinesiology or human kinetics.",
+        "Certification for kinesiologists is available through the Canadian Kinesiology Alliance.",
+        "Athletic therapists require a bachelor's degree in sport therapy\r\n or a degree in health sciences with a specialization in sports injury management.",
+        "Art therapists require a bachelor's degree in psychology\r\n and a master's degree in art therapy.",
+        "Music therapists require a bachelor's degree in psychology\r\n and a master's degree in music therapy.",
+        "Dance therapists require a bachelor's degree in psychology\r\n and usually require a master's degree in art, drama or movement therapy.",
+        "Recreational therapists usually require a bachelor's degree in recreation with a specialization in therapeutic recreation.",
+        "Supervised practical training is usually required for occupations in this unit group.",
+        "Creative or technical ability in the field of specialization is usually required.",
+        "Certification or membership with the appropriate national professional association or provincial counterpart may be required."
+    ],
+    "additional information": [
+        "There is no mobility between the different occupations in this unit group."
+    ],
+    "exclusions": [
+        {
+            "name": "Family, marriage and other related counsellors (4153)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4153&ver=16"
+        },
+        {
+            "name": "Occupational therapists (3143)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3143&ver=16"
+        },
+        {
+            "name": "Physiotherapists (3142)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3142&ver=16"
+        },
+        {
+            "name": "Recreation, sports and fitness policy researchers, consultants and program officers (4167)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4167&ver=16"
+        },
+        {
+            "name": "Technical assistants in therapy and assessment (in 3237 Other technical occupations in therapy and assessment",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3237&ver=16"
+        }
+    ]
+}

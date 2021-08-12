@@ -1,0 +1,72 @@
+{
+    "id": "6313",
+    "name": "Accommodation, travel, tourism and related services supervisors",
+    "lead statement": "Supervisors in this unit group supervise and co-ordinate the activities of hotel accommodation service clerks, casino workers, reservation clerks and other travel and accommodations workers not elsewhere classified. They are employed by service establishments throughout the public and private sectors.",
+    "example titles": [
+        "airline sales and service agents supervisor",
+        "assistant passenger service co-ordinator – railway",
+        "baggage handler supervisor",
+        "baggage porter supervisor",
+        "bell captain",
+        "casino dealer supervisor",
+        "casino pit boss",
+        "casino section head",
+        "casino shift manager",
+        "customer relations supervisor – casino",
+        "gaming tables supervisor",
+        "guest service supervisor – casino",
+        "head baggage porter",
+        "hotel clerk head",
+        "hotel clerk supervisor",
+        "hotel managing supervisor",
+        "lodging house managing supervisor",
+        "motel managing supervisor",
+        "night clerk supervisor – hotel",
+        "night supervisor – hotel",
+        "passenger service co-ordinator – railway",
+        "pit boss gaming",
+        "railway station clerk supervisor",
+        "reservations supervisor",
+        "reservations supervisor – airline",
+        "reservations supervisor – hotel",
+        "reservations supervisor – travel agency",
+        "slot machines section head",
+        "slot supervisor",
+        "tour guide supervisor",
+        "travel clerk supervisor"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Accommodation, travel, tourism and related services supervisors perform some or all of the following duties:",
+            "duty_description": [
+                "Co-ordinate, assign and review the work of hotel, motel and other accommodation services clerks, casino workers, reservation clerks and other travel and accommodations workers not elsewhere classified",
+                "Establish work schedules and procedures and co-ordinate activities with other work units or departments",
+                "Resolve work-related problems and prepare and submit progress and other reports",
+                "Hire and train staff in job duties, safety procedures and company policies",
+                "Requisition supplies and materials",
+                "Ensure smooth operation of computer systems, equipment and machinery, and arrange for maintenance and repair work",
+                "May perform the same duties as workers supervised."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of college courses related to the area supervised may be required.",
+        "Experience in the occupation supervised is usually required. ",
+        "Casino gaming licences are usually required for all casino employees."
+    ],
+    "additional information": [
+        "Progression to managerial positions is possible with additional training or experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Accommodation service managers (0632)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0632&ver=16"
+        },
+        {
+            "name": "Food service supervisors (6311)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6311&ver=16"
+        }
+    ]
+}

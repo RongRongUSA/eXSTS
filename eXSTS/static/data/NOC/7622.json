@@ -1,0 +1,67 @@
+{
+    "id": "7622",
+    "name": "Railway and motor transport labourers",
+    "lead statement": "Railway and motor transport labourers perform a variety of tasks to assist track maintenance workers and railway yard workers, or motor transport operators. They are employed by railway transport companies and motor transport companies.",
+    "example titles": [
+        "car checker – railway",
+        "car checker – railway transport",
+        "car weigher – railway",
+        "carman/woman helper – railway",
+        "cold-storage checker – transport",
+        "crossing attendant – railway",
+        "crossing gateman/woman – railway transport",
+        "deliverer helper",
+        "delivery truck driver helper",
+        "delivery truck helper",
+        "driver helper",
+        "engineer's assistant",
+        "freight car checker – railway",
+        "freight car weigher",
+        "fuel and sand operator – railway transport",
+        "fuel truck driver helper",
+        "furniture mover helper",
+        "gateman/woman – railway transport",
+        "motor transport labourer",
+        "mover helper",
+        "moving van helper",
+        "rail lubricator",
+        "railway car decal applier",
+        "railway car weigher",
+        "railway labourer",
+        "railway track labourer",
+        "railway track maintenance labourer",
+        "railway yard labourer",
+        "route driver helper",
+        "section labourer – railway",
+        "siding checker-messenger – railway transport",
+        "signal gang helper",
+        "swamper – truck transport",
+        "track greaser – railway",
+        "track sweeper – railway",
+        "truck driver helper",
+        "yard labourer – railway transport"
+    ],
+    "main duties": [
+        "Transport tools and equipment on push or hand car and perform other duties to assist railway track maintenance workers to lay, maintain and repair railway tracks",
+        "Cut vegetation growth from railway tracks using scythes and mowers",
+        "Check freight cars for physical damage and cleanliness.",
+        "Assist truck and delivery drivers to load and unload vehicles",
+        "Perform labouring duties in warehouses."
+    ],
+    "employment requirements": [
+        "Some secondary school education is usually required."
+    ],
+    "additional information": [
+        "With experience, railway labourers may progress to railway track maintenance workers or railway yard workers."
+    ],
+    "exclusions": [
+        {
+            "name": "Material handlers (7452)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7452&ver=16"
+        },
+        {
+            "name": "Rail car oilers and greasers (in 7531 Railway yard and track maintenance workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7531&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "1252",
+    "name": "Health information management occupations",
+    "lead statement": "Health information management technicians and related workers collect, code, record, review and manage health information. They are employed by hospitals, clinics, workplace health and safety boards, health record consulting firms and other health care establishments. Health information management technicians and related workers who are supervisors are included in this unit group.",
+    "example titles": [
+        "cancer registrar",
+        "health information management coder",
+        "health information management practitioner",
+        "health information management professional",
+        "health information management supervisor",
+        "health information management technician",
+        "health records classifier",
+        "health records management coder",
+        "health records management supervisor",
+        "health records technician",
+        "medical archivist",
+        "medical records supervisor",
+        "medical records technician",
+        "medical records technicians supervisor",
+        "medical records unit supervisor",
+        "tumour registrar"
+    ],
+    "main duties": [
+        "Classify and code diseases according to an established classification system",
+        "Collect, code, cross-reference and store health records and related information",
+        "Abstract, assemble and analyze clinical data and related demographic information from health records according to established policies and procedures",
+        "Operate information systems to maintain indexes for classification systems and to manage and retrieve health records information",
+        "Prepare medical, social and administrative statistics",
+        "May supervise other health information management technicians and related workers."
+    ],
+    "employment requirements": [
+        "Health information management technicians and related workers require completion of a recognized two-year college diploma program in health record technology or health information management.",
+        "Health information management technicians and related workers are eligible to write the Canadian Health Information Management Association national certification examination which may be required by employers."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience.",
+        "Progression to management positions is possible with additional training and experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Health information management consultants (in 1122 Professional occupations in business management consulting",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1122&ver=16"
+        },
+        {
+            "name": "Health records administrators (in 0114 Other administrative services managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0114&ver=16"
+        },
+        {
+            "name": "Health records clerks (in 1411 General office support workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1411&ver=16"
+        },
+        {
+            "name": "Records management technicians (1253)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1253&ver=16"
+        }
+    ]
+}

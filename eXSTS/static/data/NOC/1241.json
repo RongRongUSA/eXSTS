@@ -1,0 +1,69 @@
+{
+    "id": "1241",
+    "name": "Administrative assistants",
+    "lead statement": "Administrative assistants perform a variety of administrative duties in support of managerial and professional employers. They are employed throughout the private and public sectors.",
+    "example titles": [
+        "administrative assistant",
+        "administrative assistant – office",
+        "administrative secretary",
+        "appointment secretary",
+        "church secretary",
+        "contracts secretary",
+        "executive secretary (except legal and medical)",
+        "finance secretary",
+        "human resources secretary",
+        "loans and grants administrative assistant",
+        "office administrative assistant",
+        "personal secretary",
+        "private secretary",
+        "recording secretary",
+        "sales secretary",
+        "school secretary",
+        "secretary (except legal and medical)",
+        "secretary-clerk",
+        "taxation service secretary",
+        "technical secretary"
+    ],
+    "main duties": [
+        "Prepare, key in, edit and proofread correspondence, invoices, presentations, brochures, publications, reports and related material from machine dictation and handwritten copy",
+        "Open and distribute incoming regular and electronic mail and other material and co-ordinate the flow of information internally and with other departments and organizations",
+        "Schedule and confirm appointments and meetings of employer",
+        "Order office supplies and maintain inventory",
+        "Answer telephone and electronic enquiries and relay telephone calls and messages",
+        "Set up and maintain manual and computerized information filing systems",
+        "Determine and establish office procedures",
+        "Greet visitors, ascertain nature of business and direct visitors to employer or appropriate person",
+        "Record and prepare minutes of meetings",
+        "Arrange travel schedules and make reservations",
+        "May compile data, statistics and other information to support research activities",
+        "May supervise and train office staff in procedures and in use of current software",
+        "May organize conferences."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a one- or two-year college or other program for administrative assistants or secretaries \r\n or previous clerical experience is required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Court reporters, medical transcriptionists and related occupations (1251)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1251&ver=16"
+        },
+        {
+            "name": "Executive assistants (1222)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1222&ver=16"
+        },
+        {
+            "name": "Legal administrative assistants (1242)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1242&ver=16"
+        },
+        {
+            "name": "Medical administrative assistants (1243)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1243&ver=16"
+        },
+        {
+            "name": "Office managers (in 1221 Administrative officers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1221&ver=16"
+        }
+    ]
+}

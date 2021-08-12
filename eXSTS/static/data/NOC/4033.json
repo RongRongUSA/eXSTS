@@ -1,0 +1,88 @@
+{
+    "id": "4033",
+    "name": "Educational counsellors",
+    "lead statement": "Educational counsellors advise current and prospective students on educational issues, career planning and personal development, and co-ordinate the provision of counselling services to students, parents, teachers, faculty and staff. They are employed by school boards and post-secondary educational institutions.",
+    "example titles": [
+        "academic adviser",
+        "academic counsellor",
+        "academic skills counsellor",
+        "career counsellor – education",
+        "college counsellor",
+        "co-op officer – schools",
+        "co-op placement officer – school",
+        "co-op program co-ordinator – school",
+        "counselling intern",
+        "counsellor for Aboriginal students",
+        "education officer",
+        "educational counsellor",
+        "educational guidance director",
+        "First Nations counsellor – education",
+        "First Nations studies program academic adviser",
+        "guidance counsellor",
+        "guidance service head",
+        "independent or applied studies officer",
+        "international student adviser",
+        "learning and study skills specialist",
+        "personal academic counsellor",
+        "personal counsellor – education",
+        "school adjustment officer",
+        "school counsellor",
+        "school guidance department head",
+        "student affairs and employment officer",
+        "student counsellor",
+        "student employment services co-ordinator",
+        "student services counsellor",
+        "university counsellor",
+        "vocational counsellor – education"
+    ],
+    "main duties": [
+        "Counsel students regarding educational issues such as course and program selection, time tables and scheduling, school adjustment, attendance problems and study skills",
+        "Counsel students regarding career or vocational issues including career exploration and planning, résumé preparation, job interview skills and job search strategies and make available to them a wide range of educational and occupational information",
+        "Co-ordinate co-op and school-to-work transition programs, and the provision of counselling and information services, such as career information, professional development sessions and exchanges with other educational institutions, to students, parents, teachers, faculty and staff",
+        "Consult with teachers and parents or faculty and other professionals such as psychologists, speech therapists and social workers regarding various issues and concerns, and with administrators and community agencies regarding programs and referrals",
+        "Administer and interpret standardized intelligence, personality, vocational, aptitude and interest tests",
+        "Develop and co-ordinate study skills groups or workshops in high schools, colleges and universities on topics such as note-taking, test or examination anxiety and preparation strategies and time management skills",
+        "Visit colleges and secondary schools to provide academic information to prospective students, their parents and educational counsellors",
+        "Co-ordinate or participate in student orientation programs in colleges or universities",
+        "Arrange for employers to recruit graduating college and university students, and students for co-op education work terms",
+        "Counsel students regarding personal and social issues such as substance abuse, depression, sexuality, eating disorders, anxiety, self-esteem, family problems, relationship and interpersonal skills and anger management",
+        "Counsel students in crisis situations such as dealing with the death of a friend or family member, suicidal tendencies and abuse situations",
+        "May supervise peer counselling programs in school settings",
+        "May supervise field experience for graduate students in counselling",
+        "May teach regular classes."
+    ],
+    "employment requirements": [
+        "A bachelor's degree in counselling, career development, education or social sciences is required for counsellors in school settings. ",
+        "A master's degree in counselling psychology or a related field such as educational psychology, developmental psychology or social work is usually required.",
+        "Educational counsellors in post-secondary settings require an undergraduate degree and may require a graduate degree. A particular academic specialization may also be required.",
+        "In Quebec, membership in L'Ordre des conseillers et conseillères d'orientation et des psychoéducateurs et psychoéducatrices du Québec is mandatory to use the title ''counsellor''.",
+        "A teacher's certificate in the province of employment and some teaching experience is usually required for counsellors in school settings.",
+        "Educational counsellors in colleges and universities may require licensing from a provincial regulatory body governing psychologists, educational counsellors or social workers."
+    ],
+    "additional information": [
+        "Elementary school counsellors generally provide more social and personal counselling whereas academic counselling is provided more by high school counsellors.",
+        "Educational counsellors in colleges, universities and other settings may specialize in academic, career or personal issues counselling."
+    ],
+    "exclusions": [
+        {
+            "name": "Employment counsellors (4156)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4156&ver=16"
+        },
+        {
+            "name": "Family, marriage and other related counsellors (4153)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4153&ver=16"
+        },
+        {
+            "name": "School psychologists (in 4151 Psychologists",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4151&ver=16"
+        },
+        {
+            "name": "Secondary school teachers (4031)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4031&ver=16"
+        },
+        {
+            "name": "Social workers (4152)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4152&ver=16"
+        }
+    ]
+}

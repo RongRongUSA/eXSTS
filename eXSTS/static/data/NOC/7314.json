@@ -1,0 +1,56 @@
+{
+    "id": "7314",
+    "name": "Railway carmen/women",
+    "lead statement": "Railway carmen/women inspect, troubleshoot, maintain and repair structural and mechanical components of railway freight, passenger and urban transit rail cars. They are employed by railway transport companies and urban transit systems.",
+    "example titles": [
+        "air brake inspector – railway car",
+        "apprentice carman/woman – railway",
+        "brake inspector – railway car",
+        "car inspector – railway",
+        "car repairer – railway",
+        "car repairer apprentice – railway",
+        "carman/woman – railway",
+        "carman/woman inspector – railway",
+        "inspector-carman/woman – railway",
+        "rail vehicle mechanic",
+        "railcar mechanic apprentice",
+        "railway car inspector",
+        "railway carman/woman",
+        "railway carman/woman apprentice",
+        "railway carman/woman inspector",
+        "railway coach repairer",
+        "railway equipment inspector",
+        "streetcar and subway car mechanic",
+        "streetcar mechanic",
+        "subway car mechanic",
+        "wheel and axle inspector – railway"
+    ],
+    "main duties": [
+        "Inspect interior and exterior components of freight, passenger and urban transit rail cars to determine defects and extent of wear and damage",
+        "Repair and install railway car parts such as compressors, air valves, bearings, couplings, air cylinders and piping",
+        "Repair and maintain electrical and electronic controls for propulsion and braking systems",
+        "Repair defective or damaged metal and wood components, using hand and power tools",
+        "Repair and repaint wooden fixtures",
+        "Replace damaged windows and repair upholstery",
+        "Test and adjust parts using testing gauges and other test equipment",
+        "Perform and document routine maintenance."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of an industry-offered apprenticeship program or three to four years of on-the-job training is usually required.",
+        "Trade certification is available, but voluntary, in Ontario, Manitoba and British Columbia."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Locomotive mechanics (in 7312 Heavy-duty equipment mechanics",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7312&ver=16"
+        },
+        {
+            "name": "Railway car repairer foremen/women (in 7301 Contractors and supervisors, mechanic trades",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7301&ver=16"
+        }
+    ]
+}

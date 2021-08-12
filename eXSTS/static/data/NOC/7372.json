@@ -1,0 +1,73 @@
+{
+    "id": "7372",
+    "name": "Drillers and blasters - surface mining, quarrying and construction",
+    "lead statement": "Drillers in this unit group operate mobile drilling machines to bore blast holes in open-pit mines and quarries and to bore holes for blasting and for building foundations at construction sites. Blasters in this unit group fill blast holes with explosives and detonate explosives to dislodge coal, ore and rock or to demolish structures. They are employed by mining, quarrying and construction companies and by drilling and blasting contractors.",
+    "example titles": [
+        "air-track drill operator – construction",
+        "blaster – quarrying",
+        "blaster – surface mining",
+        "blaster (except underground mining)",
+        "construction blaster",
+        "construction driller",
+        "core drill operator – construction, surface mining and quarrying",
+        "diamond drill operator – surface mining and quarrying",
+        "driller – quarrying",
+        "driller – surface mine",
+        "driller – surface mining",
+        "drilling machine operator – construction",
+        "foundation drill operator",
+        "foundation drill operator – construction",
+        "open-pit blaster",
+        "open-pit driller",
+        "quarry driller",
+        "rotary drilling machine operator",
+        "rotary drilling machine operator – surface mining and quarrying",
+        "seismic prospecting driller"
+    ],
+    "main duties": [
+        "Drive and operate tracked or truck-mounted rotary drilling, air-track or other drilling machines to bore large blast holes to specified depths at staked positions in open-pit mine or quarry",
+        "Operate drilling machines to drill blast holes in rock at road or other construction sites",
+        "Operate tracked or truck-mounted drill equipped with auger or other attachment to drill holes for building foundations or pilings",
+        "May measure location and stake out pattern of holes to be drilled, load blast holes with explosives and detonate explosives to dislodge coal, ore or rock.",
+        "Read instructions or diagrams, lay out drill pattern and determine depth and diameter of blast holes and conduct field tests to determine type and quantity of explosives required",
+        "Assemble or direct other workers to assemble primer charges using selected detonators, fuses, detonating cords and other materials",
+        "Load explosives in blast holes by hand or direct movement of bulk explosives trucks to load holes",
+        "Connect electrical wires, detonating cords or fuses into series and connect series to blasting machines; press handle or button to detonate charges",
+        "Handle, store and transport explosives and accessories in accordance with regulations and ensure that safety procedures are observed",
+        "May operate air-track, rotary, down-the-hole or other drilling machines to drill blast holes or may direct drilling of blast holes."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "On-the-job training is provided.",
+        "Experience as a heavy equipment operator may be required for drillers.",
+        "Experience as a blaster helper in surface mining and quarrying or construction may be required for blasters.",
+        "Provincial blasting licence is usually required for blasters.",
+        "Trade certification for blasters is compulsory in Nova Scotia."
+    ],
+    "additional information": [
+        "Drillers and blasters often perform both drilling and blasting activities.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Oil and gas well drillers (in 8232 Oil and gas well drillers, servicers, testers and related workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8232&ver=16"
+        },
+        {
+            "name": "Supervisors of construction drillers and blasters (in 7302 Contractors and supervisors, heavy equipment operator crews",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7302&ver=16"
+        },
+        {
+            "name": "Supervisors of surface mining drillers and blasters (in 8221 Supervisors, mining and quarrying",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8221&ver=16"
+        },
+        {
+            "name": "Underground mine drillers and blasters (in 8231 Underground production and development miners",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8231&ver=16"
+        },
+        {
+            "name": "Water well drillers (7373)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7373&ver=16"
+        }
+    ]
+}

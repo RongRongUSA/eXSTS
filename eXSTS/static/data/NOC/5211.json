@@ -1,0 +1,71 @@
+{
+    "id": "5211",
+    "name": "Library and public archive technicians",
+    "lead statement": "Library and public archive technicians assist users in accessing library or archive resources, assist in describing new acquisitions, participate in archive processing and storage, and conduct reference searches. They are employed by libraries and public archives.",
+    "example titles": [
+        "archival assistant",
+        "archival management technician",
+        "archive assistant",
+        "archive attendant",
+        "archive technician",
+        "assistant music librarian",
+        "cataloguing technician",
+        "elementary school librarian",
+        "high school librarian",
+        "library technician",
+        "school librarian – secondary school",
+        "secondary school librarian",
+        "technical indexer – library"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Library technicians",
+            "duty_description": [
+                "Assist library users in accessing books, films, photographs, maps, documents, electronic materials and other library materials",
+                "Catalogue new library acquisitions under the direction of a librarian",
+                "Perform manual and on-line reference searches and make interlibrary loans for users",
+                "Assist librarians in giving tours and providing children's and other specialized library programs."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Public archive technicians",
+            "duty_description": [
+                "Assist in developing inventories, forms and finding aids",
+                "Implement and update classification plans and records scheduling and disposal plans",
+                "Apply standards and policies for storage of records and archival materials",
+                "Codify and classify archival materials",
+                "Put archival materials on microfilm or in databases",
+                "Transfer materials from current to semi-current status or put into permanent storage",
+                "Purge, sort, reduce and sample archives",
+                "Research and retrieve archival materials",
+                "Participate in instructing and assisting users",
+                "Ensure that proper procedures are followed in the use of computerized document management systems."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Library technicians usually require completion of a two- to three-year college program in library and information technology.",
+        "Public archive technicians require completion of a college diploma or certificate program in archive and document management technology."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Archivists (5113)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5113&ver=16"
+        },
+        {
+            "name": "Librarians (5111)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5111&ver=16"
+        },
+        {
+            "name": "Library assistants and clerks (1451)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1451&ver=16"
+        },
+        {
+            "name": "Records management technicians (1253)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1253&ver=16"
+        }
+    ]
+}

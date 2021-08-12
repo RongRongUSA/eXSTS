@@ -1,0 +1,74 @@
+{
+    "id": "8211",
+    "name": "Supervisors, logging and forestry",
+    "lead statement": "Supervisors in this unit group supervise and co-ordinate the activities of workers engaged in logging operations and silvicultural operations. They are employed by logging companies, contractors and government agencies.",
+    "example titles": [
+        "boom master – logging",
+        "buckers supervisor",
+        "forest operations supervisor",
+        "forestry conservation contractor",
+        "forestry crew supervisor",
+        "forestry foreman/woman",
+        "forestry supervisor",
+        "grapple yarder hook tender",
+        "hook and rig supervisor – logging",
+        "hook tender – logging",
+        "loading foreman/woman – logging",
+        "log yarding boss",
+        "loggers supervisor – forestry",
+        "logging contractor",
+        "logging crew supervisor – forestry",
+        "logging foreman/woman",
+        "logging supervisor",
+        "planting crew foreman/woman",
+        "pond foreman/woman",
+        "production supervisor – logging",
+        "setting foreman/woman logging",
+        "silviculture contractor",
+        "silviculture supervisor",
+        "skidders foreman/woman – logging",
+        "woods foreman/woman"
+    ],
+    "main duties": [
+        "Supervise and co-ordinate the activities of logging and forestry workers in woodland operations, often in several work locations over several square kilometres",
+        "Oversee silvicultural activities such as scarification, planting and vegetation control",
+        "Schedule work crews, equipment and transportation for several work locations",
+        "Resolve work problems and recommend measures to improve work methods",
+        "Instruct workers in safety, recognize unsafe work conditions and modify work procedures",
+        "Ensure that government regulations are met",
+        "Communicate with forestry technical, professional and management personnel regarding forest harvesting and forest management plans, procedures and schedules",
+        "Prepare production and other reports",
+        "Hire and train new workers."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a one- to three-year college program for forestry technologists or technicians may be required.",
+        "Formal company training and several months of on-the-job training are provided.",
+        "Several years of experience as a logger, silvicultural worker, or logging machinery operator are usually required.",
+        "A chemical application licence may be required.",
+        "An industrial first aid certificate may be required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Chain saw and skidder operators (8421)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8421&ver=16"
+        },
+        {
+            "name": "Forestry technologists and technicians (2223)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2223&ver=16"
+        },
+        {
+            "name": "Logging and forestry managers (in 0811 Managers in natural resources production and fishing",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0811&ver=16"
+        },
+        {
+            "name": "Logging machinery operators (8241)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8241&ver=16"
+        },
+        {
+            "name": "Silviculture and forestry workers (8422)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8422&ver=16"
+        }
+    ]
+}

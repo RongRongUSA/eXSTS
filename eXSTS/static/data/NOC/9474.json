@@ -1,0 +1,91 @@
+{
+    "id": "9474",
+    "name": "Photographic and film processors",
+    "lead statement": "Photographic and film processors process and finish still photographic film and motion picture film. They are employed in film processing laboratories and retail photofinishing establishments.",
+    "example titles": [
+        "chemical mixer – photographic processing",
+        "colour film analyzer – photographic processing",
+        "copy camera operator – photographic processing",
+        "darkroom technician",
+        "darkroom technician – photographic processing",
+        "developer-printer machine tender",
+        "developing machine operator – photographic processing",
+        "enlarger operator – photographic processing",
+        "film developer",
+        "film printing machine operator",
+        "film processing technician",
+        "film processor",
+        "film splicer – photographic processing",
+        "film-developing machine tender",
+        "film-printing machine tender",
+        "film-processing machine operator",
+        "motion picture film developer",
+        "motion picture film examiner – photographic processing",
+        "motion picture film printer",
+        "negative cutter – film processing",
+        "negative restorer – photographic processing",
+        "negative retoucher",
+        "negative spotter – film processing",
+        "negative-contact-frame operator",
+        "photo developer",
+        "photo developer-printer",
+        "photo developing inspector",
+        "photo lab technician",
+        "photo processor",
+        "photo technician",
+        "photofinisher",
+        "photograph developer",
+        "photograph developing inspector",
+        "photograph enlarger",
+        "photograph inspector – photographic processing",
+        "photograph mounter",
+        "photographic and film-processing machine operator",
+        "photographic enlarger operator",
+        "photographic film printer",
+        "photographic film processor",
+        "photographic printer",
+        "photographic processor",
+        "photographic-film-processing machine operator",
+        "photographic-processing machine operator",
+        "picture enlarger – photographic processing",
+        "print developer",
+        "print finisher – photographic processing",
+        "print inspector – photographic processing",
+        "print retoucher – photographic processing",
+        "print tender – photographic processing",
+        "quick print machine tender – photographic processing",
+        "slide maker – photographic processing",
+        "X-ray film developer",
+        "X-ray plate developer"
+    ],
+    "main duties": [
+        "Operate equipment to develop negatives and slides, and to print black and white and colour photographs",
+        "Operate photographic enlarging equipment to produce prints and enlargements from negatives",
+        "Operate equipment to develop motion picture film",
+        "Tend automatic equipment in retail establishments to develop colour negatives, prints and slides",
+        "Operate equipment to transfer film to video tape",
+        "Retouch photographic negatives or original prints to correct defects",
+        "Splice film and mount film on reels",
+        "Measure and mix chemicals required for processing",
+        "Inspect rolls of photographic prints for conformance to specifications; or motion picture film to detect defects in developing and printing."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "For employment in film processing laboratories, completion of a college or other specialized photography program \r\n or extensive related experience is required.",
+        "For employment as a film printing machine operator in retail outlets, on-the-job training is provided."
+    ],
+    "additional information": [
+        "There is mobility among occupations within laboratory processing operations.",
+        "Progression is possible from automatic machine tenders in retail establishments to laboratory processing occupations."
+    ],
+    "exclusions": [
+        {
+            "name": "Film strippers and assemblers and negative spotters in the printing or graphic arts industry (in 9472 Camera, platemaking and other prepress occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9472&ver=16"
+        },
+        {
+            "name": "Supervisors of photographic and film processors (in 7303 Supervisors, printing and related occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7303&ver=16"
+        }
+    ]
+}

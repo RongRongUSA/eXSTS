@@ -1,0 +1,59 @@
+{
+    "id": "2115",
+    "name": "Other professional occupations in physical sciences",
+    "lead statement": "This group includes metallurgists, soil scientists and physical scientists and researchers, not elsewhere classified, involved in the conduct of theoretical and applied research in fields of physical science. They are employed by governments, educational institutions and a wide range of industrial establishments.",
+    "example titles": [
+        "astronaut",
+        "ballistician",
+        "ballistics examiner",
+        "cosmonaut",
+        "extractive metallurgist",
+        "firearms examiner",
+        "firearms expert",
+        "hydrometallurgist",
+        "materials engineering scientist",
+        "materials scientist",
+        "metallographer",
+        "metallurgist",
+        "pedologist",
+        "physical metallurgist",
+        "pyrometallurgist",
+        "research metallurgist",
+        "research scientist – ceramics",
+        "research scientist – composite materials",
+        "soil scientist"
+    ],
+    "main duties": [
+        "Conduct studies into the properties and production of metals and alloys.",
+        "Conduct research into the composition, distribution and evolution of soils.",
+        "Conduct research into the properties, composition and production of materials such as ceramics and composite materials.",
+        "Command, pilot or serve as crew members of a spacecraft to conduct scientific experiments and research, and participate in space missions as mission specialists to maintain spacecraft, install and repair space station equipment and launch and recapture satellites."
+    ],
+    "employment requirements": [
+        "A bachelor's degree in metallurgy, physics, chemistry, or a related physical science discipline is required.",
+        "A master's or doctoral degree is usually required for employment as a research scientist.",
+        "Advanced degrees in a broad range of applied science areas, such as engineering or medicine\r\n or licences may be required for some occupations in this unit group."
+    ],
+    "additional information": [
+        "Mobility between specializations in this group may be possible with experience.",
+        "Mobility is possible with experience, to other fields of physical science or to management or regulatory program management."
+    ],
+    "exclusions": [
+        {
+            "name": "Air pilots, flight engineers and flying instructors (2271)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2271&ver=16"
+        },
+        {
+            "name": "Architecture and science managers (0212)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0212&ver=16"
+        },
+        {
+            "name": "Chemists (2112)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2112&ver=16"
+        },
+        {
+            "name": "Metallurgical and materials engineers (2142)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2142&ver=16"
+        }
+    ]
+}

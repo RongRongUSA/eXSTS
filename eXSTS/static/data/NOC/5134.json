@@ -1,0 +1,63 @@
+{
+    "id": "5134",
+    "name": "Dancers",
+    "lead statement": "This unit group includes dancers and dance teachers. Dancers are employed by ballet and dance companies, television and film productions and nightclubs and similar establishments. Dance teachers are employed by dance academies and dance schools.",
+    "example titles": [
+        "ballerina",
+        "ballet dancer",
+        "ballet master",
+        "ballet teacher",
+        "ballroom dancing teacher",
+        "baton twirling instructor",
+        "belly dancer",
+        "chorus dancer",
+        "classical dance instructor",
+        "classical dancer",
+        "dance instructor",
+        "dance notator",
+        "dance teacher",
+        "dancer",
+        "dancing instructor",
+        "folk dance teacher",
+        "folk dancer",
+        "folkloric dance teacher",
+        "folkloric dancer",
+        "group dance teacher",
+        "group dancer",
+        "interpretative dancer",
+        "interpretive dancer",
+        "line dance teacher",
+        "line dancer",
+        "performance movement teacher",
+        "tap dance teacher",
+        "tap dancer"
+    ],
+    "main duties": [
+        "Practise and rehearse dance routines under direction or instruction to achieve desired interpretation and presentation",
+        "Perform dances as soloists or as members of groups before live audiences or for film or television",
+        "Train and exercise to maintain the required levels of ability and fitness",
+        "May choreograph their own performances.",
+        "Teach dance technique and artistic interpretation to amateur and professional individuals and groups",
+        "Teach the techniques, cultural origins and symbolic meanings of Aboriginal, ethnic and folkloric dances",
+        "Teach recreational dancing lessons such as ballroom dancing",
+        "Prepare dance students for specific auditions and performances.",
+        "Dancers may specialize in specific types of dance such as ballet, ballroom, folk, jazz or modern."
+    ],
+    "employment requirements": [
+        "A university degree or college diploma in dance \r or Graduation from a private dance school or academy may be required.",
+        "Talent and ability, as demonstrated during an audition, are important hiring criteria.",
+        "Dance teachers usually require experience as dancers.",
+        "Membership in a guild or union related to the occupation or type of performance may be required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Choreographers (in 5131 Producers, directors, choreographers and related occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5131&ver=16"
+        },
+        {
+            "name": "Other performers, n.e.c. (5232)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5232&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": "4411",
+    "name": "Home child care providers",
+    "lead statement": "Home child care providers care for children on an ongoing or short-term basis. They care for the well-being and physical and social development of children, assist parents with child care and may assist with household duties. They provide care primarily in their own homes or in the children's homes, where they may also reside. They are employed by private households and child-care agencies, or they may be self-employed.",
+    "example titles": [
+        "au pair",
+        "au pair girl",
+        "babysitter",
+        "babysitter – fitness centre",
+        "babysitter – shopping centre",
+        "babysitting caregiver",
+        "child care live-in caregiver",
+        "child care provider – private home",
+        "child caregiver – private home",
+        "child minder",
+        "children's guardian",
+        "family child care provider",
+        "foster father",
+        "foster mother",
+        "foster parent",
+        "governess – child care",
+        "home child care provider",
+        "kinship care provider",
+        "kinship caregiver",
+        "live-in nanny",
+        "nanny",
+        "parent's helper"
+    ],
+    "main duties": [
+        "Supervise and care for children in employer's or own residence",
+        "Bathe, dress and feed infants and children",
+        "Prepare formulas and change diapers for infants",
+        "Plan, prepare and serve meals for children and may perform other housekeeping duties",
+        "Oversee children's activities, such as meals and rest periods, as instructed by employer",
+        "Maintain a safe and healthy environment in the home",
+        "Instruct children in personal hygiene",
+        "Tend to the emotional well-being of children and support their social development",
+        "Discipline children according to the methods requested by the parents",
+        "Provide age-appropriate educational training through organized activities such as games, crafts, reading and outings",
+        "Take children to and from school and appointments",
+        "May be required to keep records of daily activities and health information regarding each child.",
+        "Care for foster children, usually on an emergency or temporary basis, as a primary guardian under general direction of foster parent agency",
+        "Consult foster parent agency supervisors for advice and when problems arise ",
+        "Administer foster care programs for foster children, as directed by foster parent agency social workers."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Home child care providers, parent's helpers and foster parents may require completion of a training program in child care or a related field.",
+        "Child care or household management experience may be required.",
+        "Demonstrated ability to perform work is usually required.",
+        "First aid certification and cardiopulmonary resuscitation (CPR) training may be required."
+    ],
+    "additional information": [
+        "There is mobility among occupations in this group."
+    ],
+    "exclusions": [
+        {
+            "name": "Child care workers – daycare (in 4214 Early childhood educators and assistants",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4214&ver=16"
+        },
+        {
+            "name": "Live-in caregivers for seniors and persons with disabilities (in 4412 Home support workers, housekeepers and related occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4412&ver=16"
+        }
+    ]
+}

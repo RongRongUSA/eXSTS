@@ -1,0 +1,90 @@
+{
+    "id": "8412",
+    "name": "Oil and gas well drilling and related workers and services operators",
+    "lead statement": "Oil and gas well drilling workers operate drilling and service rig machinery as intermediate members of the rig crew. Oil and gas well services operators drive trucks and operate specialized hydraulic pumping systems to place cement in wells or to treat wells with chemicals, sand mixtures or gases to stimulate production. Workers in this unit group are employed by drilling and well service contractors and by petroleum producing companies.",
+    "example titles": [
+        "acid treater – oil field services",
+        "acid truck driver – oil field services",
+        "acidizer – oil field services",
+        "ballast control operator – offshore drilling rig",
+        "blender operator – oil field services",
+        "blending machine operator – oil field services",
+        "carbon dioxide truck operator – oil field services",
+        "cement truck driver – oil field services",
+        "cementer – oil field services",
+        "cementing equipment operator – oil field services",
+        "chemical services operator – oil field services",
+        "chemical truck operator – oil field services",
+        "coiled tubing operator – oil field services",
+        "control room operator – offshore drilling",
+        "derrick worker – oil and gas drilling",
+        "derrickhand – offshore drilling",
+        "derrickhand – oil and gas drilling",
+        "derrickman/woman",
+        "derrickman/woman – oil and gas drilling",
+        "dynamic positioning operator – offshore drilling",
+        "formation fracturing operator",
+        "formation fracturing operator – oil field services",
+        "frac driver – oil field services",
+        "motorhand – offshore drilling",
+        "motorhand – oil and gas drilling",
+        "motorman/woman – oil and gas drilling",
+        "nitrogen operator",
+        "nitrogen operator – oil field services",
+        "nitrogen truck operator – oil field services",
+        "oil well acidizer",
+        "oil well cementer – oil field services",
+        "pipeline locator – oil and gas",
+        "power-tong operator",
+        "production tubing operator – oil field services",
+        "pumper operator – oil field services",
+        "pumpman/woman – oil field services",
+        "reeled tubing operator – oil field services",
+        "rig technician – derrickhand",
+        "rig technician – motorhand",
+        "seismic buried facilities locator",
+        "snubbing-unit operator",
+        "well treatment blender operator – oil field services",
+        "well treatment pump operator – oil field services"
+    ],
+    "main duties": [
+        "Use specialized equipment, information and maps to determine and document the location of buried pipelines and other utilities in preparation for seismic exploration and drilling activities",
+        "Align and manipulate sections of pipe or drill stem from platform on  rig derrick during removal and replacement of strings of pipe, or drill stem and drill bit",
+        "Operate and maintain drilling mud systems and pumps during drilling, and mix mud, chemicals and additives",
+        "Record mud flows and volumes and take samples",
+        "Operate and maintain drilling rig diesel motors, transmissions and other mechanical equipment",
+        "Assist in setting up, taking down and transporting drilling and service rigs",
+        "Supervise floorhands and labourers.",
+        "Drive well services truck to well site",
+        "Assemble pumping equipment and attach pumps and hoses to wellhead",
+        "Operate hydraulic pumping systems to pump chemicals, gases, sand, cement or other material into well",
+        "Read gauges to monitor pressure, density, rate and concentration and adjust pumping procedure as required",
+        "May mix chemicals and cements."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Training of up to three months with an experienced operator is required for oil and gas well services operators.",
+        "Completion of petroleum industry-approved training courses may be required.",
+        "One year of experience as a floorhand, assistant or labourer is usually required.",
+        "Certificates in first aid, hydrogen sulphide awareness, blowout prevention, workplace hazardous materials information system (WHMIS), transportation of dangerous goods (TDG), cryogenic safety or in other safety concerns may be required.",
+        "Rig technician certification for motorhands and derrickhands may be required by some employers."
+    ],
+    "additional information": [
+        "Progression to oil and gas well driller or service rig operator is possible with experience.",
+        "Progression to supervisor of well services is possible for gas and oil well services operators."
+    ],
+    "exclusions": [
+        {
+            "name": "Contractors and supervisors, oil and gas drilling and services (8222)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8222&ver=16"
+        },
+        {
+            "name": "Oil and gas drilling, servicing and related labourers (8615)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8615&ver=16"
+        },
+        {
+            "name": "Oil and gas well drillers, servicers, testers and related workers (8232)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8232&ver=16"
+        }
+    ]
+}

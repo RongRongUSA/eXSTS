@@ -1,0 +1,69 @@
+{
+    "id": "3231",
+    "name": "Opticians",
+    "lead statement": "Opticians fit clients with prescription eyeglasses or contact lenses, assist clients in the selection of eyeglass frames, arrange for the production of eyeglasses or contact lenses and mount lenses in eyeglass frames. They are employed in optical retail outlets or other establishments with optical dispensing departments, or they may be self-employed. Student opticians and opticians who are managers of optical retail outlets are included in this unit group.",
+    "example titles": [
+        "apprentice optician",
+        "contact lens dispenser",
+        "contact lens fitter",
+        "contact lens practitioner",
+        "contact lens technician",
+        "dispensing optician",
+        "dispensing optician student",
+        "eyeglasses fitter",
+        "eyeglasses frame fitter",
+        "intern optician",
+        "licensed contact lens practitioner",
+        "licensed dispensing optician",
+        "licensed optician",
+        "managing optician",
+        "ophthalmic device dispenser",
+        "ophthalmic dispenser",
+        "optical device dispenser",
+        "optical dispensing manager",
+        "optical frame fitter",
+        "optician",
+        "optometric dispenser",
+        "spectacle frame fitter",
+        "student optician",
+        "visual orthesis technician",
+        "visual orthotic device technician"
+    ],
+    "main duties": [
+        "Obtain specifications for eyeglasses or contact lenses from a prescription prepared by an ophthalmologist or optometrist or by analyzing the client's eyeglasses or contact lenses and by measuring client's eye curvature, pupillary distance and bridge width, using optical measuring devices",
+        "Assist clients in selecting eyeglasses by advising on lens materials, frames, tints and anti-reflection coating",
+        "Advise on use and care of contact lenses",
+        "Arrange for grinding and polishing of lenses or grind and polish lenses",
+        "Cut and edge lenses and fit lenses into frames",
+        "Adjust finished eyeglasses to fit client",
+        "May supervise or manage the activities of other opticians or student opticians."
+    ],
+    "employment requirements": [
+        "Completion of a two- or three-year college program in ophthalmic dispensing or optical sciences is required.",
+        "Licensing by a regulatory body for opticians is required in all provinces.",
+        "Licensing requirements for scope of practice and protected titles related to dispensing and contact lens certification vary by province."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Managers of optical retail outlets or of optical dispensing departments who are not opticians (in 0621 Retail and wholesale trade managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0621&ver=16"
+        },
+        {
+            "name": "Ocularists (in 3219 Other medical technologists and technicians (except dental health)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3219&ver=16"
+        },
+        {
+            "name": "Ophthalmologists (in 3111 Specialist physicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3111&ver=16"
+        },
+        {
+            "name": "Optical lab technicians (in 3414 Other assisting occupations in support of health services",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3414&ver=16"
+        },
+        {
+            "name": "Optometrists (3121)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3121&ver=16"
+        }
+    ]
+}

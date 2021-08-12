@@ -1,0 +1,64 @@
+{
+    "id": "7253",
+    "name": "Gas fitters",
+    "lead statement": "Gas fitters install, inspect, repair and maintain gas lines and gas equipment such as meters, regulators and heating units in residential, commercial and industrial establishments. They are employed by gas utility companies and gas servicing companies.",
+    "example titles": [
+        "apprentice gas fitter",
+        "district gas serviceman/woman",
+        "furnace converter",
+        "gas customer servicer",
+        "gas fitter",
+        "gas fitter apprentice",
+        "gas fitter trainee",
+        "gas fitter-installer",
+        "gas main fitter",
+        "gas pipe mechanic",
+        "gas pipefitter",
+        "gas servicer",
+        "gas technician",
+        "gas works troubleshooter",
+        "industrial gas fitter-tester",
+        "industrial gas servicer",
+        "journeyman/woman gas fitter"
+    ],
+    "main duties": [
+        "Study drawings and specifications to determine the layout of the installation and materials required",
+        "Measure and mark reference points for installation of gas lines and equipment",
+        "Install and maintain gas meters and regulators and gas lines between gas unit and gas meter",
+        "Install, maintain and service gas heating units and their components, such as burners, valves and automatic controls",
+        "Test and replace defective equipment or components",
+        "Test and adjust control mechanisms and check pipes and piping connections for gas leaks using gas detecting devices",
+        "Attend to gas escape calls and assist in the investigation of gas fires and explosions",
+        "Prepare reports on work performed and condition of facilities",
+        "Advise clients regarding standards, safety features and maintenance of gas units and systems",
+        "Convert motor vehicles or appliances to use natural gas fuels",
+        "May repair and service gas appliances and related equipment."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a two- or three-year gas fitter apprenticeship program \r\n or several years of work experience in a pipefitting trade and completion of a high school, college or industry gas fitter program are required.",
+        "Gas fitter trade certification is compulsory in Nova Scotia, Quebec, Alberta, British Columbia, the Yukon, the Northwest Territories and Nunavut.",
+        "A provincial gas fitter licence is usually required."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Appliance servicers and repairers (7332)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7332&ver=16"
+        },
+        {
+            "name": "Plumbers (7251)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7251&ver=16"
+        },
+        {
+            "name": "Steamfitters, pipefitters and sprinkler system installers (7252)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7252&ver=16"
+        },
+        {
+            "name": "Supervisors of gas fitters (in 7203 Contractors and supervisors, pipefitting trades",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7203&ver=16"
+        }
+    ]
+}

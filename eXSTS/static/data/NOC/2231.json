@@ -1,0 +1,115 @@
+{
+    "id": "2231",
+    "name": "Civil engineering technologists and technicians",
+    "lead statement": "Civil engineering technologists and technicians provide technical support and services to scientists, engineers and other professionals, or may work independently in fields such as structural engineering, municipal engineering, construction design and supervision, highways and transportation engineering, water resources engineering, geotechnical engineering and environmental protection. They are employed by consulting engineering and construction companies, public works, transportation and other government departments and in many other industries.",
+    "example titles": [
+        "agricultural engineering technician",
+        "air pollution field technician",
+        "architectural and engineering technologists and technicians supervisor",
+        "bridge design technician",
+        "building materials technician",
+        "civil engineering design technologist",
+        "civil engineering studies technologist",
+        "civil engineering technician",
+        "civil engineering technologist",
+        "concrete technician",
+        "construction engineering technician",
+        "construction requirements writer",
+        "construction specifications writer",
+        "construction technician",
+        "construction technician – civil engineering",
+        "construction technologist",
+        "corrosion technician",
+        "corrosion technologist",
+        "environmental technician",
+        "foundation technologist",
+        "highway construction materials testing technician",
+        "highway technician",
+        "highway traffic technician",
+        "land use technician",
+        "materials testing technician",
+        "materials testing technologist",
+        "measures technician",
+        "municipal engineering assistant",
+        "noise abatement technician",
+        "noise reduction technician",
+        "pollution control technician",
+        "railway technician",
+        "road technician",
+        "road traffic technician",
+        "soil technologist – civil engineering",
+        "soil testing technologist",
+        "soil testing technologist – civil engineering",
+        "solid waste disposal technician",
+        "structural design technologist",
+        "structural engineering technician",
+        "structural investigator",
+        "traffic technician – civil engineering",
+        "traffic technologist",
+        "urban planning technician",
+        "water distribution systems technician"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Civil engineering technologists",
+            "duty_description": [
+                "Develop conventional and computer-assisted design (CAD) engineering designs and drawings from preliminary concepts and sketches",
+                "Prepare construction specifications, cost and material estimates, project schedules and reports",
+                "Supervise or conduct field surveys, inspections or technical investigations of topography, soils, drainage and water supply systems, road and highway systems, buildings and structures to provide data for engineering projects",
+                "Conduct or supervise inspection and testing of construction materials",
+                "May supervise, monitor and inspect construction projects."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Civil engineering technicians",
+            "duty_description": [
+                "Assist in developing engineering specifications and drawings",
+                "Participate in field surveys, inspections or technical investigations of topography, soils, drainage and water supply systems, road and highway systems, buildings and structures to provide data for engineering projects",
+                "Perform other technical functions in support of civil engineering activities."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Completion of a two- or three-year college program in civil engineering technology or a closely related discipline is usually required for civil engineering technologists.",
+        "Completion of a one- or two-year college program in civil engineering technology is usually required for civil engineering technicians.",
+        "Certification in civil engineering technology or in a related field is available through provincial associations of engineering/applied science technologists and technicians and may be required for some positions.",
+        "A period of supervised work experience, usually two years, is required before certification.",
+        "In Quebec, membership in the regulatory body for professional technologists is required to use the title \"Professional Technologist.\""
+    ],
+    "additional information": [
+        "There is mobility to related occupations, such as drafting technologists and technicians and construction inspectors and estimators.",
+        "Progression to construction supervisors or construction managers is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Architectural technologists and technicians (2251)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2251&ver=16"
+        },
+        {
+            "name": "Construction estimators (2234)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2234&ver=16"
+        },
+        {
+            "name": "Construction inspectors (2264)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2264&ver=16"
+        },
+        {
+            "name": "Construction managers (0711)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0711&ver=16"
+        },
+        {
+            "name": "Drafting technologists and technicians (2253)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2253&ver=16"
+        },
+        {
+            "name": "Land survey technologists and technicians (2254)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2254&ver=16"
+        },
+        {
+            "name": "Urban and land use planners (2153)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2153&ver=16"
+        }
+    ]
+}

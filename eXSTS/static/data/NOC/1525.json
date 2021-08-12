@@ -1,0 +1,85 @@
+{
+    "id": "1525",
+    "name": "Dispatchers",
+    "lead statement": "Dispatchers operate radios and other telecommunication equipment to dispatch emergency vehicles and to co-ordinate the activities of drivers and other personnel. They are employed by police, fire and health departments, other emergency service agencies, taxi, delivery and courier services, trucking and utilities companies, and other commercial and industrial establishments.",
+    "example titles": [
+        "911 dispatcher",
+        "airline radio operator",
+        "alarm system dispatcher",
+        "alarm system operator",
+        "ambulance dispatcher",
+        "boat dispatcher",
+        "car assignments clerk",
+        "coal mine car dispatcher",
+        "communications officer – emergency services",
+        "communications specialist dispatcher",
+        "drilling rig radio operator",
+        "emergency medical dispatcher",
+        "emergency services dispatcher",
+        "emergency vehicle dispatcher",
+        "fire alarm operator",
+        "fire department dispatcher",
+        "gas service crew dispatcher",
+        "highway radio-telephone operator",
+        "inbound/outbound freight co-ordinator",
+        "mail service dispatcher",
+        "maintenance services dispatcher",
+        "mine dispatcher",
+        "mobile equipment dispatcher",
+        "monitoring station operator",
+        "motor vehicle dispatcher",
+        "newspaper dispatcher",
+        "oil well service dispatcher",
+        "pilot services dispatcher",
+        "plant dispatcher",
+        "police department dispatcher",
+        "protective signal operator",
+        "radio dispatcher",
+        "radio operator",
+        "radio-telephone operator",
+        "service dispatcher",
+        "taxi dispatcher",
+        "telecommunications operator",
+        "tow truck dispatcher",
+        "troubleshooting services dispatcher",
+        "truck dispatcher",
+        "tugboat dispatcher",
+        "utilities maintenance crew dispatcher",
+        "water service dispatcher",
+        "yard clerk"
+    ],
+    "main duties": [
+        "Receive requests for emergency assistance or service and contact ambulances, police and fire departments, tow-trucks, and utility crews",
+        "Process and transmit information and instructions to co-ordinate the activities of vehicle operators, crews and equipment using a variety of computer-aided communications and dispatching equipment",
+        "Dispatch personnel according to written schedules and work orders, or as required by emergency situations",
+        "Advise vehicle operators of route and traffic problems such as construction, accidents, congestion, weather conditions, weight and size restrictions and other information",
+        "Operate radio equipment to communicate with ships, aircraft, mining crews, offshore oil rigs, logging camps and other remote operations",
+        "Monitor personnel workloads and locations",
+        "Maintain vehicle operator work records using computerized or manual methods and ensure time sheets and payroll summaries are completed accurately",
+        "Maintain computer and manual records of mileage, fuel use, repairs and other expenses, and generate reports."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Police and emergency dispatchers are required to complete formal on-the-job training. Other dispatchers usually undergo some informal on-the-job training.",
+        "Police and emergency dispatchers and other radio operators usually require provincial radio operator's certificates."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Air traffic controllers and related occupations (2272)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2272&ver=16"
+        },
+        {
+            "name": "Bus dispatchers (in 7305 Supervisors, motor transport and other ground transit operators",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7305&ver=16"
+        },
+        {
+            "name": "Railway traffic controllers and marine traffic regulators (2275)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2275&ver=16"
+        },
+        {
+            "name": "Supervisors of dispatchers (in 1215 Supervisors, supply chain, tracking and scheduling co-ordination occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1215&ver=16"
+        }
+    ]
+}

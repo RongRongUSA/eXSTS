@@ -1,0 +1,70 @@
+{
+    "id": "8432",
+    "name": "Nursery and greenhouse workers",
+    "lead statement": "Nursery and greenhouse workers plant, cultivate and harvest trees, shrubs, flowers and plants, and serve nursery and greenhouse customers. They are employed in indoor and outdoor nurseries and greenhouses.",
+    "example titles": [
+        "cannabis trim worker",
+        "cannabis trimmer",
+        "Christmas tree shearer",
+        "Christmas tree trimmer",
+        "forest assistant nursery",
+        "forest nursery worker",
+        "greenhouse worker",
+        "grower – cannabis",
+        "hand sprayer – greenhouse",
+        "horticulture worker",
+        "horticulturist helper",
+        "hothouse worker",
+        "hydroponics worker",
+        "interior plantscaper",
+        "nursery worker",
+        "plant propagator – greenhouse or nursery",
+        "tree grafter – nursery"
+    ],
+    "main duties": [
+        "Prepare soil; plant bulbs, seeds and cuttings; graft and bud plants; and transplant seedlings and rooted cuttings",
+        "Monitor plants for healthy growth and potential weed, insect, disease, and fertilizer problems in greenhouse crops",
+        "Spray trees, shrubs, flowers and plants to prevent disease and pests",
+        "Position and regulate greenhouse and outdoor irrigation systems to water plants and fields",
+        "Dig, cut and transplant trees, shrubs, flowers and plants and prepare them for sale",
+        "Provide information to customers on gardening, the use of various garden tools and products and the care of trees, shrubs, flowers, plants and lawns",
+        "May operate tractors and other machinery and equipment to fertilize, cultivate, harvest and spray fields and plants",
+        "Maintain inventory and order materials as required",
+        "Clean working areas."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Completion of college courses in horticulture or a related field may be required.",
+        "On-the-job training is provided.",
+        "A provincial licence to apply chemical fertilizers, fungicides, herbicides and pesticides may be required."
+    ],
+    "additional information": [
+        "Progression to supervisory positions, such as greenhouse supervisor, is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Contractors and supervisors, landscaping, grounds maintenance and horticulture services (8255)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8255&ver=16"
+        },
+        {
+            "name": "General farm workers (8431)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8431&ver=16"
+        },
+        {
+            "name": "Harvesting labourers (8611)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8611&ver=16"
+        },
+        {
+            "name": "Landscaping and grounds maintenance labourers (8612)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8612&ver=16"
+        },
+        {
+            "name": "Managers in horticulture (0822)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0822&ver=16"
+        },
+        {
+            "name": "Silviculture and forestry workers (8422)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8422&ver=16"
+        }
+    ]
+}

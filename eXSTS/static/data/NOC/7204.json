@@ -1,0 +1,67 @@
+{
+    "id": "7204",
+    "name": "Contractors and supervisors, carpentry trades",
+    "lead statement": "This unit group includes carpentry and cabinetmaking trade contractors who own and operate their own businesses. This group also includes supervisors who supervise and co-ordinate the activities of workers classified in the following unit groups:  (7271) and  (7272). They are employed by construction companies, carpentry contractors, maintenance departments of industrial establishments, and custom furniture and fixture manufacturing or repair companies.",
+    "example titles": [
+        "cabinetmakers foreman/woman",
+        "cabinetmaking contractor",
+        "carpenter supervisor",
+        "carpenter-contractor",
+        "carpenters foreman/woman",
+        "carpentry contractor",
+        "carpentry foreman/woman",
+        "carpentry supervisor",
+        "concrete form builders foreman/woman – carpentry",
+        "contractor-carpenter",
+        "finish carpenters foreman/woman",
+        "finish joiners foreman/woman",
+        "form builders foreman/woman",
+        "framers foreman/woman",
+        "general carpenters foreman/woman",
+        "general foreman/woman – building construction",
+        "general foreman/woman – residential construction",
+        "general supervisor – building construction",
+        "general supervisor – residential construction",
+        "maintenance carpenters foreman/woman",
+        "residential construction foreman/woman",
+        "residential construction supervisor",
+        "ship joiners foreman/woman",
+        "stair builders foreman/woman",
+        "wood frame building foreman/woman",
+        "wood patternmakers foreman/woman"
+    ],
+    "main duties": [
+        "Supervise, co-ordinate and schedule the activities of carpenters who construct, renovate and maintain structures of wood and other building materials and build and install interior finishing in residential, commercial and industrial buildings; and of cabinetmakers who construct and repair custom wooden cabinets, furniture, fixtures and related products",
+        "Establish methods to meet work schedules and co-ordinate work activities with other departments",
+        "Requisition materials and supplies",
+        "Resolve work problems and recommend work measures to improve productivity",
+        "Train or arrange for training of workers",
+        "Recommend personnel actions such as hirings and promotions",
+        "Ensure standards for safe working conditions are observed",
+        "Prepare schedules and other reports",
+        "May manage the operations of their own companies",
+        "May also supervise, co-ordinate and schedule the activities of related apprentices, helpers and labourers."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Several years of experience as a qualified carpenter or cabinetmaker are required.",
+        "Journeyman/woman trade certification as a carpenter or cabinetmaker is usually required."
+    ],
+    "additional information": [
+        "There is some mobility among jobs within a specific trade; however, there is little or no intertrade mobility."
+    ],
+    "exclusions": [
+        {
+            "name": "Construction managers (0711)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0711&ver=16"
+        },
+        {
+            "name": "Home building and renovation managers (0712)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0712&ver=16"
+        },
+        {
+            "name": "Supervisors, furniture and fixtures manufacturing (9224)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9224&ver=16"
+        }
+    ]
+}

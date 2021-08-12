@@ -1,0 +1,106 @@
+{
+    "id": "7235",
+    "name": "Structural metal and platework fabricators and fitters",
+    "lead statement": "Structural metal and platework fabricators and fitters fabricate, assemble, fit and install steel or other metal components for buildings, bridges, tanks, towers, boilers, pressure vessels and other similar structures and products. They are employed in structural steel, boiler and platework fabrication plants and by heavy machinery manufacturing and shipbuilding companies.",
+    "example titles": [
+        "apprentice fitter – shipbuilding",
+        "apprentice metal fabricator",
+        "apprentice metal shipwright",
+        "apprentice shipfitter",
+        "apprentice ship's plater",
+        "apprentice steel fabricator",
+        "apprentice structural metal and platework fabricator",
+        "apprentice structural steel and platework fitter",
+        "apprentice structural steel fabricator",
+        "bridge and girder plater",
+        "fabricator – structural metal",
+        "fitter – metal fabrication",
+        "fitter – shipbuilding",
+        "fitter – structural metal fabrication",
+        "fitter lead hand – structural metal and platework",
+        "marine steel fitter",
+        "metal fabricator",
+        "metal fabricator – structural metal and platework",
+        "metal fabricator (fitter)",
+        "metal preparation lead hand – structural metal and platework",
+        "metal shipwright",
+        "plater",
+        "plater – shipbuilding",
+        "plater-welder",
+        "platework fabricator",
+        "platework fabricator and fitter",
+        "platework fitter",
+        "shipbuilding fitter",
+        "shipfitter",
+        "shipfitter apprentice",
+        "ship's plater",
+        "steel fabricator",
+        "steel fabricator – structural metal and platework",
+        "steel fitter – metal platework",
+        "steel fitter – structural metal",
+        "steel plate shaper – ships",
+        "structural metal and platework fabricator",
+        "structural metal and platework fabricator apprentice",
+        "structural metal and platework fitter",
+        "structural metal and platework fitter-welder",
+        "structural metal and platework layout developer",
+        "structural metal and platework layout marker",
+        "structural metal and platework plater",
+        "structural metal fabricator",
+        "structural metal fitter",
+        "structural metal fitter-assembler",
+        "structural metal layout marker",
+        "structural metal worker",
+        "structural steel and platework fitter",
+        "structural steel fabricator",
+        "structural steel fitter",
+        "structural steel plate shaper",
+        "structural steel plate worker-fitter",
+        "structural steelwork and platework fitter",
+        "tube fitter – structural metal and platework"
+    ],
+    "main duties": [
+        "Study engineering drawings and blueprints, determine the materials required, and plan the sequence of tasks to cut metal most efficiently",
+        "Construct patterns and templates as guides for layouts",
+        "Lay out reference points and patterns on heavy metal according to component specifications",
+        "Rig, hoist and move materials to storage areas or within worksite",
+        "Assemble and fit metal sections and plates to form complete units or subunits using tack welding, bolting, riveting or other methods",
+        "Set up and operate various heavy-duty metal-working machines such as brake presses, shears, cutting torches, grinders and drills, including computer numerical control (CNC) equipment, to bend, cut, form, punch, drill or otherwise form heavy-metal components",
+        "Install fabricated components in final product."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a three- to four-year apprenticeship program \r\n or a combination of over four years of work experience in the trade and some college or industry courses in structural steel and platework fabrication is usually required to be eligible for trade certification.",
+        "Trade certification for metal fabricators (fitters) is available, but voluntary, in all provinces.",
+        "Trade certification for marine technicians is available, but voluntary, in Nova Scotia and British Columbia.",
+        "Trade certification for boiler and related equipment assemblers and structural metal fabricators (non-construction) is available, but voluntary, in Quebec.",
+        "Red Seal endorsement is also available to qualified metal fabricators (fitters) upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "Some structural metal and platework fabricators and fitters may also be certified as skilled welders.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Boilermakers (7234)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7234&ver=16"
+        },
+        {
+            "name": "Metalworking and forging machine operators (9416)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9416&ver=16"
+        },
+        {
+            "name": "Structural steel erectors (in 7236 Ironworkers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7236&ver=16"
+        },
+        {
+            "name": "Supervisors of structural metal and platework fabricators and fitters (in 7201 Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7201&ver=16"
+        },
+        {
+            "name": "Welders and related machine operators (7237)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7237&ver=16"
+        }
+    ]
+}

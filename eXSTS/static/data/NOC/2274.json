@@ -1,0 +1,83 @@
+{
+    "id": "2274",
+    "name": "Engineer officers, water transport",
+    "lead statement": "Engineer officers, water transport, operate and maintain main engines, machinery and auxiliary equipment aboard ships and other self-propelled vessels, and supervise and co-ordinate the activities of engine room crews. They are employed by marine transportation companies and federal government departments.",
+    "example titles": [
+        "apprentice marine engineer officer",
+        "assistant engineer – water transport",
+        "chief engineer – water transport",
+        "chief marine engineer – water transport",
+        "Coast Guard vessel chief engineer",
+        "Coast Guard vessel first watchkeeping engineer",
+        "Coast Guard vessel marine engineer officer",
+        "Coast Guard vessel second engineer",
+        "Coast Guard vessel second watchkeeping engineer",
+        "Coast Guard vessel senior engineer",
+        "Coast Guard vessel third engineer",
+        "Coast Guard vessel third watchkeeping engineer",
+        "engineer officer – water transport",
+        "factory freezer trawler chief marine engineer",
+        "factory freezer trawler first engineer",
+        "factory freezer trawler second engineer",
+        "fishing vessel chief engineer",
+        "fishing vessel engineer officer",
+        "fourth engineer – water transport",
+        "junior engineer – water transport",
+        "marine engineer officer",
+        "marine engineer officer – water transport",
+        "marine engineer officer-cadet (except armed forces)",
+        "marine second engineer – water transport",
+        "marine senior engineer – water transport",
+        "mobile platform chief engineer – offshore drilling",
+        "offshore drilling rig marine engineer officer",
+        "second engineer",
+        "second engineer – water transport",
+        "self-propelled barge marine engineer officer",
+        "self-propelled drilling rig chief engineer",
+        "self-propelled drilling rig first engineer",
+        "self-propelled drilling rig marine engineer officer",
+        "self-propelled drilling rig second engineer",
+        "ship engineer officer",
+        "third engineer – water transport",
+        "tugboat engineer"
+    ],
+    "main duties": [
+        "Operate main engines, machinery and all auxiliary equipment aboard ships, such as boilers, steering and deck machinery, motors, pumps, generators and condensers",
+        "Stand engine room watch, monitoring and noting performance of engines, machinery and all auxiliary equipment",
+        "Inspect and conduct maintenance and emergency repairs to engines, machinery and all auxiliary equipment",
+        "Supervise and co-ordinate the activities of the engine room crew",
+        "Maintain records and prepare reports on engine performance and failures."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Completion of a three-year cadet program in marine engineering from an approved marine training institute \r\n or approximately three years of experience as an engine room crew member and six months of formal training at an approved marine training institute \r\n or approximately three years of experience as an engine mechanic and six months of experience as an engine room crew member are required for certification as a fourth class marine engineer.",
+        "A marine engineer officer certificate of competency, issued by Transport Canada, is required."
+    ],
+    "additional information": [
+        "Fourth class marine engineer certificate is the entry level of a four-level certification program administered by Transport Canada. Progression from one level of certification to the next requires additional experience, training and testing.",
+        "Mobility between employers is possible for positions requiring the same level of certification.",
+        "Progression to management positions in transportation is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Deck officers, water transport (2273)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2273&ver=16"
+        },
+        {
+            "name": "Managers in transportation (0731)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0731&ver=16"
+        },
+        {
+            "name": "Marine and naval engineers (in 2148 Other professional engineers, n.e.c.",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2148&ver=16"
+        },
+        {
+            "name": "Marine mechanical engineers (in 2132 Mechanical engineers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2132&ver=16"
+        },
+        {
+            "name": "Water transport deck and engine room crew (7532)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7532&ver=16"
+        }
+    ]
+}

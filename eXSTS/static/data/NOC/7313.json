@@ -1,0 +1,66 @@
+{
+    "id": "7313",
+    "name": "Heating, refrigeration and air conditioning mechanics",
+    "lead statement": "Heating, refrigeration and air conditioning mechanics install, maintain, repair and overhaul residential central air conditioning systems, commercial and industrial refrigeration and air conditioning systems and combined heating, ventilation and cooling systems. They are employed by heating, refrigeration and air conditioning installation contractors, various industrial settings, food wholesalers, engineering firms and retail and servicing establishments. Transport refrigeration mechanics are included in this unit group.",
+    "example titles": [
+        "air conditioning and heating mechanic",
+        "air conditioning and refrigeration mechanic",
+        "apprentice refrigeration and air conditioning mechanic",
+        "central air conditioner installer",
+        "central air conditioner repairer",
+        "central air conditioning installer",
+        "central air conditioning mechanic",
+        "central air conditioning repairer",
+        "central air conditioning servicer",
+        "commercial air conditioning mechanic",
+        "commercial refrigeration mechanic",
+        "heating and air conditioning mechanic",
+        "heating and cooling mechanic",
+        "heating, ventilation and air conditioning (HVAC) mechanic",
+        "hydronics technician",
+        "journeyman/woman refrigeration and air conditioning mechanic",
+        "refrigeration and air conditioning mechanic",
+        "refrigeration and air conditioning mechanic (non-construction)",
+        "refrigeration and air conditioning mechanic apprentice",
+        "refrigeration and mechanical technician",
+        "refrigeration mechanic",
+        "refrigeration mechanic apprentice",
+        "refrigeration system installer",
+        "refrigeration technician",
+        "transport refrigeration mechanic",
+        "transport refrigeration technician"
+    ],
+    "main duties": [
+        "Read and interpret blueprints, drawings or other specifications",
+        "Measure and lay out reference points for installation",
+        "Assemble and install refrigeration or air conditioning components such as motors, controls, gauges, valves, circulating pumps, condensers, humidifiers, evaporators and compressors using hand and power tools",
+        "Measure and cut piping, and connect piping using welding and brazing equipment",
+        "Install, troubleshoot and overhaul entire heating, ventilation, air handling, refrigeration and air conditioning systems",
+        "Start up system and test for leaks using testing devices",
+        "Recharge system with refrigerant, check and test regulators, calibrate system and perform routine maintenance or servicing",
+        "Repair and replace parts and components for entire refrigeration, air conditioning, ventilation or heat pump systems",
+        "May install, maintain and repair equipment in refrigerated trucks used to transport food or medical supplies",
+        "May prepare work estimates for clients."
+    ],
+    "employment requirements": [
+        "Completion of secondary school and training courses or a vocational program is usually required.",
+        "Completion of a three- to five-year apprenticeship program \r\n or a combination of over five years of work experience and industry courses in refrigeration and air conditioning repair is usually required to be eligible for trade certification.",
+        "Trade certification for refrigeration and air conditioning mechanics is compulsory in Nova Scotia, New Brunswick, Quebec, Ontario, Manitoba, Saskatchewan and Alberta and available, but voluntary, in all other provinces and the territories.",
+        "Trade certification for transport refrigeration mechanics is available, but voluntary, in New Brunswick and Alberta.",
+        "Red Seal endorsement is also available to qualified refrigeration and air conditioning mechanics upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Domestic refrigerator or window air conditioner servicers and repairers (in 7332 Appliance servicers and repairers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7332&ver=16"
+        },
+        {
+            "name": "Supervisors of refrigeration and air conditioning mechanics (in 7301 Contractors and supervisors, mechanic trades",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7301&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "id": "6531",
+    "name": "Tour and travel guides",
+    "lead statement": "Tour and travel guides escort individuals and groups on trips, on sightseeing tours of cities and on tours of historical sites and establishments such as famous buildings, manufacturing plants, cathedrals and theme parks. They also provide descriptions and background information on interesting features. Tour and travel guides are employed by tour operators, resorts and other establishments or may be self-employed.",
+    "example titles": [
+        "adventure travel site interpreter",
+        "bicycle tour guide",
+        "boat tour guide",
+        "bus tour guide",
+        "calèche driver",
+        "calèche operator",
+        "establishment guide",
+        "factory tour guide",
+        "horse-drawn vehicle sightseeing tour guide",
+        "industrial site interpreter",
+        "local tour guide",
+        "mine guide",
+        "plant tour guide",
+        "sightseeing guide",
+        "ski resort host/hostess",
+        "tour director",
+        "tour escort",
+        "tour guide",
+        "tourist guide",
+        "travel escort",
+        "travel guide",
+        "walking tour guide"
+    ],
+    "main duties": [
+        "Transport or escort individuals or groups on tours of cities, waterways and industrial and other establishments",
+        "Describe points of interest, answer questions and supply information",
+        "Provide historical and cultural facts related to the site",
+        "May collect admission fees and sell souvenirs.",
+        "Escort individuals and groups on vacation and business trips",
+        "Ensure that reservations for transportation and accommodations are confirmed and that prepared itineraries are met",
+        "Visit and describe points of interest and plan and carry out recreational activities",
+        "Resolve problems with itineraries, service and accommodations."
+    ],
+    "employment requirements": [
+        "On-the-job training is provided.",
+        "Knowledge of both official languages or an additional language may be required for some positions in this group."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Museum guides and historical and heritage interpreters (in 5212 Technical occupations related to museums and art galleries",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5212&ver=16"
+        },
+        {
+            "name": "Outdoor sport and recreational guides (6532)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6532&ver=16"
+        },
+        {
+            "name": "Tour operators (in 0651 Managers in customer and personal services, n.e.c.",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0651&ver=16"
+        }
+    ]
+}

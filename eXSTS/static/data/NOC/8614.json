@@ -1,0 +1,61 @@
+{
+    "id": "8614",
+    "name": "Mine labourers",
+    "lead statement": "Mine labourers carry out a variety of general labouring duties to assist in the extraction of coal, minerals and ore, and in other services in support of underground mining. They are employed by coal, metal and non-metallic mineral mines.",
+    "example titles": [
+        "chute puller",
+        "coal sampler",
+        "core cutter",
+        "core splitter",
+        "grizzly worker – underground mining",
+        "labourer – mining exploration",
+        "limestone spreader – underground mining",
+        "mine check weigher",
+        "mine helper",
+        "mine helper – underground mining",
+        "mine labourer",
+        "miner helper – underground mining",
+        "pipeworker helper – underground mining",
+        "pit scaler – underground mining",
+        "pit-scaler helper",
+        "powder carrier – underground mining",
+        "rock duster – underground mining",
+        "shoveller – underground mining",
+        "slate picker",
+        "stone duster – underground mining",
+        "timber and steel prop salvager",
+        "timber and steel prop setter helper",
+        "timbering and steel prop setting helper",
+        "timberman/woman helper – underground mining",
+        "underground helper – mining",
+        "underground labourer – mining",
+        "underground mine labourer"
+    ],
+    "main duties": [
+        "Assist other mine workers in maintaining or constructing underground installations",
+        "Clean underground rooms, roadways, working areas and mining equipment and conveyances using hand tools",
+        "Load, move, sort and pile materials and supplies",
+        "Clear spills of ore or coal using hand and power tools",
+        "May cut core and prepare core sample boxes in support of mine exploration",
+        "Assist other workers in prospecting for mineral deposits and perform various tasks related to general geophysical surveys."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "A short period of introductory training is provided.",
+        "In Ontario, mine labourers are registered in the basic common core program."
+    ],
+    "additional information": [
+        "There is mobility among jobs in this group.",
+        "Progression to underground production and development miner or underground mine service and support worker is possible with experience and training."
+    ],
+    "exclusions": [
+        {
+            "name": "Underground mine service and support workers (8411)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8411&ver=16"
+        },
+        {
+            "name": "Underground production and development miners (8231)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8231&ver=16"
+        }
+    ]
+}

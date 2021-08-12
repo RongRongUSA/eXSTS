@@ -1,0 +1,87 @@
+{
+    "id": "6731",
+    "name": "Light duty cleaners",
+    "lead statement": "Light duty cleaners clean lobbies, hallways, offices and rooms of hotels, motels, resorts, hospitals, schools, office buildings and private residences. They are employed by hotels, motels, resorts, recreational facilities, hospitals and other institutions, building management companies, cleaning service companies and private individuals.",
+    "example titles": [
+        "airport cleaner",
+        "building cleaner",
+        "chambermaid",
+        "charworker",
+        "cleaner",
+        "cleaning lady",
+        "cleaning man/woman",
+        "clean-up crew worker",
+        "domestic maid – cleaning services",
+        "environmental service worker (ESW) – hospital",
+        "floor cleaner",
+        "floor sweeper",
+        "guest home cleaner",
+        "hall cleaner",
+        "home cleaner",
+        "homemaker helper – rest home",
+        "hospital cleaner",
+        "hotel cleaner",
+        "house cleaner",
+        "housekeeping aide",
+        "housekeeping attendant",
+        "housekeeping room attendant",
+        "housemaid – cleaning services",
+        "houseman/woman",
+        "light duty cleaner",
+        "lodge cleaner",
+        "lodging-establishment cleaner (except private households)",
+        "maid – cleaning services",
+        "motel cleaner",
+        "nursing home cleaner",
+        "office building cleaner",
+        "office cleaner",
+        "residence cleaner",
+        "residential boarding-home cleaner",
+        "rest home cleaner",
+        "rest room attendant",
+        "rest room cleaner",
+        "room attendant",
+        "room cleaner",
+        "student residence cleaner",
+        "sweeper",
+        "tourist camp cleaner",
+        "wall washer",
+        "washroom cleaner"
+    ],
+    "main duties": [
+        "Sweep, mop, wash, wax and polish floors",
+        "Dust furniture and vacuum carpeting and area rugs, draperies and upholstered furniture",
+        "Make beds, change sheets and distribute clean towels and toiletries",
+        "Attend to guests' requests for extra supplies ",
+        "Stock linen closets and other supplies' areas",
+        "Clean, disinfect and polish kitchen and bathroom fixtures and appliances",
+        "Clean and disinfect public areas such as changing rooms, showers and elevators",
+        "Disinfect operating rooms and other hospital areas",
+        "Pick up debris and empty trash containers",
+        "Wash windows, walls and ceilings.",
+        "Report and store lost and found items",
+        "May provide basic information on facilities",
+        "May handle complaints."
+    ],
+    "employment requirements": [
+        "There are no specific education requirements for occupations in this unit group.",
+        "Certification for housekeeping room attendants or similar certification may be required by some employers."
+    ],
+    "additional information": [
+        "Progression to supervisory cleaning positions is possible with additional training or experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Cleaning supervisors (6315)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6315&ver=16"
+        },
+        {
+            "name": "Janitors, caretakers and building superintendents (6733)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6733&ver=16"
+        },
+        {
+            "name": "Specialized cleaners (6732)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6732&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": "3222",
+    "name": "Dental hygienists and dental therapists",
+    "lead statement": "Dental hygienists provide dental hygiene treatment and information related to the prevention of diseases and disorders of the teeth and mouth. They are employed in dentists' offices, hospitals, clinics, educational institutions, government agencies and private industry. Dental therapists carry out limited dental services related to the prevention and treatment of diseases and disorders of the teeth and mouth. They are employed by the federal government and the provincial governments to provide services in rural and remote communities.",
+    "example titles": [
+        "community dental hygienist",
+        "dental hygiene technician",
+        "dental hygienist",
+        "dental hygienist technician",
+        "dental nurse",
+        "dental therapist",
+        "expanded duty dental hygienist",
+        "expanded duty dental nurse",
+        "licensed dental therapist",
+        "orthodontic hygienist",
+        "periodontal hygienist",
+        "registered dental hygienist",
+        "registered dental therapist"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Dental hygienists",
+            "duty_description": [],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Dental therapists",
+            "duty_description": [
+                "Conduct dental assessments and consult with dentist on patient care",
+                "Take dental impressions",
+                "Take and develop X-rays",
+                "Remove stains and deposits from teeth to prevent tooth and root decay",
+                "Apply fluoride treatment",
+                "Instruct patients regarding oral hygiene procedures",
+                "Supervise dental assistants in their health care functions",
+                "May drill and fill cavities, extract teeth and replace portions of tooth crown."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Dental hygienists are required to complete a college program ranging from one to three years, or other approved program in dental hygiene recognized by the governing board within the province or territory of residence.",
+        "Dental therapists are required to complete a two- to three- year college diploma or equivalent credentials from an approved dental institution\r\n or complete the dental therapy diploma program offered by the First Nations University of Canada in Prince Albert, Saskatchewan.",
+        "Licensing by the appropriate provincial or territorial regulatory body is required for dental hygienists.",
+        "Licensure is required for dental therapists in Newfoundland and Labrador, Saskatchewan, the Yukon, the Northwest Territories and Nunavut."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Dental assistants (3411)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3411&ver=16"
+        },
+        {
+            "name": "Dental technologists, technicians and laboratory assistants (3223)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3223&ver=16"
+        },
+        {
+            "name": "Dentists (3113)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3113&ver=16"
+        },
+        {
+            "name": "Denturists (3221)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3221&ver=16"
+        }
+    ]
+}

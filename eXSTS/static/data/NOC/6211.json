@@ -1,0 +1,76 @@
+{
+    "id": "6211",
+    "name": "Retail sales supervisors",
+    "lead statement": "Retail sales supervisors supervise and co-ordinate the activities of workers in the following unit groups:  (6421),  (6611),  (6622) and  (6623). They are employed by stores and other retail businesses, wholesale businesses that sell on a retail basis to the public, rental service establishments and businesses involved in door-to-door soliciting and telemarketing.",
+    "example titles": [
+        "bakery supervisor – supermarket",
+        "cage supervisor – casino",
+        "cashier supervisor – retail",
+        "chief canvasser – retail",
+        "customer service supervisor – retail",
+        "delicatessen supervisor – food store",
+        "delivery person supervisor",
+        "department store supervisor",
+        "department supervisor – retail",
+        "door-to-door sales supervisor",
+        "door-to-door salesperson supervisor – retail",
+        "food store supervisor",
+        "front end supervisor – retail",
+        "grocery clerk supervisor",
+        "head cashier",
+        "key holder – retail store",
+        "liquor store supervisor",
+        "meat department supervisor",
+        "newspaper delivery persons supervisor",
+        "newspaper sales supervisor",
+        "newspaper salesperson supervisor",
+        "night crew leader – retail store",
+        "price marker supervisor – retail",
+        "produce department supervisor",
+        "rental service supervisor",
+        "retail sales route supervisor",
+        "retail store department head",
+        "retail store supervisor",
+        "sales clerk supervisor",
+        "sales supervisor",
+        "sales supervisor – retail",
+        "stock clerks supervisor – retail",
+        "stock supervisor – retail",
+        "subscription sales team leader",
+        "supermarket department supervisor",
+        "supervisor – retail",
+        "telemarketer supervisor",
+        "telemarketing services supervisor",
+        "telemarketing supervisor",
+        "telephone sales clerk supervisor"
+    ],
+    "main duties": [
+        "Supervise and co-ordinate sales staff and cashiers",
+        "Assign sales workers to duties and prepare work schedules",
+        "Authorize payments and the return of merchandise",
+        "Resolve issues that may arise, including customer requests, complaints and supply shortages",
+        "Maintain specified inventory and order merchandise",
+        "Prepare reports regarding sales volumes, merchandising and personnel matters",
+        "Hire and train or arrange for the training of new sales staff and monitor and report on performance",
+        "Ensure the visual standards and image of the store are maintained, such as store displays, signage and cleanliness",
+        "May perform the same duties as workers supervised",
+        "May perform key holding and managerial duties if required, such as opening and closing the store, managing escalated complaints, developing and implementing marketing strategies, and signing for deliveries."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Previous retail sales experience as a retail salesperson or sales clerk, cashier, telemarketer, door-to-door salesperson or rental agent is usually required."
+    ],
+    "additional information": [
+        "Progression to management positions in retail trade is possible with additional training or experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Retail and wholesale trade managers (0621)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0621&ver=16"
+        },
+        {
+            "name": "Supervisors of technical salespersons (in 6221 Technical sales specialists - wholesale trade",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6221&ver=16"
+        }
+    ]
+}

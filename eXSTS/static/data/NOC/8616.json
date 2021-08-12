@@ -1,0 +1,61 @@
+{
+    "id": "8616",
+    "name": "Logging and forestry labourers",
+    "lead statement": "Logging and forestry labourers perform a variety of manual tasks such as attaching choker cables to logs, planting trees, clearing brush, spraying chemicals, cleaning up landing areas and assisting other workers in woodlands operations. They are employed by logging companies and contractors.",
+    "example titles": [
+        "boom man/woman",
+        "boom worker",
+        "boom worker – logging",
+        "boom worker – mill pond",
+        "cable hooker – logging",
+        "choke setter – logging",
+        "chokerman/woman",
+        "chokerman/woman – logging",
+        "forestry labourer",
+        "log driver",
+        "log rider",
+        "logging and forestry labourer",
+        "logging labourer",
+        "pondman/woman",
+        "pulpwood piler",
+        "river driver",
+        "seasonal swamper – logging",
+        "seasonal swamper – logging forestry",
+        "seasonal tree planter",
+        "sprayer – logging and forestry",
+        "swamper – logging and forestry"
+    ],
+    "main duties": [
+        "Assist other workers at logging sites",
+        "Attach chokers or cables to felled trees for yarding",
+        "Plant trees using manual tools",
+        "Spray herbicides from the ground using manual spraying equipment",
+        "Clear trails through woodlands using chain saws",
+        "Clean up landing areas at logging sites."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Completion of pre-employment safety courses may be required.",
+        "Several weeks of formal and on-the-job training are provided.",
+        "Workplace hazardous materials information system (WHMIS) certificate may be required.",
+        "Chemicals application licence may be required."
+    ],
+    "additional information": [
+        "There is mobility among jobs in this unit group.",
+        "Progression to other positions, such as silviculture and forestry worker, chain saw and skidder operator or logging machinery operator, is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Chain saw and skidder operators (8421)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8421&ver=16"
+        },
+        {
+            "name": "Logging machinery operators (8241)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8241&ver=16"
+        },
+        {
+            "name": "Silviculture and forestry workers (8422)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8422&ver=16"
+        }
+    ]
+}

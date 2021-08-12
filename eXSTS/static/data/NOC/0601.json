@@ -1,0 +1,68 @@
+{
+    "id": "0601",
+    "name": "Corporate sales managers",
+    "lead statement": "Corporate sales managers plan, organize, direct, control and evaluate the activities of establishments and departments involved in commercial, industrial, institutional, e-business and wholesale and retail sales. They are employed by commercial, industrial and wholesale and retail trade establishments.",
+    "example titles": [
+        "account manager – sales",
+        "area sales manager",
+        "channel sales manager",
+        "commercial accounts manager",
+        "corporate sales manager",
+        "distribution manager – sales",
+        "divisional sales manager",
+        "electronic commerce (e-commerce) sales manager",
+        "export sales manager",
+        "field sales manager",
+        "key accounts manager – sales",
+        "national accounts manager – sales",
+        "national sales manager",
+        "package tour sales manager",
+        "product manager",
+        "regional manager – sales",
+        "regional sales director",
+        "regional sales manager",
+        "retail district manager",
+        "sales administrator",
+        "sales and distribution manager",
+        "sales director (except retail and wholesale)",
+        "sales district manager (except insurance and real estate)",
+        "sales manager (except retail and wholesale)",
+        "sales planning manager",
+        "territory manager – sales",
+        "trade expansion manager",
+        "zone manager – sales"
+    ],
+    "main duties": [
+        "Plan direct and evaluate the activities of sales departments in commercial, industrial, wholesale and retail and other establishments",
+        "Organize regional and divisional sales operations",
+        "Establish organizational policies and procedures in relation to sales",
+        "Determine strategic planning related to new product lines",
+        "Lead sales team in building relationships with business clients and manage negotiations of sales contracts",
+        "Recruit, organize, train and manage staff",
+        "May work with the marketing department to understand and communicate marketing messages to the field."
+    ],
+    "employment requirements": [
+        "A university degree or college diploma in business or in a related field with a specialization in sales \r\n and several years of experience as a sales representative or in a related occupation are usually required."
+    ],
+    "additional information": [
+        "Progression to senior management positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Advertising, marketing and public relations managers (0124)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0124&ver=16"
+        },
+        {
+            "name": "Retail and wholesale trade managers (0621)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0621&ver=16"
+        },
+        {
+            "name": "Senior managers - trade, broadcasting and other services, n.e.c. (0015)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0015&ver=16"
+        },
+        {
+            "name": "Supervisors of technical salespersons (in 6221 Technical sales specialists - wholesale trade",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6221&ver=16"
+        }
+    ]
+}

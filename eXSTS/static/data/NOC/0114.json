@@ -1,0 +1,93 @@
+{
+    "id": "0114",
+    "name": "Other administrative services managers",
+    "lead statement": "This unit group includes managers who plan, organize, direct, control and evaluate departments responsible for corporate governance and regulatory compliance, records management, security services, admissions and other administrative services not elsewhere classified. Also included in this unit group are managers responsible for departments involved in two or more of the following activities: finance, human resources, purchasing or administrative services. Managers in this unit group are employed throughout the public and private sector.",
+    "example titles": [
+        "account records manager",
+        "accounting records manager",
+        "administration and property management services director",
+        "administrative manager",
+        "administrative records department manager",
+        "administrative records manager",
+        "administrative services chief",
+        "administrative services director",
+        "administrative services manager",
+        "administrative support services manager",
+        "admissions director – health care",
+        "branch manager – administration",
+        "buildings, vehicles and supplies manager",
+        "business manager – non-profit organization",
+        "chartered administrator – management",
+        "chartered secretary – management",
+        "division administrative manager",
+        "finance and administration director",
+        "financial and administrative services chief",
+        "health records administrator",
+        "hospital admissions director",
+        "inventory control manager",
+        "inventory manager",
+        "legal department chief",
+        "legal department director",
+        "management services division chief",
+        "managing director",
+        "material control manager",
+        "medical records department manager",
+        "medical records manager",
+        "office manager – non-profit organization",
+        "operational planning director",
+        "operations chief",
+        "operations director – administrative services",
+        "operations manager – administrative services",
+        "organization rules analysis manager",
+        "organizational rules analysis manager",
+        "patient-registration manager",
+        "planning and organizational development manager",
+        "records administrator",
+        "records management services manager",
+        "records manager",
+        "regional administrative manager",
+        "security department manager",
+        "security manager",
+        "support services administrative manager",
+        "support services manager",
+        "surveillance department manager – casino"
+    ],
+    "main duties": [
+        "Plan, organize, direct, control and evaluate the operations of a department providing a single administrative service or several administrative services",
+        "Direct and advise staff engaged in providing records management, security, finance, purchasing, human resources or other administrative services",
+        "Direct and control corporate governance and regulatory compliance procedures within the establishment",
+        "Plan, administer and control budgets for contracts, equipment and supplies",
+        "Prepare reports and briefs for management committees evaluating administrative services",
+        "Interview, hire and oversee training for staff."
+    ],
+    "employment requirements": [
+        "A bachelor's degree or college diploma in business administration or a related administrative services field is usually required.",
+        "Several years of experience at a professional level in business administration, finance or administrative services are usually required.",
+        "An Associate of the Institute of the Chartered Secretaries and Administrators (ACIS), Fellow of the Institute of Chartered Secretaries and Administrators (FCIS) or a Professional Administrator (P Adm) designation may be required for some occupations in this group.",
+        "Certification in health information management by the Canadian Health Information Management Association (CHIMA) may be required.",
+        "In Quebec, certification with the Association québécoise des archivistes médicales may be required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Computer and information systems managers (0213)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0213&ver=16"
+        },
+        {
+            "name": "Facility operation and maintenance managers (0714)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0714&ver=16"
+        },
+        {
+            "name": "Financial managers (0111)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0111&ver=16"
+        },
+        {
+            "name": "Human resources managers (0112)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0112&ver=16"
+        },
+        {
+            "name": "Purchasing managers (0113)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0113&ver=16"
+        }
+    ]
+}

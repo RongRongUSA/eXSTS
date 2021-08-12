@@ -1,0 +1,65 @@
+{
+    "id": "2148",
+    "name": "Other professional engineers, n.e.c.",
+    "lead statement": "This unit group includes agricultural and bio-resource engineers, biomedical engineers, engineering physicists and engineering scientists, marine and naval engineers, textile engineers and other specialized engineering occupations which are not classified elsewhere.",
+    "example titles": [
+        "agricultural engineer",
+        "agronomy engineer",
+        "agroprocessing engineer",
+        "bioelectrical engineer",
+        "biomechanical engineer",
+        "biomedical engineer",
+        "biomedical engineer – research and development",
+        "bioresource engineer",
+        "clinical biomedical engineer",
+        "dairy plant engineer",
+        "engineer in agronomy",
+        "engineering physicist",
+        "engineering scientist",
+        "food processing engineer",
+        "food technology engineer",
+        "marine engineer",
+        "marine systems engineer",
+        "naval architect",
+        "naval engineer",
+        "ship construction engineer",
+        "shipbuilding engineer",
+        "textile engineer"
+    ],
+    "main duties": [
+        "Design and develop machinery, structures, equipment and systems related to agriculture and food processing.",
+        "Design and develop medical diagnostic and clinical instrumentation, equipment and procedures; develop devices to assist persons with disabilities; advise hospital administrators on planning, acquisition and use of medical equipment; and modify and install or supervise installation of equipment.",
+        "Conduct research, develop processes, programs and equipment to expand fundamental knowledge in the applied sciences and engineering and to support advanced engineering and scientific applications.",
+        "Design and develop marine vessels and floating structures and associated marine power plants, propulsion systems and related systems and equipment and oversee the building, maintenance and repair of vessels and marine systems.",
+        "Design and develop processes, equipment and procedures for the production of fibres, yarns and textiles."
+    ],
+    "employment requirements": [
+        "A bachelor's degree in an appropriate engineering discipline is required.",
+        "A master's degree or doctorate in a related engineering discipline may be required.",
+        "Licensing by a provincial or territorial association of professional engineers is required to approve engineering drawings and reports, and to practise as a Professional Engineer (P.Eng.).",
+        "Engineers are eligible for registration following graduation from an accredited educational program, and after three or four years of supervised work experience in engineering and passing a professional practice examination."
+    ],
+    "additional information": [
+        "There is limited mobility between the engineering specializations included in this unit group.",
+        "Supervisory and senior positions in this unit group require experience.",
+        "Engineers often work in a multidisciplinary environment and acquire knowledge and skills through work experience that may allow them to practise in associated areas of science, engineering, sales, marketing or management."
+    ],
+    "exclusions": [
+        {
+            "name": "Biochemical and biotechnical engineers (in 2134 Chemical engineers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2134&ver=16"
+        },
+        {
+            "name": "Engineering managers (0211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0211&ver=16"
+        },
+        {
+            "name": "Marine engineer officers – water transport (in 2274 Engineer officers, water transport",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2274&ver=16"
+        },
+        {
+            "name": "Physicists (in 2111 Physicists and astronomers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2111&ver=16"
+        }
+    ]
+}

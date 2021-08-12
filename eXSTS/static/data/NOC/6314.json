@@ -1,0 +1,63 @@
+{
+    "id": "6314",
+    "name": "Customer and information services supervisors",
+    "lead statement": "Supervisors in this unit group supervise and co-ordinate the activities of workers in the following unit groups:  (6551) and  (6552). They are employed by banks, trust companies, credit unions and similar financial institutions, retail establishments, contact centres, insurance, telephone and utility companies and other establishments throughout the private and public sectors.",
+    "example titles": [
+        "accounts supervisor – financial services",
+        "call centre agent supervisor",
+        "call centre supervisor",
+        "contact centre supervisor",
+        "current accounts supervisor",
+        "customer accounts supervisor",
+        "customer service clerks supervisor",
+        "customer service representative supervisor",
+        "customer service representatives supervisor – financial services",
+        "information clerks supervisor",
+        "safety deposit box supervisor",
+        "savings accounts supervisor",
+        "savings and credit service supervisor",
+        "savings supervisor",
+        "tellers supervisor"
+    ],
+    "main duties": [
+        "Co-ordinate, assign and review the work of clerks engaged in the following duties: providing information and customer service; and serving customers in banks, trust companies and other financial institutions",
+        "Examine and verify accuracy of work and authorize routine deposits and withdrawals",
+        "Establish work schedules and procedures and co-ordinate activities with other work units or departments",
+        "Resolve work-related problems and prepare and submit progress and other reports",
+        "Identify training needs and train workers in job duties and company policies",
+        "Requisition supplies and materials",
+        "Ensure smooth operation of computer systems and equipment and arrange for maintenance and repair work",
+        "May perform the same duties as workers supervised."
+    ],
+    "employment requirements": [
+        "Experience in the occupation supervised is required.",
+        "Completion of college or industry courses related to financial or customer services may be required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Banking, credit and other investment managers (0122)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0122&ver=16"
+        },
+        {
+            "name": "Other business services managers (0125)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0125&ver=16"
+        },
+        {
+            "name": "Retail and wholesale trade managers (0621)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0621&ver=16"
+        },
+        {
+            "name": "Retail sales supervisors (6211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6211&ver=16"
+        },
+        {
+            "name": "Supervisors, finance and insurance office workers (1212)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1212&ver=16"
+        },
+        {
+            "name": "Supervisors of airline and railway customer service agents (in 6313 Accommodation, travel, tourism and related services supervisors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6313&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "id": "2174",
+    "name": "Computer programmers and interactive media developers",
+    "lead statement": "Computer programmers write, modify, integrate and test computer code for software applications, data processing applications, operating systems-level software and communications software. Interactive media developers write, modify, integrate and test computer code for Internet and mobile applications, computer-based training software, computer games, film, video and other interactive media. They are employed in computer software development firms, information technology consulting firms, and in information technology units throughout the private and public sectors.",
+    "example titles": [
+        "animation programmer",
+        "application programmer",
+        "business application programmer",
+        "cloud developer",
+        "computer application programmer",
+        "computer game developer",
+        "computer programmer",
+        "detail programmer",
+        "electronic business (e-business) software developer",
+        "electronic commerce (e-commerce) software developer",
+        "electronic data processing (EDP) applications programmer",
+        "graphical user interface (GUI) designer",
+        "graphical user interface (GUI) developer",
+        "interactive media developer",
+        "interactive media programmer",
+        "mainframe systems programmer",
+        "minicomputer systems programmer",
+        "mobile applications developer",
+        "multimedia developer",
+        "multimedia programmer",
+        "operating systems programmer",
+        "personal computer (PC) application developer",
+        "programmer analyst",
+        "satellite scientific telecommunications programmer",
+        "scientific programmer",
+        "software developer",
+        "software development programmer",
+        "software programmer",
+        "special effects programmer",
+        "systems programmer",
+        "teleprocessing software programmer",
+        "Web programmer"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Computer programmers",
+            "duty_description": [
+                "Write, modify, integrate and test software code",
+                "Maintain existing computer programs by making modifications as required",
+                "Identify and communicate technical problems, processes and solutions",
+                "Prepare reports, manuals and other documentation on the status, operation and maintenance of software",
+                "Assist in the collection and documentation of user requirements",
+                "Assist in the development of logical and physical specifications",
+                "May lead and co-ordinate teams of computer programmers",
+                "May research and evaluate a variety of software products."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Interactive media developers",
+            "duty_description": [
+                "Program animation software to predefined specifications for interactive video games, Internet and mobile applications",
+                "Program special effects software for film and video applications",
+                "Write, modify, integrate and test software code for e-commerce, Internet and mobile applications",
+                "Assist in the collection and documentation of user requirements",
+                "Assist in the development of logical and physical specifications",
+                "May lead and co-ordinate teams of interactive media developers",
+                "May research and evaluate a variety of interactive media software products."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "A bachelor's degree in computer science or in another discipline with a significant programming component \r\n or completion of a college program in computer science is usually required.",
+        "Specialization in programming for engineering and scientific applications requires specific post-secondary study or experience."
+    ],
+    "additional information": [
+        "Progression to information systems analyst, software engineer or Web designer is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Computer network technicians (2281)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2281&ver=16"
+        },
+        {
+            "name": "Database analysts and data administrators (2172)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2172&ver=16"
+        },
+        {
+            "name": "E-business managers (in 0124 Advertising, marketing and public relations managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0124&ver=16"
+        },
+        {
+            "name": "Graphic designers and illustrators (5241)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5241&ver=16"
+        },
+        {
+            "name": "Information systems analysts and consultants (2171)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2171&ver=16"
+        },
+        {
+            "name": "Information systems testing technicians (2283)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2283&ver=16"
+        },
+        {
+            "name": "Software engineers and designers (2173)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2173&ver=16"
+        },
+        {
+            "name": "Web designers and developers (2175)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2175&ver=16"
+        }
+    ]
+}

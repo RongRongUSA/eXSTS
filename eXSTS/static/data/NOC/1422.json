@@ -1,0 +1,47 @@
+{
+    "id": "1422",
+    "name": "Data entry clerks",
+    "lead statement": "Data entry clerks input coded, statistical, financial and other information into computerized databases, spreadsheets or other templates using a keyboard, mouse, or optical scanner, speech recognition software or other data entry tools. They are employed in the private and public sectors.",
+    "example titles": [
+        "computer equipment operator",
+        "computer terminal operator",
+        "data control clerk",
+        "data entry clerk",
+        "data entry operator",
+        "data entry verifier-operator",
+        "data input clerk",
+        "data processing control clerk",
+        "data processing verifier",
+        "data processor",
+        "EDP (electronic data-processing) equipment operator",
+        "electronic data-processing (EDP) equipment operator",
+        "interpreting machine operator – data entry",
+        "payment entry clerk",
+        "payment input clerk"
+    ],
+    "main duties": [
+        "Receive and register invoices, forms, records and other documents for data capture",
+        "Input data into computerized databases, spreadsheets or other templates using a keyboard, mouse, or optical scanner, speech recognition software or other data entry tools ",
+        "Import and/or export data between different kinds of software",
+        "Verify accuracy and completeness of data",
+        "Identify, label and organize electronic storage media",
+        "Maintain libraries of electronic storage media."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "College or other courses in data entry may be required."
+    ],
+    "additional information": [
+        "Progression to senior positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "General office support workers (1411)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1411&ver=16"
+        },
+        {
+            "name": "Supervisors, general office and administrative support workers (1211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1211&ver=16"
+        }
+    ]
+}

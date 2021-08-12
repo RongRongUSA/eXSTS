@@ -1,0 +1,63 @@
+{
+    "id": "6532",
+    "name": "Outdoor sport and recreational guides",
+    "lead statement": "Outdoor sport and recreational guides organize and conduct trips or expeditions for sports enthusiasts, adventurers, tourists and resort guests. They are employed by private companies and resorts or may be self-employed.",
+    "example titles": [
+        "airship pilot",
+        "alpine guide",
+        "balloon pilot",
+        "canoeing guide",
+        "dirigible pilot",
+        "dogsledding guide",
+        "dude wrangler",
+        "fishing guide",
+        "freshwater angling guide",
+        "hiking guide",
+        "horseback riding guide",
+        "hot air balloonist",
+        "hunting and fishing guide",
+        "hunting and fishing outfitter",
+        "hunting guide",
+        "mountain climbing guide",
+        "mountain guide",
+        "mountaineering guide",
+        "outdoor guide",
+        "outfitter",
+        "outfitting guide",
+        "rafting guide",
+        "rock climbing guide",
+        "snowmobile operations guide",
+        "trapping guide",
+        "whitewater rafting guide",
+        "winter camping guide",
+        "zipline guide"
+    ],
+    "main duties": [
+        "Plan itinerary for trip or expedition and arrange transportation or transport individuals or group to site",
+        "Assemble and inspect necessary equipment and supplies, such as camping gear, hot air balloon, rafts, life jackets, fishing tackle and food",
+        "Lead or escort individuals or groups and advise on safety and emergency measures, techniques and the use of equipment",
+        "Provide instruction for activities such as canoeing, rafting and mountain climbing",
+        "Advise on specific laws and regulations for activities such as hunting, fishing and boating",
+        "Follow environmental guidelines and prevent violations",
+        "Provide first aid in emergency situations",
+        "May prepare meals for group and set up camp."
+    ],
+    "employment requirements": [
+        "Knowledge of a particular terrain or body of water, demonstrated ability in the guided activity and relevant licences and certifications are required for employment in this group.",
+        "Hot air balloon pilots require completion of 10 hours of ground school, 16 hours of pilot-in-command experience and a Balloon Pilot Licence issued by Transport Canada. Additional hours of pilot-in-command experience may be required by some employers.",
+        "Certification in first aid and cardiopulmonary resuscitation (CPR) may be required."
+    ],
+    "additional information": [
+        "Outdoor sport and recreational guides usually work on a seasonal basis."
+    ],
+    "exclusions": [
+        {
+            "name": "Program leaders and instructors in recreation, sport and fitness (5254)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5254&ver=16"
+        },
+        {
+            "name": "Tour and travel guides (6531)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6531&ver=16"
+        }
+    ]
+}

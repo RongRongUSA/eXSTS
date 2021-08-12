@@ -1,0 +1,61 @@
+{
+    "id": "6232",
+    "name": "Real estate agents and salespersons",
+    "lead statement": "Real estate agents and salespersons act as agents for the sale or purchase of houses, apartments, commercial buildings, land and other real estate and are employed in the real estate industry.",
+    "example titles": [
+        "associate broker – real estate",
+        "commercial real estate agent",
+        "commercial real estate salesperson",
+        "new home salesperson",
+        "real estate agency representative",
+        "real estate agent",
+        "real estate agent supervisor",
+        "real estate sales consultant",
+        "real estate sales representative",
+        "real estate sales supervisor",
+        "real estate salesperson",
+        "realtor",
+        "residential real estate agent",
+        "residential real estate salesperson"
+    ],
+    "main duties": [
+        "Solicit property sales listings from prospective vendors",
+        "Assist vendors in selling property by establishing asking price, advertising the property, listing the property with listing services and conducting open houses for prospective buyers",
+        "Assist prospective buyers in selecting, visiting, inspecting and making offers of purchase on real estate properties",
+        "Advise clients on market conditions, prices, mortgages, legal requirements and related matters",
+        "Draw up sales agreements for approval of purchaser and seller",
+        "May rent or lease properties on behalf of clients.",
+        "Real estate agents and salespersons may specialize in residential, commercial, industrial/institutional or rural real estate sales."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Completion of a real estate training course is required.",
+        "Provincial or territorial licensure in the province or territory of employment is required."
+    ],
+    "additional information": [
+        "Real estate agents and salespersons normally work on a commission basis.",
+        "Real estate agents may operate independently by obtaining a broker's licence in accordance with the regulations of the province of employment. A broker's licence is required to become a manager in real estate."
+    ],
+    "exclusions": [
+        {
+            "name": "Assessors, valuators and appraisers (1314)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1314&ver=16"
+        },
+        {
+            "name": "Insurance, real estate and financial brokerage managers (0121)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0121&ver=16"
+        },
+        {
+            "name": "Mortgage brokers (in 1114 Other financial officers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1114&ver=16"
+        },
+        {
+            "name": "Rental agents (in 1224 Property administrators",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1224&ver=16"
+        },
+        {
+            "name": "Right-of-way agents (in 1225 Purchasing agents and officers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1225&ver=16"
+        }
+    ]
+}

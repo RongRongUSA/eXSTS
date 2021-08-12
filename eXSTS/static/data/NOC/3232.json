@@ -1,0 +1,92 @@
+{
+    "id": "3232",
+    "name": "Practitioners of natural healing",
+    "lead statement": "Practitioners of natural healing provide health care to patients using traditional Chinese medicine techniques and other forms of treatment including acupuncture, herbology or reflexology to promote, maintain and restore the holistic health of patients. They usually work in private practice, including group or team practices, or are employed by clinics, health clubs and spas.",
+    "example titles": [
+        "acupressure therapist",
+        "acupuncturist",
+        "aromatherapist",
+        "auriculotherapist",
+        "ayurvedic practitioner",
+        "certified iridologist",
+        "certified reflexologist",
+        "certified rolfer",
+        "certified rolfing movement teacher",
+        "chartered herbalist",
+        "Chinese medicine doctor (CMD)",
+        "Chinese medicine practitioner",
+        "clinical hypnotherapist",
+        "doctor of acupuncture",
+        "doctor of Chinese medicine",
+        "doctor of homeopathic therapeutics",
+        "doctor of homeopathy",
+        "doctor of Oriental medicine",
+        "herb practitioner",
+        "herbal practitioner",
+        "herbal specialist",
+        "herbalist",
+        "herbologist",
+        "herbology practitioner",
+        "herborist",
+        "holistic practitioner",
+        "homeopath",
+        "homeopathic physician",
+        "homeopathic practitioner",
+        "homeopathist",
+        "hypnotherapist",
+        "iridologist",
+        "medical Qi gong practitioner",
+        "naturopathy practitioner",
+        "Oriental medical practitioner",
+        "osteopath – manual therapy",
+        "osteopathic manual practitioner",
+        "osteopathic manual therapist",
+        "reflexologist",
+        "registered acupuncture practitioner",
+        "remedial herbalist",
+        "remedial herbologist",
+        "rolfer",
+        "rolfing movement teacher",
+        "shaman",
+        "shiatsu therapist",
+        "traditional Chinese medicine practitioner"
+    ],
+    "main duties": [
+        "Diagnose the diseases, physiological disorders and injuries of patients",
+        "Treat them using raw herbs and other medicines, dietary supplements or acupuncture.",
+        "Diagnose symptoms, physiological disorders and injuries of patients",
+        "Treat them by the insertion of acupuncture needles or through stimulation techniques such as acupressure, moxibustion, cupping or electrical current.",
+        "Assess patients and advise them on the use of herbs for the treatment of conditions such as arthritis, rheumatism, asthma, skin disorders and stomach ailments",
+        "May cultivate herbs and manufacture and sell herbal compounds.",
+        "Diagnose, treat and manage musculoskeletal and other related disorders of the body's structure by moving, stretching, and massaging a patients' muscles and joints to correct biomechanical dysfunctions.",
+        "Assess illnesses and treat them by administering, in chemical or herbal form, a small dosage of a remedy made from natural substances or by suggesting lifestyle changes.",
+        "Apply gentle finger pressure to specific spots on the clients' feet or hands to promote relaxation and better health and well-being."
+    ],
+    "employment requirements": [
+        "Traditional Chinese medicine practitioners usually require completion of a three- to four-year diploma program in traditional Chinese medicine from a private institute\r\n or completion of a program in traditional Chinese medicine from recognized medical schools abroad.",
+        "Registration with a regulatory body is required for traditional Chinese medicine practitioners in Ontario and British Columbia.",
+        "Acupuncturists usually require completion of a three-year diploma program in acupuncture from a private institute\r\n or completion of some university undergraduate studies in science and training in a related health care discipline or work experience under the supervision of a registered acupuncturist.",
+        "Registration with a regulatory body is required for acupuncturists in Quebec, Ontario, Alberta and British Columbia.",
+        "Osteopathic manual therapists require completion of a four- to five- year college program in osteopathy.",
+        "Homeopaths usually require completion of a three-year diploma program in homeopathy.",
+        "Registration with a regulatory body is required for homeopaths in Ontario.",
+        "Other occupations in this unit group usually require completion of training programs specific to their type of practice and some supervised practical training."
+    ],
+    "additional information": [
+        "Traditional Chinese medicine practitioners may include acupuncture or herbology as part of their healing techniques."
+    ],
+    "exclusions": [
+        {
+            "name": "Massage therapists (3236)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3236&ver=16"
+        },
+        {
+            "name": "Midwives (in 3124 Allied primary health practitioners",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3124&ver=16"
+        },
+        {
+            "name": "Naturopathic physicians and doctors of osteopathic medicine (in 3125 Other professional occupations in health diagnosing and treating",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3125&ver=16"
+        }
+    ]
+}

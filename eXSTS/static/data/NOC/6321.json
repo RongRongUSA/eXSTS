@@ -1,0 +1,101 @@
+{
+    "id": "6321",
+    "name": "Chefs",
+    "lead statement": "This unit group includes various types of chefs who plan and direct food preparation and cooking activities and who prepare and cook meals and specialty foods. They are employed in restaurants, hotels, hospitals and other health care institutions, central food commissaries, clubs and similar establishments, and on ships.",
+    "example titles": [
+        "assistant chef",
+        "banquet chef",
+        "chef",
+        "chef de cuisine",
+        "chef de partie",
+        "chef pâtissier",
+        "cold foods chef",
+        "corporate chef",
+        "entremetier",
+        "executive chef",
+        "executive sous-chef",
+        "first sous-chef",
+        "garde-manger chef",
+        "head chef",
+        "head rotisseur",
+        "master chef",
+        "meat chef",
+        "meat, poultry and fish chef",
+        "pasta chef",
+        "pastry chef",
+        "rotisserie chef",
+        "saucier",
+        "second chef",
+        "sous-chef",
+        "specialist chef",
+        "specialty foods chef",
+        "supervising chef",
+        "sushi chef",
+        "working sous-chef"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Head chefs",
+            "duty_description": [
+                "Plan and direct food preparation and cooking activities of several restaurants in an establishment, restaurant chains, hospitals or other establishments with food services",
+                "Consult with clients regarding weddings, banquets and specialty functions",
+                "Plan menus and ensure food meets quality standards",
+                "Estimate food requirements and may estimate food and labour costs",
+                "Supervise activities of sous-chefs, specialist chefs, chefs and cooks",
+                "Arrange for equipment purchases and repairs",
+                "Recruit and hire staff",
+                "May prepare and cook food on a regular basis, or for special guests or functions."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Sous-chefs",
+            "duty_description": [
+                "Supervise activities of specialist chefs, chefs, cooks and other kitchen workers",
+                "Demonstrate new cooking techniques and new equipment to cooking staff",
+                "May plan menus and requisition food and kitchen supplies",
+                "May prepare and cook meals or specialty foods."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Chefs and specialist chefs",
+            "duty_description": [
+                "Prepare and cook complete meals or specialty foods, such as pastries, sauces, soups, salads, vegetables and meat, poultry and fish dishes, and create decorative food displays for special events such as banquets",
+                "Instruct cooks in preparation, cooking, garnishing and presentation of food",
+                "Create new recipes",
+                "Supervise cooks and other kitchen staff",
+                "May plan menus",
+                "May requisition food and kitchen supplies."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Cook's trade certification or equivalent credentials, training and experience are required.",
+        "Executive chefs usually require management training and several years of experience in commercial food preparation, including two years in a supervisory capacity \r\n and experience as a sous-chef, specialist chef or chef.",
+        "Sous-chefs, specialist chefs and chefs usually require several years of experience in commercial food preparation.",
+        "Red Seal endorsement for cooks is also available to qualified chefs upon successful completion of the interprovincial Red Seal examination.",
+        "The certifications of Certified Working Chef (CWC) and Certified Chef de Cuisine (CCC), administered by the Canadian Culinary Institute (CCI) of the Canadian Culinary Federation (CCF) are available to qualified chefs."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "There is some mobility among the various types of chefs in this unit group.",
+        "Executive chefs may progress to managerial positions in food preparation establishments."
+    ],
+    "exclusions": [
+        {
+            "name": "Cooks (6322)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6322&ver=16"
+        },
+        {
+            "name": "Food counter attendants, kitchen helpers and related support occupations (6711)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6711&ver=16"
+        },
+        {
+            "name": "Restaurant and food service managers (0631)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0631&ver=16"
+        }
+    ]
+}

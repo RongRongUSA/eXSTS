@@ -1,0 +1,58 @@
+{
+    "id": "1253",
+    "name": "Records management technicians",
+    "lead statement": "Records management technicians operate and maintain systems for the collection, classification, retrieval and retention of records, images, documents and information. Records management technicians are employed throughout the private and public sectors.",
+    "example titles": [
+        "document management technician",
+        "document technician",
+        "documentation technician",
+        "information management technician",
+        "microfilm camera operator",
+        "microfilm mounter",
+        "microfilm records searcher",
+        "microfilmer",
+        "records classifier",
+        "records digitizing technician",
+        "records management technician",
+        "records technician",
+        "technical indexer – records and file management"
+    ],
+    "main duties": [
+        "Implement and update records classification, retention and disposal scheduling plans",
+        "Classify, code, cross-reference, log and store records",
+        "Develop document inventories and maintain indexes for classification systems",
+        "Operate information retrieval systems to research and extract records according to established guidelines in response to requests",
+        "Label, prepare and transfer information files according to established records management life-cycle procedures and schedules",
+        "Maintain access lists for security classified records",
+        "Compile statistics and reports on activities within records management services."
+    ],
+    "employment requirements": [
+        "Records management technicians usually require completion of a two- to three-year college program in information or records management technology.",
+        "Two to three years' experience in a records management environment may be required."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with additional training and experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Health information management occupations (1252)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1252&ver=16"
+        },
+        {
+            "name": "Health records clerks (in 1411 General office support workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1411&ver=16"
+        },
+        {
+            "name": "Library and public archive technicians (5211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5211&ver=16"
+        },
+        {
+            "name": "Records management specialists (in 1122 Professional occupations in business management consulting",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1122&ver=16"
+        },
+        {
+            "name": "Records management supervisors (in 1211 Supervisors, general office and administrative support workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1211&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": "0111",
+    "name": "Financial managers",
+    "lead statement": "Financial managers plan, organize, direct, control and evaluate the operation of financial and accounting departments. They develop and implement the financial policies and systems of establishments. Financial managers establish performance standards and prepare various financial reports for senior management. They are employed in financial and accounting departments in companies throughout the private sector and in government.",
+    "example titles": [
+        "accounting and financial control chief",
+        "accounting and financial control director",
+        "accounting department manager",
+        "accounting director",
+        "accounting manager",
+        "accounting manager – financial services department",
+        "accounting office manager",
+        "assigned public accountants chief",
+        "assistant accounting manager",
+        "assistant treasurer – finances",
+        "audit and compliance director",
+        "auditing department manager",
+        "budget and sectoral profitability director",
+        "collections department manager",
+        "comptroller",
+        "controller – financial services",
+        "corporate budgeting and analysis manager",
+        "corporate controller",
+        "corporate financing manager",
+        "corporate risk department manager",
+        "director – financial services",
+        "director of accounting",
+        "director-treasurer – financial services",
+        "finance and control manager",
+        "finance chief",
+        "finance director",
+        "finance manager",
+        "financial administrator",
+        "financial audit manager",
+        "financial control manager",
+        "financial controller",
+        "financial director",
+        "financial evaluations director",
+        "financial manager",
+        "financial planning and advisory service manager",
+        "financial planning and analysis manager",
+        "financial planning and reporting director",
+        "financial planning and reporting manager",
+        "financial resources service co-ordinator",
+        "financing and administration director",
+        "group accounting manager",
+        "independent public accountants chief",
+        "internal audit manager",
+        "internal audit services manager",
+        "investments research director",
+        "manager of accounting department",
+        "manager of auditing department",
+        "pension plans administrator",
+        "pension services manager",
+        "regional controller – financial services",
+        "revenue accounting and controls section chief",
+        "treasurer",
+        "treasurer and controller – finances"
+    ],
+    "main duties": [
+        "Plan, organize, direct, control and evaluate the operation of an accounting, audit or other financial department",
+        "Develop and implement the financial policies, systems and procedures of an establishment",
+        "Prepare or co-ordinate the preparation of financial statements, summaries, and other cost-benefit analyses and financial management reports",
+        "Co-ordinate the financial planning and budget process, and analyze and correct estimates",
+        "Supervise the development and implementation of financial simulation models",
+        "Evaluate financial reporting systems, accounting procedures and investment activities and make recommendations for changes to procedures, operating systems, budgets and other financial control functions to senior managers and other department or regional managers",
+        "Recruit, organize, train and manage staff",
+        "Act as liaison between the organization and its shareholders, the investing public and external financial analysts",
+        "Establish profitability standards for investment activities and handle mergers and/or acquisitions",
+        "Notify and report to senior management concerning any trends that are critical to the organization's financial performance."
+    ],
+    "employment requirements": [
+        "A bachelor's degree in business administration, economics, commerce or a related field is required.",
+        "A master's degree in business administration (concentration in finance), or another master's level management program may be required.",
+        "Several years of experience in accounting, auditing, budgeting, financial planning and analysis or other financial activities are required.",
+        "Accounting and audit managers may require a recognized accounting designation (CPA, CA, CPA, CMA or CPA, CGA)."
+    ],
+    "additional information": [
+        "Progression to senior management positions, such as vice-president of finance, is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Banking, credit and other investment managers (0122)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0122&ver=16"
+        },
+        {
+            "name": "Managers of accounting and auditing firms (in 0125 Other business services managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0125&ver=16"
+        },
+        {
+            "name": "Senior managers - financial, communications and other business services (0013)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0013&ver=16"
+        }
+    ]
+}

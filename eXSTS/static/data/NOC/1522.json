@@ -1,0 +1,96 @@
+{
+    "id": "1522",
+    "name": "Storekeepers and partspersons",
+    "lead statement": "Storekeepers and partspersons sort, store and issue parts and supplies for use by the establishment in which they work and for sale to the public. They are employed by manufacturing companies, warehouses, retail and wholesale establishments, mining, forestry and construction companies, repair shops, hospitals and other establishments.",
+    "example titles": [
+        "ammunition storekeeper",
+        "auto parts clerk – retail",
+        "automobile parts counter sales clerk – retail",
+        "automotive parts clerk – retail",
+        "automotive partsperson – retail",
+        "automotive partsperson apprentice",
+        "aviation partsperson",
+        "drilling rig storekeeper",
+        "explosives and ammunition magazine keeper",
+        "industrial engines and equipment apprentice",
+        "industrial engines and equipment partsperson – retail",
+        "industrial warehouse person",
+        "linen room attendant",
+        "linen supply clerk",
+        "linenkeeper",
+        "machine shop keeper",
+        "magazine keeper",
+        "material keeper",
+        "medical supply attendant",
+        "medical supply clerk",
+        "motor vehicle parts clerk",
+        "motor vehicle parts clerk apprentice",
+        "motor vehicle partsperson",
+        "parts clerk",
+        "parts counter clerk",
+        "parts counter clerk – retail",
+        "parts lister",
+        "parts sorter",
+        "parts supplier",
+        "parts technician",
+        "partsperson",
+        "powder keeper",
+        "salvage clerk",
+        "sample clerk – storage and warehousing",
+        "sample control clerk",
+        "ship keeper",
+        "ship storekeeper",
+        "ship storeman/woman",
+        "stock clerk – parts and equipment",
+        "stock control clerk",
+        "stock keeper",
+        "stock records clerk",
+        "storekeeper",
+        "storeman/woman",
+        "supply centre clerk",
+        "tool clerk",
+        "tool room attendant",
+        "tool room storeman/woman",
+        "tool store clerk",
+        "underground tool crib attendant",
+        "warehouse checker",
+        "warehouse clerk – parts and equipment",
+        "warehouse person – parts and equipment",
+        "wine cellar attendant"
+    ],
+    "main duties": [
+        "Receive and sort incoming parts and supplies",
+        "Store items in an orderly and accessible manner in a warehouse, tool room, supply room or other area",
+        "Process incoming requisitions and issue or distribute parts and supplies for internal usage",
+        "Maintain records of orders and the amount, kind and location of parts and supplies on hand using manual or computerized inventory system",
+        "Prepare requisition orders to replenish parts and supplies",
+        "Sell spare and replacement parts for motor vehicles, machinery and equipment in a retail setting",
+        "Advise retail customers or internal users on appropriateness of parts, supplies or materials requested.",
+        "Partspersons may specialize in a particular line of parts such as automotive parts, recreational vehicle parts, marine parts, heavy equipment parts, agricultural machinery parts, heating, ventilating and air conditioning parts or refrigeration parts."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a three-year apprenticeship program \r\n or completion of specialized training in high school and a one-year college program for partspersons may be required.",
+        "Trade certification for partspersons is available, but voluntary, in all provinces and territories.",
+        "Experience in a related clerical occupation, or as a warehouse worker, may be required for partspersons.",
+        "Red Seal endorsement is also available to qualified partspersons upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "Progression to supervisory positions is possible with additional training or experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Parts clerks supervisors (in 1215 Supervisors, supply chain, tracking and scheduling co-ordination occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1215&ver=16"
+        },
+        {
+            "name": "Purchasing and inventory control workers (1524)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1524&ver=16"
+        },
+        {
+            "name": "Shippers and receivers (1521)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1521&ver=16"
+        }
+    ]
+}

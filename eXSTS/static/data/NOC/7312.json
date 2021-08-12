@@ -1,0 +1,99 @@
+{
+    "id": "7312",
+    "name": "Heavy-duty equipment mechanics",
+    "lead statement": "Heavy-duty equipment mechanics repair, troubleshoot, adjust, overhaul and maintain mobile heavy-duty equipment used in construction, transportation, forestry, mining, oil and gas, material handling, landscaping, land clearing, farming and similar activities. They are employed by companies which own and operate heavy equipment, and by heavy equipment dealers, rental and service establishments, railway transport companies and urban transit systems.",
+    "example titles": [
+        "agricultural equipment technician",
+        "apprentice farm equipment mechanic",
+        "apprentice farm machinery mechanic",
+        "backhoe mechanic",
+        "caterpillar tractor repairer",
+        "construction equipment mechanic",
+        "construction equipment repairman/woman",
+        "crane repairer",
+        "crane service technician",
+        "diesel engine mechanic",
+        "diesel engine mechanic – heavy equipment",
+        "diesel engine mechanic apprentice",
+        "diesel engine repairman/woman – railway",
+        "diesel locomotive repairman/woman",
+        "diesel mechanic",
+        "diesel mechanic – heavy equipment",
+        "diesel mechanic apprentice",
+        "dredge mechanic",
+        "dredge repairer",
+        "earthmoving equipment mechanic",
+        "excavating equipment mechanic",
+        "farm equipment mechanic",
+        "farm equipment technician",
+        "farm machinery mechanic",
+        "farm machinery wheelwright",
+        "farm tractor mechanic",
+        "farm tractor repairer",
+        "felling equipment mechanic",
+        "fuel injection unit servicer – diesel",
+        "grading equipment mechanic",
+        "heavy diesel engine mechanic",
+        "heavy equipment combination mechanic",
+        "heavy equipment field mechanic",
+        "heavy equipment inspector-repairer",
+        "heavy equipment mechanic",
+        "heavy equipment mechanic – diesel engine",
+        "heavy mobile equipment repairer",
+        "heavy mobile equipment repairman/woman",
+        "heavy mobile logging equipment mechanic",
+        "heavy mobile mining equipment mechanic",
+        "heavy-duty equipment mechanic",
+        "heavy-duty equipment mechanic apprentice",
+        "heavy-duty equipment technician",
+        "heavy-duty equipment technician apprentice",
+        "journeyman/woman heavy-duty equipment mechanic",
+        "locomotive mechanic",
+        "mine locomotive repairman/woman",
+        "mobile farm equipment mechanic",
+        "mobile farm machinery repairer",
+        "mobile logging equipment mechanic",
+        "mobile mining equipment mechanic",
+        "paving equipment mechanic",
+        "power shovel mechanic",
+        "repairer mechanic",
+        "sideboom mechanic",
+        "tractor mechanic"
+    ],
+    "main duties": [
+        "Check bulldozers, cranes, graders and other heavy construction, agricultural, logging and mining equipment for proper performance and inspect equipment to detect faults and malfunctions",
+        "Diagnose faults or malfunctions using computerized and other testing equipment to determine extent of repair required",
+        "Adjust equipment and repair or replace defective parts, components or systems, using hand and power tools",
+        "Test repaired equipment for proper performance and to ensure that work meets manufacturers' specifications",
+        "Clean, lubricate and perform other routine maintenance work on equipment",
+        "Service attachments and working tools such as harvesting and tillage equipment, blades, ploughs, winches and side booms",
+        "May perform repair work on heavy trucks",
+        "May attach components and adjust new farm equipment.",
+        "Heavy-duty mechanics may specialize in specific types of machinery such as combines or tracked vehicles, or in engine overhaul, power shift transmissions, fuel injection, hydraulics or electronics."
+    ],
+    "employment requirements": [
+        "Completion of secondary school and training courses or a vocational program is usually required.",
+        "Completion of a three- to five-year apprenticeship program \r\n or a combination of over four years of work experience and industry courses in heavy equipment repair is usually required to be eligible for trade certification.",
+        "Heavy-duty equipment technician trade certification is compulsory in Quebec and Alberta and available, but voluntary, in all other provinces and the territories.",
+        "Agricultural equipment technician trade certification is available, but voluntary, in Newfoundland and Labrador, Nova Scotia, Prince Edward Island, New Brunswick, Ontario, Manitoba, Saskatchewan, Alberta and British Columbia.",
+        "Red Seal endorsement is also available to qualified heavy duty equipment technicians and agricultural equipment technicians upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Construction millwrights and industrial mechanics (7311)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7311&ver=16"
+        },
+        {
+            "name": "Motor vehicle diesel engine mechanics (in 7321 Automotive service technicians, truck and bus mechanics and mechanical repairers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7321&ver=16"
+        },
+        {
+            "name": "Supervisors of heavy equipment mechanics (in 7301 Contractors and supervisors, mechanic trades",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7301&ver=16"
+        }
+    ]
+}

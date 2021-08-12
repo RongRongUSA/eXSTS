@@ -1,0 +1,66 @@
+{
+    "id": "1315",
+    "name": "Customs, ship and other brokers",
+    "lead statement": "Customs brokers clear goods through customs and to their destination on behalf of importer and exporter clients. Shipbrokers buy and sell cargo space on ships and buy and sell ships, yachts and other watercraft on behalf of clients. This unit group also includes other brokers, not elsewhere classified, who negotiate commercial transactions, logistics or other services between parties on behalf of clients. They are employed by customs, ship or other brokerage establishments or may be self-employed.",
+    "example titles": [
+        "cargo broker",
+        "chartered shipbroker",
+        "customs broker",
+        "customs clearance agent",
+        "customs consultant",
+        "customs house broker",
+        "customs information broker",
+        "customs rater",
+        "designated shipbroker",
+        "gas broker",
+        "licensed customs broker",
+        "oil lease broker",
+        "qualified customs broker",
+        "royalty broker",
+        "ship agent",
+        "ship line agent",
+        "shipbroker",
+        "supply chain specialist – customs brokerage",
+        "yacht broker"
+    ],
+    "main duties": [
+        "Prepare and process import/export documents and other forms on behalf of clients according to customs regulations, laws and procedures",
+        "Sign import/export documents on behalf of client, using power of attorney",
+        "Arrange for payment of duties, taxes, storage and transportation of imported goods and bonds to cover duty goods",
+        "Quote duty and tax rates on commodities for clients",
+        "Provide advice to clients on export and import restrictions, tariff systems, letters of credit, insurance requirements and other custom related matters",
+        "May represent client before administrative tribunals or in other dealings with government officials.",
+        "Buy and sell cargo space on ships on behalf of individuals, companies and governments",
+        "Consult trade publications and other sources to provide information to clients on available cargo space, destinations, rates and departure locations and times, and arrange ship charters for clients",
+        "Negotiate rates and terms and prepare contracts and other papers",
+        "Buy and sell ships, yachts and other watercraft on behalf of clients",
+        "Inspect vessels, explain features and negotiate price when purchasing or selling for clients",
+        "Arrange for insurance coverage for cargo or for ships",
+        "Arrange for registration and licensing of ships."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Some post-secondary education in commerce or a related field may be required.",
+        "Customs brokers require several years of on-the-job training and completion of a customs brokers training program through the International Federation of Customs Brokers Association.",
+        "A customs broker licence, issued by the Canada Border Services Agency, is required for an individual or company to operate a customs brokerage business.",
+        "Shipbrokers selling cargo space on ships usually require several years of on-the-job training or related experience such as shipping company scheduling experience. Shipbrokers selling watercraft usually require in-depth experience with, and knowledge of, various watercraft.",
+        "Correspondence courses from the Institute of Chartered Shipbrokers are available for shipbrokers."
+    ],
+    "additional information": [
+        "There is no mobility between the different types of brokers in this unit group."
+    ],
+    "exclusions": [
+        {
+            "name": "Insurance brokers (in 6231 Insurance agents and brokers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6231&ver=16"
+        },
+        {
+            "name": "Insurance, real estate and financial brokerage managers (0121)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0121&ver=16"
+        },
+        {
+            "name": "Securities agents, investment dealers and brokers (1113)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1113&ver=16"
+        }
+    ]
+}

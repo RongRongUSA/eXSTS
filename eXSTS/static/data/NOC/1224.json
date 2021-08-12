@@ -1,0 +1,65 @@
+{
+    "id": "1224",
+    "name": "Property administrators",
+    "lead statement": "Property administrators perform administrative duties and co-ordinate activities related to the management and rental of investment property and real estate on behalf of property and strata property owners. They are employed by property, real estate and strata services management companies, property development companies and by government.",
+    "example titles": [
+        "accommodation co-ordinator",
+        "accommodation officer",
+        "accommodation planning officer",
+        "apartment rental agent",
+        "building managing supervisor",
+        "chief of property management",
+        "commercial building rental agent",
+        "commercial property manager",
+        "housing development officer",
+        "housing project manager",
+        "landlord/landlady",
+        "leasing and development officer – public works",
+        "property acquisitions area manager",
+        "property administrator",
+        "property leasing co-ordinator",
+        "property management agent",
+        "property management officer",
+        "property management operations co-ordinator",
+        "property rental agent",
+        "property rental co-ordinator",
+        "property rentals manager",
+        "property section head",
+        "real estate rental agent",
+        "rentals agent",
+        "residential property manager",
+        "strata property manager"
+    ],
+    "main duties": [
+        "Negotiate or approve rental or lease of various properties in a portfolio on behalf of property owners and ensure that terms of lease agreement are met",
+        "Prepare and administer contracts for provision of property services, such as cleaning and maintenance, security services and alarm systems",
+        "Co-ordinate the implementation of repairs, maintenance and renovations carried out on buildings and monitor progress and cost of work for property owners",
+        "Compile and maintain records on operating expenses and income, prepare reports and review rents to ensure they are at market value",
+        "Ensure that trouble calls received from clients or tenants are acted upon",
+        "Administer damage deposits",
+        "May hire and supervise rental agents, property clerks, building superintendents or other support staff performing operational, clerical or maintenance duties."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required in all provinces and territories except for British Columbia.",
+        "A language proficiency index is required in British Columbia.",
+        "Property administrators must be a minimum of nineteen years of age in British Columbia.",
+        "Completion of training courses or a vocational program in property or strata management or real estate may be required.",
+        "Several years of administrative experience as a property clerk, contract clerk, or administrative officer are usually required.",
+        "Strata property managers must hold a licence in British Columbia."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Building superintendents (in 6733 Janitors, caretakers and building superintendents",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6733&ver=16"
+        },
+        {
+            "name": "Facility operation and maintenance managers (0714)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0714&ver=16"
+        },
+        {
+            "name": "Real estate agents and salespersons (6232)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6232&ver=16"
+        }
+    ]
+}

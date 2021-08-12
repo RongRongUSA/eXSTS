@@ -1,0 +1,93 @@
+{
+    "id": "4423",
+    "name": "By-law enforcement and other regulatory officers, n.e.c.",
+    "lead statement": "Officers and inspectors in this unit group enforce by-laws and regulations of provincial and municipal governments. They are employed by provincial and municipal governments and agencies.",
+    "example titles": [
+        "animal control inspector",
+        "animal control officer",
+        "animal control supervisor",
+        "by-law enforcement officer",
+        "by-law enforcement officers supervisor",
+        "commercial transport inspector",
+        "commercial vehicle enforcement officer",
+        "development control officer",
+        "dog catcher",
+        "dog warden",
+        "garbage collection inspector",
+        "highway scale operator",
+        "Humane Society inspector",
+        "Humane Society officer",
+        "inspector – by-law enforcement",
+        "inspector – municipal law enforcement",
+        "licence inspector",
+        "liquor board licence inspector",
+        "liquor licence inspector",
+        "lottery supervisor – government services",
+        "municipal law enforcement officer",
+        "municipal law enforcement officers supervisor",
+        "parking control officer",
+        "pound officer",
+        "property standards inspector",
+        "property use inspector",
+        "right of way inspector",
+        "road transport inspector",
+        "service station inspector",
+        "sign inspector",
+        "subdivision control officer",
+        "taxi inspector",
+        "traffic supervisor – by-law enforcement",
+        "transport compliance officer",
+        "transportation enforcement officer",
+        "weigh station operator – by-law enforcement",
+        "zoning enforcement officer",
+        "zoning inspector"
+    ],
+    "main duties": [
+        "Respond to citizen complaints concerning stray domestic animals, livestock and wildlife",
+        "Issue warnings and citations to owners",
+        "Impound lost, homeless and dangerous animals.",
+        "Enforce municipal and provincial regulations",
+        "Investigate complaints",
+        "Issue warnings and citations to commercial and residential property owners and occupants.",
+        "Inspect commercial vehicles to ensure compliance with regulations governing load restrictions, the transportation of hazardous materials and public safety.",
+        "Investigate complaints concerning infractions of garbage collection by-laws.",
+        "Conduct inspections of licensed establishments",
+        "Advise licencees on laws and regulations",
+        "Report contravention of laws and regulations to provincial liquor control boards and agencies.",
+        "Enforce parking by-laws on city streets, regional roads and municipal properties.",
+        "Inspect taxicabs for mechanical reliability, cleanliness, licensing and meter accuracy",
+        "Investigate public complaints, issue citations and prepare reports",
+        "Give evidence to city councils, taxi commissions and in court.",
+        "Investigate properties in violation of zoning and related by-laws, after receiving requests for licence clearances pertaining to zoning and related by-laws, and on receipt of building permit applications.",
+        "By-law enforcement officers may specialize in the enforcement of one specific by-law."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Completion of a college program or courses in law and security or other related field \r\n or experience in a related administrative or regulatory occupation is usually required.",
+        "Zoning inspectors or zoning enforcement officers may require a college diploma as a civil engineering or architectural technologist or technician and several years of experience in enforcement and/or building construction or a related field.",
+        "On-the-job training is provided."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Employment insurance, immigration, border services and revenue officers (1228)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1228&ver=16"
+        },
+        {
+            "name": "Engineering inspectors and regulatory officers (2262)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2262&ver=16"
+        },
+        {
+            "name": "Inspectors in public and environmental health and occupational health and safety (2263)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2263&ver=16"
+        },
+        {
+            "name": "Police officers (except commissioned) (4311)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4311&ver=16"
+        },
+        {
+            "name": "Sheriffs and bailiffs (4421)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4421&ver=16"
+        }
+    ]
+}

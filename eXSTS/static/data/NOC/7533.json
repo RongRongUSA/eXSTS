@@ -1,0 +1,92 @@
+{
+    "id": "7533",
+    "name": "Boat and cable ferry operators and related occupations",
+    "lead statement": "This unit group includes workers who operate lock gates, bridges and similar equipment along canal systems and workers who operate cable ferries and ferry terminals. This group also includes boat operators, and owner-operators, who operate small motorboats or watercraft to transport passengers or freight. Workers in this group are employed by the federal government, cable ferry companies, ferry terminals, marine companies and canal, port or harbour authorities. Owner-operators of small boats are self-employed.",
+    "example titles": [
+        "barge captain",
+        "barge operator",
+        "beachcomber",
+        "bridge attendant – canal lock systems",
+        "bridge keeper – lock system",
+        "bridgemaster",
+        "bridgemaster – lock systems",
+        "cable ferry deckhand",
+        "cable ferry operator",
+        "canal lock operator",
+        "canal lock tender",
+        "canal lockman/woman",
+        "charter boat captain",
+        "charter boat master",
+        "charter boat operator",
+        "dry dock worker – shipbuilding",
+        "ferry terminal attendant",
+        "ferry terminal worker",
+        "launch captain",
+        "launch master",
+        "launch operator",
+        "launch owner-operator",
+        "lighthouse keeper",
+        "lineshandler – canal lock system",
+        "linesman/woman – canal lock system",
+        "loading bridge operator",
+        "loading bridge operator – ferry",
+        "lock operator",
+        "lockmaster",
+        "manual cable ferry operator",
+        "motor boat operator",
+        "motor launch operator",
+        "motorboat captain",
+        "motorboat operator",
+        "power cable ferry operator",
+        "reaction ferry operator",
+        "repair ship owner-operator",
+        "scow captain",
+        "scow operator",
+        "sightseeing boat captain",
+        "sightseeing boat master",
+        "sightseeing boat operator",
+        "small craft operator",
+        "water bus captain",
+        "water bus master",
+        "water bus operator",
+        "water taxi captain",
+        "water taxi master",
+        "water taxi operator",
+        "workboat operator"
+    ],
+    "main duties": [
+        "Operate telecommunication equipment or use portable loudspeakers to direct movements of vessels in lock area",
+        "Operate controls to open or close lock gates",
+        "Operate controls to raise, lower or turn bridges",
+        "Observe progress of vessels passing through locks.",
+        "Signal passengers and motor vehicles to embark and disembark",
+        "Operate cable ferry across narrow waterway",
+        "Perform routine maintenance and repairs to engine, cables and winches.",
+        "Operate controls to adjust landing bridge, position or remove gangplank, open or close doors and gates, and secure or remove docking devices",
+        "Signal passengers and motor vehicles to embark and disembark",
+        "May collect tickets or fares from passengers.",
+        "Operate motorboats, launches, small ferry boats and other similar vessels to transport passengers or freight",
+        "Maintain boats and equipment on board, such as engines, winches, derricks, fire extinguishers and life preservers",
+        "May perform other duties, such as checking for oil spills or other pollutants around ports and harbours, patrolling beaches and measuring depth of water."
+    ],
+    "employment requirements": [
+        "Some secondary school education is usually required.",
+        "On-the-job training is provided.",
+        "Master of a Small Craft or Master of a Small Passenger Craft certificate, issued by Transport Canada, is required for boat operators."
+    ],
+    "additional information": [
+        "There is little or no mobility among lock equipment operators, cable ferry operators and ferry terminal workers.",
+        "Mobility between boat operators in this unit group is possible.",
+        "Progression from boat operator positions to deck officer positions is possible with additional training, experience and certification."
+    ],
+    "exclusions": [
+        {
+            "name": "Deck officers, water transport (2273)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2273&ver=16"
+        },
+        {
+            "name": "Water transport deck and engine room crew (7532)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7532&ver=16"
+        }
+    ]
+}

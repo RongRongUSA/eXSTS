@@ -1,0 +1,46 @@
+{
+    "id": "1222",
+    "name": "Executive assistants",
+    "lead statement": "Executive assistants co-ordinate administrative procedures, public relations activities and research and analysis functions for members of legislative assemblies, ministers, deputy ministers, corporate officials and executives, committees and boards of directors. They are employed by governments, corporations and associations.",
+    "example titles": [
+        "committee clerk",
+        "constituency aid",
+        "constituency assistant",
+        "corporate secretary",
+        "executive assistant",
+        "legislative assistant",
+        "medical information assistant",
+        "ministerial assistant",
+        "parliamentary assistant",
+        "parliamentary committee clerk",
+        "special assistant"
+    ],
+    "main duties": [
+        "Establish and co-ordinate administrative policies and procedures for officials, committees and boards of directors",
+        "Analyze incoming and outgoing memoranda, submissions and reports and prepare and co-ordinate the preparation and submission of summary briefs and reports to executives, committees and boards of directors",
+        "Prepare agendas and make arrangements for committee, board and other meetings",
+        "Conduct research, compile data, and prepare papers for consideration and presentation by executives, committees and boards of directors",
+        "Meet with individuals, special interest groups and others on behalf of executives, committees and boards of directors to discuss issues and assess and recommend various courses of action",
+        "Liaise with departmental and corporate officials and with other organizations and associations on behalf of executives, committees and boards of directors."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "A bachelor's degree in public administration, political science or a related discipline is usually required.",
+        "Experience in a related administrative occupation is usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Administrative officers (1221)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1221&ver=16"
+        },
+        {
+            "name": "Conference and event planners (1226)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1226&ver=16"
+        },
+        {
+            "name": "Executive secretaries (in 1241 Administrative assistants",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1241&ver=16"
+        }
+    ]
+}

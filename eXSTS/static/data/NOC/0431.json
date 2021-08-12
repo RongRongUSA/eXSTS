@@ -1,0 +1,73 @@
+{
+    "id": "0431",
+    "name": "Commissioned police officers",
+    "lead statement": "Commissioned police officers plan, organize, direct, control and evaluate police force administration and police activities such as maintaining law and order and detecting and preventing crime. They are employed by municipal, provincial and federal governments. This unit group includes officers from the rank of staff sergeant to police commissioner. Commissioned officers in the railway police are also included in this unit group.",
+    "example titles": [
+        "anti-gambling section inspector – police",
+        "assistant chief inspector – police",
+        "assistant deputy police chief",
+        "assistant police commissioner",
+        "chief detective – police",
+        "chief inspector – police",
+        "chief of police",
+        "chief superintendent",
+        "chief superintendent – police",
+        "commanding officer – police",
+        "deputy chief of police",
+        "deputy police chief",
+        "detective inspector – police",
+        "detective sergeant – police",
+        "district police chief",
+        "drug squad inspector – police",
+        "firearms section inspector – police",
+        "harbour police chief",
+        "headquarters chief inspector – police",
+        "headquarters police inspector",
+        "investigative inspector – police",
+        "police captain",
+        "police chief",
+        "police chief – regional operations",
+        "police force inspector",
+        "police inspector",
+        "police lieutenant",
+        "police staff inspector",
+        "police superintendent",
+        "precious metals theft inspector – police",
+        "railway police chief",
+        "railway police supervisor",
+        "Royal Canadian Mounted Police (RCMP) commissioner",
+        "staff inspector",
+        "staff inspector – police",
+        "staff superintendent – police",
+        "superintendent – police",
+        "traffic inspector – police",
+        "traffic superintendent – police"
+    ],
+    "main duties": [
+        "Plan, organize, direct, control and evaluate the activities of a police force or division of a police force",
+        "Develop and implement police force policies and procedures",
+        "Oversee police investigations and ensure that procedures are conducted in accordance with laws and regulations",
+        "Assess performance of subordinates and authorize promotions, transfers and disciplinary actions",
+        "Co-ordinate and monitor budget and departmental resources."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "A university degree in the social sciences or in business administration is usually required.",
+        "Several years of experience as a police officer are required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "By-law enforcement and other regulatory officers, n.e.c. (4423)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4423&ver=16"
+        },
+        {
+            "name": "Police officers (except commissioned) (4311)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4311&ver=16"
+        },
+        {
+            "name": "Sheriffs and bailiffs (4421)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4421&ver=16"
+        }
+    ]
+}

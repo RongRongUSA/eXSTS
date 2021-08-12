@@ -1,0 +1,58 @@
+{
+    "id": "7272",
+    "name": "Cabinetmakers",
+    "lead statement": "Cabinetmakers use a variety of woods and laminates to construct and repair wooden cabinets, furniture, fixtures and related products. They are employed by furniture manufacturing or repair companies, construction companies and cabinetmaking contractors, or they may be self-employed.",
+    "example titles": [
+        "cabinetmaker",
+        "cabinetmaker apprentice",
+        "custom frame and mirror assembler",
+        "custom piano case maker",
+        "custom wood furniture maker",
+        "custom wooden desk maker",
+        "furniture cabinetmaker",
+        "jig builder – wood products manufacturing",
+        "journeyman/woman cabinetmaker",
+        "layout marker – cabinetmaking",
+        "pattern repairman/woman – foundry",
+        "tradesman/woman cabinetmaker",
+        "wood furniture and fixtures patternmaker",
+        "wood model maker",
+        "wood mould maker",
+        "wood pattern inspector",
+        "wood pattern repairman/woman – foundry",
+        "wood patternmaker"
+    ],
+    "main duties": [
+        "Study plans, specifications or drawings of articles to be made, or prepare specifications",
+        "Mark outlines or dimensions of parts on wood",
+        "Operate woodworking machines, such as power saws, jointers, mortisers and shapers, and use hand tools to cut, shape and form parts and components",
+        "Trim joints and fit parts and subassemblies together to form complete unit using glue and clamps and reinforce joints using nails, screws or other fasteners",
+        "Sand wooden surfaces and apply veneer, stain or polish to finished products",
+        "Repair or restyle wooden furniture, fixtures and related products",
+        "May estimate amount, type and cost of materials required."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a four-year apprenticeship program \r\n or a combination of over four years of work experience in the trade and some high school or college courses in cabinetmaking is usually required to be eligible for trade certification.",
+        "Trade certification is available, but voluntary, in all provinces and territories.",
+        "Red Seal endorsement is also available to qualified cabinetmakers upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Carpenters (7271)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7271&ver=16"
+        },
+        {
+            "name": "Supervisors of cabinetmakers (in 7204 Contractors and supervisors, carpentry trades",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7204&ver=16"
+        },
+        {
+            "name": "Woodworking machine operators (9437)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9437&ver=16"
+        }
+    ]
+}

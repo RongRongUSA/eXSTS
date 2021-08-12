@@ -1,0 +1,84 @@
+{
+    "id": "5232",
+    "name": "Other performers, n.e.c.",
+    "lead statement": "This unit group includes circus performers, magicians, models, puppeteers and other performers not elsewhere classified. They are employed by circuses, nightclubs, and theatre, advertising and other production companies, or they may be self-employed.",
+    "example titles": [
+        "acrobat",
+        "aerial acrobat – entertainment",
+        "art and photography model",
+        "busker",
+        "circus artist",
+        "circus performer",
+        "clown",
+        "contortionist",
+        "deejay (DJ) – turntablist",
+        "entertainer",
+        "equilibrist",
+        "erotic dancer",
+        "exotic dancer",
+        "face painter",
+        "fashion model",
+        "high-wire walker",
+        "hypnotist",
+        "illusionist",
+        "impersonator",
+        "juggler",
+        "look-alike",
+        "magician",
+        "marionette handler",
+        "mascot",
+        "mimic",
+        "model",
+        "nude dancer",
+        "prestidigitator",
+        "puppeteer",
+        "rodeo driver",
+        "rodeo horse rider",
+        "Santa Claus/Mrs. Claus",
+        "show horse rider",
+        "slack-rope performer – entertainment",
+        "sleight-of-hand artist",
+        "street entertainer",
+        "striptease dancer",
+        "stunt performer",
+        "stunt rider",
+        "stuntman/woman",
+        "table dancer",
+        "thrill performer",
+        "trapeze artist",
+        "turntablist",
+        "veejay (VJ) – video performance artist",
+        "ventriloquist"
+    ],
+    "main duties": [
+        "Entertain passers-by on sidewalks and in parks with magic tricks, juggling acts, short dramatic works, music and other entertaining displays.",
+        "Entertain audiences with thrilling and humorous acts.",
+        "Perform sleight-of-hand tricks, disappearing acts and other illusions.",
+        "Display clothing and merchandise in commercials, advertisements and fashion shows and pose for artists and photographers.",
+        "Operate puppets and marionettes."
+    ],
+    "employment requirements": [
+        "Circus performers and acrobats may require a period of study at a circus school.",
+        "Completion of modelling courses is usually required for models.",
+        "Training for other occupations in this unit group is often obtained under the guidance of a practitioner.",
+        "Talent and ability, as demonstrated during an audition, are important hiring criteria.",
+        "Membership in a guild or union related to the occupation or type or performance may be required."
+    ],
+    "additional information": [
+        "There is little mobility between the different occupations in this unit group."
+    ],
+    "exclusions": [
+        {
+            "name": "Actors and comedians (5135)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5135&ver=16"
+        },
+        {
+            "name": "Dancers (5134)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5134&ver=16"
+        },
+        {
+            "name": "Musicians and singers (5133)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5133&ver=16"
+        }
+    ]
+}

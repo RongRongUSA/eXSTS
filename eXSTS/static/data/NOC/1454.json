@@ -1,0 +1,66 @@
+{
+    "id": "1454",
+    "name": "Survey interviewers and statistical clerks",
+    "lead statement": "Survey interviewers contact individuals to gather information for market research, public opinion polls or election and census enumeration. Statistical clerks code and compile interview and other data into reports, lists, directories and other documents. Workers in this unit group are employed by market research and polling firms, government departments and agencies, utility companies, contact centres and other establishments. This unit group also includes clerks who observe and record information on traffic flow.",
+    "example titles": [
+        "census clerk",
+        "census enumerator",
+        "census taker",
+        "census worker",
+        "chart clerk",
+        "coding clerk – statistics",
+        "election enumerator",
+        "enumerator",
+        "interview clerk",
+        "interviewer – survey or poll",
+        "meter reader",
+        "poll clerk",
+        "public opinion collector",
+        "public opinion interviewer",
+        "statistical assistant",
+        "statistical clerk",
+        "survey compiler",
+        "survey interviewer",
+        "survey taker",
+        "survey team notekeeper",
+        "technical assistant – statistics",
+        "telephone survey clerk",
+        "traffic checker",
+        "traffic counter",
+        "vehicle counter"
+    ],
+    "main duties": [
+        "Contact individuals by telephone or in person and explain the purpose of the interview",
+        "Ask questions following the outlines of questionnaires and surveys",
+        "Record responses on paper or enter responses directly into a computer database through computer-assisted interviewing systems.",
+        "Check information gathered for completeness and accuracy",
+        "Code information according to established coding manuals and enter data into statistical-based computer programs",
+        "Conduct routine statistical analysis of data",
+        "Compile interview and other data into reports and lists."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Experience in the operation of a computer may be required.",
+        "On-the-job training is usually provided.",
+        "May require driver's licence."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Correspondence, publication and regulatory clerks (1452)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1452&ver=16"
+        },
+        {
+            "name": "Other customer and information services representatives (6552)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6552&ver=16"
+        },
+        {
+            "name": "Statistical officers and related research support occupations (1254)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1254&ver=16"
+        },
+        {
+            "name": "Telemarketers (in 6623 Other sales related occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6623&ver=16"
+        }
+    ]
+}

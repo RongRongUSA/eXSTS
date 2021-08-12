@@ -1,0 +1,76 @@
+{
+    "id": "6622",
+    "name": "Store shelf stockers, clerks and order fillers",
+    "lead statement": "Store shelf stockers, clerks and order fillers pack customers' purchases, price items, stock shelves with merchandise, and fill mail and telephone orders. They are employed in retail establishments, such as grocery, hardware and department stores, and in warehouses.",
+    "example titles": [
+        "bag boy/girl",
+        "bag clerk",
+        "bakery assistant – food store",
+        "box boy/girl",
+        "floor clerk – retail",
+        "floor clerk – supermarket",
+        "garment price marker",
+        "grocery clerk",
+        "grocery packer",
+        "hand packer – food store",
+        "meat cutter helper – supermarket",
+        "meat department assistant – supermarket",
+        "meat wrapper – grocery store",
+        "order filler – retail",
+        "order picker",
+        "pack boy/girl",
+        "price checker – grocery store",
+        "price clerk – retail",
+        "price marker – supermarket",
+        "produce clerk",
+        "retail shelf stocker",
+        "shelf stocker – retail",
+        "shelf stocker – supermarket",
+        "stock clerk – retail",
+        "stock handler – food store",
+        "stockroom clerk – retail",
+        "supermarket clerk",
+        "supermarket produce clerk"
+    ],
+    "main duties": [
+        "Bag, box or parcel purchases for customers or for shipment or delivery to customers",
+        "Carry customers' purchases to parking lot and pack in vehicles",
+        "Unpack products received by store and count, weigh or sort items",
+        "Use barcode scanning equipment to record incoming stock, verify pricing and maintain computerized stock inventory",
+        "Price items using stamp or stickers according to price list",
+        "Attach protective devices to products to protect against shoplifting",
+        "Stock shelves and display areas and keep stock clean and in order",
+        "Fill mail orders from warehouse stock",
+        "Obtain articles for customers from shelf or stockroom",
+        "Direct customers to location of articles sought",
+        "May sweep aisles, dust display racks and perform other general cleaning duties",
+        "May operate cash register and computer for electronic commerce transactions",
+        "May order stock."
+    ],
+    "employment requirements": [
+        "Some secondary school education is usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Cashiers (6611)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6611&ver=16"
+        },
+        {
+            "name": "Comparison shoppers (in 6623 Other sales related occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6623&ver=16"
+        },
+        {
+            "name": "Meat counter clerks (in 6421 Retail salespersons",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6421&ver=16"
+        },
+        {
+            "name": "Material handlers (7452)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7452&ver=16"
+        },
+        {
+            "name": "Stock clerks supervisors – retail (in 6211 Retail sales supervisors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6211&ver=16"
+        }
+    ]
+}

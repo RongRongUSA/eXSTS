@@ -1,0 +1,129 @@
+{
+    "id": "2171",
+    "name": "Information systems analysts and consultants",
+    "lead statement": "Information systems analysts and consultants analyze and test systems requirements, develop and implement information systems development plans, policies and procedures, and provide advice on a wide range of information systems issues. They are employed in information technology consulting firms and in information technology units throughout the public and private sectors, or they may be self-employed.",
+    "example titles": [
+        "applications analyst – computer systems",
+        "artificial intelligence analyst",
+        "artificial intelligence consultant",
+        "business continuity analyst",
+        "business systems analyst",
+        "business systems specialist – computer systems",
+        "computer analyst",
+        "computer consultant",
+        "computer simulations analyst",
+        "computer systems analyst",
+        "computer systems business analyst",
+        "computer systems development co-ordinator",
+        "data processing consultant",
+        "electronic data processing (EDP) auditor",
+        "enterprise architect – information technology (IT)",
+        "informatics applications analyst",
+        "informatics business analyst",
+        "informatics consultant",
+        "informatics quality assurance (QA) analyst",
+        "informatics security analyst",
+        "informatics security consultant",
+        "information systems analyst – computer systems",
+        "information systems business analyst",
+        "information systems contingency planner",
+        "information systems quality assurance (QA) analyst",
+        "information technology (IT) analyst",
+        "information technology (IT) business analyst",
+        "information technology (IT) consultant",
+        "information technology (IT) consulting account manager",
+        "interactive media consultant",
+        "Internet security analyst",
+        "management information systems (MIS) analyst",
+        "management information systems (MIS) consultant",
+        "multimedia consultant",
+        "simulations analyst – computer systems",
+        "software quality assurance (QA) analyst",
+        "software quality assurance (QA) auditor",
+        "solutions architect – information technology (IT)",
+        "system integration analyst",
+        "system integration consultant",
+        "systems analyst",
+        "systems auditor",
+        "systems business re-engineering analyst",
+        "systems consultant",
+        "systems quality assurance (QA) analyst",
+        "systems security analyst",
+        "systems security planner",
+        "systems specialist – computer systems"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Information systems business analysts and consultants",
+            "duty_description": [
+                "Confer with clients to identify and document requirements",
+                "Conduct business and technical studies",
+                "Design, develop, integrate, test and implement information systems business solutions",
+                "Provide advice on information systems strategy, policy, management, security and service delivery."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Systems security analysts",
+            "duty_description": [
+                "Confer with clients to identify and document requirements, assess physical and technical security risks to data, software and hardware",
+                "Develop policies, procedures and contingency plans to minimize the effects of security breaches."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Information systems quality assurance analysts",
+            "duty_description": [
+                "Develop and implement policies and procedures throughout the software development life cycle to maximize the efficiency, effectiveness and overall quality of software products and information systems."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Systems auditors",
+            "duty_description": [
+                "Conduct independent third-party reviews to assess quality assurance practices, software products and information systems."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "A bachelor's degree in computer science, computer systems engineering, software engineering, business administration or a related discipline \r\n or completion of a college program in computer science is usually required.",
+        "Experience as a computer programmer is usually required.",
+        "Certification or training provided by software vendors may be required by some employers."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Computer and information systems managers (0213)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0213&ver=16"
+        },
+        {
+            "name": "Computer engineers (except software engineers and designers) (2147)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2147&ver=16"
+        },
+        {
+            "name": "Computer programmers and interactive media developers (2174)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2174&ver=16"
+        },
+        {
+            "name": "Database analysts and data administrators (2172)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2172&ver=16"
+        },
+        {
+            "name": "Financial auditors and accountants (1111)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1111&ver=16"
+        },
+        {
+            "name": "Professional occupations in business management consulting (1122)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1122&ver=16"
+        },
+        {
+            "name": "Software engineers and designers (2173)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2173&ver=16"
+        },
+        {
+            "name": "Web designers and developers (2175)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2175&ver=16"
+        }
+    ]
+}

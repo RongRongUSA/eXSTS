@@ -1,0 +1,88 @@
+{
+    "id": "3131",
+    "name": "Pharmacists",
+    "lead statement": "Community pharmacists and hospital pharmacists compound and dispense prescribed pharmaceuticals and provide consultative services to both clients and health care providers. They are employed in retail and health centre pharmacies, or they may be self-employed. Industrial pharmacists participate in the research, development, promotion and manufacture of pharmaceutical products. They are employed in pharmaceutical companies and government departments and agencies.",
+    "example titles": [
+        "clinical pharmacist",
+        "community pharmacist",
+        "dispensary department supervisor – hospital",
+        "drug information pharmacist",
+        "druggist",
+        "health care institution pharmacist",
+        "hospital druggist",
+        "hospital pharmacist",
+        "industrial pharmacist",
+        "intern pharmacist",
+        "pharmacist",
+        "pharmacist consultant",
+        "registered pharmacist",
+        "retail pharmacist"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Community pharmacists and hospital pharmacists",
+            "duty_description": [
+                "Check prescriptions for proper dosage",
+                "Compound prescribed pharmaceutical products by calculating, measuring and mixing the quantities of drugs and other ingredients required and filling appropriate containers with correct quantity",
+                "Dispense prescribed pharmaceuticals to customers or to other health care professionals and advise them on indications, contra-indications, adverse effects, drug interactions and dosage",
+                "Maintain medication profiles of customers including registry of poisons and narcotic and controlled drugs",
+                "Ensure proper preparation, packaging, distribution and storage of vaccines, serums, biologicals and other drugs and pharmaceuticals",
+                "Order and maintain stock of pharmaceutical supplies",
+                "Advise customers on selection and use of non-prescription medication",
+                "Renew existing prescriptions in limited circumstances",
+                "May adapt the formulation, regimen, duration or route of administration of medication",
+                "May supervise and co-ordinate the activities of other pharmacists, pharmacy assistants, pharmacy technicians and other staff."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Industrial pharmacists",
+            "duty_description": [
+                "Participate in research for the development of new drugs",
+                "Formulate new drug products developed by medical researchers",
+                "Test new drug products for stability and to determine absorption and elimination patterns",
+                "Co-ordinate clinical investigations of new drugs",
+                "Control the quality of drug products during production to ensure that they meet standards of potency, purity, uniformity, stability and safety",
+                "Develop information materials concerning the uses, properties and risks of particular drugs",
+                "Evaluate labelling, packaging and advertising of drug products",
+                "Promote pharmaceutical products to health professionals."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "A university degree in pharmacy and a period of supervised practical training are required.",
+        "Licensure is required in all provinces and territories for community and hospital pharmacists."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Chemists (2112)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2112&ver=16"
+        },
+        {
+            "name": "Chiefs of pharmacy and pharmacy directors (in 0311 Managers in health care",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0311&ver=16"
+        },
+        {
+            "name": "Pharmaceutical sales representatives (in 6221 Technical sales specialists - wholesale trade",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6221&ver=16"
+        },
+        {
+            "name": "Pharmacologists (in 2121 Biologists and related scientists",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2121&ver=16"
+        },
+        {
+            "name": "Pharmacy and drugstore managers (in 0621 Retail and wholesale trade managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0621&ver=16"
+        },
+        {
+            "name": "Pharmacy technicians (in 3219 Other medical technologists and technicians (except dental health)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3219&ver=16"
+        },
+        {
+            "name": "Pharmacy aides (in 3414 Other assisting occupations in support of health services",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3414&ver=16"
+        }
+    ]
+}

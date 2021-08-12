@@ -1,0 +1,48 @@
+{
+    "id": "1512",
+    "name": "Letter carriers",
+    "lead statement": "Letter carriers sort and deliver mail, record delivery of registered mail and collect money for cash-on-delivery parcels. Letter carriers are employed by Canada Post Corporation.",
+    "example titles": [
+        "letter carrier",
+        "mail carrier",
+        "mail collector",
+        "mail deliverer",
+        "postal carrier",
+        "postal service deliverer",
+        "postal worker",
+        "postman/woman",
+        "priority post carrier",
+        "rural mail carrier",
+        "special delivery mail carrier"
+    ],
+    "main duties": [
+        "Organize mail by address and load into mailbag",
+        "Deliver letters, small parcels and other printed matter along established routes",
+        "Deliver telegrams, special delivery and express mail",
+        "Collect payment for cash-on-delivery service",
+        "Record delivery of registered mail",
+        "Leave notices indicating that items could not be delivered and the location where they can be picked up",
+        "Return undeliverable mail to postal station."
+    ],
+    "employment requirements": [
+        "Some secondary school education is required.",
+        "Two weeks to one month of training is provided by Canada Post Corporation."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with additional training or experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Couriers, messengers and door-to-door distributors (1513)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1513&ver=16"
+        },
+        {
+            "name": "Letter carrier supervisors (in 1214 Supervisors, mail and message distribution occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1214&ver=16"
+        },
+        {
+            "name": "Mail, postal and related workers (1511)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1511&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": "6522",
+    "name": "Pursers and flight attendants",
+    "lead statement": "Pursers and flight attendants ensure the safety and comfort of passengers and crew members during flights. Ship pursers attend to the safety and comfort of passengers aboard ships. Airline pursers and flight attendants are employed by airline companies. Ship pursers are employed by tour boat or cruise ship companies.",
+    "example titles": [
+        "aircraft flight attendant",
+        "airline purser",
+        "chief steward – ship",
+        "commissary attendant – air transport",
+        "customer service director (CSD) – water transportation",
+        "flight attendant",
+        "flight purser",
+        "flight service director",
+        "in-charge flight attendant",
+        "in-flight service manager",
+        "passenger service director – water transportation",
+        "purser – air transportation",
+        "purser – water transport",
+        "ship purser",
+        "ship supply officer"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Flight attendants",
+            "duty_description": [
+                "Greet passengers, explain and demonstrate safety procedures, check the general condition of the aircraft cabin, ensure that all necessary supplies are on board",
+                "Attend to safety of passengers during take-offs, landings and emergencies",
+                "Serve food and beverages to passengers and make flight announcements."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Flight pursers, customer service directors and passenger service directors",
+            "duty_description": [
+                "Co-ordinate the activities of flight attendants, provide service to passengers during flight and complete reports."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Ship pursers",
+            "duty_description": [
+                "Supervise ship attendants and arrange activities for passengers",
+                "Conduct ship's business, such as signing on crew, maintaining payroll records, assisting passengers in preparing customs declarations and supervising baggage storage."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Flight attendants and flight pursers require the completion of secondary school and a training program approved by Transport Canada.",
+        "Flight pursers/customer service directors require experience as a flight attendant.",
+        "Ship pursers may require experience as a ship attendant.",
+        "Flight attendants and ship pursers usually require experience working with the public."
+    ],
+    "additional information": [
+        "There is little mobility between airline pursers and ship pursers.",
+        "It is an advantage for pursers and flight attendants to speak more than one language."
+    ],
+    "exclusions": [
+        {
+            "name": "Food and beverage servers on trains (in 6513 Food and beverage servers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6513&ver=16"
+        },
+        {
+            "name": "Passenger service attendants – except air travel (in 6721 Support occupations in accommodation, travel and facilities set-up services",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6721&ver=16"
+        }
+    ]
+}

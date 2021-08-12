@@ -1,0 +1,61 @@
+{
+    "id": "4217",
+    "name": "Other religious occupations",
+    "lead statement": "This unit group includes brothers, nuns, monks, religious education workers and others who provide support to ministers of religion or to a religious community and who perform certain functions associated with the practice of a religion. They may perform these duties in churches, synagogues, temples or other places of worship; in institutions such as schools, hospitals and prisons; or in industrial facilities, corporate enterprises; or they may work in private practice.",
+    "example titles": [
+        "animator – spiritual guidance",
+        "brother/sister – religion",
+        "cantor",
+        "Christian Science nurse – non-medical",
+        "Christian science practitioner",
+        "Christian science worker",
+        "church worker",
+        "corporate intercessor",
+        "deacon",
+        "deaconess",
+        "exegete",
+        "faith healer",
+        "gospel worker",
+        "hazzan",
+        "home mission worker – religion",
+        "missionary",
+        "mohel",
+        "monk",
+        "mother superior/religious superior",
+        "novice – religion",
+        "nun",
+        "panthee",
+        "pastoral animator",
+        "postulant",
+        "ragi",
+        "religious education worker",
+        "religious superior – religious community",
+        "religious superior/mother superior",
+        "Salvation Army captain",
+        "Salvation Army field worker",
+        "Salvation Army worker",
+        "sister/brother – religion"
+    ],
+    "main duties": [
+        "Assist at services of public worship and religious rites",
+        "Provide religious education, spiritual guidance and moral support to members of a religious community",
+        "Conduct outreach activities and facilitate community involvement",
+        "Administer programs providing food, clothing and shelter",
+        "May plan, organize and lead worship services and church activities for a specific audience."
+    ],
+    "employment requirements": [
+        "Completion of college, university or other program in religious studies may be required, depending on the particular occupation and religion.",
+        "There may be other employment requirements depending on the particular occupation and religion."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Medical missionaries (in 3112 General practitioners and family physicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3112&ver=16"
+        },
+        {
+            "name": "Professional occupations in religion (4154)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4154&ver=16"
+        }
+    ]
+}

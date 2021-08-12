@@ -1,0 +1,87 @@
+{
+    "id": "8232",
+    "name": "Oil and gas well drillers, servicers, testers and related workers",
+    "lead statement": "Oil and gas well drillers and well servicers control the operation of drilling and hoisting equipment on drilling and service rigs, and direct the activities of the rig crew under supervision of the rig manager. Oil and gas well loggers, testers and related workers operate specialized mechanical or electronic equipment, tools or instruments to provide services in conjunction with well drilling, completion or servicing. Workers in this unit group are employed by drilling and well service contractors, petroleum producing companies and well logging or testing companies.",
+    "example titles": [
+        "assistant driller – offshore drilling rig",
+        "assistant driller – oil and gas well drilling",
+        "coring operator – oil field services",
+        "directional driller – oil and gas drilling",
+        "directional drilling operator",
+        "directional drilling operator – oil and gas drilling",
+        "downhole tool operator",
+        "downhole tool operator – oil and gas drilling",
+        "drill stem tester",
+        "drill stem tester – oil and gas drilling",
+        "driller – offshore drilling rig",
+        "driller – oil and gas drilling",
+        "electric line operator",
+        "electric line operator – oil field services",
+        "e-line operator – oil field services",
+        "fishing tool operator – oil field services",
+        "gas tester – oil field services",
+        "gun perforator – oil field services",
+        "hydrocarbon mud logger – oil field services",
+        "logging and perforating operator",
+        "logging and perforating operator – oil field services",
+        "offshore driller – oil and gas",
+        "oil well perforator",
+        "production testing operator – oil and gas well drilling",
+        "rig technician – driller",
+        "service rig operator",
+        "service rig operator – oil field services",
+        "sidewall core sampler – oil field services",
+        "slickline operator",
+        "slickline operator – oil field services",
+        "well puller – oil field services",
+        "well testing operator",
+        "well testing operator – oil and gas drilling",
+        "wireline operator",
+        "wireline operator – oil field services",
+        "wireline operator trainee",
+        "workover rig operator – oil field services"
+    ],
+    "main duties": [
+        "Direct rig crew in setting up rigs and drilling, completing or servicing oil and gas exploration and producing wells",
+        "Operate controls of drill or service rig drilling and hoisting machinery",
+        "Train or arrange for training of crew",
+        "Maintain records of drilling and servicing operations",
+        "Ensure safety procedures are followed.",
+        "Drive well service or wireline truck to well site",
+        "Assemble and attach equipment, tools or recorders to drill stem or wireline to conduct required procedures and tests",
+        "Operate or direct the operation of wireline or unit controls to lower, position and retrieve equipment and instruments",
+        "Operate recorders and computers in mobile testing or logging unit to collect data",
+        "May perform limited data interpretation."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Oil and gas well drillers and well servicers require three to six months of formal on-the-job training, college or petroleum industry-approved training courses and four or more years of work experience in subordinate rig crew positions.",
+        "A college diploma in drilling may be required.",
+        "Offshore work requires several years of experience in an equivalent position on land.",
+        "Certificates in first aid, hydrogen sulphide awareness, blowout prevention, well control, workplace hazardous materials information system (WHMIS), transportation of dangerous goods (TDG) and a special oil well operator (boiler) certificate are required.",
+        "Oil and gas well loggers, testers and related workers require three to six months of formal on-the-job training and several years of experience in subordinate logging and testing positions or on drilling and servicing rigs.",
+        "Completion of a college program in electronics or engineering technology may be required for open hole well logging.",
+        "A provincial blaster's licence, and seismic blaster and oil well blaster certification are required for well perforation services.",
+        "Trade certification for rig technician is compulsory in Alberta and available, but voluntary, in Newfoundland and Labrador, Nova Scotia, Prince Edward Island, Manitoba, Saskatchewan, British Columbia and the Northwest Territories.",
+        "Red Seal endorsement is also available to qualified rig technicians upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "Mobility between jobs on drilling and service rigs is limited by the differences in the machinery, tools and operations performed, but mobility is possible especially from drilling to service rigs.",
+        "Progression to crew supervisor or manager is possible with experience and additional education and training.",
+        "The Red Seal endorsement allows for interprovincial mobility."
+    ],
+    "exclusions": [
+        {
+            "name": "Oil and gas well drilling and related workers and services operators (8412)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8412&ver=16"
+        },
+        {
+            "name": "Rig managers (in 8222 Contractors and supervisors, oil and gas drilling and services",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8222&ver=16"
+        },
+        {
+            "name": "Water well drillers (7373)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7373&ver=16"
+        }
+    ]
+}

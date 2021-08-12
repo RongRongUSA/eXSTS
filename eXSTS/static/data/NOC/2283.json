@@ -1,0 +1,62 @@
+{
+    "id": "2283",
+    "name": "Information systems testing technicians",
+    "lead statement": "Information systems testing technicians execute test plans to evaluate the performance of software applications and information and telecommunications systems. They are employed in information technology units throughout the private and public sectors.",
+    "example titles": [
+        "application tester",
+        "application testing technician",
+        "software test co-ordinator",
+        "software tester",
+        "software testing technician",
+        "systems tester",
+        "systems testing technician",
+        "test coordination analyst",
+        "user acceptance tester",
+        "video game tester"
+    ],
+    "main duties": [
+        "Develop and document software testing plans",
+        "Install software and hardware and configure operating system software in preparation for testing",
+        "Execute, analyze and document results of software application tests and information and telecommunication systems tests",
+        "Develop and implement software and information system testing policies, procedures and scripts",
+        "Identify, report, track and propose solutions to product defects."
+    ],
+    "employment requirements": [
+        "Completion of a college program in computer science, computer programming or network administration is usually required.",
+        "College or other courses in computer programming or network administration are usually required.",
+        "Certification or training provided by software vendors may be required by some employers."
+    ],
+    "additional information": [
+        "Progression to computer programming, interactive media development, Web development or systems analysis is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Computer engineers (except software engineers and designers) (2147)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2147&ver=16"
+        },
+        {
+            "name": "Computer network technicians (2281)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2281&ver=16"
+        },
+        {
+            "name": "Computer programmers and interactive media developers (2174)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2174&ver=16"
+        },
+        {
+            "name": "Information systems analysts and consultants (2171)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2171&ver=16"
+        },
+        {
+            "name": "Software engineers and designers (2173)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2173&ver=16"
+        },
+        {
+            "name": "User support technicians (2282)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2282&ver=16"
+        },
+        {
+            "name": "Web designers and developers (2175)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2175&ver=16"
+        }
+    ]
+}

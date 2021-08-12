@@ -1,0 +1,96 @@
+{
+    "id": "7252",
+    "name": "Steamfitters, pipefitters and sprinkler system installers",
+    "lead statement": "Steamfitters and pipefitters lay out, assemble, fabricate, maintain, troubleshoot and repair piping systems carrying water, steam, chemicals and fuel in heating, cooling, lubricating and other process piping systems. Sprinkler system installers fabricate, install, test, maintain and repair water, foam, carbon dioxide and dry chemical sprinkler systems in buildings for fire protection purposes. Steamfitters, pipefitters and sprinkler system installers are employed in maintenance departments of factories, plants and similar establishments, and by pipefitting and sprinkler system contractors, or they may be self-employed.",
+    "example titles": [
+        "apprentice pipefitter",
+        "apprentice pipefitter-steamfitter",
+        "apprentice sprinkler system fitter",
+        "apprentice steamfitter",
+        "fire prevention and automatic suppression systems installer",
+        "fire protection mechanic",
+        "fire protection piping installer",
+        "fire protection piping system installer",
+        "fire sprinkler fitter",
+        "journeyman/woman pipefitter",
+        "journeyman/woman sprinkler system installer",
+        "journeyman/woman steamfitter-pipefitter",
+        "maintenance pipefitter",
+        "marine pipefitter",
+        "marine steamfitter",
+        "pipefitter",
+        "pipefitter – shipbuilding",
+        "pipefitter-steamfitter",
+        "radiator pipe installer",
+        "railway car and locomotive pipefitter",
+        "ship pipefitter",
+        "ship steamfitter",
+        "sprinkler and fire protection installer",
+        "sprinkler fitter",
+        "sprinkler system fitter",
+        "sprinkler system installer",
+        "sprinkler system installer (non-construction)",
+        "sprinkler system installer apprentice",
+        "steam heating installer",
+        "steam main servicer",
+        "steam pipefitter",
+        "steamfitter",
+        "steamfitter – shipbuilding",
+        "steamfitter/pipefitter (non-construction)",
+        "steamfitter-pipefitter",
+        "turbine pipefitter",
+        "welding pipefitter"
+    ],
+    "main duties": [
+        "Read and interpret drawings, blueprints and specifications to determine layout requirements",
+        "Cut openings for pipe in walls, floors and ceilings using hand or power tools or machines",
+        "Select type and size of pipe required",
+        "Measure, cut, thread and bend pipe to required shape using hand and power tools",
+        "Weld, braze, cement, solder and thread joints to join pipes and fabricate sections of piping system",
+        "Install supports, valves, piping and control systems",
+        "Test system for leaks using testing equipment",
+        "Clean and maintain pipe units and fittings and flush system",
+        "Remove and replace worn components and reactivate system",
+        "May prepare cost estimates for clients.",
+        "Read and interpret drawings, specifications and fire codes to determine layout requirements",
+        "Install clamps, brackets and hangers to support piping system and sprinkler and fire protection equipment, using hand and power tools",
+        "Select, measure, cut, ream and thread pipe, install sprinkler heads and mount prepared pipe in supports",
+        "Join pipes and piping sections using soldering and welding equipment",
+        "Connect piping system to water mains, supply tanks, pumps, compressors and control equipment",
+        "Installs valves, alarms and associated equipment",
+        "Test system for leaks using air or liquid pressure equipment",
+        "Service and repair sprinkler system",
+        "May prepare cost estimates for clients."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a four- to five-year apprenticeship program \r\n or a combination of over five years of work experience in the trade and some high school, college or industry courses in steamfitting, pipefitting or sprinkler system installation is usually required to be eligible for trade certification.",
+        "Steamfitter-pipefitter trade certification is compulsory in Nova Scotia, Prince Edward Island, New Brunswick, Quebec, Ontario, Manitoba and Alberta and available, but voluntary, in all other provinces and the territories.",
+        "Steamfitter-pipefitter (non-construction) trade certification is compulsory in Quebec.",
+        "Sprinkler system installer trade certification is compulsory in Nova Scotia, New Brunswick, Quebec and Manitoba and available, but voluntary, in all other provinces and the territories.",
+        "Sprinkler system installer (non-construction) trade certification is compulsory in Quebec.",
+        "Red Seal endorsement is also available to qualified steamfitters-pipefitters and sprinkler system installers upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Gas fitters (7253)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7253&ver=16"
+        },
+        {
+            "name": "Plumbers (7251)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7251&ver=16"
+        },
+        {
+            "name": "Residential and commercial installers and servicers (7441)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7441&ver=16"
+        },
+        {
+            "name": "Supervisors of steamfitters, pipefitters and sprinkler system installers (in 7203 Contractors and supervisors, pipefitting trades",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7203&ver=16"
+        }
+    ]
+}

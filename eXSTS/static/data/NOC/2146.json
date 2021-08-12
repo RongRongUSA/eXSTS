@@ -1,0 +1,81 @@
+{
+    "id": "2146",
+    "name": "Aerospace engineers",
+    "lead statement": "Aerospace engineers research, design and develop aerospace vehicles, aerospace systems and their components, and perform duties related to their testing, evaluation, installation, operation and maintenance. They are employed by aircraft and spacecraft manufacturers, air transport carriers, and in government and educational and research institutions.",
+    "example titles": [
+        "aerodynamics engineer",
+        "aeronautical engineer",
+        "aeronautical project engineer",
+        "aerospace engineer",
+        "aerospace engineer – design and development",
+        "aerospace engineer – flight operations",
+        "aerospace engineer – flight support",
+        "aerospace engineer – flight test",
+        "aerospace engineer – mass properties",
+        "aerospace engineer – material stress",
+        "aerospace engineer – materials and processes",
+        "aerospace engineer – propulsion systems",
+        "aerospace engineer – systems",
+        "aerospace engineer – systems analysis",
+        "aerospace engineer – weight and balance",
+        "aerospace reliability specialist",
+        "aerospace structural engineer",
+        "aerospace systems engineer",
+        "aerospace test engineer",
+        "aircraft design engineer",
+        "engineer weight analyst – aircraft design",
+        "propulsion engineer – aerospace vehicles",
+        "space reliability specialist",
+        "stress engineer – aerospace",
+        "structures aerospace engineer",
+        "weight and balance engineer – aerospace"
+    ],
+    "main duties": [
+        "Design and develop aerospace vehicles, systems and components such as aircraft, spacecraft, missiles, satellites and space-based communication systems",
+        "Develop and conduct computer simulations of aerospace vehicles, systems and components using advanced mathematical modelling",
+        "Prepare specifications for materials and processes to be used in aerospace manufacturing, maintenance, repair or modification",
+        "Supervise and co-ordinate the manufacturing, assembly, modification, repair and overhaul of aircraft and spacecraft",
+        "Co-ordinate ground and flight tests of air and spacecraft",
+        "Develop operational specifications, maintenance schedules and manuals for operators",
+        "Develop the technical phases of logistical and operational support for aerospace vehicles and systems",
+        "Investigate and report on structural or other component or system failures, accidents or incidents and prepare recommendations for corrective action."
+    ],
+    "employment requirements": [
+        "A bachelor's degree in aerospace engineering or in a related engineering discipline, such as mechanical engineering or engineering physics, is required.",
+        "A master's degree or doctorate in a related engineering discipline may be required.",
+        "Licensing by a provincial or territorial association of professional engineers is required to approve engineering drawings and reports and to practise as a Professional Engineer (P.Eng.).",
+        "Engineers are eligible for registration following graduation from an accredited educational program, and after three or four years of supervised work experience in engineering and passing a professional practice examination."
+    ],
+    "additional information": [
+        "There is considerable mobility between aerospace engineering specializations at the less senior levels.",
+        "Supervisory and senior positions in this unit group require experience.",
+        "Aerospace engineers work closely with other scientists and engineers and mobility is possible between some fields of specialization.",
+        "Engineers often work in a multidisciplinary environment and acquire knowledge and skills through work experience that may allow them to practise in associated areas of science, engineering, sales, marketing or management."
+    ],
+    "exclusions": [
+        {
+            "name": "Aircraft maintenance engineers (AME) – avionics (in 2244 Aircraft instrument, electrical and avionics mechanics, technicians and inspectors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2244&ver=16"
+        },
+        {
+            "name": "Aircraft maintenance engineers (AME) (in 7315 Aircraft mechanics and aircraft inspectors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7315&ver=16"
+        },
+        {
+            "name": "Avionics engineers (in 2133 Electrical and electronics engineers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2133&ver=16"
+        },
+        {
+            "name": "Engineering managers (0211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0211&ver=16"
+        },
+        {
+            "name": "Mechanical engineers (2132)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2132&ver=16"
+        },
+        {
+            "name": "Metallurgical and materials engineers (2142)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2142&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+#main_page{
+    background: pink;
+    height: 100%;
+    width: 100%;
+}
+
+#header_bar{
+    background: #343a40;
+    height: max-content;
+}
+
+#job_ads_div{
+    height: 350px;
+    float: left;
+    padding-left: 5px;
+}
+
+#job_content_header, #noc_content_header{
+    text-align: center;
+}
+
+#job_content_div{
+    width: 50%;
+    float: left;
+}
+
+#noc_content_div{
+    width: 50%;
+    float: right;
+}
+
+#NOC_div{
+    height: 350px;
+    float: right;
+    padding-left: 5px;
+}
+
+#console{
+    height: 100%;
+    width: 20%;
+    float: left;
+    display: block;
+    padding-top: 20px;
+    padding-right: 20px;
+    /*background: red;*/
+}
+
+#demo{
+    height: 100%;
+    width: 80%;
+    display: block;
+    float: right;
+}
+
+#visualization_button{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#visualization_console{
+    text-align: center;
+}
+
+
+#TOP5_list{
+    width: 20%;
+    float: right;
+    height: 500px;
+    padding-top: 20px;
+}
+
+#curve_visualization{
+    width: 80%;
+    float: left;
+    position: relative;
+    height: 1000px;
+    padding-left: 5px;
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+#left-tokens{
+    height: 100%;
+    float: left;
+    text-align: right;
+}
+
+#right-tokens{
+    height: 100%;
+    float: right;
+    text-align: left;
+}
+
+.token{
+    height: 26px;
+    background: 0 center;
+}
+
+.text_scroll{
+    height: 10px;
+    overflow-y: scroll;
+}
+
+.textInput{
+    text-align: right;
+    border-style: hidden;
+    width: 100%;
+}
+
+.curve{
+    fill: none;
+    stroke: purple;
+}
+
+#test{
+    width: 600px;
+    height: 600px;
+    background: black;
+}
+
+.content_header{
+    text-align: center;
+}

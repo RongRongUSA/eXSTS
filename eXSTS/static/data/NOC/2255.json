@@ -1,0 +1,158 @@
+{
+    "id": "2255",
+    "name": "Technical occupations in geomatics and meteorology",
+    "lead statement": "Technical occupations in geomatics include aerial survey, remote sensing, geographic information systems, cartographic and photogrammetric technologists and technicians, who gather, analyze, interpret and use geospatial information for applications in natural resources, geology, environmental research and land use planning. Meteorological technologists and technicians observe weather and atmospheric conditions, record, interpret, transmit and report on meteorological data, and provide weather information to the agricultural, natural resources and transportation industries and the public. Geomatics technologists and technicians are employed by all levels of government, utilities, mapping, computer software, forestry, architectural, engineering and consulting firms and other related establishments. Meteorological technologists and technicians are employed by all levels of government, the media, natural resources, utilities and transportation companies and consulting firms.",
+    "example titles": [
+        "aerial photograph analyst",
+        "aerial photograph interpreter",
+        "aerial photograph technician",
+        "aerial survey technician",
+        "aerial survey technologist",
+        "aerological observer",
+        "aerological technician",
+        "airborne data acquisition specialist",
+        "avalanche controller",
+        "avalanche observer",
+        "cartographer",
+        "cartographic compiler",
+        "cartographic draftsman/woman",
+        "cartographic technician",
+        "cartographic technologist",
+        "climate data processor",
+        "climate service technician",
+        "climatological technician",
+        "geographic information systems (GIS) technician",
+        "geographic information systems (GIS) technologist",
+        "geological information system technician",
+        "geological information system technologist",
+        "geological mapping technician",
+        "geomatics technician – aerial surveys",
+        "geomatics technician – cartography",
+        "geomatics technician – geographical information systems (GIS)",
+        "geomatics technician – photogrammetry",
+        "geomatics technician – remote sensing",
+        "geomatics technologist – aerial surveys",
+        "geomatics technologist – cartography",
+        "geomatics technologist – geographical information systems",
+        "geomatics technologist – photogrammetry",
+        "geomatics technologist – remote sensing",
+        "ice conditions service specialist – meteorology",
+        "ice observer",
+        "land information system (LIS) technician",
+        "land information system (LIS) technologist",
+        "map draftsman/woman",
+        "map editor",
+        "mapping technician",
+        "meteorological aide",
+        "meteorological inspector",
+        "meteorological technician",
+        "photo cartographer",
+        "photogrammetric technician",
+        "photogrammetric technologist",
+        "photogrammetrist",
+        "remote sensing (RS) application specialist",
+        "remote sensing (RS) technician",
+        "remote sensing (RS) technologist",
+        "snow controller",
+        "softcopy photogrammetrist",
+        "surface weather observer",
+        "weather briefer",
+        "weather chart plotter",
+        "weather forecast presentation technician",
+        "weather station officer-in-charge",
+        "weather station operations technician"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Aerial survey and remote sensing technologists and technicians",
+            "duty_description": [
+                "Operate analog or digital airborne remote sensing equipment such as survey film or digital cameras, laser or radar sensors and scanners to prepare images, data and graphic reports, maps and charts from airborne or satellite data",
+                "Develop specialized analog and computer software specific routines to customize and integrate image analysis",
+                "Inspect quality of recorded images, verify the integrity and accuracy of data contained in remote sensing image analysis systems, and adjust equipment as required."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Geographic information systems (GIS) technologists and technicians",
+            "duty_description": [
+                "Operate specialized computer hardware and software and peripheral equipment to model, manage, analyze and display geospatial data",
+                "Develop specialized computer software routines, Internet-based GIS, database and business applications to customize geographic information",
+                "Work with external organizations on data transfer and systems compatibility issues",
+                "Perform data entry and editing activities and maintenance operations to systems following predetermined calibration procedures",
+                "Integrate external software such as spreadsheets and statistical packages with GIS software",
+                "Train and provide technical support for GIS users."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Cartographic technologists and technicians",
+            "duty_description": [
+                "Plan map content, format and design and compile required data from aerial photographs, survey notes, records, reports and other maps",
+                "Generate maps and related graphs and charts using digital mapping techniques, computer interactive graphics, computer-assisted design and drafting (CAD) software, traditional drafting methods and computer or traditional scribing tools",
+                "Inspect final compositions to ensure completeness and accuracy."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Photogrammetric technologists and technicians",
+            "duty_description": [
+                "Examine and interpret aerial photographs to prepare topographic maps, aerial-photograph mosaics and related charts",
+                "Operate digitized stereoscopic plotting and computer graphics equipment to provide three-dimensional optical models of terrain, to trace maps, and to prepare charts and tables",
+                "Monitor recording quality and adjust equipment as required and inspect quality of recorded images."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Meteorological technologists and technicians",
+            "duty_description": [
+                "Observe, record and transmit atmospheric and weather information including air pressure, temperature, humidity, precipitation and cloud, wind and ultraviolet conditions",
+                "Observe, chart and report on ice conditions in navigable waters and snow conditions, and participate in programs to forecast and control avalanches in mountainous terrain",
+                "Maintain climatological databases, analyze and interpret weather data and participate in the production of weather maps, charts and reports",
+                "Install, inspect, monitor, calibrate and maintain meteorological equipment and instruments."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Geomatics technologists require completion of a two- to three-year college program in cartography, photogrammetry, aerial survey, remote sensing, geographic information system or geomatics.",
+        "Geomatics technicians require completion of a one- to two-year college program in cartography, photogrammetry, aerial survey, remote sensing, geographic information system or geomatics.",
+        "In Quebec, membership in the regulatory body for professional technologists is required to use the title ''Professional Technologist''.",
+        "Meteorological technicians require completion of a one-year meteorological technician program provided by the Meteorological Service of Canada.",
+        "Further specialized training is available for meteorological technicians, and may be required by some employers."
+    ],
+    "additional information": [
+        "Geomatics is an interdisciplinary field encompassing the collection, analysis and presentation of geographically referenced data.",
+        "Mobility is possible between some occupations in this unit group."
+    ],
+    "exclusions": [
+        {
+            "name": "Airborne geophysical equipment operators (in 2212 Geological and mineral technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2212&ver=16"
+        },
+        {
+            "name": "Drafting technologists and technicians (2253)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2253&ver=16"
+        },
+        {
+            "name": "Engineering technologists and technicians who apply geotechnical and topographical information to land use and urban planning (in 2231 Civil engineering technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2231&ver=16"
+        },
+        {
+            "name": "Geomatics engineers and surveying engineers (in 2131 Civil engineers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2131&ver=16"
+        },
+        {
+            "name": "Land surveyors (2154)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2154&ver=16"
+        },
+        {
+            "name": "Land survey technologists and technicians (2254)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2254&ver=16"
+        },
+        {
+            "name": "Meteorologists and climatologists (2114)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2114&ver=16"
+        }
+    ]
+}

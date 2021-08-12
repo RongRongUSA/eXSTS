@@ -1,0 +1,79 @@
+{
+    "id": "4156",
+    "name": "Employment counsellors",
+    "lead statement": "Employment counsellors and career development practitioners provide assistance and information to job seeker clients on all aspects of employment search and career planning. They also provide advice and information to employer clients regarding employment issues and human resources. Employment counsellors and career development practitioners are employed by human resource departments of establishments, employment service organizations, consulting firms, correctional facilities and by federal and provincial governments. Supervisors of employment counsellors are included in this unit group.",
+    "example titles": [
+        "Aboriginal employment developer",
+        "Aboriginal employment officer",
+        "Aboriginal employment worker",
+        "career coach",
+        "career counsellor (except education)",
+        "career development counsellor",
+        "career development facilitator",
+        "career development practitioner",
+        "career group facilitator",
+        "career resource centre co-ordinator",
+        "employment assistance officer",
+        "employment consultant",
+        "employment counsellor",
+        "employment counsellor – government services",
+        "employment group counsellor",
+        "employment outreach counsellor",
+        "employment outreach program co-ordinator",
+        "employment outreach program counsellor",
+        "employment services assessment officer",
+        "employment services group counsellor",
+        "employment services officer",
+        "job counsellor",
+        "job counsellor – government services",
+        "job search trainer",
+        "labour market information consultant",
+        "outplacement consultant",
+        "outplacement counsellor",
+        "relocation consultant",
+        "relocation counsellor",
+        "workforce adjustment officer",
+        "workforce development officer"
+    ],
+    "main duties": [
+        "Interview clients to obtain employment history, educational background and career goals",
+        "Identify barriers to employment and assist clients with such matters as job readiness skills, job search strategies, writing résumés and preparing for job interviews",
+        "Assess need for assistance such as rehabilitation, financial aid or further training and refer clients to the appropriate services",
+        "Provide established workers with information and strategies for maintaining a job or moving within an organization, dealing with job dissatisfaction, making mid-career changes and adjusting to workplace transitions",
+        "Collect labour market information for clients regarding job openings, entry and skill requirements and other occupational information",
+        "Advise employers on human resource and other employment-related issues",
+        "Provide consulting services to community groups and agencies, businesses, industry and other organizations involved in providing community-based career planning support or resources",
+        "May administer and interpret tests designed to determine the interests, aptitudes and abilities of clients."
+    ],
+    "employment requirements": [
+        "A bachelor's degree or college diploma in employment counselling, career development or in a related field, such as human resources development, psychology, education or social services is required.",
+        "A master's degree in counselling psychology or a related field such as educational psychology, developmental psychology or social work may be required.",
+        "In Quebec, membership in a professional association is mandatory to use the title ''counsellor''."
+    ],
+    "additional information": [
+        "Mobility to positions in personnel or training is possible.",
+        "Progression to supervisory positions is possible through experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Educational counsellors (4033)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4033&ver=16"
+        },
+        {
+            "name": "Employment insurance officers (in 1228 Employment insurance, immigration, border services and revenue officers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1228&ver=16"
+        },
+        {
+            "name": "Human resources and recruitment officers (1223)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1223&ver=16"
+        },
+        {
+            "name": "Job coaches for persons with disabilities (in 4215 Instructors of persons with disabilities",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4215&ver=16"
+        },
+        {
+            "name": "Vocational rehabilitation counsellors (in 4153 Family, marriage and other related counsellors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4153&ver=16"
+        }
+    ]
+}

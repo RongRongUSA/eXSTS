@@ -1,0 +1,68 @@
+{
+    "id": "2143",
+    "name": "Mining engineers",
+    "lead statement": "Mining engineers plan, design, organize and supervise the development of mines, mine facilities, systems and equipment; and prepare and supervise the extraction of metallic or non-metallic minerals and ores from underground or surface mines. Mining engineers are employed by mining companies, consulting engineering companies, manufacturers, government and in educational and research institutions.",
+    "example titles": [
+        "consulting mining engineer",
+        "mine design engineer",
+        "mine development engineer",
+        "mine layout engineer",
+        "mine planning engineer",
+        "mine production engineer",
+        "mine safety engineer",
+        "mine ventilation engineer",
+        "mineral dressing engineer",
+        "mineral engineer",
+        "mines exploration engineer",
+        "mining engineer"
+    ],
+    "main duties": [
+        "Conduct preliminary surveys and studies of ore, mineral or coal deposits to assess the economic and environmental feasibility of potential mining operations",
+        "Determine the appropriate means of safely and efficiently mining deposits",
+        "Determine and advise on appropriate drilling and blasting methods for mining, construction or demolition",
+        "Design shafts, ventilation systems, mine services, haulage systems and supporting structures",
+        "Design, develop and implement computer applications such as for mine design, mine modelling, mapping or for monitoring mine conditions",
+        "Plan and design or select mining equipment and machinery and mineral treatment machinery and equipment in collaboration with other engineering specialists",
+        "Plan, organize and supervise the development of mines and mine structures and the operation and maintenance of mines",
+        "Prepare operations and project estimates, schedules and reports",
+        "Implement and co-ordinate mine safety programs",
+        "Supervise and co-ordinate the work of technicians, technologists, survey personnel, and other engineers and scientists."
+    ],
+    "employment requirements": [
+        "A bachelor's degree in mining engineering or in a related engineering discipline is required.",
+        "A master's degree or doctorate in a related engineering discipline may be required.",
+        "Licensing by a provincial or territorial association of professional engineers is required to approve engineering drawings and reports and to practise as a Professional Engineer (P.Eng.).",
+        "Engineers are eligible for registration following graduation from an accredited educational program, and after three or four years of supervised work experience in engineering and passing a professional practice examination."
+    ],
+    "additional information": [
+        "Supervisory and senior positions in this unit group require experience.",
+        "Mining engineers work closely with geologists, geological engineers, metallurgical engineers, and other engineers and scientists, and mobility is possible between some fields of specialization.",
+        "Engineers often work in a multidisciplinary environment and acquire knowledge and skills through work experience that may allow them to practise in associated areas of science, engineering, sales, marketing or management."
+    ],
+    "exclusions": [
+        {
+            "name": "Engineering managers (0211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0211&ver=16"
+        },
+        {
+            "name": "Geological engineers (2144)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2144&ver=16"
+        },
+        {
+            "name": "Geoscientists and oceanographers (2113)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2113&ver=16"
+        },
+        {
+            "name": "Metallurgical and materials engineers (2142)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2142&ver=16"
+        },
+        {
+            "name": "Mine managers (in 0811 Managers in natural resources production and fishing",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0811&ver=16"
+        },
+        {
+            "name": "Petroleum engineers (2145)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2145&ver=16"
+        }
+    ]
+}

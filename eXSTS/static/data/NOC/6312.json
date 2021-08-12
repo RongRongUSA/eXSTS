@@ -1,0 +1,43 @@
+{
+    "id": "6312",
+    "name": "Executive housekeepers",
+    "lead statement": "Executive housekeepers direct and control the operations of housekeeping departments within hotels, hospitals and other establishments.",
+    "example titles": [
+        "assistant executive housekeeper",
+        "assistant housekeeping manager",
+        "executive housekeeper",
+        "hospital executive housekeeper",
+        "hotel executive housekeeper",
+        "housekeeping director",
+        "housekeeping manager"
+    ],
+    "main duties": [
+        "Manage the operations of the housekeeping department",
+        "Plan and co-ordinate the activities of housekeeping supervisors and their crews",
+        "Conduct inspections to ensure that departmental standards and health and safety regulations are being met",
+        "Select and purchase equipment and supplies, and maintain inventory",
+        "Arrange for maintenance and repair of equipment and machinery",
+        "Hire, train and supervise housekeeping staff",
+        "Maintain financial records and prepare budgets, payroll and employee schedules."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "A university degree or college diploma in hospital management, hotel management or business administration is usually required.",
+        "Extensive experience as a cleaning supervisor may substitute for formal education requirements."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Accommodation service managers (0632)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0632&ver=16"
+        },
+        {
+            "name": "Facility operation and maintenance managers (0714)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0714&ver=16"
+        },
+        {
+            "name": "Housekeeping supervisors (in 6315 Cleaning supervisors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6315&ver=16"
+        }
+    ]
+}

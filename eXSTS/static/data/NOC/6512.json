@@ -1,0 +1,51 @@
+{
+    "id": "6512",
+    "name": "Bartenders",
+    "lead statement": "Bartenders mix and serve alcoholic and non-alcoholic beverages. They are employed in restaurants, hotels, bars, taverns, private clubs, banquet halls and other licensed establishments. Supervisors of bartenders are included in this unit group.",
+    "example titles": [
+        "bar attendant",
+        "bar steward",
+        "barkeeper",
+        "barmaid",
+        "barman/barwoman",
+        "bartender",
+        "bartenders supervisor",
+        "beer barman/woman",
+        "head barmaid",
+        "head barman/barwoman",
+        "head bartender",
+        "lounge supervisor-bartender",
+        "managing bartender",
+        "service bartender",
+        "tapman/woman"
+    ],
+    "main duties": [
+        "Take beverage orders from serving staff or directly from patrons",
+        "Mix liquor, soft drinks, water and other ingredients to prepare cocktails and other drinks",
+        "Prepare mixed drinks, wine, draft or bottled beer and non-alcoholic beverages for food and beverage servers or serve directly to patrons",
+        "Collect payment for beverages and record sales",
+        "Maintain inventory and control of bar stock and order supplies",
+        "Clean bar area and wash glassware",
+        "Ensure compliance with provincial/territorial liquor legislation and regulations",
+        "May train and supervise other bartenders and bar staff",
+        "May hire and dismiss staff."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Completion of college or other program in bartending \r\n or completion of courses in mixing drinks is usually required.",
+        "Responsible beverage service certification may be required."
+    ],
+    "additional information": [
+        "Progression to managerial positions in food and beverage service is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Bar managers (in 0631 Restaurant and food service managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0631&ver=16"
+        },
+        {
+            "name": "Food and beverage servers (6513)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6513&ver=16"
+        }
+    ]
+}

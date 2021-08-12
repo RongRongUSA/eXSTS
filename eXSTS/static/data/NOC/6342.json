@@ -1,0 +1,92 @@
+{
+    "id": "6342",
+    "name": "Tailors, dressmakers, furriers and milliners",
+    "lead statement": "Tailors, dressmakers and furriers make, alter and repair tailored clothing, dresses, coats and other made-to-measure garments. Milliners make, alter and repair hats. This unit group also includes alterationists who fit, alter and repair garments. They are employed by clothing retailers, clothing alteration shops, dry cleaners and garment manufacturing companies or they may be self-employed.",
+    "example titles": [
+        "alterations dressmaker",
+        "alterations seamstress",
+        "custom fur joiner",
+        "custom furrier",
+        "custom tailor",
+        "dressmaker",
+        "fur remodeller",
+        "fur repair estimator",
+        "fur repairman/woman",
+        "fur tailor",
+        "furrier",
+        "garment alterationist",
+        "garment fitter",
+        "garment repair seamstress",
+        "garment sample maker",
+        "made-to-measure garment tailor",
+        "master tailor",
+        "men's garment alterations tailor",
+        "milliner",
+        "millinery maker",
+        "ready-to-wear garment tailor",
+        "seamstress",
+        "shop tailor",
+        "tailor",
+        "tailor supervisor",
+        "women's garment alterations seamstress",
+        "women's garment custom seamstress",
+        "women's hat maker – milliner"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Tailors",
+            "duty_description": [
+                "Make made-to-measure garments, such as suits and coats according to customers' and clothing manufacturers' specifications and fit",
+                "Design patterns to fit measurements",
+                "Mark, cut and sew fabric",
+                "May alter and repair garments as required."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Dressmakers",
+            "duty_description": [
+                "Make women's garments",
+                "Select and modify commercial patterns to customers' and clothing manufacturers' specifications",
+                "Fit, mark, cut and sew fabric",
+                "May alter and repair garments as required."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Furriers",
+            "duty_description": [
+                "Make, alter, restyle and repair natural fur garments and accessories."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Milliners",
+            "duty_description": [
+                "Design, lay out, cut, sew and press fabric, leather and other materials into hats and related accessories."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Alterationists",
+            "duty_description": [
+                "Fit, alter and repair garments according to customers' requests by hand or using sewing machines."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Tailors and dressmakers require demonstrated ability to sew, style and fit men's or women's garments and may require completion of college or other courses in tailoring or dressmaking.",
+        "Furriers require several years of experience in selecting pelts and making, fitting, styling and altering fur garments and accessories.",
+        "Milliners require demonstrated ability to sew, style and fit hats and caps.",
+        "Alterationists require demonstrated ability to sew, alter and repair garments."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Couturier – haute couture (in 5243 Theatre, fashion, exhibit and other creative designers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5243&ver=16"
+        }
+    ]
+}

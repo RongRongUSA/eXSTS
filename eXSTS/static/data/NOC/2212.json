@@ -1,0 +1,164 @@
+{
+    "id": "2212",
+    "name": "Geological and mineral technologists and technicians",
+    "lead statement": "Geological and mineral technologists and technicians provide technical support and services or may work independently in the fields of oil and gas exploration and production, geophysics, petroleum engineering, geology, mining and mining engineering, mineralogy, extractive and physical metallurgy, metallurgical engineering and environmental protection. They are employed by petroleum and mining companies, consulting geology and engineering firms, and by governments and educational institutions as well as by a variety of manufacturing, construction and utilities companies.",
+    "example titles": [
+        "airborne geophysical equipment operator",
+        "assayer",
+        "assayer – mineralogy",
+        "diamond drilling technician",
+        "drilling fluid technician",
+        "foundry laboratory technician",
+        "geological engineering technician",
+        "geological engineering technologist",
+        "geological prospecting technologist",
+        "geological survey technician",
+        "geological technician",
+        "geological technologist",
+        "geology technical assistant",
+        "geophysical data technician",
+        "geophysical observer",
+        "geophysical prospecting technologist",
+        "geophysical survey technician",
+        "geophysical survey technologist",
+        "geophysical technician",
+        "geophysical technologist",
+        "geotechnician",
+        "gold assayer",
+        "gold prospector",
+        "gravity data technician",
+        "groundwater technologist",
+        "heat treat technician",
+        "hydrographic survey technician",
+        "hydrographic survey technologist",
+        "hydrological technician",
+        "hydrology technician",
+        "laboratory technician – metallurgy",
+        "log analyst",
+        "log technician",
+        "magnetic observer",
+        "marine geoscience technologist",
+        "metallurgical control analyst",
+        "metallurgical engineering technician",
+        "metallurgical engineering technologist",
+        "metallurgical technologist",
+        "mine analyst",
+        "mine development technologist",
+        "mine production technician",
+        "mine survey technician",
+        "mine survey technologist",
+        "mineral technician",
+        "mineral technologist",
+        "mineralogy technician",
+        "mineralogy technologist",
+        "mining engineering technician",
+        "mining engineering technologist",
+        "mining survey technician",
+        "mining survey technologist",
+        "mining technician",
+        "mining technologist",
+        "mud man/woman – petroleum drilling",
+        "oil geology technologist",
+        "ore technologist",
+        "paleontology technician",
+        "palynology technician",
+        "petroleum engineering technician",
+        "petroleum engineering technologist",
+        "petroleum field technologist",
+        "petroleum geology technologist",
+        "petroleum technician",
+        "petrology technician",
+        "physical metallurgy technician",
+        "physical metallurgy technologist",
+        "precious metal assayer",
+        "prospector",
+        "reservoir engineering technician",
+        "rock mechanics technician",
+        "sea-bottom technologist",
+        "sea-floor technologist",
+        "seismic exploration line crew co-ordinator",
+        "seismic exploration observer",
+        "seismic prospecting observer",
+        "seismic survey co-ordinator",
+        "seismic technician",
+        "seismology technician – petroleum geology",
+        "seismology technologist – petroleum geology",
+        "seismometer technician",
+        "soil science technician – mining",
+        "welding technician – mining",
+        "welding technologist"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Geological and mineral technologists",
+            "duty_description": [
+                "Conduct or direct geological, geophysical, geochemical, hydrographic or oceanographic surveys, prospecting field trips, exploratory drilling, well logging or underground mine survey programs",
+                "Configure, operate and maintain geophysical survey and well logging instruments and equipment",
+                "Prepare notes, sketches, geological maps and cross sections",
+                "Prepare, transcribe or analyze seismic, gravimetric, well log or other geophysical and survey data",
+                "Assist engineers and geologists in the evaluation and analysis of petroleum and mineral reservoirs",
+                "Prepare or supervise the preparation of rock, mineral or metal samples and perform physical and chemical laboratory tests",
+                "Conduct or assist in environmental audits, in the design of measures to minimize undesirable environmental effects of new or expanded mining and oil and gas operations, and in the development of waste management and other related environmental protection procedures",
+                "May supervise oil and gas well drilling, well completions and work-overs",
+                "May conduct or supervise studies and programs related to mine development, mining methods, mine ventilation, lighting, drainage and ground control",
+                "May assist engineers and metallurgists in specifying material selection, metal treatments or corrosion protection systems",
+                "May assist hydrogeologists in evaluating groundwater and well circulation and in report preparation",
+                "May develop specifications for heat treatment of metals or for welding, design welding fixtures, troubleshoot welding processes or quality problems and supervise welding projects",
+                "May co-ordinate crew members' activities during seismic tests."
+            ],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Geological and mineral technicians",
+            "duty_description": [
+                "Participate in geological, geophysical, geochemical, hydrographic or oceanographic surveys, prospecting field trips, exploratory drilling, well logging or underground mine survey programs and in environmental audits and related environmental protection activities",
+                "Operate and maintain geophysical survey and well logging instruments and equipment",
+                "Prepare notes, sketches, geological maps and cross sections",
+                "Assist in preparing, transcribing or analyzing seismic, gravimetric, well log or other geophysical and survey data",
+                "Assist in the preparation of rock, mineral or metal samples and in conducting physical and chemical laboratory tests",
+                "Assist in hydrogeological field and laboratory studies and in preparation of reports",
+                "Carry out a limited range of other technical functions in support of geology, geophysics and petroleum and mining engineering."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "Geological and mineral technologists usually require completion of a two- to three-year college program in geological technology, petroleum technology, petroleum engineering technology, hydrogeology or groundwater technology, mining technology, mining engineering technology, mineralogy, metallurgical technology, or welding technology.",
+        "Geophysics technologists usually require completion of a two- to three-year college program in electronics technology.",
+        "Geological and mineral technicians usually require completion of a one- to two-year college program in a related field.",
+        "Certification in geological and mineral technology or in a related field is available through provincial associations of engineering/applied science technologists and technicians and may be required by employers.",
+        "In Quebec, membership in the regulatory body for professional technologists is required to use the title \"Professional Technologist.\"",
+        "A period of supervised work experience, usually two years, is required before certification."
+    ],
+    "additional information": [
+        "There is limited mobility among occupations in this group.",
+        "Mobility may be possible between geophysical technology and electronic technology.",
+        "Mobility may be possible between some occupations in this group and related fields of civil engineering technology."
+    ],
+    "exclusions": [
+        {
+            "name": "Civil engineering technologists and technicians (2231)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2231&ver=16"
+        },
+        {
+            "name": "Contractors and supervisors, oil and gas drilling and services (8222)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8222&ver=16"
+        },
+        {
+            "name": "Electrical and electronics engineering technologists and technicians (2241)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2241&ver=16"
+        },
+        {
+            "name": "Supervisors, mining and quarrying (8221)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8221&ver=16"
+        },
+        {
+            "name": "Technical occupations in geomatics and meteorology (2255)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2255&ver=16"
+        },
+        {
+            "name": "Technologists and technicians whose primary duties are to perform chemical laboratory tests (in 2211 Chemical technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2211&ver=16"
+        }
+    ]
+}

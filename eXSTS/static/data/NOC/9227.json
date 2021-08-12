@@ -1,0 +1,96 @@
+{
+    "id": "9227",
+    "name": "Supervisors, other products manufacturing and assembly",
+    "lead statement": "This unit group includes supervisors, not elsewhere classified, who supervise and co-ordinate the activities of workers who assemble, fabricate and inspect a variety of products, such as jewellery, clocks and watches, millwork, sporting goods, toys and other miscellaneous products. They are employed in a wide variety of manufacturing companies.",
+    "example titles": [
+        "baby carriage assembly foreman/woman",
+        "bench assemblers foreman/woman – wood products manufacturing",
+        "bicycle assembly foreman/woman",
+        "bicycle assembly supervisor",
+        "brush making foreman/woman",
+        "candle making foreman/woman",
+        "clock and watch assembly foreman/woman",
+        "clock and watch assembly repairers foreman/woman",
+        "clock and watch assembly repairers supervisor",
+        "clock and watch assembly supervisor",
+        "clock and watch inspection foreman/woman",
+        "controlling and recording instruments assembly foreman/woman",
+        "cooper foreman/woman",
+        "cutlery manufacturing foreman/woman",
+        "door and sash assembly foreman/woman",
+        "fibreglass boat assembly foreman/woman",
+        "fibreglass boat foreman/woman",
+        "firearms assembly foreman/woman",
+        "hand tools manufacturing foreman/woman",
+        "jewellery and silverware manufacturing worker foreman/woman",
+        "jewellery assembly supervisor",
+        "jewellery manufacturing foreman/woman",
+        "jewellery repairing foreman/woman – manufacturing",
+        "lamp shade fabrication foreman/woman",
+        "lens grinder and polisher foreman/woman",
+        "lens manufacturing (non-prescription) supervisor",
+        "millwork assemblers foreman/woman – wood products manufacturing",
+        "millwork assembly foreman/woman",
+        "millwork assembly foreman/woman – wood products manufacturing",
+        "millwork assembly supervisor",
+        "mirror silvering foreman/woman",
+        "musical instrument manufacturing foreman/woman",
+        "optical instrument assembly foreman/woman",
+        "optical instrument manufacturing foreman/woman",
+        "photographic equipment assembly foreman/woman",
+        "precision instrument and related equipment assembly foreman/woman",
+        "prefab house assembly foreman/woman",
+        "prefab housing assembler foreman/woman",
+        "prefab housing assembly foreman/woman",
+        "prefabricated joinery assemblers foreman/woman – wood products manufacturing",
+        "prefabricated joinery assembly foreman/woman – wood products manufacturing",
+        "prefabricated joinery assembly supervisor",
+        "sash and door shop foreman/woman",
+        "scale assembly foreman/woman",
+        "silverware manufacturing supervisor",
+        "spikemaking foreman/woman",
+        "sporting equipment manufacturing foreman/woman",
+        "sporting goods manufacturing supervisor",
+        "sports equipment assembly supervisor",
+        "thermostat assembly foreman/woman",
+        "toy assembly foreman/woman",
+        "toy manufacturing foreman/woman",
+        "toy manufacturing supervisor",
+        "wood products foreman/woman",
+        "wooden barrel maker foreman/woman",
+        "wooden box maker foreman/woman",
+        "wooden truss making foreman/woman – manufacturing",
+        "woodenware assembler foreman/woman"
+    ],
+    "main duties": [
+        "Supervise, co-ordinate and schedule activities of workers who assemble, fabricate and inspect products, such as jewellery, clocks, watches, bicycles, millwork, sporting goods and toys",
+        "Establish methods to meet work schedules and co-ordinate work activities with other departments",
+        "Resolve work problems and recommend measures to improve productivity and product quality",
+        "Requisition materials and supplies",
+        "Train workers in job duties, safety procedures and company policies",
+        "Recommend personnel actions such as hirings and promotions",
+        "Prepare production and other reports",
+        "May set up machines and equipment."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Several years of experience as an assembler or inspector in the same company are usually required."
+    ],
+    "additional information": [
+        "There is little mobility between different types of supervisors in this unit group."
+    ],
+    "exclusions": [
+        {
+            "name": "Other labourers in processing, manufacturing and utilities (9619)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9619&ver=16"
+        },
+        {
+            "name": "Other products assemblers, finishers and inspectors (9537)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9537&ver=16"
+        },
+        {
+            "name": "Supervisors of woodworking machine operators (in 9224 Supervisors, furniture and fixtures manufacturing",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9224&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "8261",
+    "name": "Fishing masters and officers",
+    "lead statement": "Fishing masters and officers manage and operate saltwater and freshwater fishing vessels greater than 100 gross tonnes to pursue and land fish and other marine life. They are employed by establishments engaged in operating commercial fishing vessels.",
+    "example titles": [
+        "factory freezer trawler captain",
+        "fishing master",
+        "fishing vessel boatswain",
+        "fishing vessel bo'sun",
+        "fishing vessel captain",
+        "fishing vessel deck officer",
+        "fishing vessel first mate",
+        "fishing vessel master",
+        "fishing vessel mate",
+        "fishing vessel navigation officer",
+        "fishing vessel second mate",
+        "offshore fishing vessel captain",
+        "trawler captain"
+    ],
+    "main duties": [
+        "Command fishing vessels to catch fish and other marine life",
+        "Determine areas for fishing, plot courses and compute navigational positions using compasses, charts, tables and other aids",
+        "Steer vessels and operate navigational instruments and electronic fishing aids such as echo sounders and chart plotters",
+        "Direct fishing operations and supervise crew activities",
+        "Record fishing progress, crew activities, weather and sea conditions on ship's log",
+        "Select and train vessel crews."
+    ],
+    "employment requirements": [
+        "Some secondary school education is usually required.",
+        "One to two years of experience as a fishing vessel deckhand is required.",
+        "Captains require one year of service as officer in charge of the watch.",
+        "A Fishing Master's Certificate is required for all occupations in this unit group.",
+        "Marine Emergency Duties Certificate is required by Transport Canada.",
+        "A valid Fishing Vessel Operator Certificate is required for all occupations in this unit group.",
+        "A commercial fishing licence is required."
+    ],
+    "additional information": [
+        "Completion of Transport Canada examinations is required to advance from Fishing Master Class IV through Class I. Training programs are provided in provincial training centres.",
+        "Progression to merchant or government vessel officer positions (which require a Marine Officer Certificate) is possible with additional training and experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Deck officers, water transport (2273)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2273&ver=16"
+        },
+        {
+            "name": "Fishermen/women (8262)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8262&ver=16"
+        },
+        {
+            "name": "Fishing vessel engineers requiring a Transport Canada licence (in 2274 Engineer officers, water transport",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2274&ver=16"
+        }
+    ]
+}

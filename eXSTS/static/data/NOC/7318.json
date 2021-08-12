@@ -1,0 +1,62 @@
+{
+    "id": "7318",
+    "name": "Elevator constructors and mechanics",
+    "lead statement": "Elevator constructors and mechanics assemble, install, maintain and repair freight and passenger elevators, escalators, moving walkways and other related equipment. They are employed by elevator construction and maintenance companies.",
+    "example titles": [
+        "apprentice elevator mechanic",
+        "dumbwaiter installer-repairer",
+        "elevator adjuster",
+        "elevator builder",
+        "elevator constructor",
+        "elevator constructor and mechanic apprentice",
+        "elevator constructor-mechanic",
+        "elevator erector",
+        "elevator installer",
+        "elevator maintenance mechanic",
+        "elevator mechanic",
+        "elevator mechanic (non-construction)",
+        "elevator mechanic apprentice",
+        "elevator repair mechanic",
+        "elevator repairer",
+        "escalator installer",
+        "escalator installer-repairer",
+        "escalator mechanic (non construction)",
+        "escalator repairer",
+        "escalator repairman/woman",
+        "journeyman/woman elevator constructor",
+        "journeyman/woman elevator mechanic",
+        "moving walkway installer-repairer"
+    ],
+    "main duties": [
+        "Read and interpret blueprints to determine layout of system components",
+        "Perform preparatory construction work including steel work, wiring and piping",
+        "Install elevators, escalators, moving walkways, dumbwaiters and related equipment according to specifications",
+        "Connect car frames to counterweights with cables and assemble elevator cars",
+        "Install and wire electric and electronic control system devices",
+        "Install, test and adjust safety control devices",
+        "Test operation of newly installed equipment",
+        "Troubleshoot electrical or mechanical systems failures",
+        "Disassemble defective units and repair or replace worn or suspect parts",
+        "Adjust valves, ratchets, seals, brake linings and other components",
+        "Carry out preventative maintenance programs to ensure public safety.",
+        "Elevator constructors and mechanics may specialize in construction, maintenance or repair."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a four- to five-year apprenticeship program \r\n or a combination of over four years of work experience in the trade and some high school, college or industry courses in elevator construction or repair is usually required to be eligible for trade certification.",
+        "Elevator constructor and mechanic trade certification is compulsory in Quebec and Alberta and available, but voluntary, in British Columbia, the Northwest Territories and Nunavut."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Elevator inspectors (in 2262 Engineering inspectors and regulatory officers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2262&ver=16"
+        },
+        {
+            "name": "Supervisors of elevator constructors and mechanics (in 7301 Contractors and supervisors, mechanic trades",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7301&ver=16"
+        }
+    ]
+}

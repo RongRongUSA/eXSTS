@@ -1,0 +1,61 @@
+{
+    "id": "6561",
+    "name": "Image, social and other personal consultants",
+    "lead statement": "Image, social and other personal consultants advise clients on their personal appearance, speaking style, manners or other behaviours in order to improve personal or business images. They are employed by beauty salons, fashion boutiques, modelling schools, image consulting companies, weight loss centres or they may be self-employed.",
+    "example titles": [
+        "corporate image consultant",
+        "etiquette consultant",
+        "fashion and wardrobe consultant",
+        "fashion colour analyst",
+        "fashion colour consultant",
+        "fashion consultant",
+        "image consultant",
+        "image co-ordinator",
+        "make-up consultant",
+        "personal image consultant",
+        "personal image counsellor",
+        "personal improvement consultant",
+        "personal style co-ordinator",
+        "personal wardrobe consultant",
+        "professional image consultant",
+        "public image consultant – personal consultants",
+        "public speaking consultant",
+        "social consultant",
+        "wardrobe consultant",
+        "wedding consultant",
+        "wedding services consultant",
+        "weight loss adviser",
+        "weight loss consultant"
+    ],
+    "main duties": [
+        "Advise clients on hair colour, hairstyles, make-up, clothing and accessories; may advise on posture, general appearance and manners, and provide courses and seminars on business and social etiquette.",
+        "Advise clients on type, colour and application of make-up.",
+        "Advise clients on choice of colours for clothing that will complement their appearance.",
+        "Advise clients on the selection of wedding gowns, floral arrangements, banquet facilities, wedding invitations and other items related to weddings.",
+        "Administer commercial weight-loss programs, advise clients on diet and exercise and provide related support services."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Specialized training courses are available for colour consultants, make-up and skin care consultants, weight loss consultants and most other occupations in this unit group.",
+        "Experience and expertise in fashion, art, modelling or related fields is usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Cosmeticians and manicurists (in 6562 Estheticians, electrologists and related occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6562&ver=16"
+        },
+        {
+            "name": "Hairstylists and barbers (6341)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6341&ver=16"
+        },
+        {
+            "name": "Modelling school instructors (in 4216 Other instructors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4216&ver=16"
+        },
+        {
+            "name": "Other personal service occupations (6564)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6564&ver=16"
+        }
+    ]
+}

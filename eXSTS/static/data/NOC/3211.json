@@ -1,0 +1,72 @@
+{
+    "id": "3211",
+    "name": "Medical laboratory technologists",
+    "lead statement": "Medical laboratory technologists conduct medical laboratory tests, experiments and analyses to assist in the diagnosis, treatment and prevention of disease. They are employed in medical laboratories in hospitals, blood banks, community and private clinics, research facilities and post-secondary educational institutions. Medical laboratory technologists who are supervisors are included in this unit group.",
+    "example titles": [
+        "advanced registered technologist – medical laboratory",
+        "anatomical pathology technologist",
+        "autopsy technologist – medical laboratory",
+        "biochemistry technologist – medical laboratory",
+        "blood bank technologist",
+        "charge technologist – medical laboratory",
+        "clinical immunology technologist",
+        "clinical laboratory technologist",
+        "combined laboratory and x-ray technologist",
+        "cytogenetics technologist – medical laboratory",
+        "cytology technologist",
+        "cytotechnologist – medical laboratory",
+        "electron microscopy technologist – medical laboratory",
+        "hematology technologist – medical laboratory",
+        "histology technologist",
+        "histology technologist – medical laboratory",
+        "histopathology technologist",
+        "histotechnologist – medical laboratory",
+        "immunohematology technologist",
+        "immunohematology technologist – medical laboratory",
+        "immunology technologist – medical laboratory",
+        "in-charge technologist – autopsy services",
+        "medical laboratory supervisor",
+        "medical laboratory technical supervisor",
+        "medical laboratory technologist",
+        "medical technologist",
+        "medical technologist – medical laboratory",
+        "medical technologists supervisor",
+        "microbiology technologist – medical laboratory",
+        "registered medical technologist",
+        "registered technologist – medical",
+        "serology technologist",
+        "tissue technologist – medical laboratory"
+    ],
+    "main duties": [
+        "Set up, operate and maintain laboratory equipment",
+        "Conduct and interpret chemical analyses of blood, urine, and cerebrospinal and other body fluids",
+        "Study blood cells and other tissues to determine their relation to various physiological and pathological conditions",
+        "Prepare tissue sections for microscopic examinations using techniques to demonstrate special cellular tissue elements or other characteristics",
+        "Perform and interpret blood group, type and compatibility tests for transfusion purposes",
+        "Establish procedures for the analysis of specimens and for medical laboratory experiments",
+        "Conduct quality control assessment of testing techniques",
+        "May supervise and train other medical laboratory technical staff, students and helpers",
+        "May assist pathologists during autopsies.",
+        "Medical laboratory technologists may specialize in areas such as clinical chemistry, clinical microbiology, hematology, histotechnology, immunohematology, cytotechnology and cytogenetics."
+    ],
+    "employment requirements": [
+        "A two- or three-year college program in medical laboratory technology is required\r\n and a period of supervised practical training may be required.",
+        "Registration with a regulatory body is required in Newfoundland and Labrador, Nova Scotia, New Brunswick, Quebec, Ontario, Manitoba, Saskatchewan, and Alberta.",
+        "Certification by the Canadian Society for Medical Laboratory Science is usually required by employers."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Life science technologists in non-medical laboratories (in 2221 Biological technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2221&ver=16"
+        },
+        {
+            "name": "Medical laboratory technicians and pathologists' assistants (3212)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3212&ver=16"
+        },
+        {
+            "name": "Science technologists in non-medical laboratories (in 2211 Chemical technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2211&ver=16"
+        }
+    ]
+}

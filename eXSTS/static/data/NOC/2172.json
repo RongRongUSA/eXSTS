@@ -1,0 +1,77 @@
+{
+    "id": "2172",
+    "name": "Database analysts and data administrators",
+    "lead statement": "Database analysts design, develop and administer data management solutions using database management software. Data administrators develop and implement data administration policy, standards and models. They are employed in information technology consulting firms and in information technology units throughout the private and public sectors.",
+    "example titles": [
+        "data administrator",
+        "data analyst – informatics and systems",
+        "data custodian",
+        "data dictionary administrator",
+        "data miner",
+        "data mining analyst",
+        "data processing specialist",
+        "data scientist",
+        "data warehouse analyst",
+        "database administrator (DBA)",
+        "database analyst",
+        "database architect",
+        "database designer",
+        "database management supervisor – computer systems",
+        "database manager",
+        "electronic data processing (EDP) analyst",
+        "electronic data processing (EDP) specialist",
+        "electronic data processing (EDP) systems analyst",
+        "information resource analyst",
+        "technical architect – database"
+    ],
+    "main duties": [
+        {
+            "duty_name": "Database analysts",
+            "duty_description": [],
+            "duty_comment": null
+        },
+        {
+            "duty_name": "Data administrators",
+            "duty_description": [
+                "Develop and implement data administration policy, standards and models",
+                "Research and document data requirements, data collection and administration policy, data access rules and security",
+                "Develop policies and procedures for network and/or Internet database access and usage and for the backup and recovery of data",
+                "Conduct research and provide advice to other information systems professionals regarding the collection, availability, security and suitability of data",
+                "Write scripts related to stored procedures and triggers",
+                "May lead and co-ordinate teams of data administrators in the development and implementation of data policies, standards and models."
+            ],
+            "duty_comment": null
+        }
+    ],
+    "employment requirements": [
+        "A bachelor's degree, usually in computer science or in mathematics\r\n or completion of a college program in computer science is usually required.",
+        "Computer programming experience is usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Computer and information systems managers (0213)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0213&ver=16"
+        },
+        {
+            "name": "Computer engineers (except software engineers and designers) (2147)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2147&ver=16"
+        },
+        {
+            "name": "Computer programmers and interactive media developers (2174)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2174&ver=16"
+        },
+        {
+            "name": "Information systems analysts and consultants (2171)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2171&ver=16"
+        },
+        {
+            "name": "Software engineers and designers (2173)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2173&ver=16"
+        },
+        {
+            "name": "Web designers and developers (2175)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2175&ver=16"
+        }
+    ]
+}

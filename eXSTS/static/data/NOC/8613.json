@@ -1,0 +1,70 @@
+{
+    "id": "8613",
+    "name": "Aquaculture and marine harvest labourers",
+    "lead statement": "This unit group includes aquaculture support workers, marine plant gatherers, shellfish diggers and other labourers in aquaculture and fishing. Aquaculture support workers are employed by public or private fish hatcheries and commercial aquatic farms. Marine plant gatherers and mollusk harvesters may be self-employed.",
+    "example titles": [
+        "aquaculture support worker",
+        "aquaculture worker",
+        "clam digger",
+        "dulse gatherer",
+        "fish farm helper",
+        "fish farm worker",
+        "fish hatchery attendant",
+        "fish hatchery tagger",
+        "fish hatchery worker – aquaculture",
+        "fish tagger",
+        "fry marker",
+        "fry marker – fishing",
+        "fry tagger",
+        "hatchery helper",
+        "hatchery worker – aquaculture",
+        "Irish moss gatherer",
+        "lobster pound attendant",
+        "marine plant gatherer",
+        "mussel farm labourer",
+        "mussel harvester",
+        "oyster harvester",
+        "oyster picker",
+        "oyster picker-shucker",
+        "quahog digger",
+        "sea farm attendant",
+        "sea farm worker",
+        "seaweed gatherer",
+        "shellfish bed attendant",
+        "shellfish harvester"
+    ],
+    "main duties": [
+        "Assist aquaculture technicians in the operation of fish hatcheries or other aquatic farms",
+        "Feed aquaculture stocks, vaccinate stocks, perform culling and marking or banding techniques and report any observed irregularities in stocks",
+        "Operate, maintain and clean pumps, filters, tanks and other aquaculture equipment and clean and maintain aquaculture enclosures",
+        "Keep daily records of water flow and fish, shellfish and marine plant samples",
+        "Grade and weigh aquaculture stocks",
+        "Prepare aquaculture stocks for market",
+        "May operate boats for aquaculture operations.",
+        "Rake seaweed, dulse or Irish moss from beach, rocks or shallow water and load into a cart, wagon or other receptacles",
+        "Spread gatherings to dry and remove foreign objects",
+        "Transport gatherings to processing plant.",
+        "Dig clams from beds with spades, forks or other instruments, or collect other mollusks",
+        "Clean, sort and transport mollusks to market."
+    ],
+    "employment requirements": [
+        "Some secondary school education is usually required.",
+        "Shellfish harvesters require commercial fishing licences.",
+        "Marine Emergency Duties certificate may be required for some occupations in this unit group."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Fishermen/women (8262)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8262&ver=16"
+        },
+        {
+            "name": "Fishing vessel deckhands (8441)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8441&ver=16"
+        },
+        {
+            "name": "Managers in aquaculture (0823)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0823&ver=16"
+        }
+    ]
+}

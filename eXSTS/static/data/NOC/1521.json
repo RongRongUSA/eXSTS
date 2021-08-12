@@ -1,0 +1,80 @@
+{
+    "id": "1521",
+    "name": "Shippers and receivers",
+    "lead statement": "Shippers and receivers ship, receive and record the movement of parts, supplies, materials, equipment and stock to and from an establishment. They are employed in the public sector and by retail and wholesale establishments, manufacturing companies, and other commercial and industrial establishments.",
+    "example titles": [
+        "billing rate clerk",
+        "cargo location clerk",
+        "delivery clerk",
+        "distribution clerk",
+        "export traffic clerk",
+        "export-booking clerk",
+        "freight checker",
+        "freight forwarding clerk",
+        "freight receiver",
+        "freight receiver clerk",
+        "freight receiving clerk",
+        "freight shipper",
+        "import freight clerk",
+        "import traffic clerk",
+        "milk and cream receiver – food and beverage processing",
+        "produce shipper",
+        "receiver",
+        "receiving checker",
+        "receiving clerk",
+        "receiving clerk for returned merchandise",
+        "receiving room clerk",
+        "shipper",
+        "shipper-receiver",
+        "shipping agent",
+        "shipping and receiving clerk",
+        "shipping clerk",
+        "stock handler",
+        "stock receiver",
+        "supercargo",
+        "supply chain assistant",
+        "warehouse receiver",
+        "warehouse shipper",
+        "warehouse shipping clerk"
+    ],
+    "main duties": [
+        "Determine method of shipment and arrange shipping; prepare bills of lading, customs forms, invoices and other shipping documents manually or by computer",
+        "Assemble containers and crates, record contents manually or by computer, pack goods to be shipped and affix identifying information and shipping instructions",
+        "Oversee loading and unloading of goods from trucks or other conveyances",
+        "Inspect and verify incoming goods against invoices or other documents, record shortages and reject damaged goods",
+        "Unpack, code and route goods to appropriate storage areas",
+        "Maintain internal, manual or computerized record-keeping systems",
+        "May operate forklift, hand truck or other equipment to load, unload, transport and store goods."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Experience in a related clerical occupation or as a warehouse worker may be required.",
+        "A forklift certificate may be required.",
+        "A driver's licence may be required."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with additional training or experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Material handlers (7452)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7452&ver=16"
+        },
+        {
+            "name": "Purchasing and inventory control workers (1524)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1524&ver=16"
+        },
+        {
+            "name": "Storekeepers and partspersons (1522)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1522&ver=16"
+        },
+        {
+            "name": "Supervisors, supply chain, tracking and scheduling co-ordination occupations (1215)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1215&ver=16"
+        },
+        {
+            "name": "Import and export clerk (in 1452 Correspondence, publication and regulatory clerks",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1452&ver=16"
+        }
+    ]
+}

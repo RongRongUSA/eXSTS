@@ -1,0 +1,79 @@
+{
+    "id": "3132",
+    "name": "Dietitians and nutritionists",
+    "lead statement": "Dietitians and nutritionists plan, implement and oversee nutrition and food service programs. They are employed in a variety of settings including hospitals, home health-care agencies and extended care facilities, community health centres, the food and beverage industry, educational institutions, and government and sports organizations, or they may work as private consultants.",
+    "example titles": [
+        "administrative dietitian",
+        "administrative nutritionist",
+        "clinical dietitian",
+        "clinical nutritionist",
+        "community dietitian",
+        "community nutritionist",
+        "consultant dietitian",
+        "consultant nutritionist",
+        "dietetic consultant",
+        "dietician",
+        "dietitian",
+        "dietitian-nutritionist",
+        "nutrition and dietetics researcher",
+        "nutrition consultant",
+        "nutrition researcher",
+        "nutrition specialist",
+        "nutritionist",
+        "private practice dietitian",
+        "professional dietitian (P.Dt.)",
+        "professional nutritionist",
+        "public health dietitian",
+        "public health nutritionist",
+        "registered dietitian (RD)",
+        "registered dietitian-nutritionist (RDN)",
+        "registered nutritionist",
+        "registered professional dietitian",
+        "registered professional nutritionist",
+        "research dietitian",
+        "research nutritionist",
+        "therapeutic dietitian",
+        "therapeutic nutritionist"
+    ],
+    "main duties": [
+        "Develop, administer and supervise nutrition and food preparation and service programs in hospitals, nursing homes, schools, company cafeterias or similar settings",
+        "Provide nutrition guidance, label interpretation and consultation services to health professionals, individuals, dietetic interns, community groups, government and the media",
+        "Evaluate nutritional status of individuals and aid in the prevention and/or treatment of inadequate nutrition",
+        "Plan, evaluate and conduct nutrition education programs and develop educational materials for various audiences",
+        "Practice on an individual basis or as a member of an interdisciplinary team to determine nutritional needs of patients and to plan, implement and evaluate normal and therapeutic menus to maintain and enhance general health",
+        "Analyze current scientific nutritional studies, conduct research and evaluate program effectiveness to improve the nutritional value, taste, appearance and preparation of food",
+        "Work within industry in the development, testing and evaluation, and marketing of food and nutrition products or as a company representative supplying product related information to health professionals",
+        "Confer with other health professionals, community groups, government and the media to provide consultation and advice in areas of nutrition interpretation, intervention and policy",
+        "Supervise training of dietetic interns.",
+        "Dietitians and nutritionists may specialize in areas such as administrative dietetics, clinical dietetics, community dietetics, public health nutrition or research dietetics."
+    ],
+    "employment requirements": [
+        "Dietitians require a bachelor's or master's degree in dietetics, nutrition or a related field such as food and nutritional science or biochemistry \r\n and a period of supervised practical training.",
+        "Registration with a regulatory body is required in all provinces for dietitians.",
+        "Membership in the national association, Dietitians of Canada, may be required for dietitians to practise.",
+        "Nutritionists usually require similar education and training as dietitians.",
+        "Registration with a regulatory body is required for nutritionists in Nova Scotia, (as a registered dietitian-nutritionist) in New Brunswick, Quebec and Alberta.",
+        "Membership with the national association, Dietitians of Canada, and/or a provincial regulatory body is available for nutritionists who have the same education and practical training as dietitians."
+    ],
+    "additional information": [
+        "Dietitians and nutritionists may progress to management positions through additional experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Dietary technicians (in 3219 Other medical technologists and technicians (except dental health)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3219&ver=16"
+        },
+        {
+            "name": "Directors of dietetics (in 0311 Managers in health care",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0311&ver=16"
+        },
+        {
+            "name": "Food service supervisors (6311)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6311&ver=16"
+        },
+        {
+            "name": "Home economists (in 4164 Social policy researchers, consultants and program officers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4164&ver=16"
+        }
+    ]
+}

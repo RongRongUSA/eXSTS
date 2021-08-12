@@ -1,0 +1,45 @@
+{
+    "id": "1214",
+    "name": "Supervisors, mail and message distribution occupations",
+    "lead statement": "Supervisors in this unit group supervise and co-ordinate the activities of workers in the following unit groups:  (1511),  (1512) and  (1513). They are employed by Canada Post Corporation, courier companies, governments and large corporations.",
+    "example titles": [
+        "assistant postmaster/mistress",
+        "courier service supervisor",
+        "letter carriers supervisor",
+        "mail and postal clerks supervisor",
+        "mail carriers supervisor",
+        "mail clerks supervisor",
+        "mail facilities senior administrator",
+        "mail room supervisor",
+        "messenger service supervisor",
+        "postal clerks supervisor",
+        "postal station employees supervisor",
+        "postal station supervisor",
+        "postal workers supervisor",
+        "postmaster/mistress"
+    ],
+    "main duties": [
+        "Co-ordinate, assign and review the work of postal clerks, letter carriers and couriers engaged in the collecting, sorting and delivering of mail, parcels and other material",
+        "Establish work schedules and procedures and co-ordinate activities with other work units or departments",
+        "Resolve work-related problems and prepare and submit progress and other reports",
+        "Train workers in job duties, safety procedures and company policies",
+        "Requisition supplies and materials",
+        "Ensure smooth operation of computer systems and equipment and arrange for maintenance and repair work",
+        "May perform the same duties as workers supervised."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Several years of experience in the occupation supervised are usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Postal and courier services managers (0132)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0132&ver=16"
+        },
+        {
+            "name": "Shipping and receiving supervisors (in 1215 Supervisors, supply chain, tracking and scheduling co-ordination occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1215&ver=16"
+        }
+    ]
+}

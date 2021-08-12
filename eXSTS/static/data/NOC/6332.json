@@ -1,0 +1,73 @@
+{
+    "id": "6332",
+    "name": "Bakers",
+    "lead statement": "Bakers prepare bread, rolls, muffins, pies, pastries, cakes and cookies in retail and wholesale bakeries and dining establishments. They are employed in bakeries, supermarkets, catering companies, hotels, restaurants, hospitals, and other institutions, or they may be self-employed. Bakers who are supervisors are included in this unit group.",
+    "example titles": [
+        "apprentice baker – retail",
+        "bagel baker",
+        "bagel maker",
+        "baker",
+        "baker – retail",
+        "baker apprentice",
+        "bakery bench hand",
+        "bakery supervisor",
+        "bakery supervisor – retail",
+        "biscuit baker",
+        "bread baker",
+        "bread baker – retail",
+        "cake and pastry decorator – retail",
+        "cake baker – retail",
+        "cake decorator",
+        "cake decorator – retail",
+        "cake icer",
+        "chocolate maker",
+        "donut baker",
+        "donut maker",
+        "French pastry baker – retail",
+        "grocery store baker",
+        "hand icer – bakery",
+        "head baker",
+        "head baker – retail",
+        "hospital baker",
+        "hotel baker",
+        "junior baker",
+        "muffin baker",
+        "muffin maker",
+        "pastry decorator",
+        "pastry decorator – retail",
+        "pastry maker",
+        "specialty foods baker",
+        "specialty foods baker – retail",
+        "wedding cake decorator"
+    ],
+    "main duties": [
+        "Prepare dough for pies, bread, rolls and sweet goods, batters for muffins, cookies and cakes and icings and frostings according to recipes or special customer orders",
+        "Bake mixed doughs and batters",
+        "Frost and decorate cakes or other baked goods",
+        "Ensure quality of products meets established standards",
+        "Draw up production schedule to determine type and quantity of goods to produce",
+        "Purchase baking supplies",
+        "May oversee sales and merchandising of baked goods",
+        "May hire, train and supervise baking personnel and kitchen staff."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a three- or four-year apprenticeship program for bakers \r\n or completion of a college or other program for bakers\r\n or several years of commercial baking experience is usually required.",
+        "On-the-job training may be provided.",
+        "Trade certification is available, but voluntary, in Newfoundland and Labrador, Nova Scotia, Prince Edward Island, New Brunswick, Quebec, Ontario, Alberta, British Columbia, the Yukon, the Northwest Territories and Nunavut.",
+        "Red Seal endorsement is also available to qualified bakers upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility."
+    ],
+    "exclusions": [
+        {
+            "name": "Baking machine operators (in 9461 Process control and machine operators, food and beverage processing",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9461&ver=16"
+        },
+        {
+            "name": "Pastry chefs (in 6321 Chefs",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6321&ver=16"
+        }
+    ]
+}

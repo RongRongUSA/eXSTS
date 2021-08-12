@@ -1,0 +1,110 @@
+{
+    "id": "5123",
+    "name": "Journalists",
+    "lead statement": "Journalists research, investigate, interpret and communicate news and public affairs through newspapers, television, radio and other media. Journalists are employed by radio and television networks and stations, newspapers and magazines. Journalists may also work on a freelance basis.",
+    "example titles": [
+        "anchorman/woman",
+        "art critic",
+        "book critic",
+        "book reviewer",
+        "broadcast journalist",
+        "chronicler",
+        "columnist",
+        "commentator",
+        "correspondent",
+        "critic",
+        "culinary journalist",
+        "cyberjournalist",
+        "cyberreporter",
+        "drama critic",
+        "entertainment columnist",
+        "fashion columnist",
+        "feature reporter",
+        "field reporter",
+        "film critic",
+        "financial reporter",
+        "foreign affairs reporter",
+        "foreign correspondent",
+        "foreign news correspondent",
+        "headline writer",
+        "investigative reporter",
+        "journalist",
+        "law reporter",
+        "literary critic",
+        "movie critic",
+        "multimedia information trader",
+        "music critic",
+        "music reviewer",
+        "netsurfer",
+        "network reporter",
+        "news analyst",
+        "news analyst – broadcasting",
+        "news commentator",
+        "news commentator – broadcasting",
+        "news correspondent",
+        "news reporter",
+        "news writer – international broadcasting",
+        "newscast correspondent",
+        "newspaper correspondent",
+        "newspaper critic",
+        "newspaper editorial writer",
+        "newspaper reporter",
+        "newspaper writer",
+        "on-line chronicler",
+        "on-line columnist",
+        "political analyst – radio or television",
+        "political columnist",
+        "political reporter",
+        "press reporter",
+        "program researcher – radio or television",
+        "radio commentator",
+        "radio researcher",
+        "reporter",
+        "society columnist",
+        "society journalist",
+        "society reporter",
+        "sports columnist",
+        "sports reporter",
+        "sports writer – journalism",
+        "staff writer – newspaper",
+        "stock market reporter",
+        "television news anchorperson",
+        "television researcher",
+        "theatre critic"
+    ],
+    "main duties": [
+        "Collect local, national and international news through interviews, investigation and observation",
+        "Write news stories for publication and broadcast",
+        "Receive, analyze and verify news and other copy for accuracy",
+        "Arrange for and conduct interviews as part of research and for radio and television programs",
+        "Research and report on developments in specialized fields such as medicine, science and technology",
+        "Prepare regular feature columns and stories on specialized topics",
+        "Write editorials and commentaries on topics of current interest to stimulate public interest and express the views of a publication or broadcasting station",
+        "Write critical reviews of literary, musical and other artistic works based on knowledge, judgement and experience.",
+        "Journalists may specialize in print, broadcast or Webcast media, in particular issues such as political affairs or entertainment news, or in a particular geographic area."
+    ],
+    "employment requirements": [
+        "A university degree or college diploma in journalism or a related field such as communications is usually required."
+    ],
+    "additional information": [
+        "Experienced reporters may advance to editorial positions (print media) or become producers (broadcast media)."
+    ],
+    "exclusions": [
+        {
+            "name": "Announcers and other broadcasters (5231)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5231&ver=16"
+        },
+        {
+            "name": "Authors and writers (5121)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5121&ver=16"
+        },
+        {
+            "name": "Editors (5122)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5122&ver=16"
+        },
+        {
+            "name": "Photojournalists (in 5221 Photographers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5221&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "id": "6525",
+    "name": "Hotel front desk clerks",
+    "lead statement": "Hotel front desk clerks make room reservations, provide information and services to guests and receive payment for services. They are employed by hotels, motels and resorts.",
+    "example titles": [
+        "day clerk – hotel",
+        "front desk agent",
+        "front desk hotel clerk",
+        "front office hotel clerk",
+        "guest service agent",
+        "guest service representative – hotel",
+        "guest services agent – hotel",
+        "hotel clerk",
+        "hotel concierge",
+        "hotel front desk clerk",
+        "hotel front office clerk",
+        "hotel night auditor",
+        "hotel receptionist",
+        "night auditor – hotel",
+        "night clerk",
+        "night clerk – hotel",
+        "reception clerk – hotel",
+        "reservations clerk – hotel",
+        "room clerk",
+        "room clerk – hotel",
+        "room service clerk – hotel",
+        "superintendent of services – hotel"
+    ],
+    "main duties": [
+        "Maintain an inventory of vacancies, reservations and room assignments",
+        "Register arriving guests and assign rooms",
+        "Answer enquiries regarding hotel services and registration by letter, by telephone and in person, provide information about services available in the community and respond to guests' complaints",
+        "Compile and check daily record sheets, guest accounts, receipts and vouchers using computerized or manual systems",
+        "Present statements of charges to departing guests and receive payment."
+    ],
+    "employment requirements": [
+        "Completion of secondary school or equivalent is usually required.",
+        "Completion of a two-year apprenticeship program, or a college program in front desk operations or hotel management may be required.",
+        "Guest services representative trade certification is available, but voluntary, in Saskatchewan."
+    ],
+    "additional information": [
+        "Progression to senior positions such as accommodations manager is possible with additional training and experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Supervisors, hotel front desk clerk (in 6313 Accommodation, travel, tourism and related services supervisors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6313&ver=16"
+        },
+        {
+            "name": "Travel counsellors (6521)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6521&ver=16"
+        }
+    ]
+}

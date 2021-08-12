@@ -1,0 +1,54 @@
+{
+    "id": "7361",
+    "name": "Railway and yard locomotive engineers",
+    "lead statement": "Railway locomotive engineers operate railway locomotives to transport passengers and freight. They are employed by railway transport companies. Yard locomotive engineers operate locomotives within yards of railway, industrial or other establishments. They are employed by railway transport companies and industrial or commercial users of rail transport.",
+    "example titles": [
+        "diesel locomotive engineer – railway",
+        "freight train engineer",
+        "industrial locomotive engineer",
+        "locomotive engineer – railway",
+        "locomotive hostler",
+        "passenger train engineer",
+        "passenger train locomotive engineer",
+        "railway engineer",
+        "railway engineer trainee",
+        "railway hostler",
+        "railway locomotive engineer",
+        "switch engineer – railway",
+        "train engineer",
+        "transfer hostler – railway",
+        "yard engineer – railway",
+        "yard locomotive engineer – railway"
+    ],
+    "main duties": [
+        "Operate locomotives to transport passengers and freight on railways",
+        "Operate communication systems to communicate with train crews and traffic controllers to ensure safe operation and scheduling of trains",
+        "Inspect assigned locomotives and test operating controls and equipment.",
+        "Operate locomotives to switch, couple and uncouple cars for loading and unloading",
+        "Perform switching operations according to written switching orders or dispatched instructions",
+        "Inspect locomotives, replenish fuel or perform routine maintenance on locomotives."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Experience as a conductor is required for railway locomotive engineers and may be required for yard locomotive engineers.",
+        "Experience as a railway yard worker may be required for yard locomotive engineers.",
+        "Railway locomotive engineers require a Canadian Rail Operating Rules certificate."
+    ],
+    "additional information": [
+        "Mobility between railway transport companies or between establishments employing locomotive engineers may be limited due to seniority provisions of collective agreements."
+    ],
+    "exclusions": [
+        {
+            "name": "Subway and light rail transit operators (in 7512 Bus drivers, subway operators and other transit operators",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7512&ver=16"
+        },
+        {
+            "name": "Supervisors, railway transport operations (7304)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7304&ver=16"
+        },
+        {
+            "name": "Train dispatchers (in 2275 Railway traffic controllers and marine traffic regulators",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2275&ver=16"
+        }
+    ]
+}

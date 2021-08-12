@@ -1,0 +1,92 @@
+{
+    "id": "0125",
+    "name": "Other business services managers",
+    "lead statement": "Managers in this unit group plan, organize, direct, control and evaluate the operations of establishments that provide services to business, and ensure the quality of those services and client satisfaction. They work in fields such as management consulting, market research, personnel and payroll services, contact centre services and security services.",
+    "example titles": [
+        "accounting firm manager",
+        "accounting firm manager – business services",
+        "audit firm manager",
+        "auditing firm manager",
+        "call centre manager",
+        "conference development manager",
+        "conference services manager",
+        "contact centre manager",
+        "customs manager – business services",
+        "detective agency manager",
+        "employment agency manager",
+        "employment office manager",
+        "energy asset joint venture manager",
+        "land contracts manager",
+        "legal firm manager",
+        "management consulting service manager",
+        "management services division head – business services",
+        "market research service manager",
+        "methods and procedures manager",
+        "mineral land administration manager",
+        "mineral land and contract manager",
+        "nursing registry manager",
+        "organizational methods analysis director",
+        "organizational methods analysis director – business services",
+        "organizational methods analysis manager",
+        "organizational planning and development director",
+        "organizational services head",
+        "payroll service manager",
+        "personnel agency manager",
+        "personnel consulting service manager",
+        "placement agency manager",
+        "placement office manager",
+        "private investigation and security service manager",
+        "professional services manager – business services",
+        "security service manager",
+        "surface land administration manager",
+        "survey research service manager",
+        "well and facilities asset manager"
+    ],
+    "main duties": [
+        "Plan, organize, direct, control and evaluate the operations of establishments that provide services to business such as management consulting, market research, personnel and payroll services, contact centre services and security services",
+        "Plan, develop and organize the policies and procedures of these establishments",
+        "Develop action plans, provide expertise in response to client needs, and support and advise project teams",
+        "Direct and advise staff in the development and implementation of service quality assessment strategies",
+        "Plan, administer and control budgets for client projects, contracts, equipment and supplies",
+        "Represent the company within various economic and social organizations",
+        "Assist staff with administrative or technical problems",
+        "Hire, train and supervise staff."
+    ],
+    "employment requirements": [
+        "A bachelor's degree or college diploma in a field related to the business service provided is usually required.",
+        "Several years of experience in a field related to the business service provided are usually required.",
+        "Licences, certificates or registration may be required for some business services managers. For example, accounting firm managers usually require accounting certification.",
+        "University studies in business administration may be required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Advertising, marketing and public relations managers (0124)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0124&ver=16"
+        },
+        {
+            "name": "Architecture and science managers (0212)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0212&ver=16"
+        },
+        {
+            "name": "Banking, credit and other investment managers (0122)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0122&ver=16"
+        },
+        {
+            "name": "Computer and information systems managers (0213)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0213&ver=16"
+        },
+        {
+            "name": "Engineering managers (0211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0211&ver=16"
+        },
+        {
+            "name": "Insurance, real estate and financial brokerage managers (0121)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0121&ver=16"
+        },
+        {
+            "name": "Senior managers - financial, communications and other business services (0013)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0013&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "id": "4032",
+    "name": "Elementary school and kindergarten teachers",
+    "lead statement": "Elementary school and kindergarten teachers teach basic subjects such as reading, writing and arithmetic or specialized subjects such as English or French as a second language at public and private elementary schools.",
+    "example titles": [
+        "Aboriginal school teacher – elementary school",
+        "art teacher – elementary school",
+        "cooking teacher – elementary school",
+        "correspondence teacher – elementary school",
+        "crafts teacher – elementary school",
+        "early childhood services teacher – elementary school",
+        "elementary school reading clinician",
+        "elementary school substitute teacher",
+        "elementary school supply teacher",
+        "elementary school teacher",
+        "English as a second language elementary school teacher",
+        "English as a second language teacher – elementary school",
+        "English teacher – elementary school",
+        "French as a second language elementary school teacher",
+        "French as a second language teacher – elementary school",
+        "French immersion teacher – elementary school",
+        "French teacher – elementary school",
+        "grade school teacher",
+        "home economics teacher – elementary school",
+        "industrial arts teacher – elementary school",
+        "junior high school teacher",
+        "kindergarten teacher",
+        "language teacher – elementary school",
+        "music teacher – elementary school",
+        "nature study teacher – elementary school",
+        "physical education teacher – elementary school",
+        "primary school teacher",
+        "reading clinician – elementary school",
+        "remedial teacher – elementary school",
+        "sewing teacher – elementary school",
+        "special education teacher – elementary school",
+        "special education teacher – primary school",
+        "special needs teacher – elementary school",
+        "substitute teacher – elementary school",
+        "supply teacher – elementary school",
+        "teacher – junior kindergarten",
+        "teacher-librarian – elementary school",
+        "visiting teacher – elementary school"
+    ],
+    "main duties": [
+        "Prepare courses for presentation to students according to approved curriculum",
+        "Teach students using a systematic plan of lessons, discussions, audio-visual presentations and field trips",
+        "Lead students in activities to promote their physical, mental and social development and their school readiness",
+        "Assign and correct homework",
+        "Prepare, administer and correct tests",
+        "Evaluate the progress of students and discuss results with students, parents and school officials",
+        "Identify children's individual learning needs",
+        "Prepare and implement remedial programs for students requiring extra help",
+        "Participate in staff meetings, educational conferences and teacher training workshops",
+        "May supervise teachers' aides and student teachers.",
+        "Elementary school and kindergarten teachers may specialize in such areas as special education or second language instruction."
+    ],
+    "employment requirements": [
+        "A bachelor's degree in education is required.",
+        "A bachelor's degree in child development may be required.",
+        "Additional training is required to specialize in special education or second language instruction.",
+        "A provincial teaching certificate is required. Additional certification is required to teach English or French as a second language.",
+        "Membership in a provincial or territorial teachers' association or federation is usually required."
+    ],
+    "additional information": [
+        "Progression to education consultant or school principal is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Early childhood educators and assistants (4214)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4214&ver=16"
+        },
+        {
+            "name": "Elementary and secondary school teacher assistants (4413)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4413&ver=16"
+        },
+        {
+            "name": "Elementary school librarians (in 5211 Library and public archive technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5211&ver=16"
+        },
+        {
+            "name": "Psychoeducators (in 4153 Family, marriage and other related counsellors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4153&ver=16"
+        },
+        {
+            "name": "School principals and administrators of elementary and secondary education (0422)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0422&ver=16"
+        },
+        {
+            "name": "Secondary school teachers (4031)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4031&ver=16"
+        },
+        {
+            "name": "Teachers of persons with developmental disabilities (in 4215 Instructors of persons with disabilities",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4215&ver=16"
+        }
+    ]
+}

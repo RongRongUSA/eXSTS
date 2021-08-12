@@ -1,0 +1,97 @@
+{
+    "id": "5223",
+    "name": "Graphic arts technicians",
+    "lead statement": "Graphic arts technicians assist in conceptualizing a project, interpreting design specifications or sketches, preparing the page make-up, lay-out and lettering, and preparing production materials for press, electronic or multimedia publishing. They are employed by publishing, communications, advertising, marketing, printing and multimedia establishments, and by television and film production companies. They may also be self-employed.",
+    "example titles": [
+        "airbrush artist",
+        "animated cartoon inker",
+        "animated cartoon painter",
+        "animated cartoon technician",
+        "animated cartoons inker and painter",
+        "animation camera operator",
+        "animation inker",
+        "animation painter",
+        "apprentice sign painter",
+        "art work assembler",
+        "cartoon background artist",
+        "compositor – animation",
+        "compositor – film",
+        "computer graphics design technician",
+        "computer graphics operator",
+        "computer graphics technician",
+        "design assistant – advertising production",
+        "digital graphic design technician",
+        "graphic arts assembler",
+        "graphic arts copy stylist",
+        "graphic arts renderer",
+        "graphic arts technician",
+        "graphics technician",
+        "hand painter – graphic arts",
+        "lettering artist",
+        "mannequin artist",
+        "multimedia graphic design technician",
+        "multimedia graphics technician",
+        "paste-up artist",
+        "photo process letterer – graphic arts",
+        "photo stencil maker",
+        "photograph retoucher",
+        "photographic airbrush artist",
+        "photographic colourist",
+        "photography colourist",
+        "poster layout designer",
+        "poster painter",
+        "rendering specialist",
+        "screen stencil cutter – graphic arts",
+        "sign layout detailer",
+        "sign painter",
+        "sign writer",
+        "silkscreen stencil cutter",
+        "silkscreen technician",
+        "stencil marker",
+        "stencil marker – graphic arts",
+        "traffic sign painter",
+        "VFX artist",
+        "video game artist",
+        "video game designer",
+        "vinyl lettering artist",
+        "visual effects artist"
+    ],
+    "main duties": [
+        "Review the graphic designer's instructions",
+        "Produce or assist in developing and producing design concepts",
+        "Capture elements such as titles, text, drawings, illustrations, graphics, lettering and colour harmonization, using a computer",
+        "Produce computerized images and drawings",
+        "Digitize images using peripherals and transform them using retouching systems, graphic palettes or specialized software",
+        "Perform the layout, page make-up and placement using the conceptual mock-ups provided",
+        "Produce proofs and camera-ready materials and prepare film and any other prepress materials",
+        "Paint or ink individual cells of 2-D or 3-D animated drawings according to animator's specifications using an electronic palette",
+        "Lay out, draw or paint letters, figures, logos and designs for windows, advertisements, billboards, vehicles, books and publications using specialized software or painting equipment",
+        "Work in an interdisciplinary environment."
+    ],
+    "employment requirements": [
+        "A college diploma in commercial or graphic arts, computer graphics or animated design is required.",
+        "Experience or training in multimedia design at a post-secondary, college or technical institution may be required.",
+        "Creative ability and artistic talent, as demonstrated by a portfolio of work, are required."
+    ],
+    "additional information": [
+        "Progression to graphic designer positions is possible with experience or supplementary training."
+    ],
+    "exclusions": [
+        {
+            "name": "Camera, platemaking and other prepress occupations (9472)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9472&ver=16"
+        },
+        {
+            "name": "Correspondence, publication and regulatory clerks (1452)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1452&ver=16"
+        },
+        {
+            "name": "Desktop publishing specialists (in 1423 Desktop publishing operators and related occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1423&ver=16"
+        },
+        {
+            "name": "Graphic designers and illustrators (5241)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5241&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "id": "7281",
+    "name": "Bricklayers",
+    "lead statement": "Bricklayers lay bricks, concrete blocks, stone and other similar materials to construct or repair walls, arches, chimneys, fireplaces and other structures in accordance with blueprints and specifications. They are employed by construction companies and bricklaying contractors or they may be self-employed.",
+    "example titles": [
+        "apprentice bricklayer",
+        "apprentice brickmason",
+        "apprentice mason",
+        "artificial stone mason",
+        "artificial stone setter",
+        "brick and stone mason",
+        "brick chimney builder",
+        "brick setter",
+        "bricklayer",
+        "brickmason",
+        "chimney bricklayer",
+        "chimney repair bricklayer",
+        "chimney repair stonemason",
+        "cinder block mason",
+        "cinder block setter",
+        "concrete block setter",
+        "fire brick layer",
+        "fire brick liner repairer",
+        "fireplace brickmason",
+        "furnace lining bricklayer",
+        "industrial furnace bricklayer",
+        "industrial furnace brickmason",
+        "industrial oven brickmason",
+        "journeyman/woman bricklayer",
+        "journeyman/woman brickmason",
+        "journeyman/woman mason",
+        "journeyman/woman stonemason",
+        "kiln repair bricklayer",
+        "ladle repair bricklayer",
+        "maintenance bricklayer",
+        "masonry silo erector",
+        "permastone installer",
+        "permastone mason",
+        "refractory brick repairer-mason",
+        "refractory bricklayer",
+        "refractory builder",
+        "refractory mason",
+        "residential construction bricklayer",
+        "restoration stonemason",
+        "simulated stone mason",
+        "simulated stone setter",
+        "smokestack bricklayer",
+        "stone setter",
+        "stonecutter",
+        "stonemason",
+        "terra cotta mason"
+    ],
+    "main duties": [
+        "Read sketches and blueprints to calculate materials required",
+        "Cut and trim bricks and concrete blocks to specification using hand and power tools",
+        "Prepare and lay bricks, concrete blocks, stone, structural tiles and similar materials to construct or repair walls, foundations and other structures in residential, industrial and commercial construction",
+        "Lay bricks or other masonry units to build residential or commercial chimneys and fireplaces",
+        "Lay radial bricks to build masonry shells of industrial chimneys",
+        "Lay or install firebricks to line industrial chimneys and smokestacks",
+        "Line or reline furnaces, kilns, boilers and similar installations using refractory or acid-resistant bricks, refractory concretes, plastic refractories and other materials",
+        "Lay bricks, stone or similar materials to provide veneer facing to walls or other surfaces",
+        "Construct and install prefabricated masonry units",
+        "Lay bricks or other masonry units to build patios, garden walls and other decorative installations",
+        "May restore, clean or paint existing masonry structures."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a three- to four-year apprenticeship program \r\n or a combination of over four years of work experience in the trade and some high school, college or industry courses in bricklaying is usually required to be eligible for trade certification.",
+        "Trade certification for bricklayers is compulsory in Nova Scotia, New Brunswick and Quebec and available, but voluntary, in all other provinces and the Yukon.",
+        "Trade certification for stonemasons is available, but voluntary, in Newfoundland and Labrador.",
+        "Trade certification for restoration stone masons is available, but voluntary, in Nova Scotia.",
+        "Red Seal endorsement is also available to qualified bricklayers upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Concrete finishers (7282)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7282&ver=16"
+        },
+        {
+            "name": "Supervisors of bricklayers (in 7205 Contractors and supervisors, other construction trades, installers, repairers and servicers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7205&ver=16"
+        },
+        {
+            "name": "Tilesetters (7283)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7283&ver=16"
+        }
+    ]
+}

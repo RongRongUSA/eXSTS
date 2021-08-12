@@ -1,0 +1,88 @@
+{
+    "id": "8612",
+    "name": "Landscaping and grounds maintenance labourers",
+    "lead statement": "Landscaping and grounds maintenance labourers perform work to assist in the construction of landscapes and related structures, and to maintain lawns, gardens, athletic fields, golf courses, cemeteries, parks, landscaped interiors and other landscaped areas. They are employed by landscaping and lawn care companies, golf courses, cemeteries, and landscaping operations of public works departments and private establishments.",
+    "example titles": [
+        "bulb planter – landscaping",
+        "campground maintenance worker",
+        "cemetery labourer",
+        "cemetery worker",
+        "chemical applicator – lawn care",
+        "gardener helper",
+        "gardening helper",
+        "golf course labourer",
+        "golf course worker",
+        "grass cutter",
+        "grave digger",
+        "greens worker",
+        "greenskeeper helper",
+        "grounds maintainer",
+        "grounds maintenance labourer",
+        "grounds maintenance worker",
+        "groundskeeper",
+        "groundsman/woman",
+        "groundsperson – campground",
+        "landscape gardener helper",
+        "landscape gardening helper",
+        "landscape labourer",
+        "landscape worker",
+        "lawn care labourer",
+        "lawn care worker",
+        "lawn mower",
+        "lawn-mowing worker",
+        "park maintenance labourer",
+        "park maintenance worker",
+        "plant care worker",
+        "plant doctor helper",
+        "snow shoveller – grounds maintenance",
+        "sod layer",
+        "sod laying labourer",
+        "stadium groundskeeper",
+        "transplanter – landscape maintenance",
+        "tree pruner – landscaping",
+        "tree sprayer",
+        "tree surgeon helper",
+        "tree trimmer – landscaping"
+    ],
+    "main duties": [
+        "Spread top soil, lay sod, plant flowers, grass, shrubs and trees and perform other duties to assist with the construction of a landscape and related structures",
+        "Cut grass, rake, aerate, dethatch, fertilize and water lawns, weed gardens, prune shrubs and trees and perform other maintenance duties as directed by supervisor",
+        "Maintain lawns and grass along roadsides",
+        "Operate and maintain power mowers, tractors, chain saws, electric clippers, sod cutters, pruning saws, snowblowers and other landscape maintenance equipment",
+        "Spray and dust trees, shrubs, lawns and gardens, as directed, to control insects and disease",
+        "Perform other manual duties to clean and maintain landscaped environments."
+    ],
+    "employment requirements": [
+        "Some secondary school education may be required.",
+        "A provincial licence to apply chemical fertilizers, fungicides, herbicides and pesticides may be required."
+    ],
+    "additional information": [
+        "Progression to technical or supervisory occupations in landscaping and horticulture is possible with additional training or experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Landscape and horticulture technicians and specialists (2225)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2225&ver=16"
+        },
+        {
+            "name": "Nursery and greenhouse workers (8432)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8432&ver=16"
+        },
+        {
+            "name": "Other trades helpers and labourers (7612)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7612&ver=16"
+        },
+        {
+            "name": "Public works and maintenance labourers (7621)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7621&ver=16"
+        },
+        {
+            "name": "Public works maintenance equipment operators and related workers (7522)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7522&ver=16"
+        },
+        {
+            "name": "Residential and commercial installers and servicers (7441)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7441&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": "0823",
+    "name": "Managers in aquaculture",
+    "lead statement": "Managers in aquaculture manage operations of facilities which cultivate and harvest fish, shellfish or marine plants for replenishment of wildlife stocks or for commercial sale. They are employed by public or private fish hatcheries and commercial aquatic farms, or they may be self-employed.",
+    "example titles": [
+        "aquaculture manager",
+        "aquaculture operator",
+        "eel farmer",
+        "fish culture manager",
+        "fish culture operator",
+        "fish farm manager",
+        "fish farm operator",
+        "fish farmer",
+        "fish hatchery manager",
+        "fish hatchery operator",
+        "lobster farmer",
+        "mussel farmer",
+        "mussel grower",
+        "oyster farmer",
+        "oyster grower",
+        "salmon farmer",
+        "salmon grower",
+        "trout farmer"
+    ],
+    "main duties": [
+        "Manage the overall operation of a fish hatchery, fish farm or other aquatic farm",
+        "Identify requirements of the species and select and oversee preparation of site for species cultivation",
+        "Co-ordinate selection and maintenance of brood stock",
+        "Determine food requirements and structure feeding regimes",
+        "Monitor environment and maintain optimum conditions",
+        "Conduct and supervise stock examination to identify disease or parasites, and apply prescribed medicinal substances to control and prevent infection",
+        "Operate and maintain cultivating and harvesting equipment",
+        "Collect and record growth and production data",
+        "Manage and train aquaculture and fish hatchery support workers and supervise technicians and technologists",
+        "Maintain financial records and establish market strategies, inventory and quality control methods",
+        "May scuba dive to inspect sea farm operations",
+        "May design and construct pens, floating stations and collector strings or fences for sea farms."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "A college diploma in aquaculture or a related field \r\n or several years of experience in fishing or aquaculture operations are usually required.",
+        "A commercial aquaculture or fish hatchery licence, permit or lease is required for self-employed aquaculture managers."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Aquaculture support workers (in 8613 Aquaculture and marine harvest labourers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8613&ver=16"
+        },
+        {
+            "name": "Aquaculture technicians (in 2221 Biological technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2221&ver=16"
+        }
+    ]
+}

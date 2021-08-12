@@ -1,0 +1,112 @@
+{
+    "id": "9415",
+    "name": "Inspectors and testers, mineral and metal processing",
+    "lead statement": "Inspectors and testers in this unit group inspect, grade, sample or test raw materials and products from mineral ore and metal processing operations. They are employed in mineral ore and metal processing plants such as copper, lead and zinc refineries, uranium processing plants, steel mills, aluminum plants, precious metal refineries, cement processing plants, clay, glass and stone processing plants and foundries.",
+    "example titles": [
+        "abrasive and clay products grader",
+        "abrasive wheel tester",
+        "anode adjuster – primary metal processing",
+        "asbestos classifier",
+        "asbestos fibre inspector and tester",
+        "asbestos grader",
+        "asbestos shingle inspector",
+        "brick and tile inspector",
+        "brick and tile tester",
+        "brick grader",
+        "castings inspector – foundry",
+        "castings tester – primary metal and mineral products processing",
+        "cell tester – primary metal processing",
+        "cement plant inspector",
+        "clay products grader",
+        "clay tile grader – mineral products processing",
+        "coke inspector – primary metal processing",
+        "coke sampler and tester – primary metal processing",
+        "concrete products inspector",
+        "concrete products tester",
+        "core inspector – foundry",
+        "core tester – foundry",
+        "electrolytic cell tester – primary metal processing",
+        "fibreglass tester",
+        "finishing inspector – primary metal and mineral products processing",
+        "foundry sand tester",
+        "furnace combustion tester – primary metal processing",
+        "glass container tester",
+        "glass inspector",
+        "glass quality control inspector",
+        "glass tester",
+        "gravel grader – mineral products processing",
+        "hardness tester – primary metal processing",
+        "heat treating inspector – metal processing",
+        "ingots inspector – primary metal processing",
+        "inspector – metal processing",
+        "inspector – primary metal and mineral products processing",
+        "iron pellet hardness tester – metal processing",
+        "laminated asbestos products inspector",
+        "metal processing inspector",
+        "metal strength tester – primary metal processing",
+        "metal tensile strength tester – primary metal processing",
+        "mineral sampler – mineral products processing",
+        "molten metal sampler – primary metal processing",
+        "monument inspector – mineral products processing",
+        "ore sample tester – mineral products processing",
+        "ore sampler – mineral products processing",
+        "physical tester – steel mill",
+        "plasterboard inspector – mineral products processing",
+        "pottery and porcelain ware inspector",
+        "quality assurance inspector – steel mill",
+        "salvage glass inspector",
+        "sample tester – primary metal and mineral products processing",
+        "sampler – primary metal and mineral products processing",
+        "sheet and plate inspector – steel mill",
+        "sheet steel inspector – primary metal processing",
+        "steel inspector – primary metal processing",
+        "steel sheet inspector – primary metal processing",
+        "steel tester – primary metal processing",
+        "stone inspector – mineral products processing",
+        "stonework grader",
+        "tester and inspector – primary metal and mineral products processing",
+        "tin plate inspector and grader",
+        "uranium ore evaluator",
+        "wire products inspector",
+        "wire tester and inspector – primary metal processing"
+    ],
+    "main duties": [
+        "Inspect mineral ore, metal, cement, glass, clay or concrete products at various stages of processing to ensure adherence to specifications",
+        "Grade and label raw materials or finished products according to size, thickness, composition or other classification standards",
+        "Take samples of products during or after processing operation for routine analysis or for subsequent laboratory analysis",
+        "Test product for strength, density, durability and conformance to specifications",
+        "Advise supervisor or central control operator and process machine operators of problems and product deficiencies",
+        "Complete inspection and test reports."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Experience as a machine or process operator in mineral and metal processing is usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Central control and process operators, mineral and metal processing (9231)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9231&ver=16"
+        },
+        {
+            "name": "Machine operators, mineral and metal processing (9411)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9411&ver=16"
+        },
+        {
+            "name": "Metallurgical control analysts and mineralogical assayers (in 2212 Geological and mineral technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2212&ver=16"
+        },
+        {
+            "name": "Non-destructive testers and inspection technicians (2261)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2261&ver=16"
+        },
+        {
+            "name": "Quality control technologists and technicians (chemical) (in 2211 Chemical technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2211&ver=16"
+        },
+        {
+            "name": "Supervisors, mineral and metal processing (9211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9211&ver=16"
+        }
+    ]
+}

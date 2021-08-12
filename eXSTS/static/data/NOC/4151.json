@@ -1,0 +1,90 @@
+{
+    "id": "4151",
+    "name": "Psychologists",
+    "lead statement": "Psychologists assess and diagnose behavioural, emotional and cognitive disorders, counsel clients, provide therapy, conduct research and apply theory relating to behaviour and mental processes. Psychologists help clients work toward the maintenance and enhancement of psychological, physical, intellectual, emotional, social and interpersonal functioning. Psychologists work in private practice or in clinics, correctional facilities, hospitals, mental health facilities, rehabilitation centres, community service organizations, businesses, schools and universities, and in government and private research agencies.",
+    "example titles": [
+        "behavioural modification psychologist",
+        "behavioural psychologist",
+        "behavioural therapist",
+        "behaviourist",
+        "biopsychologist",
+        "chartered psychologist",
+        "child psychologist",
+        "clinical psychologist",
+        "cognitive psychologist",
+        "community psychologist",
+        "counselling psychologist",
+        "developmental psychologist",
+        "educational psychologist",
+        "experimental psychologist",
+        "forensic psychologist",
+        "human development psychologist",
+        "industrial psychologist",
+        "intern psychologist",
+        "neuropsychologist",
+        "organizational psychologist",
+        "physiological psychologist",
+        "psychological associate",
+        "psychologist",
+        "psychologist – counselling",
+        "psychotherapist",
+        "registered psychologist",
+        "research psychologist",
+        "school psychologist",
+        "social psychologist",
+        "sports psychologist",
+        "vocational psychologist"
+    ],
+    "main duties": [
+        "Examine and assess behaviour, diagnose behavioural, emotional and cognitive disorders, counsel clients and provide therapy",
+        "Help clients manage physical illness and disorders",
+        "Counsel individuals and groups to achieve more effective personal, social and vocational development and adjustment, and offer mediation services",
+        "Use standard psychological tests for assessment",
+        "Plan intervention programs and conduct program evaluation",
+        "Apply psychological theory and principles regarding behaviour and mental processes such as learning, language development, memory and perception to develop treatment programs",
+        "Formulate hypotheses and experimental designs, review literature, conduct studies and publish research papers, educational texts and articles",
+        "Deliver presentations at conferences, workshops or symposia",
+        "Provide consultation services to government and other organizations.",
+        "Psychologists may specialize in applied psychology or experimental research. Sub-specialties include behavioural psychology, child psychology, cognitive psychology, developmental psychology, educational psychology, industrial psychology, neuropsychology, social psychology or sports psychology."
+    ],
+    "employment requirements": [
+        "A doctoral degree in psychology is required in order to use the designation \"Psychologist\" in Prince Edward Island, Quebec, Ontario, Manitoba and British Columbia.",
+        "A master's degree in psychology is required for the designation \"Psychologist\" in Newfoundland and Labrador, Nova Scotia, New Brunswick, Saskatchewan, Alberta, the Northwest Territories and Nunavut.",
+        "A master's degree in psychology is required in order to use the designation \"Psychological Associate\" in Prince Edward Island, Ontario, Manitoba and British Columbia.",
+        "A period of supervised practical experience is required in most jurisdictions.",
+        "Successful completion of the written Examination for Professional Practice in Psychology (EPPP) is required in most provinces.",
+        "Oral examinations and board interviews are required in some provinces.",
+        "Registration with a regulatory body is required in all provinces, the Northwest Territories and Nunavut.",
+        "Membership in the provincial professional association for psychologists is mandatory in all provinces, the Northwest Territories and Nunavut.",
+        "Psychologists can become specialized in a particular area through training and experience."
+    ],
+    "additional information": [
+        "Psychological associates may be granted permission by provincial regulatory authorities to perform duties normally restricted to psychologists, specifically diagnosing psychological disorders and communicating diagnoses to clients."
+    ],
+    "exclusions": [
+        {
+            "name": "Family, marriage and other related counsellors (4153)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4153&ver=16"
+        },
+        {
+            "name": "Psychiatrists (in 3111 Specialist physicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3111&ver=16"
+        },
+        {
+            "name": "Psychologists who teach at universities (in 4011 University professors and lecturers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4011&ver=16"
+        },
+        {
+            "name": "Psychology assistants (except university) (in 4164 Social policy researchers, consultants and program officers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4164&ver=16"
+        },
+        {
+            "name": "Psychology research assistants (except university) (in 1254 Statistical officers and related research support occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1254&ver=16"
+        },
+        {
+            "name": "Psychometrists (in 4169 Other professional occupations in social science, n.e.c.",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4169&ver=16"
+        }
+    ]
+}

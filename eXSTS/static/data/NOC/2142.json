@@ -1,0 +1,64 @@
+{
+    "id": "2142",
+    "name": "Metallurgical and materials engineers",
+    "lead statement": "Metallurgical and materials engineers conduct studies of the properties and characteristics of metals and other non-metallic materials and plan, design and develop machinery and processes to concentrate, extract, refine and process metals, alloys and other materials such as ceramics, semiconductors and composite materials. Metallurgical and materials engineers are employed in consulting engineering firms, mining, metal processing and manufacturing companies, and in government, research and educational institutions.",
+    "example titles": [
+        "ceramics engineer",
+        "coal preparation consulting engineer",
+        "corrosion engineer",
+        "electrometallurgical engineer",
+        "extractive engineer",
+        "extractive metallurgy engineer",
+        "foundry engineer",
+        "hydrometallurgical engineer",
+        "materials engineer",
+        "metallurgical engineer",
+        "physical metallurgical engineer",
+        "pyrometallurgical engineer",
+        "refining and metalworking engineer",
+        "smelting plant engineer",
+        "welding engineer"
+    ],
+    "main duties": [
+        "Conduct studies and design, develop and specify the processes, and machinery to concentrate, extract, refine and process metals from ores",
+        "Conduct studies on the properties and characteristics of materials and design, develop and specify processes for moulding, shaping, forming and thermal treatment of metals, alloys and metallic systems, ceramics, semiconducting and other materials",
+        "Conduct chemical and physical analytical studies, failure analyses and other studies and recommend material selection, design of materials, corrosion control measures, operational testing and other procedures",
+        "Co-ordinate production testing and control of metal refining, smelting or foundry operations or non-metallic materials production operations",
+        "Supervise technologists, technicians and other engineers and scientists."
+    ],
+    "employment requirements": [
+        "A bachelor's degree in metallurgical, materials, ceramic or chemical engineering or in a related engineering discipline is required.",
+        "A master's degree or doctorate in a related engineering discipline may be required.",
+        "Licensing by a provincial or territorial association of professional engineers is required to approve engineering drawings and reports and to practise as a Professional Engineer (P.Eng.).",
+        "Engineers are eligible for registration following graduation from an accredited educational program, and after three or four years of supervised work experience in engineering and passing a professional practice examination."
+    ],
+    "additional information": [
+        "Metallurgical engineers research and develop new alloys and systems for extracting metal from ores; materials engineers research and develop new non-metallic materials with physical characteristics to meet specific requirements.",
+        "There is considerable mobility between engineering specializations at the less senior levels.",
+        "Supervisory and senior positions in this unit group require experience.",
+        "Metallurgical and materials engineers work closely with other engineers and scientists and mobility is possible between some fields of specialization.",
+        "Engineers often work in a multidisciplinary environment and acquire knowledge and skills through work experience that may allow them to practise in associated areas of science, engineering, sales, marketing or management."
+    ],
+    "exclusions": [
+        {
+            "name": "Chemical engineers (2134)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2134&ver=16"
+        },
+        {
+            "name": "Chemists (2112)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2112&ver=16"
+        },
+        {
+            "name": "Engineering managers (0211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0211&ver=16"
+        },
+        {
+            "name": "Mining engineers (2143)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2143&ver=16"
+        },
+        {
+            "name": "Physical metallurgists and materials scientists (in 2115 Other professional occupations in physical sciences",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2115&ver=16"
+        }
+    ]
+}

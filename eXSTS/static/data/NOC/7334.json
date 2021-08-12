@@ -1,0 +1,58 @@
+{
+    "id": "7334",
+    "name": "Motorcycle, all-terrain vehicle and other related mechanics",
+    "lead statement": "Mechanics in this unit group test, repair and service motorcycles, motor scooters, snowmobiles, outboard motors, forklifts and all-terrain vehicles. They are employed by service shops of motorcycle dealers and retailers and by independent service establishments.",
+    "example titles": [
+        "all-terrain vehicle repairer",
+        "apprentice outboard motor mechanic",
+        "forklift mechanic",
+        "go-kart repairer",
+        "inboard-outboard mechanic",
+        "inboard-outboard motor mechanic",
+        "industrial truck mechanic",
+        "industrial truck repairer",
+        "leisure vehicle technician (except recreational vehicles)",
+        "lift truck mechanic",
+        "motor boat mechanic",
+        "motor scooter repairer",
+        "motorcycle mechanic",
+        "motorcycle mechanic apprentice",
+        "motorcycle repairer",
+        "motorcycle repairman/woman",
+        "outboard motor mechanic",
+        "snowmobile repairer",
+        "snowmobile repairman/woman"
+    ],
+    "main duties": [
+        "Review work orders and discuss work to be performed with supervisor",
+        "Inspect and test engine and other mechanical components using test devices to diagnose and isolate faults",
+        "Adjust, repair or replace mechanical or electrical system parts and components using hand tools and equipment",
+        "Test and adjust repaired systems for proper performance",
+        "Perform scheduled maintenance service on equipment",
+        "Advise customers on work performed and general condition of equipment",
+        "Determine estimates of repair cost",
+        "May repair and rebuild hoisting mechanism and other mechanical systems on industrial trucks and forklifts."
+    ],
+    "employment requirements": [
+        "Completion of secondary school and training courses or a vocational program is usually required.",
+        "For motorcycle mechanics, completion of a three- to four-year apprenticeship program \r\n or a combination of over three years of work experience and high school or college courses in motorcycle repair is usually required to be eligible for trade certification.",
+        "Motorcycle mechanic trade certification is compulsory in Ontario and Alberta and available, but voluntary, in Newfoundland and Labrador, Nova Scotia, Prince Edward Island, New Brunswick and British Columbia.",
+        "Other mechanics in this unit group may require several years of on-the-job training.",
+        "Red Seal endorsement is also available to qualified motorcycle mechanics upon successful completion of the interprovincial Red Seal examination."
+    ],
+    "additional information": [
+        "The Red Seal endorsement allows for interprovincial mobility.",
+        "There is mobility among some occupations in this unit group.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Other small engine and small equipment repairers (7335)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7335&ver=16"
+        },
+        {
+            "name": "Supervisors of motorcycle, all-terrain vehicle and other related mechanics (in 7301 Contractors and supervisors, mechanic trades",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7301&ver=16"
+        }
+    ]
+}

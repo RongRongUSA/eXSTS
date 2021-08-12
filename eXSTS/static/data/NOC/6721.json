@@ -1,0 +1,73 @@
+{
+    "id": "6721",
+    "name": "Support occupations in accommodation, travel and facilities set-up services",
+    "lead statement": "This unit group includes workers who carry hotel guests' luggage and escort guests to their rooms, carry travellers' luggage at airports, in railway stations and aboard ships, clean and maintain public areas and passengers' rooms aboard ships and trains, and set up rooms and associated furnishings, commercial displays, exhibits, equipment and booths in facilities and establishments. They are employed by hotels, conference centres, retail establishments, passenger transport companies and throughout the private and public sectors.",
+    "example titles": [
+        "audiovisual helper",
+        "baggage handler",
+        "baggage master",
+        "baggage porter",
+        "banquet porter",
+        "bellhop",
+        "car supplier – railway",
+        "cruise line passenger attendant",
+        "display installer",
+        "door person – hotel",
+        "facilities porter",
+        "hotel doorkeeper",
+        "hotel guest services attendant",
+        "lobby porter",
+        "luggage attendant",
+        "passenger service attendant – railway",
+        "port redcap",
+        "redcap",
+        "room flipper",
+        "room porter",
+        "ship passenger attendant",
+        "showcase installer",
+        "skytrain attendant",
+        "sleeping car attendant",
+        "sleeping car porter",
+        "train service attendant"
+    ],
+    "main duties": [
+        "Carry luggage for hotel guests, escort incoming guests to their rooms",
+        "Check rooms to ensure they are in order",
+        "Offer information regarding features of rooms, services of hotel and points of interest",
+        "Assist guests with special needs",
+        "Attend to group arrivals and departures",
+        "Receive and deliver items and messages for guests",
+        "Handle guest complaints and requests and maintain luggage storage areas.",
+        "Convey travellers' luggage at railway stations and airports by hand or hand truck and arrange for ground transportation.",
+        "Serve food and beverages, clean cabins, make beds, and wash dishes",
+        "Carry luggage for passengers aboard ships.",
+        "Set and clear tables in dining cars, serve food and beverages, clean sleeping cars and maintain washroom supplies",
+        "Ensure customer satisfaction and comfort.",
+        "Set-up, install, reconfigure, relocate and dismantle temporary partitions and furnishings of rooms",
+        "Assemble, rotate and disassemble window displays, showcases and signage according to floor plans or instructions",
+        "Assist with installation of audiovisual equipment and help in resolving problems during use",
+        "May perform minor repairs on installations and routine maintenance of audiovisual equipment."
+    ],
+    "employment requirements": [
+        "Some secondary school education may be required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Air transport ramp attendants (7534)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7534&ver=16"
+        },
+        {
+            "name": "Material handlers (7452)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7452&ver=16"
+        },
+        {
+            "name": "Room service clerk – hotel (in 6525 Hotel front desk clerks",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6525&ver=16"
+        },
+        {
+            "name": "Support occupations in motion pictures, broadcasting, photography and the performing arts (5227)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5227&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": "6331",
+    "name": "Butchers, meat cutters and fishmongers - retail and wholesale",
+    "lead statement": "Butchers, meat cutters and fishmongers in this unit group prepare standard cuts of meat, poultry, fish and shellfish for sale in retail or wholesale food establishments. They are employed in supermarkets, grocery stores, butcher shops and fish stores or may be self-employed. Butchers who are supervisors or heads of departments are included in this unit group.",
+    "example titles": [
+        "apprentice butcher – retail or wholesale",
+        "butcher – butcher shop",
+        "butcher – delicatessen",
+        "butcher – retail or wholesale",
+        "butcher – wholesale",
+        "butcher apprentice",
+        "fishmonger",
+        "grocery store butcher",
+        "head butcher – retail",
+        "head butcher – retail or wholesale",
+        "head butcher – wholesale",
+        "meat cutter – retail or wholesale",
+        "meat portion cutter – retail or wholesale",
+        "pork cutter – retail or wholesale",
+        "retail butcher",
+        "retail meat cutter",
+        "supermarket butcher",
+        "supermarket meat cutter"
+    ],
+    "main duties": [
+        "Cut, trim, and otherwise prepare standard cuts of meat, poultry, fish and shellfish for sale at self-serve counters or according to customers' orders",
+        "Grind meats and slice cooked meats using powered grinders and slicing machines",
+        "Prepare special displays of meat, poultry, fish and shellfish",
+        "Shape, lace and tie roasts and other meats, poultry or fish and may wrap prepared meats, poultry, fish and shellfish",
+        "Manage inventory, keep records of sales and determine amount, product line and freshness of products according to company and customer requirements",
+        "Ensure food storage conditions are adequate",
+        "May supervise other butchers, meat cutters or fishmongers."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Completion of a college or other meat-and-fish-cutting training program, or a three-year meat cutting apprenticeship may be required.",
+        "On-the-job training in food stores is usually provided for retail butchers, meat cutters and fishmongers.",
+        "Trade certification for meat cutter is available, but voluntary, in Saskatchewan and British Columbia."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Fish cutters (in 9463 Fish and seafood plant workers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9463&ver=16"
+        },
+        {
+            "name": "Industrial butchers and meat cutters, poultry preparers and related workers (9462)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9462&ver=16"
+        },
+        {
+            "name": "Seafood sales clerks (in 6421 Retail salespersons",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6421&ver=16"
+        },
+        {
+            "name": "Retail and wholesale butchery managers (in 0621 Retail and wholesale trade managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0621&ver=16"
+        }
+    ]
+}

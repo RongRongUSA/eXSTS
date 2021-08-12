@@ -1,0 +1,75 @@
+{
+    "id": "6733",
+    "name": "Janitors, caretakers and building superintendents",
+    "lead statement": "Janitors, caretakers and building superintendents clean and maintain the interior and exterior of commercial, institutional and residential buildings and their surrounding grounds. Building superintendents employed in large establishments are responsible for the operation of the establishment and may also supervise other workers. They are employed by office and apartment building management companies, condominium corporations, educational institutions, health care facilities, recreational and shopping facilities, religious, industrial and other establishments.",
+    "example titles": [
+        "airport janitor",
+        "airport maintenance worker",
+        "apartment building caretaker",
+        "apartment building concierge",
+        "apartment building maintenance worker",
+        "apartment maintenance man/woman",
+        "building caretaker",
+        "building custodian",
+        "building handyman/woman",
+        "building maintenance man/woman",
+        "building maintenance worker",
+        "building operator – maintenance",
+        "building services worker",
+        "building superintendent",
+        "campground cleaner",
+        "church caretaker",
+        "construction campsite attendant",
+        "custodian",
+        "factory cleaner",
+        "factory maintenance man/woman",
+        "handyman/woman",
+        "heavy-duty cleaner",
+        "industrial cleaner",
+        "industrial plant cleaner",
+        "janitor",
+        "live-in superintendant",
+        "office building concierge",
+        "plant cleaner",
+        "plant maintenance worker",
+        "school custodian",
+        "school janitor"
+    ],
+    "main duties": [
+        "Operate industrial vacuum cleaners to remove scraps, dirt, heavy debris and other refuse",
+        "Wash windows, interior walls and ceilings",
+        "Empty trash cans and other waste containers",
+        "Sweep, mop, scrub and wax hallways, floors and stairs",
+        "Clean snow and ice from walkways and parking areas",
+        "Cut grass and tend grounds and plants",
+        "Clean and disinfect washrooms and fixtures",
+        "Make adjustments and minor repairs to heating, cooling, ventilating, plumbing and electrical systems, and contact tradespersons for major repairs",
+        "Perform other routine maintenance jobs such as painting and drywall repair",
+        "May move heavy furniture, equipment and supplies",
+        "Ensure that security and safety measures are in place in the establishment",
+        "May advertise vacancies, show apartments and offices to prospective tenants and collect rent",
+        "May supervise other workers."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Some occupations in this unit group require previous cleaning and maintenance experience.",
+        "A journeyman/woman certificate in one or more of the trades or a building operator certificate may be required for building superintendents."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with additional training or experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Cleaning supervisors (6315)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6315&ver=16"
+        },
+        {
+            "name": "Light duty cleaners (6731)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6731&ver=16"
+        },
+        {
+            "name": "Specialized cleaners (6732)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6732&ver=16"
+        }
+    ]
+}

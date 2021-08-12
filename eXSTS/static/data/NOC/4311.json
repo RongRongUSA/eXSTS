@@ -1,0 +1,107 @@
+{
+    "id": "4311",
+    "name": "Police officers (except commissioned)",
+    "lead statement": "Police officers protect the public, detect and prevent crime and perform other activities directed at maintaining law and order. They are employed by municipal and federal governments and some provincial and regional governments.",
+    "example titles": [
+        "bodyguard – police",
+        "Canadian Security Intelligence Service (CSIS) investigator",
+        "canine-team member – police",
+        "community police officer",
+        "community relations officer – police",
+        "community services officer – police",
+        "constable",
+        "counterfeit and forgery section detective",
+        "crime prevention constable",
+        "crime scene technician – police",
+        "desk officer – police",
+        "detective – police",
+        "divisional diving supervisor – police",
+        "dog master – police",
+        "drug investigator – police",
+        "education relations officer – policing",
+        "ethnic relations officer – police",
+        "evidence technician – police",
+        "harbour police officer",
+        "harbour police sergeant",
+        "harbour policeman/woman",
+        "headquarters duty officer – police",
+        "highway patrol officer",
+        "highway patrolman/woman",
+        "identification officer – police",
+        "investigator – police",
+        "morality officer – police",
+        "motorcycle patrolman/woman – police",
+        "mounted police constable",
+        "mounted policeman/woman",
+        "narcotics squad detective",
+        "patrol officer – police",
+        "peace officer",
+        "plain-clothes officer",
+        "police cadet",
+        "police constable",
+        "police corporal",
+        "police diver",
+        "police diver – salvage",
+        "police investigator",
+        "police officer",
+        "police sergeant",
+        "policeman/woman",
+        "railway guard – police",
+        "railway investigator – police",
+        "railway police constable",
+        "railway police officer",
+        "railway special agent – police",
+        "recruitment and training officer – police",
+        "Royal Canadian Mounted Police (RCMP) officer",
+        "safety patrol officer – police",
+        "school liaison officer – police",
+        "school safety officer – police",
+        "scuba diver – police",
+        "scuba-diving specialist – police",
+        "secret service officer",
+        "security constable – police",
+        "security officer – police",
+        "staff sergeant – police",
+        "station duty officer – police",
+        "station officer – police",
+        "traffic patrol officer",
+        "vice squad detective"
+    ],
+    "main duties": [
+        "Patrol assigned areas to maintain public safety and order and to enforce laws and regulations",
+        "Investigate crimes and accidents, execute search warrants, secure evidence, interview witnesses, compile notes and reports and provide testimony in courts of law",
+        "Apprehend and arrest criminal suspects",
+        "Provide emergency assistance to victims of accidents, crimes and natural disasters",
+        "Participate in crime prevention, public information and safety programs",
+        "May supervise and co-ordinate the work of other police officers."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Completion of a college program or university degree in law and security or in the social sciences is usually required.",
+        "A three- to six-month police training program is required.",
+        "Physical agility, strength, fitness and vision requirements must be met, and psychological or other tests are also required.",
+        "Experience as a constable and the completion of specialized courses are required for detectives and sergeants.",
+        "Specialized training or certification may be required for certain areas of policing."
+    ],
+    "additional information": [
+        "Progression to commissioned police officer positions is possible with additional training and experience."
+    ],
+    "exclusions": [
+        {
+            "name": "By-law enforcement and other regulatory officers, n.e.c. (4423)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4423&ver=16"
+        },
+        {
+            "name": "Commissioned police officers (0431)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0431&ver=16"
+        },
+        {
+            "name": "Private detectives (in 6541 Security guards and related security service occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6541&ver=16"
+        },
+        {
+            "name": "Sheriffs and bailiffs (4421)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4421&ver=16"
+        }
+    ]
+}

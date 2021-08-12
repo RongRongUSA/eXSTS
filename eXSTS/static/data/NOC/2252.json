@@ -1,0 +1,68 @@
+{
+    "id": "2252",
+    "name": "Industrial designers",
+    "lead statement": "Industrial designers conceptualize and produce designs for manufactured products. They are employed by manufacturing industries and private design firms or they may be self-employed.",
+    "example titles": [
+        "business products designer",
+        "consumer products designer",
+        "container designer",
+        "ergonomic products designer",
+        "fixture designer",
+        "furniture designer",
+        "industrial design consultant",
+        "industrial designer",
+        "industrial products designer",
+        "product designer",
+        "toy designer – industrial design"
+    ],
+    "main duties": [
+        "Consult with client, engineers or production specialists to establish product requirements",
+        "Analyze the intended use of product and user preferences",
+        "Conduct research into cost, properties of production materials and methods of production",
+        "Develop manual and computer-assisted design (CAD) concepts, sketches or models for approval",
+        "Prepare manufacturing drawings, specifications and guidelines for production and construct prototype of design",
+        "Consult with engineers and production staff during manufacturing stage."
+    ],
+    "employment requirements": [
+        "A university degree in industrial design, architecture, engineering \r\n or a college diploma in industrial design is required.",
+        "Creative ability, as demonstrated by a portfolio of work, is required."
+    ],
+    "additional information": [
+        "There is mobility between positions in this unit group.",
+        "Mobility is possible to other design occupations."
+    ],
+    "exclusions": [
+        {
+            "name": "Architectural technologists and technicians (2251)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2251&ver=16"
+        },
+        {
+            "name": "Civil engineering design technologists (in 2231 Civil engineering technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2231&ver=16"
+        },
+        {
+            "name": "Electrical and electronics design technologists (in 2241 Electrical and electronics engineering technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2241&ver=16"
+        },
+        {
+            "name": "Engineering design and drafting technicians and technologists (in 2253 Drafting technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2253&ver=16"
+        },
+        {
+            "name": "Graphic designers and illustrators (5241)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5241&ver=16"
+        },
+        {
+            "name": "Interior designers and interior decorators (5242)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5242&ver=16"
+        },
+        {
+            "name": "Mechanical engineering equipment designers (in 2232 Mechanical engineering technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2232&ver=16"
+        },
+        {
+            "name": "Theatre, fashion, exhibit and other creative designers (5243)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=5&val1=5243&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": "2122",
+    "name": "Forestry professionals",
+    "lead statement": "Forestry professionals conduct research, develop plans and administer and direct programs related to the management and harvesting of forest resources. They are employed by the forest industry, provincial and federal governments, consulting companies, educational institutions and other industries, or they may be self-employed.",
+    "example titles": [
+        "appraisal forester",
+        "consulting forester",
+        "Crown lands forester",
+        "district forester",
+        "extension forester",
+        "forest engineer",
+        "forest nursery forester",
+        "forester",
+        "geographic information system (GIS) forester",
+        "industrial forester",
+        "operations forester",
+        "parks and recreation forester",
+        "private lands forester",
+        "professional forester",
+        "project forester",
+        "regional forest inventory officer",
+        "regional inventory officer – forestry",
+        "registered professional forester (RPF)",
+        "research forester",
+        "superintendent – forestry",
+        "unit forester",
+        "urban forester"
+    ],
+    "main duties": [
+        "Plan and direct forest surveys and related studies and prepare reports and recommendations",
+        "Establish short- and long-term plans for management of forest lands and forest resources",
+        "Plan and direct woodlands harvesting, reforestation, silviculture and fire prevention and fire suppression programs, road building, wildlife management, environmental protection and insect and vegetation control programs",
+        "Negotiate terms and conditions of agreements and contracts for forest harvesting, forest management and leasing of forest lands",
+        "Monitor contract compliance and results of forestry activities",
+        "Ensure adherence to government regulations and company objectives",
+        "Plan and conduct public relations programs, and education and extension programs related to forestry",
+        "Develop and oversee programs for tree seedling production and woodlands nursery operations",
+        "Conduct advanced research in the areas of tree improvement, nursery seedling production, forest soils, forest ecology, forest mensuration, forest operations and other areas",
+        "Provide advice and recommendations, as a consultant on forestry issues, to private woodlot owners, municipal, provincial or federal governments or to companies."
+    ],
+    "employment requirements": [
+        "A bachelor's degree in forestry or forestry engineering is required.",
+        "Registration with a regulatory body is required in all provinces except Prince Edward Island and Manitoba.",
+        "A two-year practicum of supervised work experience and professional examinations are usually required before registration."
+    ],
+    "additional information": [
+        "Supervisory and senior occupations in this unit group require additional experience.",
+        "With experience, mobility is possible to management positions in government and industry."
+    ],
+    "exclusions": [
+        {
+            "name": "Forest economists (in 4162 Economists and economic policy researchers and analysts",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=4&val1=4162&ver=16"
+        },
+        {
+            "name": "Forestry and woodlands operations managers (in 0811 Managers in natural resources production and fishing",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0811&ver=16"
+        },
+        {
+            "name": "Managers of government forestry policy and program administration (in 0412 Government managers - economic analysis, policy development and program administration",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0412&ver=16"
+        },
+        {
+            "name": "Managers of research in forestry (in 0212 Architecture and science managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0212&ver=16"
+        }
+    ]
+}

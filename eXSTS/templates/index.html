@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Thesis</title>
+
+    <!-- Import Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="../static/css/index.css">
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <div id="main_page">
+        <div id="header_bar">
+            <!-- Header Bar -->
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <!-- Dropdown list -->
+                <div class="d-flex navbar-collapse">
+                    <ul class="navbar-nav">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-white" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown list</a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" id="DropdownMenu"></div>
+                        </li>
+                    </ul>
+                    <form class="form-inline my-2 my-lg-0">
+                        <!-- <button class="btn btn-outline-success my-2 my-sm-0" type="submit" onclick="window.open('https://forms.office.com/Pages/ResponsePage.aspx?id=mRm4YH8LLUGSo-F9iunj4M1afnaw9nBFuvd9kXuy-pJUQ1U4NTdWUElPWks4RlBOUFFDWVhVR1RIWS4u', '_blank');">
+                            Questionnaire
+                        </button>
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit" onclick="window.open('https://forms.office.com/Pages/ResponsePage.aspx?id=mRm4YH8LLUGSo-F9iunj4M1afnaw9nBFuvd9kXuy-pJUOVM0SEU2UlExSUJOVlZLTEg3SzU5SDY5NC4u', '_blank');">
+                            Quiz
+                        </button> -->
+                    </form>
+                </div>
+            </nav>
+        </div>
+
+        <!-- <div id="text_content">
+            <div id="job_ads_div" class="text_scroll"></div>
+            <div id="NOC_div" class="text_scroll"></div>
+        </div> -->
+
+        <div id="text_content">
+            <div id="job_content_div">
+                <div id="job_content_header" class="bg-secondary">
+                    <span class="h3">JOB ADVERTISEMENT CONTENT</span>
+                </div>
+                <div id="job_ads_div" class="text_scroll"></div>
+            </div>
+            <div id="noc_content_div">
+                <div id="noc_content_header"  class="bg-secondary">
+                    <span class="h3">NOC GROUP CONTENT</span>
+                </div>
+                <div id="NOC_div" class="text_scroll"></div>
+            </div>
+        </div>
+
+        <div id="visualization_summary">
+            <div id="curve_visualization">
+                <div id="console">
+                    <div id="visualization_button"></div>
+                    <div id="visualization_console"></div>
+                </div>
+                <div id="demo"></div>
+            </div>
+
+            <div id="TOP5_list">
+                <table class="table">
+                    <thead class="thead-light">
+                        <tr>
+                            <th scope="col">National Occupational Classification Group</th>
+                            <th scope="col">Similarity Matching Score</th>
+                        </tr>
+                    </thead>
+                    <tbody id="TOP5_list_tbody"></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script type="text/javascript" src="../static/js/dropdown.js"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='js/top5_list.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='js/text_content.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='js/console_visualization.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='js/curve_visualization.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='js/matrix_visualization.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='js/startup.js') }}"></script>
+</html>

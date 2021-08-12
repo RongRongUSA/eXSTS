@@ -1,0 +1,78 @@
+{
+    "id": "9436",
+    "name": "Lumber graders and other wood processing inspectors and graders",
+    "lead statement": "Lumber graders and other wood processing inspectors and graders inspect and grade lumber, shingles, veneer, waferboard and similar wood products to identify defects, ensure conformance to company specifications and classify products according to industry standards. They are employed by sawmills, planing mills, wood treatment plants, waferboard plants and other wood processing companies.",
+    "example titles": [
+        "board grader – wood processing",
+        "flooring grader – wood processing",
+        "grader – wood processing",
+        "grader tallyman/woman – wood processing",
+        "green lumber grader",
+        "inspector – wood processing",
+        "lumber grader",
+        "lumber inspector",
+        "lumber marker",
+        "panel inspector – wood processing",
+        "particleboard grader – wood processing",
+        "planer grader – wood processing",
+        "planer mill grader – wood processing",
+        "plywood and veneer matcher – wood processing",
+        "plywood grader",
+        "plywood grader – wood processing",
+        "plywood inspector",
+        "plywood inspector – wood processing",
+        "pole inspector – wood processing",
+        "shake inspector – wood processing",
+        "shingle inspector – wood processing",
+        "stake grader – wood processing",
+        "tie and timber inspector",
+        "treated pole tester – wood processing",
+        "veneer and plywood grader – wood processing",
+        "veneer grader",
+        "veneer grader – wood processing",
+        "wood marker – wood processing",
+        "wood measurer",
+        "wood measurer – wood processing",
+        "wood processing grader",
+        "wood processing inspector"
+    ],
+    "main duties": [
+        "Examine lumber visually for knots, holes, splits and other defects and sort for further drying, trimming or remanufacturing",
+        "Measure lumber using callipers, gauges and tape measures to ensure specified thickness, length and width",
+        "Classify and sort lumber according to industry standards and stamp lumber to indicate grade, wood type, moisture level and other characteristics",
+        "Tally lumber",
+        "Complete and maintain reports.",
+        "Inspect plywood panels, veneer sheets, panelboards, shingles and similar wood products visually for knots, holes, splits, straightness and other defects",
+        "Mark defects and sort for repair or reprocessing",
+        "Measure wood products to ensure conformance to specifications using standard measuring instruments",
+        "Grade and label wood products according to quality standards",
+        "Complete and maintain inspection and grading reports."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "On-the-job training and up to two weeks of classroom training are provided for lumber graders.",
+        "Previous experience as a sawmill machine operator, other wood processing operator or as a labourer in wood processing is usually required for graders and inspectors in this unit group.",
+        "Lumber graders require a lumber grader's licence issued by a provincial lumber association."
+    ],
+    "additional information": [
+        "There is some mobility between employers processing similar wood products."
+    ],
+    "exclusions": [
+        {
+            "name": "Forest products technologists (in 2211 Chemical technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2211&ver=16"
+        },
+        {
+            "name": "Log scalers (in 2223 Forestry technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2223&ver=16"
+        },
+        {
+            "name": "Production technologists in sawmills (in 2233 Industrial engineering and manufacturing technologists and technicians",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2233&ver=16"
+        },
+        {
+            "name": "Supervisors, forest products processing (9215)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9215&ver=16"
+        }
+    ]
+}

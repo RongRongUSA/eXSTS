@@ -1,0 +1,89 @@
+{
+    "id": "7245",
+    "name": "Telecommunications line and cable workers",
+    "lead statement": "Telecommunications line and cable workers install, repair and maintain telecommunication lines and cables. They are employed by cable television companies and by telephone and other telecommunications services.",
+    "example titles": [
+        "access technician – telecommunication",
+        "apprentice lineman/woman – telecommunications",
+        "cable installer – telecommunications",
+        "cable repair technician – telecommunications",
+        "cable repairer – telecommunications",
+        "cable tester – telecommunications",
+        "communication line technician",
+        "communication technician – construction",
+        "communications electrician – construction craft",
+        "construction technician – cable television",
+        "construction technician – telecommunications",
+        "fibre optic cable splicer",
+        "journeyman/woman lineman/woman – telecommunications",
+        "line inspector – telecommunications",
+        "line installer – telecommunications",
+        "line installer-repairer – telecommunications",
+        "line repairer – telecommunications",
+        "lineman-technician/linewoman-technician – telecommunications",
+        "lineworker-technician – telecommunications",
+        "repair lineman/woman – telecommunications",
+        "rigger – telecommunications",
+        "section lineman/woman – telecommunications",
+        "service tracer – telecommunications",
+        "signal tracer – telecommunications",
+        "splicer – telecommunications",
+        "splicer technician – telecommunications",
+        "splicer technician – telephone",
+        "structured cabling technician",
+        "telecommunication cable installer",
+        "telecommunication cable repairer",
+        "telecommunication line construction technician",
+        "telecommunication line technician",
+        "telecommunications cable splicer",
+        "telecommunications line installer",
+        "telecommunications lineman/woman",
+        "telecontrol technologist",
+        "telephone cable splicer",
+        "telephone line and cableman/woman",
+        "telephone line technician",
+        "toll line inspector – telecommunications",
+        "toll line repairman/woman – telecommunications",
+        "toll lineman/woman – telecommunications",
+        "tracer – telecommunications",
+        "underground cable splicer – telecommunications",
+        "wire splicer – telecommunications"
+    ],
+    "main duties": [
+        "Install, remove, maintain and repair aerial and underground telephone and other telecommunication transmission and distribution lines, cables and associated hardware",
+        "Install (but do not repair or maintain) cable television lines and cables",
+        "Splice and repair various types and sizes of telephone and other telecommunication cables including single line, coaxial and fibre optic",
+        "Inspect and test telecommunication transmission lines and cables for transmission characteristics and to locate faults",
+        "Analyze and record test results",
+        "Climb and work aloft on poles, ladders or other support structures or work in confined spaces such as trenches, tunnels and crawl spaces",
+        "Communicate with other workers to co-ordinate the preparation and completion of work assignments",
+        "Assist in the erection and removal of telecommunication poles, towers and associated support structures",
+        "May operate excavation machinery and other heavy equipment."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Completion of a four-year telecommunications line and cable apprenticeship program \r\n or a combination of over three years work experience in the trade and some industry- related or other specialized courses \r\n or completion of a two-year college program in electronics is usually required.",
+        "Trade certification for network cabling specialists is available, but voluntary, in Ontario."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Cable television service and maintenance technicians (7247)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7247&ver=16"
+        },
+        {
+            "name": "Electrical power line and cable workers (7244)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7244&ver=16"
+        },
+        {
+            "name": "Supervisors of telecommunications line and cable workers (in 7202 Contractors and supervisors, electrical trades and telecommunications occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7202&ver=16"
+        },
+        {
+            "name": "Telecommunications installation and repair workers (7246)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7246&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "0811",
+    "name": "Managers in natural resources production and fishing",
+    "lead statement": "This unit group includes managers who plan, organize, direct, control and evaluate the operations of establishments in forestry and logging, mining and quarrying, oil and gas drilling, production and servicing operations, and commercial fishing.",
+    "example titles": [
+        "director of mining",
+        "director of mining operations",
+        "drilling operations manager",
+        "fishing operations manager",
+        "forestry and logging manager",
+        "forestry operations manager",
+        "gas field operations manager",
+        "logging production manager",
+        "manager of mining operations",
+        "mine manager",
+        "mine superintendent",
+        "mining operations director",
+        "mining operations manager",
+        "oil and gas drilling superintendent",
+        "oil and gas fields production manager",
+        "oil well drilling manager",
+        "oil well servicing manager",
+        "peat bog manager",
+        "production manager – coal mining",
+        "quarry manager",
+        "quarrying manager",
+        "quarrying operations manager",
+        "raw materials production manager",
+        "shore captain – fishing",
+        "underground mine superintendent",
+        "underground mining superintendent",
+        "woodlands manager",
+        "woods superintendent"
+    ],
+    "main duties": [
+        "Oversee and analyze operations in forestry, logging, mining, quarrying, or oil and gas operations or in services to logging, mining and oil and gas industries, or in commercial fishing",
+        "Recommend operational changes to senior management when necessary to ensure that production quotas and procedures are met",
+        "Prepare production reports for review by senior management",
+        "Confer with other managers to set production quotas, to plan extraction sites and to develop policies for the removal of raw materials",
+        "Evaluate efficiency of production sites to determine adequacy of personnel, equipment and technologies used, and make changes to work schedule or equipment when necessary",
+        "Ensure adherence to safety regulations",
+        "Hire personnel and oversee training needs of staff",
+        "May direct peripheral activities such as the construction of access roads or temporary living quarters."
+    ],
+    "employment requirements": [
+        "Forestry managers usually require a bachelor's degree in forestry science or forest engineering.",
+        "Mining and quarrying managers usually require a bachelor's degree in mining engineering or earth sciences.",
+        "Oil and gas managers usually require a bachelor's degree in geology, earth sciences or petroleum engineering.",
+        "Several years of experience in a supervisory occupation in the particular industry are usually required and may substitute for formal education requirements."
+    ],
+    "additional information": [
+        "Progression to senior management positions in the respective industries is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Contractors and supervisors, oil and gas drilling and services (8222)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8222&ver=16"
+        },
+        {
+            "name": "Directors of research in primary industry (in 0212 Architecture and science managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0212&ver=16"
+        },
+        {
+            "name": "Fishing masters and officers (8261)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8261&ver=16"
+        },
+        {
+            "name": "Managers in agriculture (0821)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0821&ver=16"
+        },
+        {
+            "name": "Senior managers - construction, transportation, production and utilities (0016)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0016&ver=16"
+        },
+        {
+            "name": "Supervisors, logging and forestry (8211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8211&ver=16"
+        },
+        {
+            "name": "Supervisors, mining and quarrying (8221)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8221&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "6231",
+    "name": "Insurance agents and brokers",
+    "lead statement": "Insurance agents and brokers sell life, automobile, property, health and other types of insurance to individuals, businesses and public institutions. Insurance agents are employed by individual insurance companies or are independent representatives of specific insurance companies. Insurance brokers are employed by brokerage firms, or may work in partnerships or hold sole proprietorship. Supervisors of insurance agents are included in this unit group.",
+    "example titles": [
+        "automobile insurance agent",
+        "automobile insurance salesman/woman",
+        "district supervisor – insurance office",
+        "field agent – insurance",
+        "fire insurance agent",
+        "fire insurance salesman/woman",
+        "general insurance representative",
+        "group insurance representative",
+        "insurance agent",
+        "insurance agent supervisor",
+        "insurance broker",
+        "insurance sales agent",
+        "insurance sales representative",
+        "insurance sales supervisor",
+        "insurance salesman/woman",
+        "life insurance agent",
+        "life insurance representative",
+        "life insurance salesman/woman"
+    ],
+    "main duties": [
+        "Sell automobile, fire, health, life, property, marine, aircraft and other types of insurance to clients",
+        "Establish client insurance coverage, calculate premiums and establish method of payment",
+        "Provide information concerning group and individual insurance packages, the range of risk coverage, benefits paid and other policy features",
+        "Ensure appropriate forms, medical examinations and other policy requirements are completed",
+        "Monitor insurance claims and respond to clients' enquiries",
+        "Identify and solicit potential clientele."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "On-the-job training and insurance industry courses and training programs are provided and are required for employment.",
+        "Licensure by the insurance governing body in the province or territory of employment is required."
+    ],
+    "additional information": [
+        "Progression to insurance management positions is possible through experience.",
+        "Completion of educational programs through the Insurance Institute of Canada or its provincial counterpart entitles agents to professional recognition as an Associate of the Insurance Institute of Canada (A.I.I.C.) or Fellow of the Insurance Institute of Canada (F.I.I.C.).",
+        "Completion of educational courses through the Canadian Association of Insurance and Financial Advisors allows for various levels of professional designations for insurance and financial advisors."
+    ],
+    "exclusions": [
+        {
+            "name": "Insurance managers (in 0121 Insurance, real estate and financial brokerage managers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0121&ver=16"
+        },
+        {
+            "name": "Insurance underwriters (1313)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1313&ver=16"
+        },
+        {
+            "name": "Supervisors, finance and insurance office workers (1212)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1212&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "id": "7243",
+    "name": "Power system electricians",
+    "lead statement": "Power system electricians install, maintain, test and repair electrical power generation, transmission and distribution system equipment and apparatus. They are employed by electric power generation, transmission and distribution companies.",
+    "example titles": [
+        "apprentice power system electrician",
+        "electrical powerhouse electrician",
+        "electrical powerhouse electrician – electrical power system",
+        "electrical substation electrician – electrical power system",
+        "electrician – electricity production",
+        "power electrician",
+        "power station electrician",
+        "power station electrician – electrical power system",
+        "power system electrician",
+        "powerhouse electrician – electrical power system",
+        "relay tester and maintainer – electrical power system",
+        "relay tester and repairer – electrical power system",
+        "substation electrician – electrical power system",
+        "voltage regulator maintainer – electrical power system"
+    ],
+    "main duties": [
+        "Install and maintain electrical power distribution equipment such as transformers, generators, voltage regulators, switches, circuit breakers, capacitors, inductors, and supervisory control and data acquisition (SCADA) systems",
+        "Install and maintain electrical equipment and apparatus in generating stations or powerhouses",
+        "Inspect and test installed electrical equipment and apparatus to locate electrical faults and check their operation, using volt meters, ammeters and other electrical test instruments and equipment",
+        "Repair or replace faulty electrical equipment and apparatus",
+        "Complete test and maintenance reports."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of a four-year apprenticeship program for power system electricians \r\n or a combination of over four years of work experience in the trade and some college or industry courses in electrical technology is usually required.",
+        "Trade certification is available, but voluntary, in Manitoba, Alberta, the Yukon, the Northwest Territories and Nunavut."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Electrical mechanics (7333)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7333&ver=16"
+        },
+        {
+            "name": "Electrical power line and cable workers (7244)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7244&ver=16"
+        },
+        {
+            "name": "Electricians (except industrial and power system) (7241)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7241&ver=16"
+        },
+        {
+            "name": "Industrial electricians (7242)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7242&ver=16"
+        },
+        {
+            "name": "Supervisors of power system electricians (in 7202 Contractors and supervisors, electrical trades and telecommunications occupations",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7202&ver=16"
+        }
+    ]
+}

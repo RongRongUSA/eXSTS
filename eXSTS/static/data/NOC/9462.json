@@ -1,0 +1,107 @@
+{
+    "id": "9462",
+    "name": "Industrial butchers and meat cutters, poultry preparers and related workers",
+    "lead statement": "Workers in this unit group prepare meat and poultry for further processing or for packaging for wholesale distribution. They are employed in meat and poultry slaughtering, processing and packing establishments.",
+    "example titles": [
+        "air knife meat cutter – meat packing plant",
+        "animal eviscerator – meat packing plant",
+        "animal skinner – meat packing plant",
+        "animal sticker – meat packing plant",
+        "animal stunner",
+        "beef boner",
+        "beef boner – meat packing plant",
+        "beef cooler worker – meat packing plant",
+        "beef sticker – meat packing plant",
+        "beef trimmer – meat packing plant",
+        "beef-pluck trimmer",
+        "benchman/woman – meat packing plant",
+        "brisket cutter – meat packing plant",
+        "calf skinner – meat packing plant",
+        "carcass splitter – meat packing plant",
+        "chicken plucker",
+        "chuck cap puller – meat packing plant",
+        "cutter – meat packing plant",
+        "dehairing machine dropper – meat packing plant",
+        "enzyme injector – food and beverage processing",
+        "ham cutter",
+        "ham sawyer – meat packing plant",
+        "head boner – meat packing plant",
+        "hog killer",
+        "industrial butcher",
+        "industrial meat chopper",
+        "industrial meat cutter",
+        "livestock killer",
+        "meat boner",
+        "meat chopper – meat packing plant",
+        "meat cutter – meat packing plant",
+        "meat dresser – meat packing plant",
+        "meat portion cutter – meat packing plant",
+        "meat roll tier – food and beverage processing",
+        "meat sawyer – meat packing plant",
+        "meat tenderizer – food and beverage processing",
+        "meat trimmer",
+        "meat trimmer – meat packing plant",
+        "poultry boner",
+        "poultry butcher – meat packing plant",
+        "poultry dresser",
+        "poultry eviscerator",
+        "poultry hanger",
+        "poultry plucker",
+        "poultry plucker tender",
+        "poultry preparer",
+        "poultry slaughterer – food and beverage processing",
+        "poultry worker – meat packing plant",
+        "ritual slaughterer – meat packing plant",
+        "shackle hoist operator – meat packing plant",
+        "sheep sticker",
+        "shohet – meat packing plant",
+        "slaughterer",
+        "slaughterer – meat packing plant",
+        "slaughterhouse butcher",
+        "trimmer – meat packing plant"
+    ],
+    "main duties": [
+        "Slaughter livestock using stunning devices and knives",
+        "Skin, clean and trim carcasses",
+        "Remove viscera and other inedible parts from carcasses",
+        "Split carcasses into smaller portions to facilitate handling",
+        "May slaughter cattle, calves and sheep as prescribed by religious laws.",
+        "Cut beef, lamb, pork or veal carcasses or sides or quarters of carcasses into primal cuts for further cutting, processing or packaging",
+        "Remove bones from meat",
+        "Cut meat and poultry into specific cuts for institutional, commercial or other wholesale use",
+        "Remove skin, excess fat, bruises or other blemishes from carcasses or meat portions.",
+        "Slaughter poultry and remove inedible parts",
+        "Remove feathers and singe and wash poultry to prepare for further processing or packaging."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "For industrial meat cutters, completion of a program in industrial meat cutting \r\n or experience as an industrial butcher is required.",
+        "On-the-job training is provided for industrial butchers, meat cutters and poultry preparers."
+    ],
+    "additional information": [
+        "Industrial meat cutters may progress to inspecting, testing and grading jobs.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Butchers, meat cutters and fishmongers - retail and wholesale (6331)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6331&ver=16"
+        },
+        {
+            "name": "Meat graders (in 9465 Testers and graders, food and beverage processing",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9465&ver=16"
+        },
+        {
+            "name": "Meat inspectors (in 2222 Agricultural and fish products inspectors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2222&ver=16"
+        },
+        {
+            "name": "Supervisors, meat packing (in 9213 Supervisors, food and beverage processing",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9213&ver=16"
+        },
+        {
+            "name": "Labourers in food and beverage processing (9617)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9617&ver=16"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "id": "7442",
+    "name": "Waterworks and gas maintenance workers",
+    "lead statement": "Waterworks maintenance workers maintain and repair waterworks equipment and facilities. They are employed in water filtration and distribution plants and waste treatment plants. Gas maintenance workers check and perform routine maintenance and minor repairs to exterior and underground gas mains and distribution lines. They are employed by gas distribution companies.",
+    "example titles": [
+        "distribution and maintenance worker – utilities",
+        "field measurement hand – utilities",
+        "gas leak inspector",
+        "gas leak locator",
+        "gas leak surveyor",
+        "gas main leak inspector",
+        "gas main leak locator",
+        "gas main leakage tester",
+        "gas main maintenance and repairman/woman",
+        "gas maintenance worker",
+        "gas meter installer",
+        "gas regulator",
+        "gas utility operator",
+        "hydrant and valve maintenance worker",
+        "line locator – utilities",
+        "maintenance utility worker",
+        "pipe locator – utilities",
+        "pipeline maintenance worker",
+        "pipeline patrolman/woman",
+        "pipeline rehabilitation worker",
+        "troubleshooter – pipeline",
+        "underground lines inspector – utilities",
+        "utility maintenance worker",
+        "utility plant maintenance worker",
+        "water main maintenance man/woman",
+        "water main maintenance worker",
+        "water meter installer",
+        "water supply maintenance worker",
+        "water system maintenance worker",
+        "water utilities plant maintenance man/woman",
+        "waterworks maintenance worker",
+        "waterworks repairman/woman",
+        "waterworks utility servicer"
+    ],
+    "main duties": [
+        "Check, clean and lubricate waterworks equipment, such as pumping equipment, chlorination equipment and compressors",
+        "Adjust and repair waterworks equipment under the direction of qualified tradesperson",
+        "Search and locate reported water leaks and repair water-mains, valves or outlets",
+        "Install water meters using hand and power tools.",
+        "Check and lubricate gas pipeline valves",
+        "Conduct routine survey of gas mains and distribution lines to detect and locate escaping gas using gas detecting devices",
+        "Investigate reports of gas leaks to determine the exact location and extent of leaks",
+        "Dig ground to expose gas lines and repair damaged pipes",
+        "Keep record of work performed and location and condition of pipelines",
+        "Provide information on underground gas distribution lines and observe excavation work to ensure that underground gas facilities are protected."
+    ],
+    "employment requirements": [
+        "Completion of secondary school may be required.",
+        "Several years of experience as a labourer in the same company may be required.",
+        "On-the-job training is provided.",
+        "Drinking water certification is required in Quebec and Ontario for waterworks maintenance workers."
+    ],
+    "additional information": [
+        "Mobility between jobs in this unit group normally occurs within the same area of work, such as within waste water treatment plants, within water filtration and distribution plants or within gas distribution plants.",
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Gas fitters (7253)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7253&ver=16"
+        },
+        {
+            "name": "Supervisors of waterworks and gas maintenance workers (in 9212 Supervisors, petroleum, gas and chemical processing and utilities",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9212&ver=16"
+        },
+        {
+            "name": "Water and waste treatment plant operators (9243)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9243&ver=16"
+        }
+    ]
+}

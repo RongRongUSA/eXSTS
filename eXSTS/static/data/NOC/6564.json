@@ -1,0 +1,53 @@
+{
+    "id": "6564",
+    "name": "Other personal service occupations",
+    "lead statement": "This unit group includes occupations, not elsewhere classified, that provide psychic consulting, fortune telling, astrological services and other personal services. They are employed by call centres and personal service establishments, or are self-employed.",
+    "example titles": [
+        "astrologer",
+        "astrologist",
+        "card reader",
+        "chat line agent",
+        "clairvoyant",
+        "crystal ball reader",
+        "dating agency consultant",
+        "dating service consultant",
+        "escort – personal services",
+        "feng shui practitioner",
+        "fortune teller",
+        "massager",
+        "masseur/masseuse",
+        "medium",
+        "mental telepathist",
+        "numerologist",
+        "palm reader",
+        "phone agent – personal services",
+        "phrenologist",
+        "psychic",
+        "psychic consultant",
+        "psychic reader",
+        "Reiki master",
+        "tarot card reader",
+        "tea leaf reader",
+        "telepath",
+        "telephone agent – personal services"
+    ],
+    "main duties": [
+        "Chart and interpret stellar and planetary positions on a horoscope to predict future events and trends for a client or the general public.",
+        "Provide personal advice to clients based on various schools of thought.",
+        "Offer a wide variety of personal services not elsewhere classified."
+    ],
+    "employment requirements": [
+        "A period of training under the guidance of a practitioner is usually required."
+    ],
+    "additional information": null,
+    "exclusions": [
+        {
+            "name": "Image, social and other personal consultants (6561)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6561&ver=16"
+        },
+        {
+            "name": "Massage therapists (3236)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3236&ver=16"
+        }
+    ]
+}

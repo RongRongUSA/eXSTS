@@ -1,0 +1,77 @@
+{
+    "id": "7305",
+    "name": "Supervisors, motor transport and other ground transit operators",
+    "lead statement": "Supervisors in this unit group supervise and co-ordinate activities of truck drivers, bus drivers, delivery drivers, subway and other transit operators, chauffeurs and taxi and limousine drivers. This unit group also includes bus dispatchers who co-ordinate the activities of transit system bus drivers and subway traffic controllers who operate and monitor signal and track switch control panels. They are employed by motor transportation and ground transit companies and by urban transit systems.",
+    "example titles": [
+        "bus dispatcher",
+        "bus drivers supervisor",
+        "bus inspector",
+        "bus inspector-dispatcher",
+        "chauffeurs and taxi drivers supervisor",
+        "chauffeurs supervisor",
+        "delivery drivers foreman/woman",
+        "delivery drivers supervisor",
+        "ground transit inspector – public transit",
+        "light rail transit (LRT) operators foreman/woman",
+        "light rail transit (LRT) operators supervisor",
+        "mobile canteen service supervisor",
+        "motor transport route foreman/woman",
+        "moving van drivers supervisor",
+        "school bus drivers supervisor",
+        "street railway and subway operators supervisor",
+        "street railway operators supervisor",
+        "streetcar and subway operators supervisor",
+        "streetcar operators supervisor",
+        "subway and street railway operators supervisor",
+        "subway and streetcar operators supervisor",
+        "subway controller",
+        "subway operators foreman/woman",
+        "subway operators supervisor",
+        "subway system traffic controller",
+        "subway traffic controller",
+        "taxi and chauffeurs supervisor",
+        "terminal supervisor – motor transport",
+        "traffic inspector – public transit system",
+        "traffic supervisor – motor transport",
+        "transit mobile inspector",
+        "transit system inspector",
+        "truck drivers foreman/woman",
+        "truck drivers supervisor",
+        "truck driver-supervisor",
+        "truck fleet foreman/woman",
+        "trucking contractor",
+        "urban transit system foreman/woman"
+    ],
+    "main duties": [
+        "Supervise, co-ordinate and schedule the activities of workers who operate trucks, buses, subway trains, light rail transit, street cars, taxis and other transport vehicles",
+        "Establish methods to meet work schedules and co-ordinate work activities with other departments",
+        "Resolve work problems and recommend measures to improve performance",
+        "Requisition materials and supplies",
+        "Train staff in job duties, safety procedures and company policies",
+        "Recommend personnel actions such as hiring and promotions",
+        "Dispatch bus drivers and monitor routes to ensure schedules are met and to resolve operating problems",
+        "Monitor and operate signal and track switch control panel of subway systems",
+        "Prepare work reports and budgets, and monitor expenditures."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Several years of experience as a driver or operator of motor transport or ground transit equipment are usually required."
+    ],
+    "additional information": [
+        "There is little mobility between occupations in the different transportation sectors of this unit group."
+    ],
+    "exclusions": [
+        {
+            "name": "Supervisors, railway transport operations (7304)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=7&val1=7304&ver=16"
+        },
+        {
+            "name": "Train dispatchers (in 2275 Railway traffic controllers and marine traffic regulators",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2275&ver=16"
+        },
+        {
+            "name": "Truck transport and taxi dispatchers (in 1525 Dispatchers",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1525&ver=16"
+        }
+    ]
+}

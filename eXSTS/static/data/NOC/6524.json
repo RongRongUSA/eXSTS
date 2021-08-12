@@ -1,0 +1,87 @@
+{
+    "id": "6524",
+    "name": "Ground and water transport ticket agents, cargo service representatives and related clerks",
+    "lead statement": "Ground and water transport ticket agents, cargo service representatives and related clerks, quote fares and rates, make reservations, issue tickets, process cargo shipments, check baggage and perform other related customer service duties to assist travellers. They are employed by bus and railway companies, freight forwarding and shipping companies, boat cruise operators and other public transit establishments and by travel wholesalers.",
+    "example titles": [
+        "baggage agent – railway",
+        "baggage agent (except airline)",
+        "baggage clerk (except airline)",
+        "bookings clerk – railway",
+        "bookings clerk – wholesale travel",
+        "bookings clerk (except airline)",
+        "bus ticket agent",
+        "cargo customer service representative – bus line",
+        "cargo customer service representative – marine shipping",
+        "cargo customer service representative – railway",
+        "check-in agent (except airline)",
+        "client service representative – bus line",
+        "counter clerk (except airline)",
+        "counter sales agent – railway",
+        "counter sales agent (except airline)",
+        "counter service agent – railway",
+        "counter service agent (except airline)",
+        "customer sales and service agent (except airline)",
+        "customer service agent – bus line",
+        "customer service representative – bus line",
+        "freight agent – railway",
+        "freight agent (except airline)",
+        "luggage checker (except airline)",
+        "passenger agent – railway",
+        "passenger agent (except airline)",
+        "railway express agent",
+        "railway passenger agent",
+        "railway reservations clerk",
+        "reservations agent – cruise line",
+        "reservations agent – railway",
+        "reservations agent (except airline)",
+        "reservations clerk – cruise line",
+        "reservations clerk – wholesale travel",
+        "reservations clerk (except airline)",
+        "sales agent – railway",
+        "ship cargo agent",
+        "station agent – railway",
+        "stowage clerk",
+        "ticket agent – bus line",
+        "ticket agent – cruise line",
+        "ticket agent – transit station",
+        "ticket agent (except airline)",
+        "ticket and customer service clerk (except airline)",
+        "ticket and information clerk (except airline)",
+        "ticket clerk – railway",
+        "ticket clerk (except airline)",
+        "transit station ticket agent",
+        "transportation agent (except airline)"
+    ],
+    "main duties": [
+        "Answer customer inquiries, quote fares and assist clients in planning travel times and routes",
+        "Reserve seats for tour companies, travel agencies, wholesalers and the general public",
+        "Issue tickets, handle cash transactions and check baggage",
+        "Receive and record bookings for package tours from retail travel agencies and supply information regarding available vacancies when working for wholesale travel companies.",
+        "Quote fare and rates for cargo shipment",
+        "Compute shipment costs including charges for services and insurance using rate tables and schedules and prepare and maintain shipping and other documents",
+        "Check in passenger baggage and sort for loading by baggage handlers or may load baggage directly into buses, railway cars or cruise ships",
+        "Trace lost or misdirected passenger baggage or cargo shipment."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Up to 10 weeks of training may be provided."
+    ],
+    "additional information": [
+        "Ticket agents and cargo service representatives may perform the same duties depending on the size and location of the operations.",
+        "Progression to supervisory positions is possible through experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Airline ticket and service agents (6523)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6523&ver=16"
+        },
+        {
+            "name": "Supervisors of ticket and cargo agents and related clerks in this unit group (in 6313 Accommodation, travel, tourism and related services supervisors",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6313&ver=16"
+        },
+        {
+            "name": "Travel counsellors (6521)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=6&val1=6521&ver=16"
+        }
+    ]
+}

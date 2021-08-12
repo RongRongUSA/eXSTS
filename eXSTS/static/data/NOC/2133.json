@@ -1,0 +1,109 @@
+{
+    "id": "2133",
+    "name": "Electrical and electronics engineers",
+    "lead statement": "Electrical and electronics engineers design, plan, research, evaluate and test electrical and electronic equipment and systems. They are employed by electrical utilities, communications companies, manufacturers of electrical and electronic equipment, consulting firms, and by a wide range of manufacturing, processing and transportation industries and government.",
+    "example titles": [
+        "analogue amplifier design engineer",
+        "antenna engineer",
+        "audio engineer – electricity and electronics",
+        "avionics engineer",
+        "broadcasting professional engineer",
+        "chief electrical engineer",
+        "chief electronics engineer",
+        "chief engineer – electric power",
+        "chief engineer – radio and television broadcasting",
+        "circuit design engineer",
+        "control systems engineer",
+        "design and development engineer – electrical and electronic systems",
+        "digital circuit design engineer",
+        "displays and controls design engineer",
+        "electrical and electronics research engineer",
+        "electrical design engineer",
+        "electrical distribution engineer",
+        "electrical distribution planning engineer",
+        "electrical energy transmission engineer",
+        "electrical energy transmission planning engineer",
+        "electrical engineer",
+        "electrical equipment engineer",
+        "electrical network engineer",
+        "electrical power scheduling engineer",
+        "electrical power systems design engineer",
+        "electrical power systems service engineer",
+        "electrical process control engineer",
+        "electrical research engineer",
+        "electrical systems planning engineer",
+        "electrical systems protection engineer",
+        "electronics engineer",
+        "electronics research engineer",
+        "electronics test engineer",
+        "instrumentation and control engineer",
+        "instrumentation engineer",
+        "line construction engineer",
+        "low voltage equipment engineer",
+        "meter engineer",
+        "metrology engineer",
+        "microelectronics engineer",
+        "overhead electrical distribution engineer",
+        "process instrumentation engineer",
+        "protective relay engineer",
+        "radar engineer",
+        "radio and television broadcasting design engineer",
+        "radio and television broadcasting systems design engineer",
+        "radio research engineer",
+        "research engineer – nanoelectronics",
+        "roadway lighting design engineer",
+        "rural electrification engineer",
+        "satellite antenna engineer",
+        "satellite instrumentation engineer",
+        "signal engineer",
+        "spacecraft electronics engineer",
+        "technical services electrical engineer",
+        "television systems engineer",
+        "underground electrical distribution engineer"
+    ],
+    "main duties": [
+        "Conduct research into the feasibility, design, operation and performance of electrical generation and distribution networks, electrical machinery and components and electronic communications, instrumentation and control systems, equipment, and components",
+        "Prepare material cost and timing estimates, reports and design specifications for electrical and electronic systems and equipment",
+        "Design electrical and electronic circuits, components, systems and equipment",
+        "Conduct micro or nanodevices simulations, characterization, process modeling and integration in the development of new electronic devices and products",
+        "Supervise and inspect the installation, modification, testing and operation of electrical and electronic systems and equipment",
+        "Develop maintenance and operating standards for electrical and electronic systems and equipment",
+        "Investigate electrical or electronic failures",
+        "Prepare contract documents and evaluate tenders for construction or maintenance",
+        "Supervise technicians, technologists, programmers, analysts and other engineers.",
+        "Electrical and electronics engineers may specialize in a number of areas including electrical design for residential, commercial or industrial installations, electrical power generation and transmission, and instrumentation and control systems."
+    ],
+    "employment requirements": [
+        "A bachelor's degree in electrical or electronics engineering or in an appropriate related engineering discipline is required.",
+        "A master's or doctoral degree in a related engineering discipline may be required.",
+        "Licensing by a provincial or territorial association of professional engineers is required to approve engineering drawings and reports and to practise as a Professional Engineer (P.Eng.).",
+        "Engineers are eligible for registration following graduation from an accredited educational program, and after three or four years of supervised work experience in engineering and passing a professional practice examination.",
+        "Leadership in Energy and Environmental Design (LEED) certification is offered by the Canada Green Building Council and may be required by some employers."
+    ],
+    "additional information": [
+        "Supervisory and senior positions in this unit group require experience.",
+        "Engineers often work in a multidisciplinary environment and acquire knowledge and skills through work experience that may allow them to practise in associated areas of science, engineering, sales, marketing or management. "
+    ],
+    "exclusions": [
+        {
+            "name": "Computer and information systems managers (0213)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0213&ver=16"
+        },
+        {
+            "name": "Computer engineers (except software engineers and designers) (2147)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2147&ver=16"
+        },
+        {
+            "name": "Electrical and electronics engineering technologists and technicians (2241)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2241&ver=16"
+        },
+        {
+            "name": "Engineering managers (0211)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0211&ver=16"
+        },
+        {
+            "name": "Software engineers and designers (2173)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2173&ver=16"
+        }
+    ]
+}

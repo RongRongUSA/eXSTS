@@ -1,0 +1,78 @@
+{
+    "id": "8222",
+    "name": "Contractors and supervisors, oil and gas drilling and services",
+    "lead statement": "Supervisors in this unit group supervise and co-ordinate the activities of workers engaged in drilling for oil or gas, operating service rigs, or providing oil and gas well services. They are employed by drilling and well service contracting companies and by petroleum producing companies. Oil field consultants may be self-employed.",
+    "example titles": [
+        "assistant offshore drilling rig superintendent",
+        "assistant platform superintendent",
+        "assistant toolpusher – offshore drilling rig",
+        "consultant – gas well drilling",
+        "consultant – oil drilling",
+        "directional drilling consultant – oil and gas",
+        "fracturing supervisor",
+        "fracturing supervisor – oil field services",
+        "multi-service operator – oil field services",
+        "offshore drilling rig superintendent",
+        "oil and gas contractor",
+        "oil and gas drilling foreman/woman",
+        "oil and natural gas well servicing foreman/woman",
+        "oil field consultant",
+        "oil field consultant – construction and reclamation",
+        "oil field consultant – rig moving",
+        "oil field consultant – well completions",
+        "oil field consultant – well servicing",
+        "oil field consultant – well testing",
+        "oil field consultant supervisor",
+        "oil field contractor",
+        "oil well services field supervisor",
+        "platform superintendent – oil and gas drilling",
+        "rig manager",
+        "rig manager – oil and gas drilling",
+        "toolpusher",
+        "toolpusher – offshore drilling rig",
+        "toolpusher – oil and gas well",
+        "well services crew supervisor",
+        "well services crew supervisor – oil and gas drilling",
+        "well services crew supervisor – oil field services",
+        "well site consultant – oil and gas",
+        "wireline field supervisor – oil field services"
+    ],
+    "main duties": [
+        "Supervise, co-ordinate and schedule the activities of workers who drill for oil and gas, operate service rigs or provide oil and gas well services",
+        "Establish methods to meet work schedules and co-ordinate work activities with other departments",
+        "Requisition and procure materials and supplies",
+        "Resolve work problems and recommend measures to improve productivity and safety",
+        "Train workers in job duties, safety procedures and company policies",
+        "Recommend personnel actions such as hirings and promotions",
+        "Prepare production and other reports",
+        "May set up machines and equipment."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "Completion of college or petroleum industry approved training courses is required.",
+        "Extensive experience in the occupations supervised is required.",
+        "A two-year college diploma in petroleum engineering technology may be required.",
+        "Certificates in first aid, hydrogen sulphide awareness, blowout prevention, well control, workplace hazardous materials information system (WHMIS), transportation of dangerous goods (TDG) or other safety and technical subjects are required and are obtained by completing short courses."
+    ],
+    "additional information": [
+        "There is little mobility for supervisors from well services to well drilling."
+    ],
+    "exclusions": [
+        {
+            "name": "Geological and mineral technologists and technicians (2212)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=2&val1=2212&ver=16"
+        },
+        {
+            "name": "Managers in natural resources production and fishing (0811)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0811&ver=16"
+        },
+        {
+            "name": "Oil and gas well drillers, servicers, testers and related workers (8232)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8232&ver=16"
+        },
+        {
+            "name": "Oil and gas well drilling and related workers and services operators (8412)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=8&val1=8412&ver=16"
+        }
+    ]
+}

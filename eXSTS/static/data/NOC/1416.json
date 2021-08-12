@@ -1,0 +1,43 @@
+{
+    "id": "1416",
+    "name": "Court clerks",
+    "lead statement": "This unit group includes those who perform support functions in courts of law, such as calling court to order, preparing court dockets and maintaining exhibits. Court clerks are employed by federal, provincial and municipal courts.",
+    "example titles": [
+        "clerk of process – courts",
+        "county court clerk",
+        "court clerk",
+        "court clerk-crier",
+        "courtroom clerk",
+        "criminal court clerk",
+        "judicial clerk",
+        "provincial court clerk",
+        "youth court clerk"
+    ],
+    "main duties": [
+        "Call courts of law to order, read charges, take pleas from defendants, swear in witnesses and perform other clerical functions in the courtrooms",
+        "Prepare court files, court dockets and other documents",
+        "Record main court proceedings, including pleas, names of witnesses, dates, times and rulings",
+        "Manage care and custody of court exhibits",
+        "Prepare documents for and participate in jury selection",
+        "Update and maintain court office paper and electronic indexes and files on actions taken by court or in response to court decisions",
+        "Receive, disburse and account for fines, fees and trust monies",
+        "Assist the public in court offices."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is required.",
+        "On-the-job training is provided."
+    ],
+    "additional information": [
+        "Progression to supervisory or court officer positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Court officers and justices of the peace (1227)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1227&ver=16"
+        },
+        {
+            "name": "Court reporters, medical transcriptionists and related occupations (1251)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=1&val1=1251&ver=16"
+        }
+    ]
+}

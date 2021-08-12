@@ -1,0 +1,78 @@
+{
+    "id": "3112",
+    "name": "General practitioners and family physicians",
+    "lead statement": "General practitioners and family physicians diagnose and treat the diseases, physiological disorders and injuries of patients. They provide primary contact and continuous care toward the management of patients' health. They usually work in private practice, including group or team practices, hospitals and clinics. Residents in training to be general practitioners or family physicians are included in this unit group.",
+    "example titles": [
+        "civil aviation medical officer",
+        "community preventive medicine physician",
+        "company physician",
+        "doctor of medicine (MD)",
+        "family doctor",
+        "family physician",
+        "family practitioner",
+        "general practice intern",
+        "general practice physician",
+        "general practice resident",
+        "general practitioner (GP)",
+        "industrial medical officer",
+        "industrial medicine physician",
+        "industrial physician",
+        "intern",
+        "locum doctor",
+        "medical doctor",
+        "medical missionary",
+        "medical officer of health (MOH)",
+        "missionary doctor",
+        "physician resident",
+        "primary care physician",
+        "public health physician",
+        "resident",
+        "resident physician"
+    ],
+    "main duties": [
+        "Examine patients and take their histories, order laboratory tests, X-rays and other diagnostic procedures and consult with other medical practitioners to evaluate patients' physical and mental health",
+        "Prescribe and administer medications and treatments",
+        "Perform and assist in routine surgery",
+        "Provide emergency care",
+        "Provide acute care management",
+        "Vaccinate patients to prevent and treat diseases",
+        "Deliver babies and provide pre-natal and post-natal care",
+        "Advise patients and their families on health care including health promotion, disease, illness and accident prevention",
+        "Provide counselling and support to patients and their families on a wide range of health and lifestyle issues",
+        "Perform patient advocacy role",
+        "Co-ordinate or manage primary patient care",
+        "Provide continuous care to patients",
+        "Supervise home care services",
+        "Report births, deaths, and contagious and other diseases to governmental authorities."
+    ],
+    "employment requirements": [
+        "A bachelor's degree \r\n or in Quebec, completion of a college program and one year of pre-medicine university studies is usually required.",
+        "Graduation from an approved medical school \r\n and two to three years of family medicine residency training are required.",
+        "Completion of the qualifying examinations of the Medical Council of Canada or the Collège des médecins du Québec\r\n and licensing by the provincial or territorial licensing authority are required."
+    ],
+    "additional information": [
+        "General practitioners and family physicians may become specialist physicians with additional training."
+    ],
+    "exclusions": [
+        {
+            "name": "Allied primary health practitioners (3124)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3124&ver=16"
+        },
+        {
+            "name": "Chiropractors (3122)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3122&ver=16"
+        },
+        {
+            "name": "Managers in health care (0311)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=0&val1=0311&ver=16"
+        },
+        {
+            "name": "Other professional occupations in health diagnosing and treating (3125)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3125&ver=16"
+        },
+        {
+            "name": "Specialist physicians (3111)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=3&val1=3111&ver=16"
+        }
+    ]
+}

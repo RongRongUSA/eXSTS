@@ -1,0 +1,65 @@
+{
+    "id": "6345",
+    "name": "Upholsterers",
+    "lead statement": "Upholsterers cover furniture, fixtures and similar items with fabric, leather or other upholstery materials. They are employed by furniture, aircraft, motor vehicle and other manufacturing companies, furniture retail outlets and repair shops or they may be self-employed.",
+    "example titles": [
+        "aircraft custom upholsterer",
+        "aircraft furnishing technician",
+        "aircraft patternmaker and upholsterer",
+        "aircraft upholsterer",
+        "automobile upholsterer",
+        "automotive upholsterer",
+        "casket upholsterer",
+        "chair upholsterer",
+        "custom upholsterer",
+        "furniture upholsterer",
+        "industrial upholsterer",
+        "patternmaker-upholsterer",
+        "preparation upholsterer",
+        "production upholsterer",
+        "railway car upholsterer",
+        "re-upholsterer",
+        "upholsterer",
+        "upholstery mechanic",
+        "upholstery repairer",
+        "vehicle upholstery repairer"
+    ],
+    "main duties": [
+        "Discuss upholstery fabric, colour, and style with customers and provide cost estimate for upholstering furniture or other items",
+        "Lay out, measure and cut upholstery materials according to sketches or design specifications",
+        "Replace worn-out webbing, springs and other furniture parts using hand and power tools",
+        "Operate sewing machines or sew upholstery materials by hand to seam cushions and join sections of covering materials",
+        "Install padding and underlays and fasten covering materials to furniture frames",
+        "Tack, glue or sew ornamental trim, braids or buttons on upholstered items",
+        "Lay out, cut, fabricate and install upholstery in aircrafts, motor vehicles, railway cars, boats and ships",
+        "May repair furniture frames and refinish wood surfaces",
+        "May make upholstery patterns from sketches, customer descriptions or blueprints",
+        "May install, fabricate, maintain and repair interior components of aircraft, such as seats, coverings, drapes, cargo nets, flooring, closets, bins and panels."
+    ],
+    "employment requirements": [
+        "Completion of secondary school is usually required.",
+        "Completion of college or other specialized courses or an apprenticeship program in furniture upholstering and repair \r\n or several years of on-the-job training, including working as an upholsterer helper are usually required.",
+        "Trade certification is available, but voluntary, in Quebec."
+    ],
+    "additional information": [
+        "Progression to supervisory positions is possible with experience."
+    ],
+    "exclusions": [
+        {
+            "name": "Furniture and fixture assemblers and inspectors (9532)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9532&ver=16"
+        },
+        {
+            "name": "Furniture finishers and refinishers (9534)",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9534&ver=16"
+        },
+        {
+            "name": "Supervisors of upholsterers in furniture manufacturing (in 9224 Supervisors, furniture and fixtures manufacturing",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9224&ver=16"
+        },
+        {
+            "name": "Upholsterer helpers (in 9619 Other labourers in processing, manufacturing and utilities",
+            "url": "http://noc.esdc.gc.ca/English/NOC/Profile.aspx?val=9&val1=9619&ver=16"
+        }
+    ]
+}
