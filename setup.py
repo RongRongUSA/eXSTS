@@ -16,12 +16,16 @@ NOC_FOLDER_URL = '/users/grad/jiarong/eXSTS/eXSTS/static/data/NOC/'
 TOP5_FOLDER_URL = '/users/grad/jiarong/eXSTS/eXSTS/static/data/TOP5/'
 
 
+# @app.route('/')
+# def consent():
+#     return render_template('consent.html')
+
+# @app.route('/eXSTS')
+# def eXSTS():
+#     return render_template('index.html')
+
 @app.route('/')
 def consent():
-    return render_template('consent.html')
-
-@app.route('/eXSTS')
-def eXSTS():
     return render_template('index.html')
 
 
