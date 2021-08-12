@@ -42,7 +42,6 @@ If you are using a virtual environment, please open the virtual environment. For
 source YOUR_VENV_FOLDER_NAME/bin/activate
 ```
 
-If you are run eXSTS in your local machine, you can use the app.run() in setup.py at line 157.<br />
 If you are run eXSTS in the cloud, you may need to modify the port and host information in setup.py.
 
 In order to run the server, you need to run the setup.py.
