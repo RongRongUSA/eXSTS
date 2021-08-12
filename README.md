@@ -9,10 +9,10 @@ The visualization in eXSTS could
 
 ## Application Scenarios
 eXSTS can help the Government of Canada to solving the following problems:
-1. According to the top5 NOC group list, eXSTS can identify new job advertisement which not belong to ant NOC gorup.
-2. eXSTS can help government to improve the NOC group system. like
-(1). How to rewrite the existing NOC group to cover the new job advertisement
-(2). How to improve the early draft of the new NOC group and which paragraph is good enough and which paragraph needs improving.
+1. According to the top5 NOC group list, eXSTS can identify new job advertisement which not belong to any NOC gorup.
+2. According to the visualizations, eXSTS can help government to improve the NOC group system.
+  1. How to rewrite the existing NOC group to cover the new job advertisement?
+  2. How to improve the early draft of the new NOC group? which paragraph is good enough and which paragraph needs improving.
 
 ## Required library
 The code is written in Python 3.8 and requires the following primary packages.
