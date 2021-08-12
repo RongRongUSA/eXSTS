@@ -3,8 +3,8 @@ In this paper, the concrete problem we are solving is the job advertisement clas
 eXSTS will receive a job advertisement, and retrieve the top 5 relevant National Occupational Classification(NOC) groups and STS scores for each NOC group.
 The front-end user interface will demonstrate the hidden STS relationship between this job advertisement and one NOC group in the top 5 relevant NOC group
 
-eXSTS could 
-1. let other field domain experts who may or may not have an IT knowledge background believe the correctness of the retrieved top 5 NOC group
+The visualization in eXSTS could 
+1. let other field domain experts who may or may not have an IT knowledge background explore the correctness of the retrieved top 5 NOC group
 2. provide new insights of the detailed STS relationship across two documents.
 
 ## Application Scenarios
@@ -36,7 +36,7 @@ In this project, 500 NOC group have been extract from the website and saved as J
 
 JOB advertisement dataset come from LinkedIn and Indeed. You can find the JSON file of JOB advertisement in the folder (/static/data/JOB)
 
-the TOP5 folder (/static/data/TOP%) include the ranking list of 500 NOC groups for each job advertisement. The score represent the similarity score between job advertisment and current NOC group.
+the TOP5 folder (/static/data/TOP5) include the ranking list of 500 NOC groups for each job advertisement. The score represent the similarity score between job advertisment and current NOC group.
 
 ## Run eXSTS
 If you are using virtual environment, please open the virtual environment. For example
