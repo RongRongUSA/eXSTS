@@ -158,6 +158,7 @@ def getDropdownList():
 
 
 if __name__ == '__main__':
-    app.run(host=os.getenv('IP', 'selene.research.cs.dal.ca'), 
-            port=int(os.getenv('PORT', 8060)),
-            debug=True)
+    app.run()
+#     app.run(host=os.getenv('IP', 'selene.research.cs.dal.ca'), 
+#             port=int(os.getenv('PORT', 8060)),
+#             debug=True)
