@@ -53,3 +53,38 @@ python eXSTS/setup.py
 When the server is running, you can click the link in the console to access the front-end user interface of eXSTS.
 
 ## Demo
+### The front-end UI with relationship visualization
+The front-end user interface consists of four parts, the top 5 NOC group list, job advertisement \& NOC group content display, relationship visualization \& Matrix visualization, and the drop-down list. The user can click the button to switch between two visualizations.
+![alttext](https://github.com/RongRongUSA/eXSTS/blob/main/figure/overall_curve.png)
+
+### The front-end UI with matrix visualization
+The console of matrix visualization in the front-end user interface includes two extra buttons to switch between the entirety and locality of matrix visualization
+![alttext](https://github.com/RongRongUSA/eXSTS/blob/main/figure/overall_matrix.png)
+
+### The top 5 NOC group list
+After the system received a job advertisement,eXSTS will retrieve the top 5 relevant NOC groups and the STS score of each NOC group.The user can click one of the NOC groups in the top 5 NOC group list to investigate and interrogate the comparison between a job advertisement and the selected NOC group by two visualizations.
+![alttext](https://github.com/RongRongUSA/eXSTS/blob/main/figure/top5.png)
+
+### The drop-down list
+The drop-down list in the function bar includes several popular NOC groups in the IT field that the Government of Canada mentioned on the official website. The user can select their familiar IT field and provide suggestions in the user study's evaluation phase. We will use the demo option to introduce our UI in the user study's training phase.
+![alttext](https://github.com/RongRongUSA/eXSTS/blob/main/figure/dropdown.png)
+
+### Job advertisement & NOC group content display
+The content display is designed to read the text and observe the sentence position in the document. The sentence abbreviation in two visualizations will be feed into here to present content. The selected sentence will be highlighted in the job advertisement or the NOC group, and the tool-tip will display the sentence abbreviation.
+![alttext](https://github.com/RongRongUSA/eXSTS/blob/main/figure/job_contents.png)
+
+### The Many-to-Many relationship visualization with console
+There are two range sliders in the console. The value of the first range slider ( "Key sentence threshold" ) is the threshold to control the number of important sentences on the left of the relationship visualization. The second range slider ( "Top $X$ relevant sentence" ) will determine how many relevant sentences in the NOC group will be displayed in the One-to-Many relationship.
+![alttext](https://github.com/RongRongUSA/eXSTS/blob/main/figure/curve_all.png)
+
+### The One-to-Many relationship visualization with console
+The user can click the sentence abbreviation (e.g., JOB\_39) to observe the One-to-Many relationship of JOB\_39. The tool-tip will display the content and STS score of two sentences.
+![alttext](https://github.com/RongRongUSA/eXSTS/blob/main/figure/curve_all_one2many.png)
+
+### The entirety of matrix visualization with console
+The entirety of matrix visualization will demonstrate all the sentence pairs across two documents. The tool-tip will display the content and STS score of the selected sentence pair.
+![alttext](https://github.com/RongRongUSA/eXSTS/blob/main/figure/matrix_all.png)
+
+### The locality of matrix visualization with console
+The locality of matrix visualization will demonstrate a specific area in the entirety of Matrix visualization. Two range sliders will control the start of the vertical axis and horizontal axis in the locality of matrix visualization, and the tool-tip will display the content and STS score of the selected sentence pair.
+![alttext](https://github.com/RongRongUSA/eXSTS/blob/main/figure/matrix_local_all.png)
