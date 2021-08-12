@@ -1,9 +1,18 @@
 # eXSTS: eXplainable Semantic Textual Similarity
 In this paper, the concrete problem we are solving is the job advertisement classification tasks. 
 eXSTS will receive a job advertisement, and retrieve the top 5 relevant National Occupational Classification(NOC) groups and STS scores for each NOC group.
-The front-end user interface will demonstrate the hidden STS relationship between this job advertisement and one NOC group in the top 5 relevant NOC group to
+The front-end user interface will demonstrate the hidden STS relationship between this job advertisement and one NOC group in the top 5 relevant NOC group
+
+eXSTS could 
 1. let other field domain experts who may or may not have an IT knowledge background believe the correctness of the retrieved top 5 NOC group
 2. provide new insights of the detailed STS relationship across two documents.
+
+## Application Scenarios
+eXSTS can help the Government of Canada to solving the following problem:
+1. According to the top5 NOV group list, eXSTS can identify new job advertisement which not belong to ant NOC gorup.
+2. eXSTS can help government to improve the NOC group system. like
+(1). How to rewrite the existing NOC group to cover the new job advertisement
+(2). How to improve the early draft of the new NOC group and which paragraph is good enough and which paragraph needs improving.
 
 ## Required library
 The code is written in Python 3.8 and requires the following primary packages.
@@ -35,7 +44,7 @@ If you are using virtual environment, please open the virtual environment. For e
 source exstsVenv/bin/activate
 ```
 
-If you are run eXSTS in your local machine, you can use the app.run() in setup.py at line 157
+If you are run eXSTS in your local machine, you can use the app.run() in setup.py at line 157.
 If you are run eXSTS in the cloud, you may need to modify the port and host information in setup.py.
 
 In order to run the server, you need to run the setup.py.
